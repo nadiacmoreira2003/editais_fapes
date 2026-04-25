@@ -44,6 +44,8 @@ REQUEST_TIMEOUT = 60
 DOWNLOAD_TIMEOUT = 180
 PAUSE_SECONDS = 1.0
 
+ALTERACAO_RE = re.compile(r"(altera[cç][ãa]o|retifica[cç][ãa]o|errata)", re.IGNORECASE)
+
 
 def sanitize_filename(name: str, max_len: int = 180) -> str:
     name = unicodedata.normalize("NFKC", name)
@@ -104,14 +106,27 @@ def parse_editais(html_text: str) -> list[dict]:
         if main_pdf is None and pdf_links:
             main_pdf = pdf_links[0]["href"]
 
-        anexos: list[str] = []
-        for a in pdf_links:
-            href = a["href"]
-            if href != main_pdf and href not in anexos:
-                anexos.append(urljoin(BASE_URL, href))
-
         if main_pdf is None:
             continue
+
+        alteracoes: list[dict[str, str]] = []
+        anexos: list[dict[str, str]] = []
+        urls_vistas: set[str] = set()
+        for a in pdf_links:
+            href = a["href"]
+            if href == main_pdf or href in urls_vistas:
+                continue
+            urls_vistas.add(href)
+            titulo_link = (a.get("title") or "").strip()
+            if titulo_link.lower().startswith("baixar:"):
+                titulo_link = titulo_link.split(":", 1)[1].strip()
+            if not titulo_link:
+                titulo_link = a.get_text(" ", strip=True)
+            item = {"url": urljoin(BASE_URL, href), "titulo": titulo_link}
+            if ALTERACAO_RE.search(titulo_link):
+                alteracoes.append(item)
+            else:
+                anexos.append(item)
 
         pdf_url = urljoin(BASE_URL, main_pdf)
         if pdf_url in seen_pdfs:
@@ -121,6 +136,7 @@ def parse_editais(html_text: str) -> list[dict]:
         editais.append({
             "titulo": title,
             "pdf_url": pdf_url,
+            "alteracoes": alteracoes,
             "anexos": anexos,
         })
 
@@ -215,6 +231,27 @@ def main() -> None:
                     ed["status"] = "erro"
                     ed["erro"] = info
                 time.sleep(PAUSE_SECONDS)
+
+                for alt in ed.get("alteracoes", []):
+                    alt_filename = sanitize_filename(alt["titulo"]) + ".pdf"
+                    alt_dir = cat_dir / "_alteracoes"
+                    alt_dir.mkdir(parents=True, exist_ok=True)
+                    alt_dest = alt_dir / alt_filename
+                    alt_hash_anterior = sha256_of(alt_dest) if alt_dest.exists() and alt_dest.stat().st_size > 0 else None
+                    print(f"  [alteracao] {alt['titulo']}")
+                    print(f"              {alt['url']}")
+                    alt_ok, alt_info = download_pdf(alt["url"], alt_dest, session)
+                    if alt_ok:
+                        alt_hash = sha256_of(alt_dest)
+                        alt["arquivo_local"] = str(alt_dest.relative_to(OUTPUT_DIR))
+                        alt["pdf_sha256"] = alt_hash
+                        marca_alt = ("nova" if alt_hash_anterior is None
+                                     else ("PDF mudou" if alt_hash_anterior != alt_hash else "inalterada"))
+                        print(f"              -> {alt_dest.relative_to(OUTPUT_DIR)} ({marca_alt})")
+                    else:
+                        print(f"              [erro] {alt_info}")
+                        alt["erro"] = alt_info
+                    time.sleep(PAUSE_SECONDS)
 
             relatorio.append({
                 "categoria": categoria,

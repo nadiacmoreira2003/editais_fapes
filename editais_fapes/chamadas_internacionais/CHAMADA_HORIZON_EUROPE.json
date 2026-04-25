@@ -1,39 +1,53 @@
 {
-  "objetivo": "As diretrizes da FAPES visam apoiar a participação de pesquisadores do estado do Espírito Santo em propostas colaborativas submetidas ao programa Horizonte Europa. O objetivo é fomentar a pesquisa e inovação, permitindo que entidades brasileiras se unam a parceiros europeus e internacionais para desenvolver projetos, contribuindo para o desenvolvimento científico e tecnológico do estado.",
-  "publico_alvo": "Pesquisadores (co-PIs) do estado do Espírito Santo.",
+  "objetivo": "Este edital da FAPES visa apoiar a participação de pesquisadores do estado do Espírito Santo, na condição de co-PI (co-Principal Investigator), em projetos de pesquisa e inovação executados por consórcios de parceiros europeus e associados no âmbito do Programa Horizonte Europa. As diretrizes orientam exclusivamente a submissão de propostas na categoria “C - Projetos Colaborativos (Pilar II)”, que se refere a projetos de pesquisa e inovação em grande escala para desenvolver soluções para desafios globais.",
+  "publico_alvo": "Pesquisadores proponentes do estado do Espírito Santo, na condição de co-PI, vinculados a instituições de pesquisa ou acadêmicas, para participação em consórcios de projetos colaborativos da categoria 'C - Projetos Colaborativos (Pilar II)' do Horizonte Europa.",
   "valor_total": null,
-  "valor_por_proposta": "€ 50.000",
+  "valor_por_proposta": "€ 25.000,00 por ano de projeto",
   "contato": "parcerias@fapes.es.gov.br, internacional.confap@confap.org.br",
   "cronograma": [
     {
-      "evento": "Consulta de Elegibilidade",
+      "evento": "Consulta de Elegibilidade à FAPES",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "Pesquisadores devem consultar a FAPES sobre sua elegibilidade antes de iniciar a preparação da proposta. A consulta deve ser enviada para parcerias@fapes.es.gov.br.",
+      "observacao": "Pesquisadores devem consultar a FAPES sobre sua elegibilidade antes de iniciar a preparação da proposta, enviando informações como CV em inglês, nome e instituição do coordenador da proposta do Horizonte Europa, título da proposta, orçamento estimado, duração do projeto e descrição resumida.",
       "acao_do_proponente": true
     },
     {
-      "evento": "Submissão de propostas à FAPES",
+      "evento": "Submissão da Proposta à FAPES",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "Propostas associadas às chamadas do Horizonte Europa são recebidas a qualquer momento, respeitando os prazos do Horizonte Europa. A proposta só será aceita para avaliação se a FAPES tiver sido previamente consultada.",
+      "observacao": "A FAPES receberá propostas associadas às chamadas do Horizonte Europa a qualquer momento. A proposta deve incluir cópia da proposta em inglês submetida ao Horizonte Europa, seguir diretrizes da FAPES e indicar detalhes da proposta vinculada.",
       "acao_do_proponente": true
     },
     {
-      "evento": "Avaliação da proposta pela FAPES",
+      "evento": "Aprovação da Proposta pelo Horizonte Europa",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "Análise de mérito realizada por, no mínimo, dois consultores ad hoc. A avaliação garante o sigilo da proposta.",
+      "observacao": "A proposta só será financiada pela FAPES se tiver sido aprovada pelo Horizonte Europa.",
       "acao_do_proponente": false
     },
     {
-      "evento": "Aprovação e Termo de Outorga pela FAPES",
+      "evento": "Assinatura do Termo de Outorga FAPES",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "A proposta só será financiada pela FAPES se tiver sido aprovada pelo Horizonte Europa. O Termo de Outorga estará disponível após a submissão do Acordo de Subvenção da UE.",
+      "observacao": "Disponível somente após a submissão do Acordo de Subvenção com o qual a UE concede o apoio financeiro ao consórcio. O cofinanciamento por parte da Fapes somente poderá ser contratado até o término da vigência do Arranjo Administrativo Horizonte Europa 2021–2027.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Vigência do Projeto",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 48 meses, não podendo ultrapassar a vigência do Arranjo Administrativo Horizon Europe 2021-2027.",
       "acao_do_proponente": false
     }
   ],
-  "observacoes_gerais": "Os projetos selecionados terão prazo de vigência de até 36 meses, não podendo ultrapassar a vigência do Arranjo Administrativo Horizon Europe 2021-2027. O financiamento pela FAPES está condicionado à aprovação da proposta pelo Horizonte Europa e à submissão do Acordo de Subvenção. Os recursos financeiros são oriundos do Fundo Estadual de Ciência e Tecnologia do Espírito Santo - Funcitec, fonte 0159, recursos vinculados ao Tesouro do Estado.",
-  "_pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080"
+  "observacoes_gerais": "Os parceiros do Brasil não podem ser coordenadores das propostas submetidas ao Horizonte Europa, pois não são automaticamente elegíveis para receber financiamento da UE. Portanto, eles não podem ser responsáveis pela gestão administrativa e financeira geral do projeto; eles só podem participar como parceiros (ou co-PIs). A referência da chamada é o título (Programa/Tópico) e o número da chamada. Os recursos financeiros aplicados pela Fapes para financiamento de projetos no contexto do Horizonte Europa serão oriundos do Fundo Estadual de Ciência e Tecnologia do Espírito Santo - Funcitec, fonte 0159, recursos vinculados ao Tesouro do Estado. Outros recursos financeiros, decorrentes de parcerias futuras ou de disponibilidade da Fapes e/ou do Funcitec, poderão ser aplicados na suplementação de propostas aprovadas no âmbito do Horizonte Europa 2021-2027. O número máximo de propostas a serem apoiadas no âmbito destas Diretrizes é de até 2 (DOIS) projetos por ano do Horizonte Europa 2021-2027. Os recursos financeiros aprovados pela Fundação poderão abranger despesas com passagens e diárias, observando suas respectivas regulamentações disponíveis na Resolução CCAF nº 309/2022.",
+  "_pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080",
+  "_alteracoes_sha256": [
+    {
+      "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Fapes_Horizon_Europe_2021-2027-DITEC_-_16-09-25.pdf",
+      "titulo": "DIRETRIZES FAPES PARA HORIZON EUROPE 2021-2027 (1ª ALTERAÇÃO)",
+      "sha256": "2da78612d777b7acbe4b768c070a1ef0a80dbef567f46dfe4b6283b114f92e32"
+    }
+  ]
 }

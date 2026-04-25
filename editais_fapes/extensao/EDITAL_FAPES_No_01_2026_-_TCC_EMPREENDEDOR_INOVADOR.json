@@ -1,130 +1,151 @@
 {
-  "objetivo": "Chamada pública para seleção de Trabalhos de Conclusão de Curso (TCCs) de graduação, com ênfase em inovação, aplicação prática, geração de valor e/ou impacto socioambiental. O edital visa incentivar o desenvolvimento desses TCCs por meio da concessão de Bolsas de Apoio a Trabalho de Conclusão de Curso (BTCC). As propostas devem apresentar soluções inovadoras e empreendedoras, alinhadas aos ODS da ONU e ao Plano ES 500 Anos, com potencial de impacto econômico, social e/ou ambiental no Espírito Santo.",
-  "publico_alvo": "Professores orientadores (proponentes) com vínculo estatutário ou celetista por tempo indeterminado em Instituições de Ensino Superior (IES) públicas ou privadas, reconhecidas pelo MEC e localizadas no Espírito Santo, que orientem estudantes de graduação regularmente matriculados em fase de conclusão de curso.",
+  "objetivo": "Chamada pública para seleção de Trabalhos de Conclusão de Curso (TCCs) previstos nos Projetos Pedagógicos dos cursos de graduação, com ênfase em inovação, aplicação prática, geração de valor e/ou impacto socioambiental. O edital visa incentivar o desenvolvimento de TCCs com foco em inovação, empreendedorismo e aplicabilidade prática, por meio da concessão de Bolsas de Apoio a Trabalho de Conclusão de Curso (BTCC).",
+  "publico_alvo": "Estudantes de graduação em fase de conclusão de curso, regularmente matriculados em Instituições de Ensino Superior (IES) públicas ou privadas, sediadas no Estado do Espírito Santo, e seus orientadores. O proponente (professor orientador) deve ter vínculo estatutário ou celetista por tempo indeterminado com IES reconhecida pelo MEC no Espírito Santo, não estar afastado da IES, estar adimplente junto à FAPES, residir no Espírito Santo ou municípios limítrofes, ter currículo Lattes atualizado (menos de 6 meses), e comprovar matrícula dos alunos aprovados. Se o proponente indicar alunos de outra IES, deve apresentar declaração de autorização de ambas as IES. O aluno orientado deve ser estudante regular de graduação na IES de vínculo do proponente localizada no Espírito Santo, ter coeficiente de rendimento igual ou superior a 7,0, estar adimplente com a FAPES, ter professor orientador durante todo o período da bolsa, residir no Espírito Santo ou municípios limítrofes, e ser cadastrado no Sigfapes.",
   "valor_total": "R$ 1.600.000,00",
   "valor_por_proposta": "R$ 11.000,00",
-  "contato": "editais.extensao@fapes.es.gov.br",
+  "contato": "editais.extensao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br",
   "cronograma": [
     {
       "evento": "Publicação do Edital",
-      "data_inicio": null,
-      "data_fim": "2026-01-26",
+      "data_inicio": "2026-01-26",
+      "data_fim": null,
       "observacao": null,
       "acao_do_proponente": false
     },
     {
-      "evento": "Impugnação do edital",
+      "evento": "Impugnação do Edital (Primeira Chamada)",
       "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Até 5 dias úteis antes do fim do período de submissão da Primeira Chamada",
+      "data_fim": "2026-03-21",
+      "observacao": "Até 5 dias úteis antes do encerramento do prazo de submissão da primeira chamada",
       "acao_do_proponente": true
     },
     {
-      "evento": "Primeira Chamada - Período de submissão das propostas",
+      "evento": "Submissão de propostas (Primeira Chamada)",
       "data_inicio": "2026-02-02",
       "data_fim": "2026-03-30",
       "observacao": "Até 17h59",
       "acao_do_proponente": true
     },
     {
-      "evento": "Primeira Chamada - Divulgação do resultado preliminar da habilitação e mérito (seleção)",
+      "evento": "Divulgação do resultado preliminar da habilitação e mérito (Primeira Chamada)",
       "data_inicio": "2026-05-26",
       "data_fim": null,
       "observacao": "A partir de",
       "acao_do_proponente": false
     },
     {
-      "evento": "Primeira Chamada - Prazo para interposição de recursos administrativos",
-      "data_inicio": null,
-      "data_fim": null,
+      "evento": "Prazo para interposição de recursos administrativos (Primeira Chamada)",
+      "data_inicio": "2026-05-27",
+      "data_fim": "2026-06-02",
       "observacao": "5 dias úteis a partir da publicação do resultado de seleção",
       "acao_do_proponente": true
     },
     {
-      "evento": "Primeira Chamada - Divulgação da homologação da seleção",
+      "evento": "Divulgação da homologação da seleção (Primeira Chamada)",
       "data_inicio": "2026-06-22",
       "data_fim": null,
       "observacao": "A partir de",
       "acao_do_proponente": false
     },
     {
-      "evento": "Primeira Chamada - Prazo de contratação",
-      "data_inicio": null,
-      "data_fim": null,
+      "evento": "Prazo de contratação (Primeira Chamada)",
+      "data_inicio": "2026-06-23",
+      "data_fim": "2026-06-27",
       "observacao": "Até 5 dias úteis da publicação do resultado homologado",
       "acao_do_proponente": true
     },
     {
-      "evento": "Segunda Chamada - Período de submissão das propostas",
+      "evento": "Impugnação do Edital (Segunda Chamada)",
+      "data_inicio": null,
+      "data_fim": "2026-10-20",
+      "observacao": "Até 5 dias úteis antes do encerramento do prazo de submissão da segunda chamada",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas (Segunda Chamada)",
       "data_inicio": "2026-09-02",
       "data_fim": "2026-10-27",
       "observacao": "Até 17h59",
       "acao_do_proponente": true
     },
     {
-      "evento": "Segunda Chamada - Divulgação do resultado preliminar da habilitação e mérito (seleção)",
+      "evento": "Divulgação do resultado preliminar da habilitação e mérito (Segunda Chamada)",
       "data_inicio": "2026-12-22",
       "data_fim": null,
       "observacao": "A partir de",
       "acao_do_proponente": false
     },
     {
-      "evento": "Segunda Chamada - Prazo para interposição de recursos administrativos",
-      "data_inicio": null,
-      "data_fim": null,
+      "evento": "Prazo para interposição de recursos administrativos (Segunda Chamada)",
+      "data_inicio": "2026-12-23",
+      "data_fim": "2026-12-29",
       "observacao": "5 dias úteis a partir da publicação do resultado de seleção",
       "acao_do_proponente": true
     },
     {
-      "evento": "Segunda Chamada - Divulgação da homologação da seleção",
+      "evento": "Divulgação da homologação da seleção (Segunda Chamada)",
       "data_inicio": "2027-01-27",
       "data_fim": null,
       "observacao": "A partir de",
       "acao_do_proponente": false
     },
     {
-      "evento": "Segunda Chamada - Prazo de contratação",
-      "data_inicio": null,
-      "data_fim": null,
+      "evento": "Prazo de contratação (Segunda Chamada)",
+      "data_inicio": "2027-01-28",
+      "data_fim": "2027-02-03",
       "observacao": "Até 5 dias úteis da publicação do resultado homologado",
       "acao_do_proponente": true
     },
     {
-      "evento": "Terceira Chamada - Período de submissão das propostas",
+      "evento": "Impugnação do Edital (Terceira Chamada)",
+      "data_inicio": null,
+      "data_fim": "2027-03-23",
+      "observacao": "Até 5 dias úteis antes do encerramento do prazo de submissão da terceira chamada",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas (Terceira Chamada)",
       "data_inicio": "2027-02-02",
       "data_fim": "2027-03-30",
       "observacao": "Até 17h59",
       "acao_do_proponente": true
     },
     {
-      "evento": "Terceira Chamada - Divulgação do resultado preliminar da habilitação e mérito (seleção)",
+      "evento": "Divulgação do resultado preliminar da habilitação e mérito (Terceira Chamada)",
       "data_inicio": "2027-05-24",
       "data_fim": null,
       "observacao": "A partir de",
       "acao_do_proponente": false
     },
     {
-      "evento": "Terceira Chamada - Prazo para interposição de recursos administrativos",
-      "data_inicio": null,
-      "data_fim": null,
+      "evento": "Prazo para interposição de recursos administrativos (Terceira Chamada)",
+      "data_inicio": "2027-05-25",
+      "data_fim": "2027-05-31",
       "observacao": "5 dias úteis a partir da publicação do resultado de seleção",
       "acao_do_proponente": true
     },
     {
-      "evento": "Terceira Chamada - Divulgação da homologação da seleção",
+      "evento": "Divulgação da homologação da seleção (Terceira Chamada)",
       "data_inicio": "2027-06-22",
       "data_fim": null,
       "observacao": "A partir de",
       "acao_do_proponente": false
     },
     {
-      "evento": "Terceira Chamada - Prazo de contratação",
-      "data_inicio": null,
-      "data_fim": null,
+      "evento": "Prazo de contratação (Terceira Chamada)",
+      "data_inicio": "2027-06-23",
+      "data_fim": "2027-06-29",
       "observacao": "Até 5 dias úteis da publicação do resultado homologado",
       "acao_do_proponente": true
     }
   ],
-  "observacoes_gerais": "O edital aceita todos os formatos de TCC definidos pelas DCNs. As propostas serão avaliadas por microrregião, com um limite de 20 projetos na primeira chamada e 10 nas subsequentes. Recursos remanescentes serão destinados por ampla concorrência. O proponente pode indicar de 3 a 5 alunos orientados por proposta. O valor da bolsa BTCC e do auxílio para orientação de TCC são fixados na Tabela de Valores de Bolsas e Auxílios da Fapes. O orientador receberá até dois auxílios para orientação. Contatos adicionais para dúvidas: suporte@fapes.es.gov.br (cadastro e validação no Acesso Cidadão), sucon@fapes.es.gov.br (assinatura de documentos no E-docs/Acesso Cidadão), contacorrente@fapes.es.gov.br (pagamento de recursos financeiros).",
-  "_pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34"
+  "observacoes_gerais": "O prazo de execução dos projetos será de um semestre letivo, acrescido de até 3 meses para apresentação da Declaração ou Ata de Defesa do TCC. As propostas concorrerão com as demais de suas respectivas microrregiões, sendo apoiados, na primeira chamada, no máximo 20 projetos de TCC por microrregião e, na segunda e terceira chamadas, até 10 projetos de TCC por microrregião. Recursos financeiros remanescentes serão destinados aos demais projetos em ampla concorrência por ordem decrescente de nota. Propostas submetidas a mais de uma microrregião serão desclassificadas. O proponente pode indicar no mínimo 3 e no máximo 5 alunos orientados por proposta. O valor da bolsa BTCC e do Auxílio para orientação de TCC são fixados na Tabela de Valores de Bolsas e Auxílios da Fapes. A modalidade de concessão da bolsa é por cooperação financeira não reembolsável. Cada proposta de TCC aprovada será contemplada com bolsa BTCC com duração mínima de 2 meses e máxima de 4 meses, não prorrogáveis. Além das bolsas BTCC para os alunos, o orientador receberá até dois auxílios para orientação de TCC. Propostas com Nota Final inferior a 70 pontos serão desclassificadas. Não será permitido o acúmulo de bolsas Fapes pelo aluno orientado, exceto com bolsas do Programa Nossa Bolsa, do Programa Universidade para Todos (Prouni) e com Bolsas de Extensão (Ext-E e Ext-F) da Fapes.",
+  "_pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34",
+  "_alteracoes_sha256": [
+    {
+      "url": "https://fapes.es.gov.br/Media/fapes/Editais/1ª_retificação_-_Edital_01-2026_-_TCC_Empreendedor_Inovador.pdf",
+      "titulo": "EDITAL FAPES Nº 01/2026 - TCC EMPREENDEDOR INOVADOR (1ª ALTERAÇÃO)",
+      "sha256": "c5861bb9c4c75ee7c69b553f755532c53617b5b83d71f2f8944f4d1fbb466dde"
+    }
+  ]
 }

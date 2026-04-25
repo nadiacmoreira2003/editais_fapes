@@ -41,6 +41,12 @@ CATEGORIA_DISPLAY = {
 
 PROMPT = """Voce esta analisando um edital de fomento a pesquisa publicado pela FAPES (Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo).
 
+O PRIMEIRO PDF anexado e o edital ORIGINAL. Os PDFs SEGUINTES, se existirem,
+sao alteracoes/retificacoes posteriores do mesmo edital, em ordem cronologica.
+Extraia o ESTADO VIGENTE do edital, ja considerando todas as alteracoes aplicadas:
+- Se uma alteracao mudar uma data, valor ou outro campo, use o NOVO valor (da alteracao mais recente que muda esse campo) e nao o do edital original.
+- Se a alteracao remover ou adicionar uma etapa do cronograma, reflita isso no resultado final.
+
 Extraia as informacoes do PDF e responda APENAS com um JSON valido, sem texto adicional, no seguinte formato:
 
 {
@@ -135,12 +141,14 @@ def sha256_of(path: Path) -> str:
 
 
 def extract_one(client: genai.Client, pdf_path: Path,
+                alteracao_paths: list[Path] | None = None,
                 max_minute_retries: int = 3) -> dict[str, Any]:
-    pdf_bytes = pdf_path.read_bytes()
-    parts = [
-        types.Part.from_bytes(data=pdf_bytes, mime_type="application/pdf"),
-        PROMPT,
+    parts: list[Any] = [
+        types.Part.from_bytes(data=pdf_path.read_bytes(), mime_type="application/pdf"),
     ]
+    for ap in (alteracao_paths or []):
+        parts.append(types.Part.from_bytes(data=ap.read_bytes(), mime_type="application/pdf"))
+    parts.append(PROMPT)
     cfg = types.GenerateContentConfig(
         response_mime_type="application/json",
         temperature=0.1,
@@ -235,6 +243,23 @@ def main() -> None:
 
             hash_atual = ed.get("pdf_sha256") or sha256_of(pdf_path)
 
+            alteracoes_meta: list[dict[str, str]] = []
+            alteracao_paths: list[Path] = []
+            for alt in ed.get("alteracoes", []) or []:
+                alt_rel = alt.get("arquivo_local")
+                if not alt_rel:
+                    continue
+                alt_path = EDITAIS_DIR / alt_rel
+                if not alt_path.exists():
+                    continue
+                alt_sha = alt.get("pdf_sha256") or sha256_of(alt_path)
+                alteracoes_meta.append({
+                    "url": alt.get("url", ""),
+                    "titulo": alt.get("titulo", ""),
+                    "sha256": alt_sha,
+                })
+                alteracao_paths.append(alt_path)
+
             json_path = pdf_path.with_suffix(".json")
             cache_valido = False
             extracao = None
@@ -246,16 +271,23 @@ def main() -> None:
                     for ev in (extracao.get("cronograma") or [])
                 )
                 hash_bate = extracao.get("_pdf_sha256") == hash_atual
-                cache_valido = tem_schema and hash_bate
+                alts_anterior = extracao.get("_alteracoes_sha256") or []
+                alts_atual = [{"url": a["url"], "sha256": a["sha256"]} for a in alteracoes_meta]
+                alts_batem = sorted(
+                    (a.get("url"), a.get("sha256")) for a in alts_anterior
+                ) == sorted((a["url"], a["sha256"]) for a in alts_atual)
+                cache_valido = tem_schema and hash_bate and alts_batem
                 if cache_valido:
                     print(f"[cache] {categoria}/{titulo[:60]}")
-                elif tem_schema and not hash_bate:
+                elif not hash_bate:
                     print(f"[hash!] {categoria}/{titulo[:60]} - PDF mudou, re-extraindo")
+                elif not alts_batem:
+                    print(f"[alt!]  {categoria}/{titulo[:60]} - alteracoes mudaram, re-extraindo")
 
             if not cache_valido:
-                print(f"[gemini] {categoria}/{titulo[:60]}")
+                print(f"[gemini] {categoria}/{titulo[:60]} ({len(alteracao_paths)} alteracao(oes))")
                 try:
-                    extracao = extract_one(client, pdf_path)
+                    extracao = extract_one(client, pdf_path, alteracao_paths)
                 except DailyQuotaExceeded as exc:
                     print(f"  [stop] Cota diaria do Gemini esgotada. Tente novamente amanha.")
                     print(f"         {exc}")
@@ -266,6 +298,7 @@ def main() -> None:
                     continue
 
                 extracao["_pdf_sha256"] = hash_atual
+                extracao["_alteracoes_sha256"] = alteracoes_meta
                 with open(json_path, "w", encoding="utf-8") as fh:
                     json.dump(extracao, fh, ensure_ascii=False, indent=2)
                 time.sleep(2.0)
@@ -279,6 +312,15 @@ def main() -> None:
                 "pdf_url": ed.get("pdf_url", ""),
                 "arquivo_local": arquivo_rel,
                 "pdf_sha256": hash_atual,
+                "alteracoes": [
+                    {
+                        "url": a.get("url", ""),
+                        "titulo": a.get("titulo", ""),
+                        "arquivo_local": a.get("arquivo_local", ""),
+                        "pdf_sha256": a.get("pdf_sha256", ""),
+                    }
+                    for a in (ed.get("alteracoes") or [])
+                ],
                 "extracao": extracao,
             })
 

@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import smtplib
 import sys
 from datetime import datetime
@@ -34,6 +35,26 @@ from extrair_editais_gemini import (
     somente_acoes,
 )
 
+SUBMISSAO_RE = re.compile(r"(submiss[aã]o|envio.*proposta|abertura.*chamada)", re.IGNORECASE)
+NAO_PROPOSTA_RE = re.compile(
+    r"(d[uú]vida|recurso|questionamento|impugna[cç][aã]o|"
+    r"complementa[cç][aã]o|atendimento|documento)",
+    re.IGNORECASE,
+)
+
+
+def is_submissao_proposta(ev: dict[str, Any]) -> bool:
+    name = ev.get("evento") or ""
+    return bool(SUBMISSAO_RE.search(name)) and not bool(NAO_PROPOSTA_RE.search(name))
+
+
+def submissoes(cronograma: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    return [ev for ev in (cronograma or []) if is_submissao_proposta(ev)]
+
+
+def submissoes_resumidas(cronograma: list[dict[str, Any]]) -> str:
+    return "\n".join(formatar_evento(ev) for ev in submissoes(cronograma))
+
 ROOT = Path(__file__).resolve().parent
 EDITAIS_DIR = ROOT / "editais_fapes"
 EXTRACAO_JSON = EDITAIS_DIR / "_extracao.json"
@@ -43,12 +64,11 @@ EXTRACAO_XLSX = EDITAIS_DIR / "_extracao.xlsx"
 TZ = ZoneInfo("America/Sao_Paulo")
 
 CAMPOS_MONITORADOS = [
-    "objetivo",
-    "publico_alvo",
-    "valor_total",
-    "valor_por_proposta",
-    "contato",
-    "observacoes_gerais",
+    ("objetivo", "Objetivo"),
+    ("publico_alvo", "Público-alvo"),
+    ("valor_total", "Valor total"),
+    ("valor_por_proposta", "Valor por proposta"),
+    ("contato", "Contato"),
 ]
 
 
@@ -60,34 +80,37 @@ def chave(reg: dict[str, Any]) -> str:
     return f"{reg['categoria']}||{reg['titulo']}"
 
 
-def crono_para_set(cronograma: list[dict[str, Any]]) -> set[tuple]:
-    items = set()
-    for ev in cronograma or []:
-        items.add((
-            ev.get("evento", ""),
-            ev.get("data_inicio"),
-            ev.get("data_fim"),
-            bool(ev.get("acao_do_proponente")),
-        ))
-    return items
+def submissoes_por_datas(cronograma: list[dict[str, Any]]) -> dict[tuple, dict[str, Any]]:
+    """Mapeia (data_inicio, data_fim) -> primeiro evento de submissao com essas datas.
+    Comparar por datas evita ruido quando o Gemini reformula o nome do evento."""
+    result: dict[tuple, dict[str, Any]] = {}
+    for ev in submissoes(cronograma):
+        key = (ev.get("data_inicio"), ev.get("data_fim"))
+        if key not in result:
+            result[key] = ev
+    return result
 
 
 def diff_extracao(antigo: dict[str, Any], novo: dict[str, Any]) -> list[str]:
     mudancas: list[str] = []
-    for campo in CAMPOS_MONITORADOS:
+    for campo, label in CAMPOS_MONITORADOS:
         v_antigo = antigo.get(campo)
         v_novo = novo.get(campo)
         if v_antigo != v_novo:
-            mudancas.append(f"{campo}: {v_antigo!r} -> {v_novo!r}")
+            mudancas.append(f"{label}: \"{v_antigo or '-'}\" → \"{v_novo or '-'}\"")
 
-    set_antigo = crono_para_set(antigo.get("cronograma") or [])
-    set_novo = crono_para_set(novo.get("cronograma") or [])
-    adicionados = set_novo - set_antigo
-    removidos = set_antigo - set_novo
-    for ev in sorted(adicionados):
-        mudancas.append(f"cronograma + {ev[0]} ({ev[1] or '?'} a {ev[2] or '?'})")
-    for ev in sorted(removidos):
-        mudancas.append(f"cronograma - {ev[0]} ({ev[1] or '?'} a {ev[2] or '?'})")
+    old = submissoes_por_datas(antigo.get("cronograma") or [])
+    new = submissoes_por_datas(novo.get("cronograma") or [])
+    for key in sorted(new.keys() - old.keys(), key=lambda k: (k[0] or "", k[1] or "")):
+        ev = new[key]
+        mudancas.append(
+            f"Submissão (nova): {ev.get('evento', '')} — {key[0] or '?'} a {key[1] or '?'}"
+        )
+    for key in sorted(old.keys() - new.keys(), key=lambda k: (k[0] or "", k[1] or "")):
+        ev = old[key]
+        mudancas.append(
+            f"Submissão (removida): {ev.get('evento', '')} — {key[0] or '?'} a {key[1] or '?'}"
+        )
     return mudancas
 
 
@@ -102,10 +125,12 @@ def status_label(state_entry: dict[str, Any]) -> str:
     else:
         dt = None
 
+    if s in ("novo", "atualizado") and dt is None:
+        return "Novo - aguardando envio"
     if s == "novo":
-        return f"Novo - e-mail enviado em {dt}" if dt else "Novo - aguardando envio"
+        return f"Novo - e-mail enviado em {dt}"
     if s == "atualizado":
-        return f"Atualizado - e-mail enviado em {dt}" if dt else "Atualizado - aguardando envio"
+        return f"Atualizado - e-mail enviado em {dt}"
     if s == "removido":
         return "Removido (nao mais aberto)"
     return "Sem alteracoes"
@@ -129,9 +154,11 @@ def montar_email_novo(reg: dict[str, Any]) -> tuple[str, str, str]:
     titulo = reg["titulo"]
     ext = reg.get("extracao") or {}
     cron = ext.get("cronograma") or []
+    subs = submissoes(cron)
 
     subject = f"[FAPES] Novo edital: {titulo}"
 
+    subs_plain = "\n".join(f"  - {formatar_evento(ev)}" for ev in subs) or "  (sem datas de submissao identificadas)"
     plain = f"""Categoria: {cat}
 Edital: {titulo}
 
@@ -143,19 +170,14 @@ VALOR TOTAL: {ext.get('valor_total') or '-'}
 VALOR POR PROPOSTA: {ext.get('valor_por_proposta') or '-'}
 CONTATO: {ext.get('contato') or '-'}
 
-PROXIMA ACAO DO PROPONENTE
-{proxima_acao(cron) or '(nenhuma data identificada)'}
-
-ACOES DO PROPONENTE
-{acoes_resumidas(cron) or '(sem cronograma com data)'}
+DATAS DE SUBMISSAO DE PROPOSTAS
+{subs_plain}
 
 PDF: {reg.get('pdf_url', '')}
 """
 
-    rows = "".join(
-        f"<li>{formatar_evento(ev)}</li>" for ev in somente_acoes(cron)
-    ) or "<li><em>(sem cronograma com data)</em></li>"
-
+    subs_html = "".join(f"<li>{formatar_evento(ev)}</li>" for ev in subs) \
+        or "<li><em>(sem datas de submissão identificadas)</em></li>"
     html = f"""<!DOCTYPE html><html><body style="font-family:sans-serif;max-width:680px">
 <h2 style="color:#1a4d7a">Novo edital FAPES</h2>
 <p><strong>Categoria:</strong> {cat}<br>
@@ -165,17 +187,14 @@ PDF: {reg.get('pdf_url', '')}
 <p>{(ext.get('objetivo') or '-').replace(chr(10), '<br>')}</p>
 
 <table style="border-collapse:collapse">
-<tr><td><strong>Publico-alvo:</strong></td><td>{ext.get('publico_alvo') or '-'}</td></tr>
+<tr><td><strong>Público-alvo:</strong></td><td>{ext.get('publico_alvo') or '-'}</td></tr>
 <tr><td><strong>Valor total:</strong></td><td>{ext.get('valor_total') or '-'}</td></tr>
 <tr><td><strong>Valor por proposta:</strong></td><td>{ext.get('valor_por_proposta') or '-'}</td></tr>
 <tr><td><strong>Contato:</strong></td><td>{ext.get('contato') or '-'}</td></tr>
 </table>
 
-<h3>Proxima acao do proponente</h3>
-<p>{proxima_acao(cron) or '<em>(nenhuma data identificada)</em>'}</p>
-
-<h3>Acoes do proponente (cronograma filtrado)</h3>
-<ul>{rows}</ul>
+<h3>Datas de submissão de propostas</h3>
+<ul>{subs_html}</ul>
 
 <p><a href="{reg.get('pdf_url', '')}">Baixar PDF do edital</a></p>
 </body></html>"""
@@ -183,55 +202,61 @@ PDF: {reg.get('pdf_url', '')}
     return subject, plain, html
 
 
-def montar_email_atualizado(reg: dict[str, Any], mudancas: list[str]) -> tuple[str, str, str]:
+def montar_email_atualizado(
+    reg: dict[str, Any],
+    mudancas: list[str],
+    novas_alteracoes: list[dict[str, str]],
+) -> tuple[str, str, str]:
     cat = CATEGORIA_DISPLAY.get(reg["categoria"], reg["categoria"])
     titulo = reg["titulo"]
-    ext = reg.get("extracao") or {}
 
     subject = f"[FAPES] Edital atualizado: {titulo}"
 
-    plain_changes = "\n".join(f"  - {m}" for m in mudancas) or "  (sem alteracoes detectadas)"
-    plain = f"""Categoria: {cat}
-Edital: {titulo}
+    blocos_plain: list[str] = [f"Categoria: {cat}", f"Edital: {titulo}", ""]
+    if novas_alteracoes:
+        blocos_plain.append("DOCUMENTO(S) DE ALTERACAO PUBLICADO(S):")
+        for a in novas_alteracoes:
+            blocos_plain.append(f"  - {a.get('titulo', '(sem titulo)')}")
+            if a.get("url"):
+                blocos_plain.append(f"    {a['url']}")
+        blocos_plain.append("")
 
-ALTERACOES DETECTADAS
-{plain_changes}
+    blocos_plain.append("ALTERACOES DETECTADAS NOS CAMPOS MONITORADOS:")
+    if mudancas:
+        for m in mudancas:
+            blocos_plain.append(f"  - {m}")
+    else:
+        blocos_plain.append("  (nenhuma alteracao em objetivo, publico-alvo, valores, contato ou datas de submissao)")
+    blocos_plain.append("")
+    blocos_plain.append(f"PDF original: {reg.get('pdf_url', '')}")
+    plain = "\n".join(blocos_plain)
 
-ESTADO ATUAL
+    html_alts = ""
+    if novas_alteracoes:
+        items = "".join(
+            f'<li>{a.get("titulo", "(sem título)")}'
+            + (f' — <a href="{a["url"]}">PDF</a>' if a.get("url") else "")
+            + "</li>"
+            for a in novas_alteracoes
+        )
+        html_alts = f"<h3>Documento(s) de alteração publicado(s)</h3><ul>{items}</ul>"
 
-OBJETIVO
-{ext.get('objetivo') or '-'}
+    if mudancas:
+        html_changes = "".join(f"<li>{m}</li>" for m in mudancas)
+    else:
+        html_changes = "<li><em>(nenhuma alteração em objetivo, público-alvo, valores, contato ou datas de submissão)</em></li>"
 
-PUBLICO-ALVO: {ext.get('publico_alvo') or '-'}
-VALOR TOTAL: {ext.get('valor_total') or '-'}
-VALOR POR PROPOSTA: {ext.get('valor_por_proposta') or '-'}
-CONTATO: {ext.get('contato') or '-'}
-
-PROXIMA ACAO DO PROPONENTE
-{proxima_acao(ext.get('cronograma') or []) or '(nenhuma data identificada)'}
-
-PDF: {reg.get('pdf_url', '')}
-"""
-
-    html_changes = "".join(f"<li>{m}</li>" for m in mudancas) or "<li><em>(sem alteracoes detectadas)</em></li>"
     html = f"""<!DOCTYPE html><html><body style="font-family:sans-serif;max-width:680px">
 <h2 style="color:#a0522d">Edital FAPES atualizado</h2>
 <p><strong>Categoria:</strong> {cat}<br>
 <strong>Edital:</strong> {titulo}</p>
 
-<h3>Alteracoes detectadas</h3>
+{html_alts}
+
+<h3>Alterações detectadas nos campos monitorados</h3>
 <ul>{html_changes}</ul>
 
-<h3>Objetivo (atual)</h3>
-<p>{(ext.get('objetivo') or '-').replace(chr(10), '<br>')}</p>
-
-<table style="border-collapse:collapse">
-<tr><td><strong>Valor total:</strong></td><td>{ext.get('valor_total') or '-'}</td></tr>
-<tr><td><strong>Valor por proposta:</strong></td><td>{ext.get('valor_por_proposta') or '-'}</td></tr>
-<tr><td><strong>Proxima acao:</strong></td><td>{proxima_acao(ext.get('cronograma') or []) or '-'}</td></tr>
-</table>
-
-<p><a href="{reg.get('pdf_url', '')}">Baixar PDF do edital</a></p>
+<p><a href="{reg.get('pdf_url', '')}">PDF original</a></p>
 </body></html>"""
 
     return subject, plain, html
@@ -361,6 +386,8 @@ def main() -> None:
         chaves_atuais.add(k)
         reg_por_chave[k] = reg
         ext_novo = reg.get("extracao") or {}
+        alts_atual = reg.get("alteracoes") or []
+        urls_atuais = [a["url"] for a in alts_atual if a.get("url")]
         ent = state["editais"].get(k)
 
         if ent is None:
@@ -369,54 +396,89 @@ def main() -> None:
                 "titulo": reg["titulo"],
                 "pdf_url": reg.get("pdf_url"),
                 "pdf_sha256": reg.get("pdf_sha256"),
+                "alteracoes": [
+                    {"url": a.get("url"), "titulo": a.get("titulo"),
+                     "primeira_visualizacao": agora_iso()}
+                    for a in alts_atual
+                ],
                 "primeira_visualizacao": agora_iso(),
                 "ultima_visualizacao": agora_iso(),
                 "status_atual": "novo",
                 "email_enviado_em": None,
                 "ultima_alteracao_em": agora_iso(),
                 "alteracoes_recentes": [],
+                "novas_alteracoes_doc": [],
                 "extracao": ext_novo,
             }
             continue
 
         ent["ultima_visualizacao"] = agora_iso()
         ent["pdf_url"] = reg.get("pdf_url")
-        hash_anterior = ent.get("pdf_sha256")
         ent["pdf_sha256"] = reg.get("pdf_sha256")
 
-        if hash_anterior == reg.get("pdf_sha256"):
-            if ent.get("status_atual") in ("novo", "atualizado") and ent.get("email_enviado_em"):
-                ent["status_atual"] = "sem_alteracoes"
-                ent["alteracoes_recentes"] = []
-            ent["extracao"] = ext_novo
-            continue
+        urls_state = [a["url"] for a in (ent.get("alteracoes") or []) if a.get("url")]
+        novas_urls = [u for u in urls_atuais if u not in urls_state]
+        novos_docs = [
+            {"url": a["url"], "titulo": a.get("titulo", "")}
+            for a in alts_atual if a.get("url") in novas_urls
+        ]
 
-        mudancas = diff_extracao(ent.get("extracao") or {}, ext_novo)
+        ent["alteracoes"] = [
+            {
+                "url": a.get("url"),
+                "titulo": a.get("titulo"),
+                "primeira_visualizacao": next(
+                    (s.get("primeira_visualizacao") for s in (ent.get("alteracoes") or [])
+                     if s.get("url") == a.get("url")),
+                    agora_iso(),
+                ),
+            }
+            for a in alts_atual
+        ]
+
+        mudancas_campos = diff_extracao(ent.get("extracao") or {}, ext_novo)
         ent["extracao"] = ext_novo
-        if mudancas:
-            ent["status_atual"] = "atualizado"
-            ent["email_enviado_em"] = None
-            ent["alteracoes_recentes"] = mudancas
+
+        ja_emailed = bool(ent.get("email_enviado_em"))
+
+        if mudancas_campos or novos_docs:
+            if not ja_emailed:
+                ent["status_atual"] = "novo"
+                ent["alteracoes_recentes"] = []
+                ent["novas_alteracoes_doc"] = []
+            else:
+                ent["status_atual"] = "atualizado"
+                ent["email_enviado_em"] = None
+                ent["alteracoes_recentes"] = mudancas_campos
+                ent["novas_alteracoes_doc"] = novos_docs
             ent["ultima_alteracao_em"] = agora_iso()
-        elif ent.get("status_atual") == "novo" and ent.get("email_enviado_em"):
+        elif ent.get("status_atual") == "novo" and ja_emailed:
             ent["status_atual"] = "sem_alteracoes"
+            ent["alteracoes_recentes"] = []
+            ent["novas_alteracoes_doc"] = []
 
     for k, ent in state["editais"].items():
         if k not in chaves_atuais and ent.get("status_atual") != "removido":
             ent["status_atual"] = "removido"
             ent["alteracoes_recentes"] = []
+            ent["novas_alteracoes_doc"] = []
 
     pendentes_novos: list[tuple[dict, str]] = []
-    pendentes_atualizados: list[tuple[dict, str, list[str]]] = []
+    pendentes_atualizados: list[tuple[dict, str, list[str], list[dict]]] = []
     for k in chaves_atuais:
         ent = state["editais"][k]
-        if ent.get("email_enviado_em"):
+        if ent.get("status_atual") in ("sem_alteracoes", "removido"):
             continue
         reg = reg_por_chave[k]
-        if ent.get("status_atual") == "novo":
+        ja_emailed = bool(ent.get("email_enviado_em"))
+        if not ja_emailed:
             pendentes_novos.append((reg, k))
         elif ent.get("status_atual") == "atualizado":
-            pendentes_atualizados.append((reg, k, ent.get("alteracoes_recentes") or []))
+            pendentes_atualizados.append((
+                reg, k,
+                ent.get("alteracoes_recentes") or [],
+                ent.get("novas_alteracoes_doc") or [],
+            ))
 
     print(f"\n  Novos pendentes:       {len(pendentes_novos)}")
     print(f"  Atualizados pendentes: {len(pendentes_atualizados)}")
@@ -432,8 +494,8 @@ def main() -> None:
             except Exception as exc:
                 print(f"  [erro email novo] {reg['titulo'][:60]}: {exc}")
 
-        for reg, k, mudancas in pendentes_atualizados:
-            subject, plain, html = montar_email_atualizado(reg, mudancas)
+        for reg, k, mudancas, novos_docs in pendentes_atualizados:
+            subject, plain, html = montar_email_atualizado(reg, mudancas, novos_docs)
             try:
                 enviar_email(subject, plain, html, smtp)
                 state["editais"][k]["email_enviado_em"] = agora_iso()

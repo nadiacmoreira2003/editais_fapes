@@ -19,6 +19,7 @@
       {
         "titulo": "EDITAL FAPES Nº 02/2026 - PARTICIPAÇÃO EM EVENTOS TÉCNICO-CIENTÍFICOS",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_02-2026-Participação_Evento_Técnico_Científico.pdf",
+        "alteracoes": [],
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_02_2026_-_PARTICIPAÇÃO_EM_EVENTOS_TÉCNICO-CIENTÍFICOS.pdf",
         "pdf_sha256": "5646b5790314d5a9240b1eea1576c8f82e99c09b41ef76781e5caebf322b74d3",
@@ -27,9 +28,12 @@
       {
         "titulo": "EDITAL FAPES Nº 03/2026 - ORGANIZAÇÃO DE EVENTOS TÉCNICO-CIENTÍFICOS",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_03_2026_Organização_Eventos_Técnico-Científicos.pdf",
+        "alteracoes": [],
         "anexos": [
-          "https://fapes.es.gov.br/Media/fapes/Editais/Tabela%201%20-%20Planejamento%20estratégico.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Tabela%201%20-%20Planejamento%20estratégico.pdf"
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Tabela%201%20-%20Planejamento%20estratégico.pdf",
+            "titulo": "TABELA 1 - PLANEJAMENTO ESTRATÉGICO 2023-2026"
+          }
         ],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_03_2026_-_ORGANIZAÇÃO_DE_EVENTOS_TÉCNICO-CIENTÍFICOS.pdf",
         "pdf_sha256": "49b26219d13ebe50d1a841636568ae3491c4163f64f5ce1cb1d5139da06bbec6",
@@ -38,6 +42,7 @@
       {
         "titulo": "EDITAL FAPES Nº 04/2026 - ESTÁGIO TÉCNICO CIENTÍFICO",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_04_2026_-_Estágio_Técnico_Cientifico.pdf",
+        "alteracoes": [],
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_04_2026_-_ESTÁGIO_TÉCNICO_CIENTÍFICO.pdf",
         "pdf_sha256": "7052905cad3fe12be74f8fb0a6ace861247edb7313ce8c9c2ed5621f00ffb207",
@@ -46,6 +51,7 @@
       {
         "titulo": "EDITAL FAPES Nº 05/2026 - VISITA TÉCNICO-CIENTÍFICA",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Fapes%2005_2026%20-%20Visita%20Técnico%20Cientifica%20(1).pdf",
+        "alteracoes": [],
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_05_2026_-_VISITA_TÉCNICO-CIENTÍFICA.pdf",
         "pdf_sha256": "236df851842c70a51ee6b834d7c2757d97fac6cdd203b1791864ed96e68e341b",
@@ -54,6 +60,7 @@
       {
         "titulo": "EDITAL FAPES N° 25/2025 - PARTICIPAÇÃO DE EQUIPES DE ESTUDANTES EM MOSTRAS E COMPETIÇÕES TÉCNICO-CIENTÍFICAS",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_N_25_2025_Participação_Equipe_em_Mostras_e_Competições.pdf",
+        "alteracoes": [],
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_N°_25_2025_-_PARTICIPAÇÃO_DE_EQUIPES_DE_ESTUDANTES_EM_MOSTRAS_E_COMPETIÇÕES_TÉCNICO-CIENTÍFICAS.pdf",
         "pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c",
@@ -69,13 +76,23 @@
       {
         "titulo": "EDITAL FAPES Nº 01/2026 - TCC EMPREENDEDOR INOVADOR",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_01.2026_TCC_EMPREENDEDOR_INOVADOR.pdf",
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/1ª_retificação_-_Edital_01-2026_-_TCC_Empreendedor_Inovador.pdf",
+            "titulo": "EDITAL FAPES Nº 01/2026 - TCC EMPREENDEDOR INOVADOR (1ª ALTERAÇÃO)",
+            "arquivo_local": "extensao/_alteracoes/EDITAL_FAPES_No_01_2026_-_TCC_EMPREENDEDOR_INOVADOR_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "c5861bb9c4c75ee7c69b553f755532c53617b5b83d71f2f8944f4d1fbb466dde"
+          }
+        ],
         "anexos": [
-          "https://fapes.es.gov.br/Media/fapes/Editais/1ª_retificação_-_Edital_01-2026_-_TCC_Empreendedor_Inovador.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/1ª_retificação_-_Edital_01-2026_-_TCC_Empreendedor_Inovador.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20I%20-%20Formulário%20de%20Submissão%20TCC.docx",
-          "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20I%20-%20Formulário%20de%20Submissão%20TCC.docx",
-          "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20II%20-%20Declaração%20de%20Matrícula.docx",
-          "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20II%20-%20Declaração%20de%20Matrícula.docx"
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20I%20-%20Formulário%20de%20Submissão%20TCC.docx",
+            "titulo": "ANEXO I - Formulário de Submissão TCC"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20II%20-%20Declaração%20de%20Matrícula.docx",
+            "titulo": "ANEXO II - Declaração de Matrícula"
+          }
         ],
         "arquivo_local": "extensao/EDITAL_FAPES_No_01_2026_-_TCC_EMPREENDEDOR_INOVADOR.pdf",
         "pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34",
@@ -91,17 +108,31 @@
       {
         "titulo": "EDITAL FAPES Nº 06/2026 - APOIO AOS CLUSTERS DE INOVAÇÃO CAPIXABA",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Clusters_Inovadores_-_2ª_Edição_-_Lançamento.pdf",
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL%20FAPES%20N%2006%20-%202026.pdf",
+            "titulo": "EDITAL FAPES Nº 06/2026 - APOIO AOS CLUSTERS DE INOVAÇÃO CAPIXABA (1ª alteração)",
+            "arquivo_local": "inovacao/_alteracoes/EDITAL_FAPES_No_06_2026_-_APOIO_AOS_CLUSTERS_DE_INOVAÇÃO_CAPIXABA_(1a_alteração).pdf",
+            "pdf_sha256": "4f09e1f347cd8017e1e7e0120c38ea4da2bf98871c5c6af83b0faaa63e5541ce"
+          }
+        ],
         "anexos": [
-          "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL%20FAPES%20N%2006%20-%202026.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL%20FAPES%20N%2006%20-%202026.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20I%20-%20Formulário%20de%20Submissão%20-%20Cluster%2006-2026.docx",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20I%20-%20Formulário%20de%20Submissão%20-%20Cluster%2006-2026.docx",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20III%20-%20Declaração%20Ambiental%20-%20Cluster%2006-2026.docx",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20III%20-%20Declaração%20Ambiental%20-%20Cluster%2006-2026.docx",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Declaração%20de%20ciência%20do%20NIT%20-%20Inovação%20(2).docx",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Declaração%20de%20ciência%20do%20NIT%20-%20Inovação%20(2).docx",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Termo%20de%20Compromisso%20entre%20a%20Empresa%20e%20a%20ICT-IES-P.docx",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Termo%20de%20Compromisso%20entre%20a%20Empresa%20e%20a%20ICT-IES-P.docx"
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20I%20-%20Formulário%20de%20Submissão%20-%20Cluster%2006-2026.docx",
+            "titulo": "ANEXO I - FORMULÁRIO DE SUBMISSÃO"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20III%20-%20Declaração%20Ambiental%20-%20Cluster%2006-2026.docx",
+            "titulo": "ANEXO III - DECLARAÇÃO AMBIENTAL"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Declaração%20de%20ciência%20do%20NIT%20-%20Inovação%20(2).docx",
+            "titulo": "DECLARAÇÃO DE CIÊNCIA DO NIT"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Termo%20de%20Compromisso%20entre%20a%20Empresa%20e%20a%20ICT-IES-P.docx",
+            "titulo": "TERMO DE COMPROMISSO ENTRE EMPRESA E ICT/IES/P"
+          }
         ],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_06_2026_-_APOIO_AOS_CLUSTERS_DE_INOVAÇÃO_CAPIXABA.pdf",
         "pdf_sha256": "3175e0d0ef1f171e84d68e03a396b0412cfbf8ac00414f88de72e9378151e7d5",
@@ -110,6 +141,7 @@
       {
         "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_-_2_Edição_-_Lançamento.pdf",
+        "alteracoes": [],
         "anexos": [],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_08_2026_-_NOVA_ECONOMIA_CAPIXABA_2026.pdf",
         "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
@@ -125,15 +157,27 @@
       {
         "titulo": "CHAMADA HORIZON EUROPE",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20Fapes%20Horizon%20Europe%202021-2027-1.pdf",
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Fapes_Horizon_Europe_2021-2027-DITEC_-_16-09-25.pdf",
+            "titulo": "DIRETRIZES FAPES PARA HORIZON EUROPE 2021-2027 (1ª ALTERAÇÃO)",
+            "arquivo_local": "chamadas_internacionais/_alteracoes/DIRETRIZES_FAPES_PARA_HORIZON_EUROPE_2021-2027_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "2da78612d777b7acbe4b768c070a1ef0a80dbef567f46dfe4b6283b114f92e32"
+          }
+        ],
         "anexos": [
-          "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Fapes_Horizon_Europe_2021-2027-DITEC_-_16-09-25.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Fapes_Horizon_Europe_2021-2027-DITEC_-_16-09-25.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Publicação%20CONFAP-12.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Publicação%20CONFAP-12.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Ficha%20Informativa%20%20Horizon%20Europe%20(Em%20inglês)-1.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Ficha%20Informativa%20%20Horizon%20Europe%20(Em%20inglês)-1.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/AA_EC_BRAZIL_PT-1.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/AA_EC_BRAZIL_PT-1.pdf"
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Publicação%20CONFAP-12.pdf",
+            "titulo": "PUBLICAÇÃO CONFAP"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Ficha%20Informativa%20%20Horizon%20Europe%20(Em%20inglês)-1.pdf",
+            "titulo": "FICHA INFORMATIVA HORIZON EUROPE"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/AA_EC_BRAZIL_PT-1.pdf",
+            "titulo": "ARRANJO ADMINISTRATIVO"
+          }
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_HORIZON_EUROPE.pdf",
         "pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080",
@@ -142,9 +186,12 @@
       {
         "titulo": "CHAMADA CONFAP & WATER4ALL",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_Water4All_2025%20-%20Water4ALL.pdf",
+        "alteracoes": [],
         "anexos": [
-          "https://fapes.es.gov.br/Media/fapes/Editais/Water4All_2025JTC_Call_Announcement_draft-0062025%20Third%20version.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Water4All_2025JTC_Call_Announcement_draft-0062025%20Third%20version.pdf"
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Water4All_2025JTC_Call_Announcement_draft-0062025%20Third%20version.pdf",
+            "titulo": "CHAMADA WATER4ALL 2025"
+          }
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_&_WATER4ALL.pdf",
         "pdf_sha256": "308e24a152f3bd689ac1e540a1d00a2ecbdfe7015db1c1fb01992a2614ba2315",
@@ -153,9 +200,12 @@
       {
         "titulo": "3ª CHAMADA TRANSACIONAL CONJUNTA - PARCERIA ECONOMIA AZUL SUSTENTÁVEL",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/SBEP%20Call%20text%202025.pdf",
+        "alteracoes": [],
         "anexos": [
-          "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_EAS_2025.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_EAS_2025.pdf"
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_EAS_2025.pdf",
+            "titulo": "DIRETRIZES DA FAPES"
+          }
         ],
         "arquivo_local": "chamadas_internacionais/3a_CHAMADA_TRANSACIONAL_CONJUNTA_-_PARCERIA_ECONOMIA_AZUL_SUSTENTÁVEL.pdf",
         "pdf_sha256": "aeb3f5bd29effedd2752b7f54544f9165e6e3231d1643adf527c28cb5a4e7f3d",
@@ -164,11 +214,16 @@
       {
         "titulo": "CHAMADA OCEAN 2 CRA - BELMONT FORUM",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Ocean%202%20–%20Towards%20the%20Ocean%20We%20Want_%20Biodiversity%20and%20Ecosystem%20Sustainability%20for%20Nature%20and%20Human%20Well-being%20-%20Belmont%20Forum.pdf",
+        "alteracoes": [],
         "anexos": [
-          "https://fapes.es.gov.br/Media/fapes/Editais/Ocean%20II%202025%20-%20Institution%20Specific%20Annex_FAPES.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Ocean%20II%202025%20-%20Institution%20Specific%20Annex_FAPES.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada%20Ocean%202%20CRA.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada%20Ocean%202%20CRA.pdf"
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Ocean%20II%202025%20-%20Institution%20Specific%20Annex_FAPES.pdf",
+            "titulo": "MEMORANDO DE ENTENDIMENTO (MoU)"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada%20Ocean%202%20CRA.pdf",
+            "titulo": "DIRETRIZES DA FAPES"
+          }
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_OCEAN_2_CRA_-_BELMONT_FORUM.pdf",
         "pdf_sha256": "338677be45c64b891e5965869e812089d1007cf760d86ca87e7d9accd80e9836",
@@ -177,6 +232,7 @@
       {
         "titulo": "CHAMADA CONJUNTA CONICET 2026 - RESISTÊNCIA ANTIMICROBIANA (RAM)",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada%20de%20Propostas%20Conjuntas%20-%20FAPES-FAPESP-ANII%20CONACYT%20CONICET.pdf",
+        "alteracoes": [],
         "anexos": [],
         "arquivo_local": "chamadas_internacionais/CHAMADA_CONJUNTA_CONICET_2026_-_RESISTÊNCIA_ANTIMICROBIANA_(RAM).pdf",
         "pdf_sha256": "ff294940aca848aba973cd21ca9118be8491ef7c56970780c4098d5fe3c174b2",
@@ -185,11 +241,16 @@
       {
         "titulo": "CHAMADA CONFAP BRASIL–ILLINOIS 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Cooperative%20Program%20-U%20of%20I%20and%20Confap%20v%205%2024-03.docx.pdf",
+        "alteracoes": [],
         "anexos": [
-          "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada%20Internacional_CONFAP-Brasillinois%202026.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada%20Internacional_CONFAP-Brasillinois%202026.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Termo_de_Adesão_CONFAP-Brasillinois%202026-ASSINADO.pdf",
-          "https://fapes.es.gov.br/Media/fapes/Editais/Termo_de_Adesão_CONFAP-Brasillinois%202026-ASSINADO.pdf"
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada%20Internacional_CONFAP-Brasillinois%202026.pdf",
+            "titulo": "DIRETRIZES DA FAPES"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Termo_de_Adesão_CONFAP-Brasillinois%202026-ASSINADO.pdf",
+            "titulo": "TERMO DE ADESÃO"
+          }
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_BRASIL–ILLINOIS_2026.pdf",
         "pdf_sha256": "dca97bcd47c4ff388842a427fdcd196d9c1eff873ff906a8e84084ba6aad9175",

@@ -1,9 +1,9 @@
 {
-  "objetivo": "Este edital visa fomentar projetos inovadores, por meio de subvenção econômica, para fortalecer, modernizar e aumentar a competitividade dos setores de Comércio e da Indústria de Alimentos e Bebidas no Espírito Santo. A iniciativa busca incentivar a transformação digital, a melhoria da eficiência operacional e a adoção de práticas sustentáveis pelas empresas, contribuindo para o desenvolvimento econômico, social e ambiental do Estado.",
-  "publico_alvo": "Empresas com sede administrativa ou filial no território do Espírito Santo, que comprovem faturamento local, possuam no mínimo 3 empregados CLT na unidade capixaba (até 3 meses antes da submissão) e infraestrutura instalada. Não podem ter sido contratadas nos Editais nº 07/2024 – Programa Tecnova III e n° 10/2025 – Nova Economia Capixaba.",
+  "objetivo": "O edital tem como objetivo fomentar projetos inovadores que visam fortalecer, modernizar e aumentar a competitividade dos setores de Comércio e da Indústria de Alimentos e Bebidas no Espírito Santo. A iniciativa busca incentivar a transformação digital, a melhoria da eficiência operacional e a adoção de práticas sustentáveis pelas empresas, contribuindo para o desenvolvimento econômico, social e ambiental do Estado.",
+  "publico_alvo": "Empresas com sede administrativa ou filial no território do Espírito Santo, que comprovem faturamento local, tenham no mínimo 3 empregados CLT na unidade capixaba e infraestrutura instalada, e que estejam regularizadas junto às Fazendas Públicas e adimplentes com a Fapes. Podem contar com apoio de ICTs ou IES/P reconhecidas pela Fapes.",
   "valor_total": "R$ 12.000.000,00",
   "valor_por_proposta": "R$ 600.000,00",
-  "contato": "duvidas.inovacao@fapes.es.gov.br, gabinete@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br",
+  "contato": "duvidas.inovacao@fapes.es.gov.br",
   "cronograma": [
     {
       "evento": "Publicação do Edital",
@@ -15,81 +15,81 @@
     {
       "evento": "Período de submissão das propostas",
       "data_inicio": "2026-02-20",
-      "data_fim": "2026-04-06",
+      "data_fim": "2026-05-06",
       "observacao": "Até às 17h59",
       "acao_do_proponente": true
     },
     {
       "evento": "Divulgação do resultado preliminar da habilitação e mérito (seleção)",
-      "data_inicio": "2026-04-24",
+      "data_inicio": "2026-05-29",
       "data_fim": null,
       "observacao": "A partir desta data",
       "acao_do_proponente": false
     },
     {
       "evento": "Prazo para submissão de recursos administrativos (habilitação)",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "5 dias úteis a partir da publicação do resultado de habilitação das propostas",
+      "data_inicio": "2026-05-30",
+      "data_fim": "2026-06-05",
+      "observacao": "5 (cinco) dias úteis a partir da publicação do resultado de habilitação das propostas",
       "acao_do_proponente": true
     },
     {
-      "evento": "Publicação final do resultado homologado (habilitação)",
-      "data_inicio": "2026-05-25",
+      "evento": "Previsão de publicação final do resultado homologado (habilitação)",
+      "data_inicio": "2026-06-19",
       "data_fim": null,
       "observacao": "A partir desta data",
       "acao_do_proponente": false
     },
     {
-      "evento": "Publicação do resultado preliminar da análise das propostas (mérito)",
-      "data_inicio": "2026-06-26",
+      "evento": "Previsão para publicação do resultado preliminar da análise das propostas",
+      "data_inicio": "2026-07-24",
       "data_fim": null,
       "observacao": "A partir desta data",
       "acao_do_proponente": false
     },
     {
-      "evento": "Prazo para submissão de recursos administrativos (avaliação de mérito)",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "5 dias úteis a partir da publicação do resultado preliminar de avaliação de mérito",
+      "evento": "Prazo para submissão de recursos administrativos (mérito)",
+      "data_inicio": "2026-07-25",
+      "data_fim": "2026-07-31",
+      "observacao": "5 (cinco) dias úteis a partir da publicação do resultado preliminar de avaliação de mérito",
       "acao_do_proponente": true
     },
     {
-      "evento": "Publicação final do resultado homologado (mérito)",
-      "data_inicio": "2026-07-20",
+      "evento": "Previsão para publicação final do resultado homologado (mérito)",
+      "data_inicio": "2026-08-21",
       "data_fim": null,
       "observacao": "A partir desta data",
       "acao_do_proponente": false
     },
     {
-      "evento": "Início da contratação e submissão de documentos",
-      "data_inicio": "2026-07-21",
-      "data_fim": null,
-      "observacao": "A partir desta data. Inclui submissão do projeto completo no SIGFAPES, documentos para contratação, assinatura eletrônica do Termo de Outorga e Projeto Aprovado via E-Docs, e envio do e-Flow (Formulário nº 26).",
+      "evento": "Início da contratação",
+      "data_inicio": "2026-08-24",
+      "data_fim": "2026-10-23",
+      "observacao": "Período de até 60 dias após a publicação do resultado final homologado para submissão de documentos e assinatura do Termo de Outorga e Projeto Aprovado, via SIGFAPES e E-Docs, até às 17h00min.",
       "acao_do_proponente": true
     },
     {
-      "evento": "Prazo para informar dados da conta bancária",
-      "data_inicio": null,
+      "evento": "Convocação de suplentes",
+      "data_inicio": "2026-08-24",
       "data_fim": null,
-      "observacao": "30 dias a partir do início da vigência do Termo de Outorga",
-      "acao_do_proponente": true
+      "observacao": "A partir desta data, se aplicável, via SIGFAPES.",
+      "acao_do_proponente": false
     },
     {
       "evento": "Início da vigência dos projetos contratados",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "No 1º dia útil do mês subsequente à data de assinatura do Termo de Outorga",
-      "acao_do_proponente": false
-    },
-    {
-      "evento": "Convocação de suplentes",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "A partir de data a ser definida, se aplicável.",
+      "observacao": "No 1º dia útil do mês subsequente à data de assinatura do Termo de Outorga.",
       "acao_do_proponente": false
     }
   ],
-  "observacoes_gerais": "As propostas contratadas terão prazo de execução e vigência de 24 meses, prorrogáveis por até 12 meses. As empresas classificadas e selecionadas deverão depositar 5% do valor da subvenção econômica como contrapartida financeira. O resultado da proposta, ao final da execução, deverá estar em condição de ingressar em etapas de certificação, produção e/ou comercialização. Cada proponente ou empresa poderá submeter apenas uma única proposta.",
-  "_pdf_sha256": "3175e0d0ef1f171e84d68e03a396b0412cfbf8ac00414f88de72e9378151e7d5"
+  "observacoes_gerais": "Cada proponente ou empresa poderá submeter apenas uma única proposta. As propostas contratadas terão prazo de 24 meses para execução, prorrogáveis por até 12 meses. As atividades do projeto devem ser realizadas no Espírito Santo, exceto certificação, homologação e testes. As empresas selecionadas devem depositar 5% do valor da subvenção como contrapartida financeira. Pelo menos um membro da equipe deve realizar o curso 'uso da propriedade intelectual em negócios de base tecnológica' do INPI.",
+  "_pdf_sha256": "3175e0d0ef1f171e84d68e03a396b0412cfbf8ac00414f88de72e9378151e7d5",
+  "_alteracoes_sha256": [
+    {
+      "url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL%20FAPES%20N%2006%20-%202026.pdf",
+      "titulo": "EDITAL FAPES Nº 06/2026 - APOIO AOS CLUSTERS DE INOVAÇÃO CAPIXABA (1ª alteração)",
+      "sha256": "4f09e1f347cd8017e1e7e0120c38ea4da2bf98871c5c6af83b0faaa63e5541ce"
+    }
+  ]
 }
