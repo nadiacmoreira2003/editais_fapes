@@ -1,0 +1,38 @@
+{
+  "objetivo": "As diretrizes da FAPES visam apoiar a participação de pesquisadores do estado do Espírito Santo em propostas colaborativas submetidas ao programa Horizonte Europa. O objetivo é fomentar a pesquisa e inovação, permitindo que entidades brasileiras se unam a parceiros europeus e internacionais para desenvolver projetos, contribuindo para o desenvolvimento científico e tecnológico do estado.",
+  "publico_alvo": "Pesquisadores (co-PIs) do estado do Espírito Santo.",
+  "valor_total": null,
+  "valor_por_proposta": "€ 50.000",
+  "contato": "parcerias@fapes.es.gov.br, internacional.confap@confap.org.br",
+  "cronograma": [
+    {
+      "evento": "Consulta de Elegibilidade",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Pesquisadores devem consultar a FAPES sobre sua elegibilidade antes de iniciar a preparação da proposta. A consulta deve ser enviada para parcerias@fapes.es.gov.br.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas à FAPES",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Propostas associadas às chamadas do Horizonte Europa são recebidas a qualquer momento, respeitando os prazos do Horizonte Europa. A proposta só será aceita para avaliação se a FAPES tiver sido previamente consultada.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Avaliação da proposta pela FAPES",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Análise de mérito realizada por, no mínimo, dois consultores ad hoc. A avaliação garante o sigilo da proposta.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Aprovação e Termo de Outorga pela FAPES",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "A proposta só será financiada pela FAPES se tiver sido aprovada pelo Horizonte Europa. O Termo de Outorga estará disponível após a submissão do Acordo de Subvenção da UE.",
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "Os projetos selecionados terão prazo de vigência de até 36 meses, não podendo ultrapassar a vigência do Arranjo Administrativo Horizon Europe 2021-2027. O financiamento pela FAPES está condicionado à aprovação da proposta pelo Horizonte Europa e à submissão do Acordo de Subvenção. Os recursos financeiros são oriundos do Fundo Estadual de Ciência e Tecnologia do Espírito Santo - Funcitec, fonte 0159, recursos vinculados ao Tesouro do Estado."
+}

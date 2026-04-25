@@ -1,0 +1,136 @@
+{
+  "objetivo": "Este edital visa selecionar propostas para conceder apoio financeiro a pesquisadores de nível superior. O objetivo é fomentar a organização de eventos técnico-científicos de curta duração, como congressos, simpósios e seminários, a serem realizados no Espírito Santo.",
+  "publico_alvo": "Pesquisadores de nível superior vinculados a Instituição de Ensino Superior e/ou Pesquisa (IES/P), pública ou privada sem fins lucrativos, localizada no estado do Espírito Santo.",
+  "valor_total": "R$ 2.500.000,00",
+  "valor_por_proposta": "Varia de R$ 10.000,00 a R$ 35.000,00",
+  "contato": "editais.duvidas@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do Edital",
+      "data_inicio": "2026-02-06",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para impugnação do edital",
+      "data_inicio": null,
+      "data_fim": "2026-03-02",
+      "observacao": "Até 5 dias úteis antes do prazo final de submissão da 1ª chamada",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "1ª Chamada - Período de submissão de propostas",
+      "data_inicio": "2026-02-06",
+      "data_fim": "2026-03-09",
+      "observacao": "Eventos com início entre 01/05/2026 a 31/07/2026, até 17h59",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "1ª Chamada - Prazo para envio de dúvidas",
+      "data_inicio": null,
+      "data_fim": "2026-03-07",
+      "observacao": "Até 2 dias antes do prazo final de submissão da 1ª chamada",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "1ª Chamada - Divulgação do resultado preliminar",
+      "data_inicio": "2026-03-19",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "1ª Chamada - Prazo para interposição de recursos",
+      "data_inicio": "2026-03-20",
+      "data_fim": "2026-03-26",
+      "observacao": "5 dias úteis após a publicação do resultado preliminar",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "1ª Chamada - Divulgação do resultado final",
+      "data_inicio": "2026-03-31",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "2ª Chamada - Período de submissão de propostas",
+      "data_inicio": "2026-03-17",
+      "data_fim": "2026-04-24",
+      "observacao": "Eventos com início entre 01/08/2026 a 31/12/2026",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "2ª Chamada - Prazo para envio de dúvidas",
+      "data_inicio": null,
+      "data_fim": "2026-04-22",
+      "observacao": "Até 2 dias antes do prazo final de submissão da 2ª chamada",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "2ª Chamada - Divulgação do resultado preliminar",
+      "data_inicio": "2026-05-22",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "2ª Chamada - Prazo para interposição de recursos",
+      "data_inicio": "2026-05-23",
+      "data_fim": "2026-05-29",
+      "observacao": "5 dias úteis após a publicação do resultado preliminar",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "2ª Chamada - Divulgação do resultado final",
+      "data_inicio": "2026-06-19",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "3ª Chamada - Período de submissão de propostas",
+      "data_inicio": "2026-07-01",
+      "data_fim": "2026-08-20",
+      "observacao": "Eventos com início entre 04/01/2027 a 30/04/2027",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "3ª Chamada - Prazo para envio de dúvidas",
+      "data_inicio": null,
+      "data_fim": "2026-08-18",
+      "observacao": "Até 2 dias antes do prazo final de submissão da 3ª chamada",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "3ª Chamada - Divulgação do resultado preliminar",
+      "data_inicio": "2026-10-02",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "3ª Chamada - Prazo para interposição de recursos",
+      "data_inicio": "2026-10-03",
+      "data_fim": "2026-10-09",
+      "observacao": "5 dias úteis após a publicação do resultado preliminar",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "3ª Chamada - Divulgação do resultado final",
+      "data_inicio": "2026-10-26",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Contratação das propostas aprovadas",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 30 dias após a publicação do resultado final homologado para cada chamada. As datas exatas serão publicadas posteriormente.",
+      "acao_do_proponente": true
+    }
+  ],
+  "observacoes_gerais": "O valor do auxílio financeiro é fixo e varia de acordo com o nível do evento: R$ 10.000,00 para Estadual/Regional, R$ 20.000,00 para Nacional e R$ 35.000,00 para Internacional. A Fapes pode alterar as datas e os prazos do cronograma por necessidade ou decisão institucional. Cada proponente pode apresentar apenas uma proposta por chamada. Caso envie mais de uma, será considerada apenas a última enviada. O proponente que já tiver sido contratado neste edital não poderá submeter nova proposta. O evento deve ter duração máxima de 15 dias, consecutivos ou não, e ser chancelado por entidade/sociedade conforme o nível do evento (nacional ou internacional). Os recursos financeiros estão distribuídos por chamada e nível de evento, com possibilidade de remanejamento de saldos não utilizados entre níveis e chamadas subsequentes. É obrigatório mencionar o apoio da Fapes em todas as publicações e divulgações relacionadas ao projeto. A data de início do apoio poderá ser adiada, após a contratação, em até 12 meses, mediante justificativa."
+}

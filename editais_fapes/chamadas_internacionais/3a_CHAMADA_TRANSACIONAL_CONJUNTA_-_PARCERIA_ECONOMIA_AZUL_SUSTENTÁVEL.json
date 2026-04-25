@@ -1,0 +1,122 @@
+{
+  "objetivo": "O edital visa impulsionar a digitalização e a inovação para ecossistemas marinhos, negócios e comunidades resilientes, fortalecendo a competitividade da Economia Azul da União Europeia. Serão financiados projetos de pesquisa e inovação que contribuam para a transição para uma economia azul sustentável, resiliente e neutra em carbono, com foco em áreas como Gêmeos Digitais do Oceano, transição de setores da economia azul, planejamento climático inteligente, bio-recursos azuis e comunidades costeiras resilientes. O objetivo é gerar conhecimento acionável e soluções para um oceano saudável e uma economia azul produtiva.",
+  "publico_alvo": "Consórcios compostos por parceiros elegíveis de pelo menos três países diferentes participantes da chamada, solicitando apoio financeiro de pelo menos três Organizações Financiadoras Participantes (PFOs) distintas. Adicionalmente, os projetos devem envolver pelo menos duas entidades legais independentes de dois Estados Membros da UE ou Países Associados ao Horizon Europe elegíveis para financiamento da UE. O Investigador Principal (PI) do coordenador do consórcio deve ser empregado por uma organização elegível em um dos países participantes da chamada.",
+  "valor_total": "32.045.000 Euro",
+  "valor_por_proposta": null,
+  "contato": "sbep.call-secretariat@uefiscdi.ro, epss.sbep@g.etag.ee",
+  "cronograma": [
+    {
+      "evento": "Pré-anúncio da chamada",
+      "data_inicio": "2025-07-21",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Lançamento oficial da chamada, publicação e abertura da ferramenta EPSS e de busca de parceiros",
+      "data_inicio": "2025-09-15",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Webinar internacional para os proponentes",
+      "data_inicio": "2025-09-29",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo final para submissão de pré-propostas",
+      "data_inicio": null,
+      "data_fim": "2025-11-17",
+      "observacao": "Até as 15:00 CET",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Etapa 1: Verificações de elegibilidade (JCS e NCPs), avaliação pelo IEC, seleção pelo CSC",
+      "data_inicio": "2025-11-18",
+      "data_fim": "2026-03-15",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Comunicação dos resultados da verificação de elegibilidade e avaliação das pré-propostas aos Coordenadores de projeto. Convite para submeter propostas completas.",
+      "data_inicio": "2026-03-15",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Período para procedimento de recurso (Etapa 1)",
+      "data_inicio": "2026-03-15",
+      "data_fim": "2026-04-01",
+      "observacao": null,
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Avaliação dos pedidos de recurso e comunicação das decisões aos proponentes (Etapa 1)",
+      "data_inicio": "2026-04-01",
+      "data_fim": "2026-04-15",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo final para submissão de propostas completas",
+      "data_inicio": null,
+      "data_fim": "2026-06-17",
+      "observacao": "Até as 15:00 CET",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Etapa 2: Verificações de elegibilidade (JCS e NCPs), avaliação pelo IEC, seleção pelo CSC",
+      "data_inicio": "2026-06-18",
+      "data_fim": "2026-10-31",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Comunicação dos resultados da verificação de elegibilidade e avaliação das propostas completas aos Coordenadores de projeto",
+      "data_inicio": "2026-10-31",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Período para procedimento de recurso (Etapa 2)",
+      "data_inicio": "2026-11-01",
+      "data_fim": "2026-11-15",
+      "observacao": null,
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Avaliação dos pedidos de recurso e comunicação das decisões aos proponentes (Etapa 2)",
+      "data_inicio": "2026-11-15",
+      "data_fim": "2026-11-30",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Negociações de subvenções nacionais/regionais para os projetos recomendados para financiamento",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Início dos projetos",
+      "data_inicio": "2026-12-01",
+      "data_fim": "2027-06-30",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Fim dos projetos (aos 36 meses)",
+      "data_inicio": "2029-12-01",
+      "data_fim": "2030-06-30",
+      "observacao": null,
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "A chamada é co-patrocinada pela Década das Nações Unidas da Ciência Oceânica para o Desenvolvimento Sustentável. Os projetos devem ser orientados para o impacto, seguindo uma abordagem de via de impacto. É exigido o envolvimento de múltiplos stakeholders (quádrupla hélice), incluindo pelo menos um parceiro da indústria, governo, institutos de pesquisa ou público. Atividades de participação cidadã e literacia oceânica são encorajadas. As propostas são fortemente recomendadas a cobrir um mínimo de duas bacias marítimas da UE (Oceano Atlântico, Mar Báltico, Mar Negro, Mar Mediterrâneo, Mar do Norte). Todas as propostas devem estar alinhadas com a Taxonomia da UE e cumprir os princípios éticos. Um processo de submissão em duas etapas é obrigatório (pré-proposta e, em seguida, proposta completa mediante convite). As informações fornecidas nas pré-propostas são vinculativas para as propostas completas; nenhuma alteração importante no conteúdo é permitida. O coordenador do consórcio pode ser Investigador Principal (PI) em apenas uma proposta. Parceiros do mesmo país não podem solicitar mais de 60% do financiamento total. A duração do projeto é de 36 meses. Os beneficiários do financiamento devem reconhecer o financiamento da SBEP e do Horizon Europe e aderir à Política de Ciência Aberta da CE para publicações."
+}

@@ -1,0 +1,31 @@
+{
+  "objetivo": "A FAPES visa apoiar projetos colaborativos de pesquisa e inovação no âmbito da Chamada Confap & Water4All – Water and Health 2025. O edital busca financiar propostas que abordem os principais desafios relacionados à interconexão entre água e saúde humana. Isso inclui temas como qualidade da água, contaminantes e tecnologias de tratamento, visando identificar soluções e estratégias para a área.",
+  "publico_alvo": "Pesquisadores principais ou coordenadores de projeto com titulação mínima de doutor, brasileiros ou estrangeiros com visto permanente, vinculados a Instituições de Ensino Superior, Pesquisa e/ou Tecnológica e/ou de Inovação (públicas ou privadas) no estado do Espírito Santo, com vínculo empregatício por prazo indeterminado (se ativos) ou termo de adesão ao serviço voluntário (se aposentados), residentes no Espírito Santo e adimplentes junto à FAPES. Devem também atender aos critérios de elegibilidade da Chamada CONFAP-Water4All 2025 e normas da Resolução CCAF № 357/2025 e Instrução de Serviço № 082/2025.",
+  "valor_total": "€ 40.000,00",
+  "valor_por_proposta": "€ 40.000,00",
+  "contato": "internacional.confap@gmail.com, parcerias@fapes.es.gov.br, parcerias1@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Prazo para envio de pré-propostas",
+      "data_inicio": null,
+      "data_fim": "2025-11-13",
+      "observacao": null,
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Prazo para envio de propostas completas convidadas",
+      "data_inicio": null,
+      "data_fim": "2026-04-13",
+      "observacao": null,
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Início dos projetos aprovados",
+      "data_inicio": "2026-12-01",
+      "data_fim": "2027-01-31",
+      "observacao": "Estimativa para 'final de 2026 e início de 2027'",
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "A FAPES apoiará 01 (um) projeto com recursos do Fundo Estadual de Ciência e Tecnologia do Espírito Santo (FUNCITEC). Os temas abordados incluem contaminantes transmitidos pela água e riscos à saúde, ferramentas e tecnologias inovadoras de monitoramento, tratamento de água e redução de exposição, e governança, inovação socioeconômica e integração de políticas. O projeto selecionado terá prazo de vigência de até 36 meses, e o apoio financeiro da FAPES cobrirá despesas de custeio e capital, exceto bolsas. As propostas devem ser submetidas na plataforma internacional da chamada, e a FAPES fará o controle de elegibilidade nas fases de pré-propostas e propostas completas. A contratação seguirá a ordem de classificação da Comissão Europeia."
+}

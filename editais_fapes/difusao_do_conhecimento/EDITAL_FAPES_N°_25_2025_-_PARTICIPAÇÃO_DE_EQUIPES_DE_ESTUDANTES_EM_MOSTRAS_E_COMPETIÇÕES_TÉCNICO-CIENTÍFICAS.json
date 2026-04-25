@@ -1,0 +1,129 @@
+{
+  "objetivo": "Conceder apoio financeiro a equipes formadas por estudantes de nível médio, de graduação e pós-graduação, coordenadas por um professor orientador. O objetivo é permitir a participação dessas equipes em mostras e competições técnico-científicas de âmbito regional, nacional ou internacional, visando a divulgação e difusão de resultados obtidos por instituições de ensino do Espírito Santo.",
+  "publico_alvo": "Professores(as) coordenadores(as) de equipes de 3 a 5 estudantes, vinculados(as) a instituições de ensino médio públicas ou instituições de ensino superior públicas ou privadas localizadas no estado do Espírito Santo. O proponente deve ter formação mínima de nível superior, vínculo ativo com a instituição, atuar em sala de aula na mesma instituição dos estudantes, ter Lattes atualizado há menos de 6 meses, estar regularizado junto à Fapes e morar no Espírito Santo ou municípios limítrofes. Estudantes de instituições privadas devem ser bolsistas integrais financiados por programas governamentais estaduais ou federais.",
+  "valor_total": "R$ 500.000,00",
+  "valor_por_proposta": "US$ 1.500,00",
+  "contato": "editais.duvidas@fapes.es.gov.br, sucon@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do edital",
+      "data_inicio": "2025-11-10",
+      "data_fim": "2025-11-10",
+      "observacao": "Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para impugnação do edital",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis antes do encerramento do prazo de submissão da 1ª Chamada",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas",
+      "data_inicio": "2025-11-10",
+      "data_fim": "2025-12-16",
+      "observacao": "Até as 17h:59. Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar",
+      "data_inicio": "2026-01-09",
+      "data_fim": null,
+      "observacao": "Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos administrativos",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis a partir da publicação do resultado preliminar. Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado homologado",
+      "data_inicio": "2026-01-30",
+      "data_fim": null,
+      "observacao": "Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Submissão de propostas",
+      "data_inicio": "2026-03-04",
+      "data_fim": "2026-04-09",
+      "observacao": "Até as 17:59h. Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar",
+      "data_inicio": "2026-04-30",
+      "data_fim": null,
+      "observacao": "Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos administrativos",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis a partir da publicação do resultado preliminar. Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado homologado",
+      "data_inicio": "2026-05-29",
+      "data_fim": null,
+      "observacao": "Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Submissão de propostas",
+      "data_inicio": "2026-08-04",
+      "data_fim": "2026-09-11",
+      "observacao": "Até as 17h:59. Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar",
+      "data_inicio": "2026-09-30",
+      "data_fim": null,
+      "observacao": "Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos administrativos",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis a partir da publicação do resultado preliminar. Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado homologado",
+      "data_inicio": "2026-10-30",
+      "data_fim": null,
+      "observacao": "Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Contratação e assinatura do Termo de Outorga",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 30 dias após a publicação do resultado final homologado. Período específico de assinatura será definido após a homologação.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Prazo para informar dados bancários",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 30 dias após a assinatura e publicação do Termo de Outorga",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Prazo para prestação de contas",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 30 dias após o término da vigência do Termo de Outorga",
+      "acao_do_proponente": true
+    }
+  ],
+  "observacoes_gerais": "O valor por proposta varia conforme a categoria do evento: R$ 500,00 para eventos regionais, R$ 1.200,00 para eventos nacionais e US$ 1.500,00 para eventos internacionais. O edital prevê três chamadas com períodos de submissão e eventos distintos. O início do evento proposto deve corresponder ao período da chamada selecionada. A Fapes pode alterar as datas e prazos definidos no cronograma. Cada coordenador pode apresentar apenas uma proposta. Não são contempladas propostas para participação em concursos ou premiações sem natureza acadêmica, técnico-científica ou tecnológica, ou competições esportivas."
+}

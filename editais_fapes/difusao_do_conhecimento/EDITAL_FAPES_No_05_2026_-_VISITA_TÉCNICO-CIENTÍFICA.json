@@ -1,0 +1,129 @@
+{
+  "objetivo": "Selecionar propostas para concessão de auxílio financeiro para a realização de visitas técnico-científicas em laboratórios ou centros de pesquisa, desenvolvimento ou inovação (PD&I), no Brasil ou no exterior. O objetivo é aprimorar técnicas, processos e adquirir conhecimentos específicos para projetos de PD&I desenvolvidos em Instituições de Ensino e/ou Pesquisa (IES/P) públicas ou privadas no Espírito Santo.",
+  "publico_alvo": "Pesquisadores com título de doutor ou mestre, com vínculo ativo celetista ou estatutário em IES/P públicas ou privadas no Espírito Santo; e alunos regularmente matriculados em cursos de Mestrado ou Doutorado de IES/P no Espírito Santo, reconhecidos pela CAPES, CNE e/ou MEC.",
+  "valor_total": "R$ 2.000.000,00",
+  "valor_por_proposta": "US$ 2.600,00",
+  "contato": "editais.duvidas@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do Edital",
+      "data_inicio": "2026-02-06",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Submissão de propostas (1ª Chamada)",
+      "data_inicio": "2026-02-09",
+      "data_fim": "2026-03-12",
+      "observacao": "Até as 17h59. Para visitas com início entre 01/05/2026 a 31/07/2026.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Prazo final para impugnação do edital",
+      "data_inicio": null,
+      "data_fim": "2026-03-05",
+      "observacao": "Até o quinto dia útil que anteceder o prazo final de submissão da 1ª Chamada.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Prazo para envio de dúvidas sobre o edital (1ª Chamada)",
+      "data_inicio": null,
+      "data_fim": "2026-03-10",
+      "observacao": "Até 2 dias antes do prazo final de submissão.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas (2ª Chamada)",
+      "data_inicio": "2026-03-17",
+      "data_fim": "2026-04-24",
+      "observacao": "Para visitas com início entre 01/08/2026 a 31/12/2026.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar (1ª Chamada)",
+      "data_inicio": "2026-03-19",
+      "data_fim": null,
+      "observacao": "A partir desta data.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para interposição de recursos (1ª Chamada)",
+      "data_inicio": null,
+      "data_fim": "2026-03-26",
+      "observacao": "5 dias úteis após a publicação do resultado preliminar.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final (1ª Chamada)",
+      "data_inicio": "2026-03-31",
+      "data_fim": null,
+      "observacao": "A partir desta data.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para envio de dúvidas sobre o edital (2ª Chamada)",
+      "data_inicio": null,
+      "data_fim": "2026-04-22",
+      "observacao": "Até 2 dias antes do prazo final de submissão.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar (2ª Chamada)",
+      "data_inicio": "2026-05-22",
+      "data_fim": null,
+      "observacao": "A partir desta data.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para interposição de recursos (2ª Chamada)",
+      "data_inicio": null,
+      "data_fim": "2026-05-29",
+      "observacao": "5 dias úteis após a publicação do resultado preliminar.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final (2ª Chamada)",
+      "data_inicio": "2026-06-19",
+      "data_fim": null,
+      "observacao": "A partir desta data.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Submissão de propostas (3ª Chamada)",
+      "data_inicio": "2026-07-01",
+      "data_fim": "2026-08-20",
+      "observacao": "Para visitas com início entre 04/01/2027 a 30/04/2027.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Prazo para envio de dúvidas sobre o edital (3ª Chamada)",
+      "data_inicio": null,
+      "data_fim": "2026-08-18",
+      "observacao": "Até 2 dias antes do prazo final de submissão.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar (3ª Chamada)",
+      "data_inicio": "2026-10-02",
+      "data_fim": null,
+      "observacao": "A partir desta data.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para interposição de recursos (3ª Chamada)",
+      "data_inicio": null,
+      "data_fim": "2026-10-09",
+      "observacao": "5 dias úteis após a publicação do resultado preliminar.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final (3ª Chamada)",
+      "data_inicio": "2026-10-26",
+      "data_fim": null,
+      "observacao": "A partir desta data.",
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "A Fapes pode alterar as datas e os prazos do cronograma por necessidade institucional, podendo reabrir prazos em casos de força maior ou falhas de sistema, com publicidade das alterações. Cada proponente pode submeter apenas uma proposta por chamada; em caso de múltiplas submissões, apenas a última será considerada. Proponentes já contratados neste edital não poderão submeter nova proposta. Após a contratação, o beneficiário pode solicitar adiamento da data de início da visita por até 30 dias, mediante justificativa e autorização. Não será permitida a alteração da instituição de destino da visita técnico-científica após a contratação."
+}

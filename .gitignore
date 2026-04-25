@@ -1,0 +1,29 @@
+# Segredos
+.env
+.env.*
+!.env.example
+
+# PDFs baixados (re-baixados a cada execucao)
+editais_fapes/**/*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.Python
+
+# macOS / iCloud
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+.icloud
+*.icloud
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~

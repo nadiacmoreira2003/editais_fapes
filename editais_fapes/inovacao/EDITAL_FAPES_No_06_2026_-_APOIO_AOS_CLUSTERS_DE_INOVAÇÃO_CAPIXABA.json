@@ -1,0 +1,94 @@
+{
+  "objetivo": "Este edital visa fomentar projetos inovadores, por meio de subvenção econômica, para fortalecer, modernizar e aumentar a competitividade dos setores de Comércio e da Indústria de Alimentos e Bebidas no Espírito Santo. A iniciativa busca incentivar a transformação digital, a melhoria da eficiência operacional e a adoção de práticas sustentáveis pelas empresas, contribuindo para o desenvolvimento econômico, social e ambiental do Estado.",
+  "publico_alvo": "Empresas com sede administrativa ou filial no território do Espírito Santo, que comprovem faturamento local, possuam no mínimo 3 empregados CLT na unidade capixaba (até 3 meses antes da submissão) e infraestrutura instalada. Não podem ter sido contratadas nos Editais nº 07/2024 – Programa Tecnova III e n° 10/2025 – Nova Economia Capixaba.",
+  "valor_total": "R$ 12.000.000,00",
+  "valor_por_proposta": "R$ 600.000,00",
+  "contato": "duvidas.inovacao@fapes.es.gov.br, gabinete@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do Edital",
+      "data_inicio": "2026-02-20",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Período de submissão das propostas",
+      "data_inicio": "2026-02-20",
+      "data_fim": "2026-04-06",
+      "observacao": "Até às 17h59",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar da habilitação e mérito (seleção)",
+      "data_inicio": "2026-04-24",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para submissão de recursos administrativos (habilitação)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis a partir da publicação do resultado de habilitação das propostas",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Publicação final do resultado homologado (habilitação)",
+      "data_inicio": "2026-05-25",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Publicação do resultado preliminar da análise das propostas (mérito)",
+      "data_inicio": "2026-06-26",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para submissão de recursos administrativos (avaliação de mérito)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis a partir da publicação do resultado preliminar de avaliação de mérito",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Publicação final do resultado homologado (mérito)",
+      "data_inicio": "2026-07-20",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Início da contratação e submissão de documentos",
+      "data_inicio": "2026-07-21",
+      "data_fim": null,
+      "observacao": "A partir desta data. Inclui submissão do projeto completo no SIGFAPES, documentos para contratação, assinatura eletrônica do Termo de Outorga e Projeto Aprovado via E-Docs, e envio do e-Flow (Formulário nº 26).",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Prazo para informar dados da conta bancária",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "30 dias a partir do início da vigência do Termo de Outorga",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Início da vigência dos projetos contratados",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "No 1º dia útil do mês subsequente à data de assinatura do Termo de Outorga",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Convocação de suplentes",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "A partir de data a ser definida, se aplicável.",
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "As propostas contratadas terão prazo de execução e vigência de 24 meses, prorrogáveis por até 12 meses. As empresas classificadas e selecionadas deverão depositar 5% do valor da subvenção econômica como contrapartida financeira. O resultado da proposta, ao final da execução, deverá estar em condição de ingressar em etapas de certificação, produção e/ou comercialização. Cada proponente ou empresa poderá submeter apenas uma única proposta."
+}

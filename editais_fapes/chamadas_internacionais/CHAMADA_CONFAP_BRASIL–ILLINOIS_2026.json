@@ -1,0 +1,59 @@
+{
+  "objetivo": "O programa visa promover e fortalecer a colaboração científica por meio de projetos de pesquisa conjuntos entre pesquisadores e instituições afiliadas às Fundações Estaduais de Amparo à Pesquisa (FAPs) brasileiras e à University of Illinois System. O objetivo é fomentar a cooperação internacional e abordar áreas de pesquisa prioritárias.",
+  "publico_alvo": "Pesquisadores/coordenadores que desenvolvam atividades de pesquisa em universidades, institutos ou centros de pesquisa brasileiros, sediados em estados cujas FAPs confirmaram participação na chamada.",
+  "valor_total": null,
+  "valor_por_proposta": "USD 20.000,00",
+  "contato": "internacional.confap@gmail.com",
+  "cronograma": [
+    {
+      "evento": "Lançamento do edital",
+      "data_inicio": "2026-03-25",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Submissão de propostas",
+      "data_inicio": null,
+      "data_fim": "2026-05-26",
+      "observacao": "Até 23:59 (BRT) para PIs do lado brasileiro e 23:59 (GMT-5) para PIs do lado da University of Illinois System. Submissão via https://sistema.confap.org.br, podendo ser exigida submissão adicional nas plataformas das FAPs participantes.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Análise e avaliação das propostas",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Realizada por cada FAP envolvida para as propostas do lado brasileiro, antes do segundo semestre de 2026.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Troca de listas de propostas priorizadas",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "No segundo semestre de 2026, entre CONFAP e University of Illinois System.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Divulgação dos resultados",
+      "data_inicio": null,
+      "data_fim": "2026-08-31",
+      "observacao": "Até o final de agosto de 2026.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Início dos projetos",
+      "data_inicio": "2027-01-01",
+      "data_fim": null,
+      "observacao": "No primeiro trimestre de 2027.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Duração dos projetos",
+      "data_inicio": "2027-01-01",
+      "data_fim": "2028-12-31",
+      "observacao": "Os projetos terão duração de 2 anos a partir do início.",
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "Serão apoiados até 20 projetos de pesquisa conjuntos. As propostas devem ser elaboradas em inglês (máximo 10 páginas) e incluir uma descrição clara da colaboração planejada, valor agregado e complementaridade das equipes. As áreas de pesquisa prioritárias são: Clima, Sustentabilidade, Agricultura; Saúde Pública e Medicina; e Democracia e Inclusão. Cada PI pode submeter apenas uma proposta. O apoio financeiro para o lado brasileiro (FAPs) destina-se a cobrir custos gerais, viagens internacionais, diárias, fundos semente para custos diretos de pesquisa e workshops. É exigido seguro médico para visitantes."
+}
