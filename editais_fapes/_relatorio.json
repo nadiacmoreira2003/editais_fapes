@@ -21,7 +21,8 @@
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_02-2026-Participação_Evento_Técnico_Científico.pdf",
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_02_2026_-_PARTICIPAÇÃO_EM_EVENTOS_TÉCNICO-CIENTÍFICOS.pdf",
-        "status": "baixado"
+        "pdf_sha256": "5646b5790314d5a9240b1eea1576c8f82e99c09b41ef76781e5caebf322b74d3",
+        "status": "inalterado"
       },
       {
         "titulo": "EDITAL FAPES Nº 03/2026 - ORGANIZAÇÃO DE EVENTOS TÉCNICO-CIENTÍFICOS",
@@ -31,28 +32,32 @@
           "https://fapes.es.gov.br/Media/fapes/Editais/Tabela%201%20-%20Planejamento%20estratégico.pdf"
         ],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_03_2026_-_ORGANIZAÇÃO_DE_EVENTOS_TÉCNICO-CIENTÍFICOS.pdf",
-        "status": "baixado"
+        "pdf_sha256": "49b26219d13ebe50d1a841636568ae3491c4163f64f5ce1cb1d5139da06bbec6",
+        "status": "inalterado"
       },
       {
         "titulo": "EDITAL FAPES Nº 04/2026 - ESTÁGIO TÉCNICO CIENTÍFICO",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_04_2026_-_Estágio_Técnico_Cientifico.pdf",
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_04_2026_-_ESTÁGIO_TÉCNICO_CIENTÍFICO.pdf",
-        "status": "baixado"
+        "pdf_sha256": "7052905cad3fe12be74f8fb0a6ace861247edb7313ce8c9c2ed5621f00ffb207",
+        "status": "inalterado"
       },
       {
         "titulo": "EDITAL FAPES Nº 05/2026 - VISITA TÉCNICO-CIENTÍFICA",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Fapes%2005_2026%20-%20Visita%20Técnico%20Cientifica%20(1).pdf",
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_05_2026_-_VISITA_TÉCNICO-CIENTÍFICA.pdf",
-        "status": "baixado"
+        "pdf_sha256": "236df851842c70a51ee6b834d7c2757d97fac6cdd203b1791864ed96e68e341b",
+        "status": "inalterado"
       },
       {
         "titulo": "EDITAL FAPES N° 25/2025 - PARTICIPAÇÃO DE EQUIPES DE ESTUDANTES EM MOSTRAS E COMPETIÇÕES TÉCNICO-CIENTÍFICAS",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_N_25_2025_Participação_Equipe_em_Mostras_e_Competições.pdf",
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_N°_25_2025_-_PARTICIPAÇÃO_DE_EQUIPES_DE_ESTUDANTES_EM_MOSTRAS_E_COMPETIÇÕES_TÉCNICO-CIENTÍFICAS.pdf",
-        "status": "baixado"
+        "pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c",
+        "status": "inalterado"
       }
     ]
   },
@@ -73,7 +78,8 @@
           "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20II%20-%20Declaração%20de%20Matrícula.docx"
         ],
         "arquivo_local": "extensao/EDITAL_FAPES_No_01_2026_-_TCC_EMPREENDEDOR_INOVADOR.pdf",
-        "status": "baixado"
+        "pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34",
+        "status": "inalterado"
       }
     ]
   },
@@ -98,14 +104,16 @@
           "https://fapes.es.gov.br/Media/fapes/Editais/Termo%20de%20Compromisso%20entre%20a%20Empresa%20e%20a%20ICT-IES-P.docx"
         ],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_06_2026_-_APOIO_AOS_CLUSTERS_DE_INOVAÇÃO_CAPIXABA.pdf",
-        "status": "baixado"
+        "pdf_sha256": "3175e0d0ef1f171e84d68e03a396b0412cfbf8ac00414f88de72e9378151e7d5",
+        "status": "inalterado"
       },
       {
         "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_-_2_Edição_-_Lançamento.pdf",
         "anexos": [],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_08_2026_-_NOVA_ECONOMIA_CAPIXABA_2026.pdf",
-        "status": "baixado"
+        "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
+        "status": "inalterado"
       }
     ]
   },
@@ -128,7 +136,8 @@
           "https://fapes.es.gov.br/Media/fapes/Editais/AA_EC_BRAZIL_PT-1.pdf"
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_HORIZON_EUROPE.pdf",
-        "status": "baixado"
+        "pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080",
+        "status": "inalterado"
       },
       {
         "titulo": "CHAMADA CONFAP & WATER4ALL",
@@ -138,7 +147,8 @@
           "https://fapes.es.gov.br/Media/fapes/Editais/Water4All_2025JTC_Call_Announcement_draft-0062025%20Third%20version.pdf"
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_&_WATER4ALL.pdf",
-        "status": "baixado"
+        "pdf_sha256": "308e24a152f3bd689ac1e540a1d00a2ecbdfe7015db1c1fb01992a2614ba2315",
+        "status": "inalterado"
       },
       {
         "titulo": "3ª CHAMADA TRANSACIONAL CONJUNTA - PARCERIA ECONOMIA AZUL SUSTENTÁVEL",
@@ -148,7 +158,8 @@
           "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_EAS_2025.pdf"
         ],
         "arquivo_local": "chamadas_internacionais/3a_CHAMADA_TRANSACIONAL_CONJUNTA_-_PARCERIA_ECONOMIA_AZUL_SUSTENTÁVEL.pdf",
-        "status": "baixado"
+        "pdf_sha256": "aeb3f5bd29effedd2752b7f54544f9165e6e3231d1643adf527c28cb5a4e7f3d",
+        "status": "inalterado"
       },
       {
         "titulo": "CHAMADA OCEAN 2 CRA - BELMONT FORUM",
@@ -160,14 +171,16 @@
           "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada%20Ocean%202%20CRA.pdf"
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_OCEAN_2_CRA_-_BELMONT_FORUM.pdf",
-        "status": "baixado"
+        "pdf_sha256": "338677be45c64b891e5965869e812089d1007cf760d86ca87e7d9accd80e9836",
+        "status": "inalterado"
       },
       {
         "titulo": "CHAMADA CONJUNTA CONICET 2026 - RESISTÊNCIA ANTIMICROBIANA (RAM)",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada%20de%20Propostas%20Conjuntas%20-%20FAPES-FAPESP-ANII%20CONACYT%20CONICET.pdf",
         "anexos": [],
         "arquivo_local": "chamadas_internacionais/CHAMADA_CONJUNTA_CONICET_2026_-_RESISTÊNCIA_ANTIMICROBIANA_(RAM).pdf",
-        "status": "baixado"
+        "pdf_sha256": "ff294940aca848aba973cd21ca9118be8491ef7c56970780c4098d5fe3c174b2",
+        "status": "inalterado"
       },
       {
         "titulo": "CHAMADA CONFAP BRASIL–ILLINOIS 2026",
@@ -179,7 +192,8 @@
           "https://fapes.es.gov.br/Media/fapes/Editais/Termo_de_Adesão_CONFAP-Brasillinois%202026-ASSINADO.pdf"
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_BRASIL–ILLINOIS_2026.pdf",
-        "status": "baixado"
+        "pdf_sha256": "dca97bcd47c4ff388842a427fdcd196d9c1eff873ff906a8e84084ba6aad9175",
+        "status": "inalterado"
       }
     ]
   }

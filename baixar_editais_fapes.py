@@ -7,6 +7,7 @@ Os arquivos sao salvos em ./editais_fapes/<categoria>/.
 
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import time
@@ -126,6 +127,14 @@ def parse_editais(html_text: str) -> list[dict]:
     return editais
 
 
+def sha256_of(path: Path) -> str:
+    h = hashlib.sha256()
+    with open(path, "rb") as fh:
+        for chunk in iter(lambda: fh.read(64 * 1024), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
 def download_pdf(url: str, dest: Path, session: requests.Session) -> tuple[bool, str]:
     try:
         with session.get(url, headers=HEADERS, timeout=DOWNLOAD_TIMEOUT, stream=True) as resp:
@@ -136,7 +145,7 @@ def download_pdf(url: str, dest: Path, session: requests.Session) -> tuple[bool,
                 for chunk in resp.iter_content(chunk_size=64 * 1024):
                     if chunk:
                         fh.write(chunk)
-            tmp.rename(dest)
+            tmp.replace(dest)
             return True, ctype
     except requests.RequestException as exc:
         return False, str(exc)
@@ -181,19 +190,26 @@ def main() -> None:
                 filename = sanitize_filename(titulo) + ".pdf"
                 dest = cat_dir / filename
 
-                if dest.exists() and dest.stat().st_size > 0:
-                    print(f"  [pular] ja existe: {filename}")
-                    ed["arquivo_local"] = str(dest.relative_to(OUTPUT_DIR))
-                    ed["status"] = "ja_existia"
-                    continue
+                hash_anterior = sha256_of(dest) if dest.exists() and dest.stat().st_size > 0 else None
 
                 print(f"  [baixar] {titulo}")
                 print(f"           {pdf_url}")
                 ok, info = download_pdf(pdf_url, dest, session)
                 if ok:
-                    print(f"           -> {dest.relative_to(OUTPUT_DIR)} ({dest.stat().st_size} bytes)")
+                    hash_atual = sha256_of(dest)
                     ed["arquivo_local"] = str(dest.relative_to(OUTPUT_DIR))
-                    ed["status"] = "baixado"
+                    ed["pdf_sha256"] = hash_atual
+                    if hash_anterior is None:
+                        ed["status"] = "novo"
+                        marca = "novo"
+                    elif hash_anterior != hash_atual:
+                        ed["status"] = "republicado"
+                        marca = "republicado (PDF mudou)"
+                    else:
+                        ed["status"] = "inalterado"
+                        marca = "inalterado"
+                    print(f"           -> {dest.relative_to(OUTPUT_DIR)} "
+                          f"({dest.stat().st_size} bytes, {marca})")
                 else:
                     print(f"           [erro] {info}")
                     ed["status"] = "erro"

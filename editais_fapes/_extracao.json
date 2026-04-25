@@ -4,6 +4,7 @@
     "titulo": "EDITAL FAPES Nº 02/2026 - PARTICIPAÇÃO EM EVENTOS TÉCNICO-CIENTÍFICOS",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_02-2026-Participação_Evento_Técnico_Científico.pdf",
     "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_02_2026_-_PARTICIPAÇÃO_EM_EVENTOS_TÉCNICO-CIENTÍFICOS.pdf",
+    "pdf_sha256": "5646b5790314d5a9240b1eea1576c8f82e99c09b41ef76781e5caebf322b74d3",
     "extracao": {
       "objetivo": "O objetivo geral deste edital é selecionar e apoiar financeiramente pesquisadores e alunos para participação em eventos técnico-científicos de curta duração. Visa divulgar os resultados de projetos de pesquisa, desenvolvimento e inovação (P, D&I) desenvolvidos em instituições de ensino superior e/ou pesquisa, públicas ou privadas, localizadas no Estado do Espírito Santo.",
       "publico_alvo": "Pesquisadores e alunos de pós-graduação vinculados a Instituição de Ensino e/ou Pesquisa (IES/P), pública ou privada, localizada no estado do Espírito Santo.",
@@ -138,7 +139,8 @@
           "acao_do_proponente": false
         }
       ],
-      "observacoes_gerais": "O valor total do edital será distribuído em três chamadas. O valor por proposta é fixo e varia conforme o local do evento: R$ 1.800,00 para eventos no Brasil (exceto Espírito Santo), US$ 1.400,00 para América Central ou América do Sul, US$ 2.300,00 para América do Norte e US$ 2.700,00 para outros continentes. A Fapes pode alterar as datas e prazos do cronograma. Cada proponente pode apresentar apenas uma proposta por chamada. O prazo para informar dados bancários é de até 30 dias corridos após o início da vigência do Termo de Outorga. O prazo para envio da prestação de contas é de até 30 dias após o término da vigência do Termo de Outorga. A contratação das propostas aprovadas ocorrerá em até 30 dias após a publicação do resultado final homologado. O envio do comprovante de aceite do trabalho é condicional para o repasse do recurso e deve ser feito até 15 dias antes do evento."
+      "observacoes_gerais": "O valor total do edital será distribuído em três chamadas. O valor por proposta é fixo e varia conforme o local do evento: R$ 1.800,00 para eventos no Brasil (exceto Espírito Santo), US$ 1.400,00 para América Central ou América do Sul, US$ 2.300,00 para América do Norte e US$ 2.700,00 para outros continentes. A Fapes pode alterar as datas e prazos do cronograma. Cada proponente pode apresentar apenas uma proposta por chamada. O prazo para informar dados bancários é de até 30 dias corridos após o início da vigência do Termo de Outorga. O prazo para envio da prestação de contas é de até 30 dias após o término da vigência do Termo de Outorga. A contratação das propostas aprovadas ocorrerá em até 30 dias após a publicação do resultado final homologado. O envio do comprovante de aceite do trabalho é condicional para o repasse do recurso e deve ser feito até 15 dias antes do evento.",
+      "_pdf_sha256": "5646b5790314d5a9240b1eea1576c8f82e99c09b41ef76781e5caebf322b74d3"
     }
   },
   {
@@ -146,6 +148,7 @@
     "titulo": "EDITAL FAPES Nº 03/2026 - ORGANIZAÇÃO DE EVENTOS TÉCNICO-CIENTÍFICOS",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_03_2026_Organização_Eventos_Técnico-Científicos.pdf",
     "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_03_2026_-_ORGANIZAÇÃO_DE_EVENTOS_TÉCNICO-CIENTÍFICOS.pdf",
+    "pdf_sha256": "49b26219d13ebe50d1a841636568ae3491c4163f64f5ce1cb1d5139da06bbec6",
     "extracao": {
       "objetivo": "Este edital visa selecionar propostas para conceder apoio financeiro a pesquisadores de nível superior. O objetivo é fomentar a organização de eventos técnico-científicos de curta duração, como congressos, simpósios e seminários, a serem realizados no Espírito Santo.",
       "publico_alvo": "Pesquisadores de nível superior vinculados a Instituição de Ensino Superior e/ou Pesquisa (IES/P), pública ou privada sem fins lucrativos, localizada no estado do Espírito Santo.",
@@ -280,7 +283,8 @@
           "acao_do_proponente": true
         }
       ],
-      "observacoes_gerais": "O valor do auxílio financeiro é fixo e varia de acordo com o nível do evento: R$ 10.000,00 para Estadual/Regional, R$ 20.000,00 para Nacional e R$ 35.000,00 para Internacional. A Fapes pode alterar as datas e os prazos do cronograma por necessidade ou decisão institucional. Cada proponente pode apresentar apenas uma proposta por chamada. Caso envie mais de uma, será considerada apenas a última enviada. O proponente que já tiver sido contratado neste edital não poderá submeter nova proposta. O evento deve ter duração máxima de 15 dias, consecutivos ou não, e ser chancelado por entidade/sociedade conforme o nível do evento (nacional ou internacional). Os recursos financeiros estão distribuídos por chamada e nível de evento, com possibilidade de remanejamento de saldos não utilizados entre níveis e chamadas subsequentes. É obrigatório mencionar o apoio da Fapes em todas as publicações e divulgações relacionadas ao projeto. A data de início do apoio poderá ser adiada, após a contratação, em até 12 meses, mediante justificativa."
+      "observacoes_gerais": "O valor do auxílio financeiro é fixo e varia de acordo com o nível do evento: R$ 10.000,00 para Estadual/Regional, R$ 20.000,00 para Nacional e R$ 35.000,00 para Internacional. A Fapes pode alterar as datas e os prazos do cronograma por necessidade ou decisão institucional. Cada proponente pode apresentar apenas uma proposta por chamada. Caso envie mais de uma, será considerada apenas a última enviada. O proponente que já tiver sido contratado neste edital não poderá submeter nova proposta. O evento deve ter duração máxima de 15 dias, consecutivos ou não, e ser chancelado por entidade/sociedade conforme o nível do evento (nacional ou internacional). Os recursos financeiros estão distribuídos por chamada e nível de evento, com possibilidade de remanejamento de saldos não utilizados entre níveis e chamadas subsequentes. É obrigatório mencionar o apoio da Fapes em todas as publicações e divulgações relacionadas ao projeto. A data de início do apoio poderá ser adiada, após a contratação, em até 12 meses, mediante justificativa.",
+      "_pdf_sha256": "49b26219d13ebe50d1a841636568ae3491c4163f64f5ce1cb1d5139da06bbec6"
     }
   },
   {
@@ -288,6 +292,7 @@
     "titulo": "EDITAL FAPES Nº 04/2026 - ESTÁGIO TÉCNICO CIENTÍFICO",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_04_2026_-_Estágio_Técnico_Cientifico.pdf",
     "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_04_2026_-_ESTÁGIO_TÉCNICO_CIENTÍFICO.pdf",
+    "pdf_sha256": "7052905cad3fe12be74f8fb0a6ace861247edb7313ce8c9c2ed5621f00ffb207",
     "extracao": {
       "objetivo": "Selecionar propostas para concessão de auxílio financeiro para a realização de estágio técnico-científico. O estágio pode ser em laboratório ou centro de pesquisa, desenvolvimento ou inovação (PD&I), no país ou no exterior. O objetivo é aprimorar/desenvolver técnicas e processos, além de adquirir conhecimentos específicos vinculados a projetos de PD&I desenvolvidos em Instituições de Ensino e/ou Pesquisa (IES/P), públicas ou privadas, localizadas no estado do Espírito Santo.",
       "publico_alvo": "Pesquisadores com título de doutor ou mestre, com vínculo ativo celetista ou estatutário em IES/P pública ou privada, localizada no estado do Espírito Santo. Alunos regularmente matriculados em curso de Mestrado ou Doutorado de IES/P localizada no Espírito Santo e recomendado pela CAPES.",
@@ -436,7 +441,8 @@
           "acao_do_proponente": true
         }
       ],
-      "observacoes_gerais": "A Fapes pode alterar as datas e os prazos do cronograma por necessidade ou decisão institucional, podendo reabrir o prazo para recebimento de propostas em casos de força maior ou falhas comprovadas nas plataformas. Cada proponente pode apresentar apenas uma proposta por chamada. Não é permitida a contratação concomitante de projeto de estágio técnico-científico e visita técnico-científica para o mesmo período/chamada. O coordenador pode solicitar o adiamento da data de início do estágio por até 30 dias após a contratação, mediante justificativa. É obrigatório mencionar o apoio da Fapes em todas as publicações ou divulgações relacionadas ao projeto."
+      "observacoes_gerais": "A Fapes pode alterar as datas e os prazos do cronograma por necessidade ou decisão institucional, podendo reabrir o prazo para recebimento de propostas em casos de força maior ou falhas comprovadas nas plataformas. Cada proponente pode apresentar apenas uma proposta por chamada. Não é permitida a contratação concomitante de projeto de estágio técnico-científico e visita técnico-científica para o mesmo período/chamada. O coordenador pode solicitar o adiamento da data de início do estágio por até 30 dias após a contratação, mediante justificativa. É obrigatório mencionar o apoio da Fapes em todas as publicações ou divulgações relacionadas ao projeto.",
+      "_pdf_sha256": "7052905cad3fe12be74f8fb0a6ace861247edb7313ce8c9c2ed5621f00ffb207"
     }
   },
   {
@@ -444,6 +450,7 @@
     "titulo": "EDITAL FAPES Nº 05/2026 - VISITA TÉCNICO-CIENTÍFICA",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Fapes%2005_2026%20-%20Visita%20Técnico%20Cientifica%20(1).pdf",
     "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_05_2026_-_VISITA_TÉCNICO-CIENTÍFICA.pdf",
+    "pdf_sha256": "236df851842c70a51ee6b834d7c2757d97fac6cdd203b1791864ed96e68e341b",
     "extracao": {
       "objetivo": "Selecionar propostas para concessão de auxílio financeiro para a realização de visitas técnico-científicas em laboratórios ou centros de pesquisa, desenvolvimento ou inovação (PD&I), no Brasil ou no exterior. O objetivo é aprimorar técnicas, processos e adquirir conhecimentos específicos para projetos de PD&I desenvolvidos em Instituições de Ensino e/ou Pesquisa (IES/P) públicas ou privadas no Espírito Santo.",
       "publico_alvo": "Pesquisadores com título de doutor ou mestre, com vínculo ativo celetista ou estatutário em IES/P públicas ou privadas no Espírito Santo; e alunos regularmente matriculados em cursos de Mestrado ou Doutorado de IES/P no Espírito Santo, reconhecidos pela CAPES, CNE e/ou MEC.",
@@ -571,7 +578,8 @@
           "acao_do_proponente": false
         }
       ],
-      "observacoes_gerais": "A Fapes pode alterar as datas e os prazos do cronograma por necessidade institucional, podendo reabrir prazos em casos de força maior ou falhas de sistema, com publicidade das alterações. Cada proponente pode submeter apenas uma proposta por chamada; em caso de múltiplas submissões, apenas a última será considerada. Proponentes já contratados neste edital não poderão submeter nova proposta. Após a contratação, o beneficiário pode solicitar adiamento da data de início da visita por até 30 dias, mediante justificativa e autorização. Não será permitida a alteração da instituição de destino da visita técnico-científica após a contratação."
+      "observacoes_gerais": "A Fapes pode alterar as datas e os prazos do cronograma por necessidade institucional, podendo reabrir prazos em casos de força maior ou falhas de sistema, com publicidade das alterações. Cada proponente pode submeter apenas uma proposta por chamada; em caso de múltiplas submissões, apenas a última será considerada. Proponentes já contratados neste edital não poderão submeter nova proposta. Após a contratação, o beneficiário pode solicitar adiamento da data de início da visita por até 30 dias, mediante justificativa e autorização. Não será permitida a alteração da instituição de destino da visita técnico-científica após a contratação.",
+      "_pdf_sha256": "236df851842c70a51ee6b834d7c2757d97fac6cdd203b1791864ed96e68e341b"
     }
   },
   {
@@ -579,6 +587,7 @@
     "titulo": "EDITAL FAPES N° 25/2025 - PARTICIPAÇÃO DE EQUIPES DE ESTUDANTES EM MOSTRAS E COMPETIÇÕES TÉCNICO-CIENTÍFICAS",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_N_25_2025_Participação_Equipe_em_Mostras_e_Competições.pdf",
     "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_N°_25_2025_-_PARTICIPAÇÃO_DE_EQUIPES_DE_ESTUDANTES_EM_MOSTRAS_E_COMPETIÇÕES_TÉCNICO-CIENTÍFICAS.pdf",
+    "pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c",
     "extracao": {
       "objetivo": "Conceder apoio financeiro a equipes formadas por estudantes de nível médio, de graduação e pós-graduação, coordenadas por um professor orientador. O objetivo é permitir a participação dessas equipes em mostras e competições técnico-científicas de âmbito regional, nacional ou internacional, visando a divulgação e difusão de resultados obtidos por instituições de ensino do Espírito Santo.",
       "publico_alvo": "Professores(as) coordenadores(as) de equipes de 3 a 5 estudantes, vinculados(as) a instituições de ensino médio públicas ou instituições de ensino superior públicas ou privadas localizadas no estado do Espírito Santo. O proponente deve ter formação mínima de nível superior, vínculo ativo com a instituição, atuar em sala de aula na mesma instituição dos estudantes, ter Lattes atualizado há menos de 6 meses, estar regularizado junto à Fapes e morar no Espírito Santo ou municípios limítrofes. Estudantes de instituições privadas devem ser bolsistas integrais financiados por programas governamentais estaduais ou federais.",
@@ -706,7 +715,8 @@
           "acao_do_proponente": true
         }
       ],
-      "observacoes_gerais": "O valor por proposta varia conforme a categoria do evento: R$ 500,00 para eventos regionais, R$ 1.200,00 para eventos nacionais e US$ 1.500,00 para eventos internacionais. O edital prevê três chamadas com períodos de submissão e eventos distintos. O início do evento proposto deve corresponder ao período da chamada selecionada. A Fapes pode alterar as datas e prazos definidos no cronograma. Cada coordenador pode apresentar apenas uma proposta. Não são contempladas propostas para participação em concursos ou premiações sem natureza acadêmica, técnico-científica ou tecnológica, ou competições esportivas."
+      "observacoes_gerais": "O valor por proposta varia conforme a categoria do evento: R$ 500,00 para eventos regionais, R$ 1.200,00 para eventos nacionais e US$ 1.500,00 para eventos internacionais. O edital prevê três chamadas com períodos de submissão e eventos distintos. O início do evento proposto deve corresponder ao período da chamada selecionada. A Fapes pode alterar as datas e prazos definidos no cronograma. Cada coordenador pode apresentar apenas uma proposta. Não são contempladas propostas para participação em concursos ou premiações sem natureza acadêmica, técnico-científica ou tecnológica, ou competições esportivas.",
+      "_pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c"
     }
   },
   {
@@ -714,6 +724,7 @@
     "titulo": "EDITAL FAPES Nº 01/2026 - TCC EMPREENDEDOR INOVADOR",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_01.2026_TCC_EMPREENDEDOR_INOVADOR.pdf",
     "arquivo_local": "extensao/EDITAL_FAPES_No_01_2026_-_TCC_EMPREENDEDOR_INOVADOR.pdf",
+    "pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34",
     "extracao": {
       "objetivo": "Chamada pública para seleção de Trabalhos de Conclusão de Curso (TCCs) de graduação, com ênfase em inovação, aplicação prática, geração de valor e/ou impacto socioambiental. O edital visa incentivar o desenvolvimento desses TCCs por meio da concessão de Bolsas de Apoio a Trabalho de Conclusão de Curso (BTCC). As propostas devem apresentar soluções inovadoras e empreendedoras, alinhadas aos ODS da ONU e ao Plano ES 500 Anos, com potencial de impacto econômico, social e/ou ambiental no Espírito Santo.",
       "publico_alvo": "Professores orientadores (proponentes) com vínculo estatutário ou celetista por tempo indeterminado em Instituições de Ensino Superior (IES) públicas ou privadas, reconhecidas pelo MEC e localizadas no Espírito Santo, que orientem estudantes de graduação regularmente matriculados em fase de conclusão de curso.",
@@ -841,7 +852,8 @@
           "acao_do_proponente": true
         }
       ],
-      "observacoes_gerais": "O edital aceita todos os formatos de TCC definidos pelas DCNs. As propostas serão avaliadas por microrregião, com um limite de 20 projetos na primeira chamada e 10 nas subsequentes. Recursos remanescentes serão destinados por ampla concorrência. O proponente pode indicar de 3 a 5 alunos orientados por proposta. O valor da bolsa BTCC e do auxílio para orientação de TCC são fixados na Tabela de Valores de Bolsas e Auxílios da Fapes. O orientador receberá até dois auxílios para orientação. Contatos adicionais para dúvidas: suporte@fapes.es.gov.br (cadastro e validação no Acesso Cidadão), sucon@fapes.es.gov.br (assinatura de documentos no E-docs/Acesso Cidadão), contacorrente@fapes.es.gov.br (pagamento de recursos financeiros)."
+      "observacoes_gerais": "O edital aceita todos os formatos de TCC definidos pelas DCNs. As propostas serão avaliadas por microrregião, com um limite de 20 projetos na primeira chamada e 10 nas subsequentes. Recursos remanescentes serão destinados por ampla concorrência. O proponente pode indicar de 3 a 5 alunos orientados por proposta. O valor da bolsa BTCC e do auxílio para orientação de TCC são fixados na Tabela de Valores de Bolsas e Auxílios da Fapes. O orientador receberá até dois auxílios para orientação. Contatos adicionais para dúvidas: suporte@fapes.es.gov.br (cadastro e validação no Acesso Cidadão), sucon@fapes.es.gov.br (assinatura de documentos no E-docs/Acesso Cidadão), contacorrente@fapes.es.gov.br (pagamento de recursos financeiros).",
+      "_pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34"
     }
   },
   {
@@ -849,6 +861,7 @@
     "titulo": "EDITAL FAPES Nº 06/2026 - APOIO AOS CLUSTERS DE INOVAÇÃO CAPIXABA",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Clusters_Inovadores_-_2ª_Edição_-_Lançamento.pdf",
     "arquivo_local": "inovacao/EDITAL_FAPES_No_06_2026_-_APOIO_AOS_CLUSTERS_DE_INOVAÇÃO_CAPIXABA.pdf",
+    "pdf_sha256": "3175e0d0ef1f171e84d68e03a396b0412cfbf8ac00414f88de72e9378151e7d5",
     "extracao": {
       "objetivo": "Este edital visa fomentar projetos inovadores, por meio de subvenção econômica, para fortalecer, modernizar e aumentar a competitividade dos setores de Comércio e da Indústria de Alimentos e Bebidas no Espírito Santo. A iniciativa busca incentivar a transformação digital, a melhoria da eficiência operacional e a adoção de práticas sustentáveis pelas empresas, contribuindo para o desenvolvimento econômico, social e ambiental do Estado.",
       "publico_alvo": "Empresas com sede administrativa ou filial no território do Espírito Santo, que comprovem faturamento local, possuam no mínimo 3 empregados CLT na unidade capixaba (até 3 meses antes da submissão) e infraestrutura instalada. Não podem ter sido contratadas nos Editais nº 07/2024 – Programa Tecnova III e n° 10/2025 – Nova Economia Capixaba.",
@@ -941,7 +954,8 @@
           "acao_do_proponente": false
         }
       ],
-      "observacoes_gerais": "As propostas contratadas terão prazo de execução e vigência de 24 meses, prorrogáveis por até 12 meses. As empresas classificadas e selecionadas deverão depositar 5% do valor da subvenção econômica como contrapartida financeira. O resultado da proposta, ao final da execução, deverá estar em condição de ingressar em etapas de certificação, produção e/ou comercialização. Cada proponente ou empresa poderá submeter apenas uma única proposta."
+      "observacoes_gerais": "As propostas contratadas terão prazo de execução e vigência de 24 meses, prorrogáveis por até 12 meses. As empresas classificadas e selecionadas deverão depositar 5% do valor da subvenção econômica como contrapartida financeira. O resultado da proposta, ao final da execução, deverá estar em condição de ingressar em etapas de certificação, produção e/ou comercialização. Cada proponente ou empresa poderá submeter apenas uma única proposta.",
+      "_pdf_sha256": "3175e0d0ef1f171e84d68e03a396b0412cfbf8ac00414f88de72e9378151e7d5"
     }
   },
   {
@@ -949,6 +963,7 @@
     "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_-_2_Edição_-_Lançamento.pdf",
     "arquivo_local": "inovacao/EDITAL_FAPES_No_08_2026_-_NOVA_ECONOMIA_CAPIXABA_2026.pdf",
+    "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
     "extracao": {
       "objetivo": "Promover um significativo aumento da competitividade dos setores econômicos capixabas no cenário nacional por meio de projetos de inovação. Os projetos devem ser desenvolvidos por empresas do Espírito Santo em colaboração com Instituições de Ciência e Tecnologia (ICT) ou Instituições de Ensino Superior (IES) capixabas, públicas ou privadas, e apresentar aderência aos setores econômicos do Plano de Desenvolvimento de Longo Prazo (ES 500 Anos) ou ao Plano Estadual de Ciência, Tecnologia e Inovação do Espírito Santo (PCTI-ES).",
       "publico_alvo": "Empresas com sede administrativa ou filial no Espírito Santo, individualmente ou em associação com outras empresas capixabas, em colaboração com Instituições de Ciência e Tecnologia (ICT) ou Instituições de Ensino Superior (IES) capixabas.",
@@ -1125,7 +1140,8 @@
           "acao_do_proponente": true
         }
       ],
-      "observacoes_gerais": "As resoluções e formulários estão disponíveis no site da FAPES (www.fapes.es.gov.br/resolucoes) e no Sistema SIGFAPES (www.sigfapes.es.gov.br). Empresas proponentes não podem ter sido contratadas nos Editais FAPES nº 07/2024, nº 10/2025 e nº 06/2026. Não é permitido que empresas beneficiadas possuam em seu quadro societário estagiários, funcionários, servidores, colaboradores, dirigentes ou profissionais com vínculo empregatício com a FAPES, incluindo cônjuges, companheiros ou parentes até o segundo grau. As atividades do projeto devem ser realizadas no Espírito Santo, exceto certificação, homologação e testes. É permitida a submissão de apenas uma proposta por empresa. A contratação de bolsistas (DTI, BIPI, AT) é opcional e seus recursos são descontados do valor da subvenção econômica. Não é permitida a contratação de bolsistas com vínculo empregatício com a FAPES ou parentes até o segundo grau."
+      "observacoes_gerais": "As resoluções e formulários estão disponíveis no site da FAPES (www.fapes.es.gov.br/resolucoes) e no Sistema SIGFAPES (www.sigfapes.es.gov.br). Empresas proponentes não podem ter sido contratadas nos Editais FAPES nº 07/2024, nº 10/2025 e nº 06/2026. Não é permitido que empresas beneficiadas possuam em seu quadro societário estagiários, funcionários, servidores, colaboradores, dirigentes ou profissionais com vínculo empregatício com a FAPES, incluindo cônjuges, companheiros ou parentes até o segundo grau. As atividades do projeto devem ser realizadas no Espírito Santo, exceto certificação, homologação e testes. É permitida a submissão de apenas uma proposta por empresa. A contratação de bolsistas (DTI, BIPI, AT) é opcional e seus recursos são descontados do valor da subvenção econômica. Não é permitida a contratação de bolsistas com vínculo empregatício com a FAPES ou parentes até o segundo grau.",
+      "_pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af"
     }
   },
   {
@@ -1133,6 +1149,7 @@
     "titulo": "CHAMADA HORIZON EUROPE",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20Fapes%20Horizon%20Europe%202021-2027-1.pdf",
     "arquivo_local": "chamadas_internacionais/CHAMADA_HORIZON_EUROPE.pdf",
+    "pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080",
     "extracao": {
       "objetivo": "As diretrizes da FAPES visam apoiar a participação de pesquisadores do estado do Espírito Santo em propostas colaborativas submetidas ao programa Horizonte Europa. O objetivo é fomentar a pesquisa e inovação, permitindo que entidades brasileiras se unam a parceiros europeus e internacionais para desenvolver projetos, contribuindo para o desenvolvimento científico e tecnológico do estado.",
       "publico_alvo": "Pesquisadores (co-PIs) do estado do Espírito Santo.",
@@ -1169,7 +1186,8 @@
           "acao_do_proponente": false
         }
       ],
-      "observacoes_gerais": "Os projetos selecionados terão prazo de vigência de até 36 meses, não podendo ultrapassar a vigência do Arranjo Administrativo Horizon Europe 2021-2027. O financiamento pela FAPES está condicionado à aprovação da proposta pelo Horizonte Europa e à submissão do Acordo de Subvenção. Os recursos financeiros são oriundos do Fundo Estadual de Ciência e Tecnologia do Espírito Santo - Funcitec, fonte 0159, recursos vinculados ao Tesouro do Estado."
+      "observacoes_gerais": "Os projetos selecionados terão prazo de vigência de até 36 meses, não podendo ultrapassar a vigência do Arranjo Administrativo Horizon Europe 2021-2027. O financiamento pela FAPES está condicionado à aprovação da proposta pelo Horizonte Europa e à submissão do Acordo de Subvenção. Os recursos financeiros são oriundos do Fundo Estadual de Ciência e Tecnologia do Espírito Santo - Funcitec, fonte 0159, recursos vinculados ao Tesouro do Estado.",
+      "_pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080"
     }
   },
   {
@@ -1177,6 +1195,7 @@
     "titulo": "CHAMADA CONFAP & WATER4ALL",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_Water4All_2025%20-%20Water4ALL.pdf",
     "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_&_WATER4ALL.pdf",
+    "pdf_sha256": "308e24a152f3bd689ac1e540a1d00a2ecbdfe7015db1c1fb01992a2614ba2315",
     "extracao": {
       "objetivo": "A FAPES visa apoiar projetos colaborativos de pesquisa e inovação no âmbito da Chamada Confap & Water4All – Water and Health 2025. O edital busca financiar propostas que abordem os principais desafios relacionados à interconexão entre água e saúde humana. Isso inclui temas como qualidade da água, contaminantes e tecnologias de tratamento, visando identificar soluções e estratégias para a área.",
       "publico_alvo": "Pesquisadores principais ou coordenadores de projeto com titulação mínima de doutor, brasileiros ou estrangeiros com visto permanente, vinculados a Instituições de Ensino Superior, Pesquisa e/ou Tecnológica e/ou de Inovação (públicas ou privadas) no estado do Espírito Santo, com vínculo empregatício por prazo indeterminado (se ativos) ou termo de adesão ao serviço voluntário (se aposentados), residentes no Espírito Santo e adimplentes junto à FAPES. Devem também atender aos critérios de elegibilidade da Chamada CONFAP-Water4All 2025 e normas da Resolução CCAF № 357/2025 e Instrução de Serviço № 082/2025.",
@@ -1206,7 +1225,8 @@
           "acao_do_proponente": false
         }
       ],
-      "observacoes_gerais": "A FAPES apoiará 01 (um) projeto com recursos do Fundo Estadual de Ciência e Tecnologia do Espírito Santo (FUNCITEC). Os temas abordados incluem contaminantes transmitidos pela água e riscos à saúde, ferramentas e tecnologias inovadoras de monitoramento, tratamento de água e redução de exposição, e governança, inovação socioeconômica e integração de políticas. O projeto selecionado terá prazo de vigência de até 36 meses, e o apoio financeiro da FAPES cobrirá despesas de custeio e capital, exceto bolsas. As propostas devem ser submetidas na plataforma internacional da chamada, e a FAPES fará o controle de elegibilidade nas fases de pré-propostas e propostas completas. A contratação seguirá a ordem de classificação da Comissão Europeia."
+      "observacoes_gerais": "A FAPES apoiará 01 (um) projeto com recursos do Fundo Estadual de Ciência e Tecnologia do Espírito Santo (FUNCITEC). Os temas abordados incluem contaminantes transmitidos pela água e riscos à saúde, ferramentas e tecnologias inovadoras de monitoramento, tratamento de água e redução de exposição, e governança, inovação socioeconômica e integração de políticas. O projeto selecionado terá prazo de vigência de até 36 meses, e o apoio financeiro da FAPES cobrirá despesas de custeio e capital, exceto bolsas. As propostas devem ser submetidas na plataforma internacional da chamada, e a FAPES fará o controle de elegibilidade nas fases de pré-propostas e propostas completas. A contratação seguirá a ordem de classificação da Comissão Europeia.",
+      "_pdf_sha256": "308e24a152f3bd689ac1e540a1d00a2ecbdfe7015db1c1fb01992a2614ba2315"
     }
   },
   {
@@ -1214,6 +1234,7 @@
     "titulo": "3ª CHAMADA TRANSACIONAL CONJUNTA - PARCERIA ECONOMIA AZUL SUSTENTÁVEL",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/SBEP%20Call%20text%202025.pdf",
     "arquivo_local": "chamadas_internacionais/3a_CHAMADA_TRANSACIONAL_CONJUNTA_-_PARCERIA_ECONOMIA_AZUL_SUSTENTÁVEL.pdf",
+    "pdf_sha256": "aeb3f5bd29effedd2752b7f54544f9165e6e3231d1643adf527c28cb5a4e7f3d",
     "extracao": {
       "objetivo": "O edital visa impulsionar a digitalização e a inovação para ecossistemas marinhos, negócios e comunidades resilientes, fortalecendo a competitividade da Economia Azul da União Europeia. Serão financiados projetos de pesquisa e inovação que contribuam para a transição para uma economia azul sustentável, resiliente e neutra em carbono, com foco em áreas como Gêmeos Digitais do Oceano, transição de setores da economia azul, planejamento climático inteligente, bio-recursos azuis e comunidades costeiras resilientes. O objetivo é gerar conhecimento acionável e soluções para um oceano saudável e uma economia azul produtiva.",
       "publico_alvo": "Consórcios compostos por parceiros elegíveis de pelo menos três países diferentes participantes da chamada, solicitando apoio financeiro de pelo menos três Organizações Financiadoras Participantes (PFOs) distintas. Adicionalmente, os projetos devem envolver pelo menos duas entidades legais independentes de dois Estados Membros da UE ou Países Associados ao Horizon Europe elegíveis para financiamento da UE. O Investigador Principal (PI) do coordenador do consórcio deve ser empregado por uma organização elegível em um dos países participantes da chamada.",
@@ -1334,7 +1355,8 @@
           "acao_do_proponente": false
         }
       ],
-      "observacoes_gerais": "A chamada é co-patrocinada pela Década das Nações Unidas da Ciência Oceânica para o Desenvolvimento Sustentável. Os projetos devem ser orientados para o impacto, seguindo uma abordagem de via de impacto. É exigido o envolvimento de múltiplos stakeholders (quádrupla hélice), incluindo pelo menos um parceiro da indústria, governo, institutos de pesquisa ou público. Atividades de participação cidadã e literacia oceânica são encorajadas. As propostas são fortemente recomendadas a cobrir um mínimo de duas bacias marítimas da UE (Oceano Atlântico, Mar Báltico, Mar Negro, Mar Mediterrâneo, Mar do Norte). Todas as propostas devem estar alinhadas com a Taxonomia da UE e cumprir os princípios éticos. Um processo de submissão em duas etapas é obrigatório (pré-proposta e, em seguida, proposta completa mediante convite). As informações fornecidas nas pré-propostas são vinculativas para as propostas completas; nenhuma alteração importante no conteúdo é permitida. O coordenador do consórcio pode ser Investigador Principal (PI) em apenas uma proposta. Parceiros do mesmo país não podem solicitar mais de 60% do financiamento total. A duração do projeto é de 36 meses. Os beneficiários do financiamento devem reconhecer o financiamento da SBEP e do Horizon Europe e aderir à Política de Ciência Aberta da CE para publicações."
+      "observacoes_gerais": "A chamada é co-patrocinada pela Década das Nações Unidas da Ciência Oceânica para o Desenvolvimento Sustentável. Os projetos devem ser orientados para o impacto, seguindo uma abordagem de via de impacto. É exigido o envolvimento de múltiplos stakeholders (quádrupla hélice), incluindo pelo menos um parceiro da indústria, governo, institutos de pesquisa ou público. Atividades de participação cidadã e literacia oceânica são encorajadas. As propostas são fortemente recomendadas a cobrir um mínimo de duas bacias marítimas da UE (Oceano Atlântico, Mar Báltico, Mar Negro, Mar Mediterrâneo, Mar do Norte). Todas as propostas devem estar alinhadas com a Taxonomia da UE e cumprir os princípios éticos. Um processo de submissão em duas etapas é obrigatório (pré-proposta e, em seguida, proposta completa mediante convite). As informações fornecidas nas pré-propostas são vinculativas para as propostas completas; nenhuma alteração importante no conteúdo é permitida. O coordenador do consórcio pode ser Investigador Principal (PI) em apenas uma proposta. Parceiros do mesmo país não podem solicitar mais de 60% do financiamento total. A duração do projeto é de 36 meses. Os beneficiários do financiamento devem reconhecer o financiamento da SBEP e do Horizon Europe e aderir à Política de Ciência Aberta da CE para publicações.",
+      "_pdf_sha256": "aeb3f5bd29effedd2752b7f54544f9165e6e3231d1643adf527c28cb5a4e7f3d"
     }
   },
   {
@@ -1342,6 +1364,7 @@
     "titulo": "CHAMADA OCEAN 2 CRA - BELMONT FORUM",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Ocean%202%20–%20Towards%20the%20Ocean%20We%20Want_%20Biodiversity%20and%20Ecosystem%20Sustainability%20for%20Nature%20and%20Human%20Well-being%20-%20Belmont%20Forum.pdf",
     "arquivo_local": "chamadas_internacionais/CHAMADA_OCEAN_2_CRA_-_BELMONT_FORUM.pdf",
+    "pdf_sha256": "338677be45c64b891e5965869e812089d1007cf760d86ca87e7d9accd80e9836",
     "extracao": {
       "objetivo": "Este edital, parte da iniciativa OCEAN 2 CRA do Belmont Forum, visa apoiar pesquisas transdisciplinares que abordem desafios globais do oceano e contribuam para a Década da Ciência Oceânica para o Desenvolvimento Sustentável. Serão financiados projetos com duração de 36 meses, focados em conservação da biodiversidade, soluções baseadas na natureza, integração oceano-biodiversidade-clima, e governança oceânica e ética para a sustentabilidade, visando o bem-estar da natureza e humano. As propostas devem focar em pelo menos uma das três áreas-chave especificadas.",
       "publico_alvo": "Pesquisadores vinculados a instituições de pesquisa do estado do Espírito Santo, Brasil, que participem de consórcios de pesquisa transdisciplinares e internacionais, conforme as diretrizes do Belmont Forum e as regras das agências de fomento participantes.",
@@ -1364,7 +1387,8 @@
           "acao_do_proponente": true
         }
       ],
-      "observacoes_gerais": "Os projetos aprovados terão duração esperada de 36 meses e deverão envolver consórcios de pesquisa com participantes de múltiplos países e disciplinas, incluindo parceiros sociais. As propostas devem focar em pelo menos uma das seguintes áreas-chave: Conservação da Biodiversidade e Soluções Baseadas na Natureza; Integração Oceano-Biodiversidade-Clima; Futuros da Natureza, Governança Oceânica e Ética para a Sustentabilidade. Organizações de financiamento de diversos países e algumas organizações não governamentais concordaram provisoriamente em apoiar esta chamada. Para se manter atualizado, é recomendado juntar-se à lista de e-mails ou visitar o site e redes sociais do Belmont Forum. Os documentos da chamada incluem: Chamada para Propostas (disponível em inglês, francês, português e espanhol), Formulário de Registro e Instruções, e Ferramenta de Comparação de Anexos. As candidaturas são aceitas em vários idiomas através da plataforma BFgo.org. O Secretariado do Belmont Forum é hospedado pelo Inter-American Institute for Global Change Research (IAI) no Panamá."
+      "observacoes_gerais": "Os projetos aprovados terão duração esperada de 36 meses e deverão envolver consórcios de pesquisa com participantes de múltiplos países e disciplinas, incluindo parceiros sociais. As propostas devem focar em pelo menos uma das seguintes áreas-chave: Conservação da Biodiversidade e Soluções Baseadas na Natureza; Integração Oceano-Biodiversidade-Clima; Futuros da Natureza, Governança Oceânica e Ética para a Sustentabilidade. Organizações de financiamento de diversos países e algumas organizações não governamentais concordaram provisoriamente em apoiar esta chamada. Para se manter atualizado, é recomendado juntar-se à lista de e-mails ou visitar o site e redes sociais do Belmont Forum. Os documentos da chamada incluem: Chamada para Propostas (disponível em inglês, francês, português e espanhol), Formulário de Registro e Instruções, e Ferramenta de Comparação de Anexos. As candidaturas são aceitas em vários idiomas através da plataforma BFgo.org. O Secretariado do Belmont Forum é hospedado pelo Inter-American Institute for Global Change Research (IAI) no Panamá.",
+      "_pdf_sha256": "338677be45c64b891e5965869e812089d1007cf760d86ca87e7d9accd80e9836"
     }
   },
   {
@@ -1372,6 +1396,7 @@
     "titulo": "CHAMADA CONJUNTA CONICET 2026 - RESISTÊNCIA ANTIMICROBIANA (RAM)",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada%20de%20Propostas%20Conjuntas%20-%20FAPES-FAPESP-ANII%20CONACYT%20CONICET.pdf",
     "arquivo_local": "chamadas_internacionais/CHAMADA_CONJUNTA_CONICET_2026_-_RESISTÊNCIA_ANTIMICROBIANA_(RAM).pdf",
+    "pdf_sha256": "ff294940aca848aba973cd21ca9118be8491ef7c56970780c4098d5fe3c174b2",
     "extracao": {
       "objetivo": "O programa visa planejar e implementar projetos de pesquisa e transferência de conhecimento relacionados à Resistência Antimicrobiana (RAM), no contexto da produção intensiva de animais para consumo humano na Argentina, Brasil, Paraguai e Uruguai. Os projetos devem abordar diversos aspectos da RAM, promovendo a integração e o fortalecimento das capacidades regionais, além de incentivar a participação intersetorial entre cientistas, produtores e órgãos reguladores.",
       "publico_alvo": "Pesquisadores vinculados a Instituições de Ensino Superior e Pesquisa (públicas ou privadas sem fins lucrativos) sediadas no estado do Espírito Santo, que atendam aos critérios de elegibilidade da modalidade Auxílio à Pesquisa Regular (Instrução de Serviços № 082/2025). Cada pesquisador pode participar de, no máximo, 2 propostas e ser Pesquisador Responsável/Coordenador em apenas uma delas.",
@@ -1408,7 +1433,8 @@
           "acao_do_proponente": false
         }
       ],
-      "observacoes_gerais": "A Chamada é uma iniciativa conjunta da FAPES, FAPESP, ANII, CONACYT e CONICET, com apoio do Centro de Pesquisas para o Desenvolvimento (IDRC). O foco é a Resistência Antimicrobiana (RAM) na produção intensiva de animais para consumo humano. As propostas devem incluir grupos de pesquisa de instituições localizadas em pelo menos dois dos territórios de abrangência das agências participantes (Argentina, Brasil - Espírito Santo e São Paulo, Paraguai e Uruguai). Serão financiados até 5 projetos no total, sendo que a FAPES financiará até 2 projetos. As propostas devem abordar um ou mais dos eixos temáticos listados no Anexo 1. Há possibilidade de financiamento adicional (USD 10.000) para colaborações com grupos de países da América Latina e Caribe receptores de Ajuda Oficial ao Desenvolvimento não contemplados pelas agências participantes."
+      "observacoes_gerais": "A Chamada é uma iniciativa conjunta da FAPES, FAPESP, ANII, CONACYT e CONICET, com apoio do Centro de Pesquisas para o Desenvolvimento (IDRC). O foco é a Resistência Antimicrobiana (RAM) na produção intensiva de animais para consumo humano. As propostas devem incluir grupos de pesquisa de instituições localizadas em pelo menos dois dos territórios de abrangência das agências participantes (Argentina, Brasil - Espírito Santo e São Paulo, Paraguai e Uruguai). Serão financiados até 5 projetos no total, sendo que a FAPES financiará até 2 projetos. As propostas devem abordar um ou mais dos eixos temáticos listados no Anexo 1. Há possibilidade de financiamento adicional (USD 10.000) para colaborações com grupos de países da América Latina e Caribe receptores de Ajuda Oficial ao Desenvolvimento não contemplados pelas agências participantes.",
+      "_pdf_sha256": "ff294940aca848aba973cd21ca9118be8491ef7c56970780c4098d5fe3c174b2"
     }
   },
   {
@@ -1416,6 +1442,7 @@
     "titulo": "CHAMADA CONFAP BRASIL–ILLINOIS 2026",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Cooperative%20Program%20-U%20of%20I%20and%20Confap%20v%205%2024-03.docx.pdf",
     "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_BRASIL–ILLINOIS_2026.pdf",
+    "pdf_sha256": "dca97bcd47c4ff388842a427fdcd196d9c1eff873ff906a8e84084ba6aad9175",
     "extracao": {
       "objetivo": "O programa visa promover e fortalecer a colaboração científica por meio de projetos de pesquisa conjuntos entre pesquisadores e instituições afiliadas às Fundações Estaduais de Amparo à Pesquisa (FAPs) brasileiras e à University of Illinois System. O objetivo é fomentar a cooperação internacional e abordar áreas de pesquisa prioritárias.",
       "publico_alvo": "Pesquisadores/coordenadores que desenvolvam atividades de pesquisa em universidades, institutos ou centros de pesquisa brasileiros, sediados em estados cujas FAPs confirmaram participação na chamada.",
@@ -1473,7 +1500,8 @@
           "acao_do_proponente": false
         }
       ],
-      "observacoes_gerais": "Serão apoiados até 20 projetos de pesquisa conjuntos. As propostas devem ser elaboradas em inglês (máximo 10 páginas) e incluir uma descrição clara da colaboração planejada, valor agregado e complementaridade das equipes. As áreas de pesquisa prioritárias são: Clima, Sustentabilidade, Agricultura; Saúde Pública e Medicina; e Democracia e Inclusão. Cada PI pode submeter apenas uma proposta. O apoio financeiro para o lado brasileiro (FAPs) destina-se a cobrir custos gerais, viagens internacionais, diárias, fundos semente para custos diretos de pesquisa e workshops. É exigido seguro médico para visitantes."
+      "observacoes_gerais": "Serão apoiados até 20 projetos de pesquisa conjuntos. As propostas devem ser elaboradas em inglês (máximo 10 páginas) e incluir uma descrição clara da colaboração planejada, valor agregado e complementaridade das equipes. As áreas de pesquisa prioritárias são: Clima, Sustentabilidade, Agricultura; Saúde Pública e Medicina; e Democracia e Inclusão. Cada PI pode submeter apenas uma proposta. O apoio financeiro para o lado brasileiro (FAPs) destina-se a cobrir custos gerais, viagens internacionais, diárias, fundos semente para custos diretos de pesquisa e workshops. É exigido seguro médico para visitantes.",
+      "_pdf_sha256": "dca97bcd47c4ff388842a427fdcd196d9c1eff873ff906a8e84084ba6aad9175"
     }
   }
 ]

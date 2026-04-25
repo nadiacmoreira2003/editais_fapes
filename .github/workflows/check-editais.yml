@@ -1,0 +1,62 @@
+name: Verificar editais FAPES
+
+on:
+  schedule:
+    # Toda segunda as 08:00 BRT (UTC-3) = 11:00 UTC
+    - cron: "0 11 * * 1"
+  workflow_dispatch: {}  # permite rodar manualmente pela aba Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: editais-fapes
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      SMTP_HOST: smtp.gmail.com
+      SMTP_PORT: "587"
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: 1/3 - Baixar editais da FAPES
+        run: python baixar_editais_fapes.py
+
+      - name: 2/3 - Extrair metadados via Gemini
+        run: python extrair_editais_gemini.py
+
+      - name: 3/3 - Detectar alteracoes e enviar e-mails
+        run: python verificar_alteracoes.py
+
+      - name: Commit alteracoes (se houver)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add editais_fapes/
+          if git diff --cached --quiet; then
+            echo "Sem mudancas para commitar."
+          else
+            DATA=$(TZ=America/Sao_Paulo date '+%Y-%m-%d %H:%M')
+            git commit -m "chore(editais): atualizacao automatica $DATA"
+            git push
+          fi

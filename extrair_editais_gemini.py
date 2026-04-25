@@ -10,6 +10,7 @@ e consolida tudo em:
 
 from __future__ import annotations
 
+import hashlib
 import json
 import os
 import re
@@ -20,14 +21,11 @@ from typing import Any
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
-from openpyxl import Workbook
-from openpyxl.styles import Alignment, Font
 
 ROOT = Path(__file__).resolve().parent
 EDITAIS_DIR = ROOT / "editais_fapes"
 RELATORIO_PATH = EDITAIS_DIR / "_relatorio.json"
 EXTRACAO_JSON = EDITAIS_DIR / "_extracao.json"
-EXTRACAO_XLSX = EDITAIS_DIR / "_extracao.xlsx"
 
 MODEL_NAME = "gemini-2.5-flash"
 SCHEMA_VERSION = 2
@@ -128,6 +126,14 @@ def _is_daily_quota(exc: Exception) -> bool:
     return "PerDay" in msg or "GenerateRequestsPerDay" in msg
 
 
+def sha256_of(path: Path) -> str:
+    h = hashlib.sha256()
+    with open(path, "rb") as fh:
+        for chunk in iter(lambda: fh.read(64 * 1024), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
 def extract_one(client: genai.Client, pdf_path: Path,
                 max_minute_retries: int = 3) -> dict[str, Any]:
     pdf_bytes = pdf_path.read_bytes()
@@ -197,62 +203,6 @@ def acoes_resumidas(cronograma: list[dict[str, Any]]) -> str:
     return "\n".join(formatar_evento(ev) for ev in somente_acoes(cronograma))
 
 
-def consolidar_xlsx(registros: list[dict[str, Any]]) -> None:
-    wb = Workbook()
-    ws = wb.active
-    ws.title = "Editais"
-    headers = [
-        "Categoria",
-        "Edital",
-        "Objetivo",
-        "Público-alvo",
-        "Valor total",
-        "Valor por proposta",
-        "Contato",
-        "Próxima ação do proponente",
-        "Ações do proponente (todas)",
-        "Observações",
-        "PDF (URL)",
-        "Arquivo local",
-    ]
-    ws.append(headers)
-    for reg in registros:
-        ext = reg.get("extracao") or {}
-        cronograma = ext.get("cronograma") or []
-        ws.append([
-            CATEGORIA_DISPLAY.get(reg.get("categoria", ""), reg.get("categoria", "")),
-            reg.get("titulo", ""),
-            ext.get("objetivo", ""),
-            ext.get("publico_alvo", ""),
-            ext.get("valor_total", ""),
-            ext.get("valor_por_proposta", ""),
-            ext.get("contato", ""),
-            proxima_acao(cronograma),
-            acoes_resumidas(cronograma),
-            ext.get("observacoes_gerais", ""),
-            reg.get("pdf_url", ""),
-            reg.get("arquivo_local", ""),
-        ])
-
-    widths = {"A": 24, "B": 60, "C": 70, "D": 40, "E": 18, "F": 18, "G": 35,
-              "H": 55, "I": 70, "J": 50, "K": 60, "L": 50}
-    for col, w in widths.items():
-        ws.column_dimensions[col].width = w
-
-    ws.row_dimensions[1].height = 22
-    bold = Font(bold=True)
-    for cell in ws[1]:
-        cell.font = bold
-        cell.alignment = Alignment(wrap_text=True, vertical="top")
-    body_align = Alignment(wrap_text=True, vertical="top")
-    for row in ws.iter_rows(min_row=2):
-        for cell in row:
-            cell.alignment = body_align
-
-    ws.freeze_panes = "A2"
-    wb.save(EXTRACAO_XLSX)
-
-
 def main() -> None:
     load_dotenv(ROOT / ".env")
     api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
@@ -283,18 +233,24 @@ def main() -> None:
                 print(f"[pular] PDF nao encontrado: {pdf_path}")
                 continue
 
+            hash_atual = ed.get("pdf_sha256") or sha256_of(pdf_path)
+
             json_path = pdf_path.with_suffix(".json")
             cache_valido = False
             extracao = None
             if json_path.exists() and json_path.stat().st_size > 0:
                 with open(json_path, encoding="utf-8") as fh:
                     extracao = json.load(fh)
-                cache_valido = any(
+                tem_schema = any(
                     "acao_do_proponente" in ev
                     for ev in (extracao.get("cronograma") or [])
                 )
+                hash_bate = extracao.get("_pdf_sha256") == hash_atual
+                cache_valido = tem_schema and hash_bate
                 if cache_valido:
                     print(f"[cache] {categoria}/{titulo[:60]}")
+                elif tem_schema and not hash_bate:
+                    print(f"[hash!] {categoria}/{titulo[:60]} - PDF mudou, re-extraindo")
 
             if not cache_valido:
                 print(f"[gemini] {categoria}/{titulo[:60]}")
@@ -309,6 +265,7 @@ def main() -> None:
                     print(f"  [erro] {exc}")
                     continue
 
+                extracao["_pdf_sha256"] = hash_atual
                 with open(json_path, "w", encoding="utf-8") as fh:
                     json.dump(extracao, fh, ensure_ascii=False, indent=2)
                 time.sleep(2.0)
@@ -321,17 +278,15 @@ def main() -> None:
                 "titulo": titulo,
                 "pdf_url": ed.get("pdf_url", ""),
                 "arquivo_local": arquivo_rel,
+                "pdf_sha256": hash_atual,
                 "extracao": extracao,
             })
 
     with open(EXTRACAO_JSON, "w", encoding="utf-8") as fh:
         json.dump(consolidados, fh, ensure_ascii=False, indent=2)
 
-    consolidar_xlsx(consolidados)
-
     print(f"\nProcessados: {len(consolidados)} edital(is).")
     print(f"JSON consolidado: {EXTRACAO_JSON}")
-    print(f"Planilha:         {EXTRACAO_XLSX}")
 
 
 if __name__ == "__main__":
