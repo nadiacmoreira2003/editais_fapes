@@ -22,7 +22,7 @@
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_02_2026_-_PARTICIPAÇÃO_EM_EVENTOS_TÉCNICO-CIENTÍFICOS.pdf",
         "pdf_sha256": "5646b5790314d5a9240b1eea1576c8f82e99c09b41ef76781e5caebf322b74d3",
-        "status": "inalterado"
+        "status": "novo"
       },
       {
         "titulo": "EDITAL FAPES Nº 03/2026 - ORGANIZAÇÃO DE EVENTOS TÉCNICO-CIENTÍFICOS",
@@ -33,7 +33,7 @@
         ],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_03_2026_-_ORGANIZAÇÃO_DE_EVENTOS_TÉCNICO-CIENTÍFICOS.pdf",
         "pdf_sha256": "49b26219d13ebe50d1a841636568ae3491c4163f64f5ce1cb1d5139da06bbec6",
-        "status": "inalterado"
+        "status": "novo"
       },
       {
         "titulo": "EDITAL FAPES Nº 04/2026 - ESTÁGIO TÉCNICO CIENTÍFICO",
@@ -41,7 +41,7 @@
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_04_2026_-_ESTÁGIO_TÉCNICO_CIENTÍFICO.pdf",
         "pdf_sha256": "7052905cad3fe12be74f8fb0a6ace861247edb7313ce8c9c2ed5621f00ffb207",
-        "status": "inalterado"
+        "status": "novo"
       },
       {
         "titulo": "EDITAL FAPES Nº 05/2026 - VISITA TÉCNICO-CIENTÍFICA",
@@ -49,7 +49,7 @@
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_05_2026_-_VISITA_TÉCNICO-CIENTÍFICA.pdf",
         "pdf_sha256": "236df851842c70a51ee6b834d7c2757d97fac6cdd203b1791864ed96e68e341b",
-        "status": "inalterado"
+        "status": "novo"
       },
       {
         "titulo": "EDITAL FAPES N° 25/2025 - PARTICIPAÇÃO DE EQUIPES DE ESTUDANTES EM MOSTRAS E COMPETIÇÕES TÉCNICO-CIENTÍFICAS",
@@ -57,7 +57,7 @@
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_N°_25_2025_-_PARTICIPAÇÃO_DE_EQUIPES_DE_ESTUDANTES_EM_MOSTRAS_E_COMPETIÇÕES_TÉCNICO-CIENTÍFICAS.pdf",
         "pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c",
-        "status": "inalterado"
+        "status": "novo"
       }
     ]
   },
@@ -79,7 +79,7 @@
         ],
         "arquivo_local": "extensao/EDITAL_FAPES_No_01_2026_-_TCC_EMPREENDEDOR_INOVADOR.pdf",
         "pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34",
-        "status": "inalterado"
+        "status": "novo"
       }
     ]
   },
@@ -105,7 +105,7 @@
         ],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_06_2026_-_APOIO_AOS_CLUSTERS_DE_INOVAÇÃO_CAPIXABA.pdf",
         "pdf_sha256": "3175e0d0ef1f171e84d68e03a396b0412cfbf8ac00414f88de72e9378151e7d5",
-        "status": "inalterado"
+        "status": "novo"
       },
       {
         "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026",
@@ -113,7 +113,7 @@
         "anexos": [],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_08_2026_-_NOVA_ECONOMIA_CAPIXABA_2026.pdf",
         "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
-        "status": "inalterado"
+        "status": "novo"
       }
     ]
   },
@@ -137,7 +137,7 @@
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_HORIZON_EUROPE.pdf",
         "pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080",
-        "status": "inalterado"
+        "status": "novo"
       },
       {
         "titulo": "CHAMADA CONFAP & WATER4ALL",
@@ -148,7 +148,7 @@
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_&_WATER4ALL.pdf",
         "pdf_sha256": "308e24a152f3bd689ac1e540a1d00a2ecbdfe7015db1c1fb01992a2614ba2315",
-        "status": "inalterado"
+        "status": "novo"
       },
       {
         "titulo": "3ª CHAMADA TRANSACIONAL CONJUNTA - PARCERIA ECONOMIA AZUL SUSTENTÁVEL",
@@ -159,7 +159,7 @@
         ],
         "arquivo_local": "chamadas_internacionais/3a_CHAMADA_TRANSACIONAL_CONJUNTA_-_PARCERIA_ECONOMIA_AZUL_SUSTENTÁVEL.pdf",
         "pdf_sha256": "aeb3f5bd29effedd2752b7f54544f9165e6e3231d1643adf527c28cb5a4e7f3d",
-        "status": "inalterado"
+        "status": "novo"
       },
       {
         "titulo": "CHAMADA OCEAN 2 CRA - BELMONT FORUM",
@@ -172,7 +172,7 @@
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_OCEAN_2_CRA_-_BELMONT_FORUM.pdf",
         "pdf_sha256": "338677be45c64b891e5965869e812089d1007cf760d86ca87e7d9accd80e9836",
-        "status": "inalterado"
+        "status": "novo"
       },
       {
         "titulo": "CHAMADA CONJUNTA CONICET 2026 - RESISTÊNCIA ANTIMICROBIANA (RAM)",
@@ -180,7 +180,7 @@
         "anexos": [],
         "arquivo_local": "chamadas_internacionais/CHAMADA_CONJUNTA_CONICET_2026_-_RESISTÊNCIA_ANTIMICROBIANA_(RAM).pdf",
         "pdf_sha256": "ff294940aca848aba973cd21ca9118be8491ef7c56970780c4098d5fe3c174b2",
-        "status": "inalterado"
+        "status": "novo"
       },
       {
         "titulo": "CHAMADA CONFAP BRASIL–ILLINOIS 2026",
@@ -193,7 +193,7 @@
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_BRASIL–ILLINOIS_2026.pdf",
         "pdf_sha256": "dca97bcd47c4ff388842a427fdcd196d9c1eff873ff906a8e84084ba6aad9175",
-        "status": "inalterado"
+        "status": "novo"
       }
     ]
   }
