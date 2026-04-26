@@ -2,8 +2,8 @@ name: Verificar editais FAPES
 
 on:
   schedule:
-    # Toda segunda as 08:00 BRT (UTC-3) = 11:00 UTC
-    - cron: "0 11 * * 1"
+    # Todo dia as 08:00 BRT (UTC-3) = 11:00 UTC
+    - cron: "0 11 * * *"
   workflow_dispatch: {}  # permite rodar manualmente pela aba Actions
 
 permissions:
