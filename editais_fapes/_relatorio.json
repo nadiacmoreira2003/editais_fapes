@@ -2,8 +2,18 @@
   {
     "categoria": "formacao_cientifica",
     "url": "https://fapes.es.gov.br/edital-aberto-forma%C3%A7%C3%A3o-cient%C3%ADfica",
-    "total": 0,
-    "editais": []
+    "total": 1,
+    "editais": [
+      {
+        "titulo": "EDITAL FAPES Nº 09/2026 - BOLSAS DE ESTÁGIO DOUTORADO SANDUÍCHE",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL%20FAPES%20N°%2009.2026%20-%20BDS.pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_09_2026_-_BOLSAS_DE_ESTÁGIO_DOUTORADO_SANDUÍCHE.pdf",
+        "pdf_sha256": "b49c1446c5a3cbe6868512b7e452a2ecdc537b0f84ba00e67234e26146a362bd",
+        "status": "novo"
+      }
+    ]
   },
   {
     "categoria": "pesquisa",
