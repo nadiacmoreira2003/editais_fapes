@@ -81,7 +81,7 @@
   {
     "categoria": "extensao",
     "url": "https://fapes.es.gov.br/editais-abertos-extensao-2",
-    "total": 1,
+    "total": 2,
     "editais": [
       {
         "titulo": "EDITAL FAPES Nº 01/2026 - TCC EMPREENDEDOR INOVADOR",
@@ -106,6 +106,28 @@
         ],
         "arquivo_local": "extensao/EDITAL_FAPES_No_01_2026_-_TCC_EMPREENDEDOR_INOVADOR.pdf",
         "pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34",
+        "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%20Assinado.pdf",
+        "alteracoes": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20II%20-%20Formulário%20de%20Submissão%20-%20Edital%20Extensão%20Tecnológica%20-%2012-2026.docx",
+            "titulo": "ANEXO II - FORMULÁRIO DE SUBMISSÃO"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20III%20-%20TERMO%20DE%20CONCORDÂNCIA%20E%20COMPROMISSO%20DA%20ORGANIZAÇÃO%20PARCEIRA%20-%20Edital%2012-2026.docx",
+            "titulo": "ANEXO III - TERMO DE CONCORDÂNCIA E COMPROMISSO DA ORGANIZAÇÃO PARCEIRA"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20IV%20-%20Declaração%20de%20Ciência%20do%20NIT-%20Edital%2012-2026.docx",
+            "titulo": "ANEXO IV - DECLARAÇÃO DE CIÊNCIA DO NIT"
+          }
+        ],
+        "arquivo_local": "extensao/EDITAL_FAPES_No_12_2026_-_EXTENSÃO_TECNOLÓGICA.pdf",
+        "pdf_sha256": "55194574f15f2190c6d6dec46df141029d3a300a09889c4bfc92903bc26cceff",
         "status": "novo"
       }
     ]
