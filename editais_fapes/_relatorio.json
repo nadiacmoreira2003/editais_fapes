@@ -135,7 +135,7 @@
   {
     "categoria": "inovacao",
     "url": "https://fapes.es.gov.br/inovacao",
-    "total": 2,
+    "total": 3,
     "editais": [
       {
         "titulo": "EDITAL FAPES Nº 06/2026 - APOIO AOS CLUSTERS DE INOVAÇÃO CAPIXABA",
@@ -177,6 +177,15 @@
         "anexos": [],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_08_2026_-_NOVA_ECONOMIA_CAPIXABA_2026.pdf",
         "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
+        "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES Nº 10/2026 - DR. EMPREENDEDOR CAPIXABA",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_10-2026_-_DR._EMPREENDEDOR_CAPIXABA.pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "inovacao/EDITAL_FAPES_No_10_2026_-_DR._EMPREENDEDOR_CAPIXABA.pdf",
+        "pdf_sha256": "cd7fae1fca2e9ffbc49ed8162839a1cace9da7ffe0d0b8bf73cc2d37ae99b00c",
         "status": "novo"
       }
     ]
