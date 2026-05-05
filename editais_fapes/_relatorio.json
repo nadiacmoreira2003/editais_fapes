@@ -193,7 +193,7 @@
   {
     "categoria": "chamadas_internacionais",
     "url": "https://fapes.es.gov.br/chamadas-internacionais",
-    "total": 6,
+    "total": 4,
     "editais": [
       {
         "titulo": "CHAMADA HORIZON EUROPE",
@@ -250,33 +250,6 @@
         ],
         "arquivo_local": "chamadas_internacionais/3a_CHAMADA_TRANSACIONAL_CONJUNTA_-_PARCERIA_ECONOMIA_AZUL_SUSTENTÁVEL.pdf",
         "pdf_sha256": "aeb3f5bd29effedd2752b7f54544f9165e6e3231d1643adf527c28cb5a4e7f3d",
-        "status": "novo"
-      },
-      {
-        "titulo": "CHAMADA OCEAN 2 CRA - BELMONT FORUM",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Ocean%202%20–%20Towards%20the%20Ocean%20We%20Want_%20Biodiversity%20and%20Ecosystem%20Sustainability%20for%20Nature%20and%20Human%20Well-being%20-%20Belmont%20Forum.pdf",
-        "alteracoes": [],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Ocean%20II%202025%20-%20Institution%20Specific%20Annex_FAPES.pdf",
-            "titulo": "MEMORANDO DE ENTENDIMENTO (MoU)"
-          },
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada%20Ocean%202%20CRA.pdf",
-            "titulo": "DIRETRIZES DA FAPES"
-          }
-        ],
-        "arquivo_local": "chamadas_internacionais/CHAMADA_OCEAN_2_CRA_-_BELMONT_FORUM.pdf",
-        "pdf_sha256": "338677be45c64b891e5965869e812089d1007cf760d86ca87e7d9accd80e9836",
-        "status": "novo"
-      },
-      {
-        "titulo": "CHAMADA CONJUNTA CONICET 2026 - RESISTÊNCIA ANTIMICROBIANA (RAM)",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada%20de%20Propostas%20Conjuntas%20-%20FAPES-FAPESP-ANII%20CONACYT%20CONICET.pdf",
-        "alteracoes": [],
-        "anexos": [],
-        "arquivo_local": "chamadas_internacionais/CHAMADA_CONJUNTA_CONICET_2026_-_RESISTÊNCIA_ANTIMICROBIANA_(RAM).pdf",
-        "pdf_sha256": "ff294940aca848aba973cd21ca9118be8491ef7c56970780c4098d5fe3c174b2",
         "status": "novo"
       },
       {
