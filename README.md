@@ -234,4 +234,3 @@ bem-sucedido — se não aparece, o problema é nas variáveis SMTP.
 ## Licença
 
 Projeto pessoal de monitoramento, sem licença específica. Use à vontade.
-# editais_fapes
