@@ -448,14 +448,20 @@ def main() -> None:
                 ent["novas_alteracoes_doc"] = []
             else:
                 ent["status_atual"] = "atualizado"
-                ent["email_enviado_em"] = None
+                # Nao zera email_enviado_em — o timestamp e usado para saber
+                # se o e-mail de atualizacao ja foi enviado apos esta mudanca.
                 ent["alteracoes_recentes"] = mudancas_campos
                 ent["novas_alteracoes_doc"] = novos_docs
             ent["ultima_alteracao_em"] = agora_iso()
-        elif ent.get("status_atual") == "novo" and ja_emailed:
-            ent["status_atual"] = "sem_alteracoes"
-            ent["alteracoes_recentes"] = []
-            ent["novas_alteracoes_doc"] = []
+        elif ent.get("status_atual") in ("novo", "atualizado") and ja_emailed:
+            # Nenhuma mudanca nova: reseta para sem_alteracoes se o e-mail
+            # ja foi enviado depois da ultima alteracao registrada.
+            alt_dt = ent.get("ultima_alteracao_em") or ""
+            email_dt = ent.get("email_enviado_em") or ""
+            if not alt_dt or alt_dt <= email_dt:
+                ent["status_atual"] = "sem_alteracoes"
+                ent["alteracoes_recentes"] = []
+                ent["novas_alteracoes_doc"] = []
 
     for k, ent in state["editais"].items():
         if k not in chaves_atuais and ent.get("status_atual") != "removido":
@@ -479,6 +485,14 @@ def main() -> None:
                 ent.get("alteracoes_recentes") or [],
                 ent.get("novas_alteracoes_doc") or [],
             ))
+
+    # Filtra atualizados: so envia se ultima_alteracao_em > email_enviado_em
+    # (evita re-envio quando o e-mail ja foi enviado apos a ultima mudanca)
+    pendentes_atualizados = [
+        item for item in pendentes_atualizados
+        if (state["editais"][item[1]].get("ultima_alteracao_em") or "") >
+           (state["editais"][item[1]].get("email_enviado_em") or "")
+    ]
 
     print(f"\n  Novos pendentes:       {len(pendentes_novos)}")
     print(f"  Atualizados pendentes: {len(pendentes_atualizados)}")
