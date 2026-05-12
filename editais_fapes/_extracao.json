@@ -105,727 +105,197 @@
   },
   {
     "categoria": "difusao_do_conhecimento",
-    "titulo": "EDITAL FAPES Nº 02/2026 - PARTICIPAÇÃO EM EVENTOS TÉCNICO-CIENTÍFICOS",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_02-2026-Participação_Evento_Técnico_Científico.pdf",
-    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_02_2026_-_PARTICIPAÇÃO_EM_EVENTOS_TÉCNICO-CIENTÍFICOS.pdf",
-    "pdf_sha256": "5646b5790314d5a9240b1eea1576c8f82e99c09b41ef76781e5caebf322b74d3",
+    "titulo": "EDITAL FAPES Nº 28/2025 - PUBLICAÇÃO DE ARTIGOS TÉCNICO-CIENTÍFICOS",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_28_2025_Publicação_de_Artigos_Técnico-Científicos.pdf",
+    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_28_2025_-_PUBLICAÇÃO_DE_ARTIGOS_TÉCNICO-CIENTÍFICOS.pdf",
+    "pdf_sha256": "bf155ce0a6535e23bb786aa0a190d5e5b7054e242249cfed4ac408b3ef78f450",
     "alteracoes": [],
     "extracao": {
-      "objetivo": "O objetivo geral deste edital é selecionar e apoiar financeiramente pesquisadores e alunos para participação em eventos técnico-científicos de curta duração. Visa divulgar os resultados de projetos de pesquisa, desenvolvimento e inovação (P, D&I) desenvolvidos em instituições de ensino superior e/ou pesquisa, públicas ou privadas, localizadas no Estado do Espírito Santo.",
-      "publico_alvo": "Pesquisadores e alunos de pós-graduação vinculados a Instituição de Ensino e/ou Pesquisa (IES/P), pública ou privada, localizada no estado do Espírito Santo.",
-      "valor_total": "R$ 2.500.000,00",
-      "valor_por_proposta": "US$ 2.700,00",
-      "contato": "editais.duvidas@fapes.es.gov.br",
-      "cronograma": [
-        {
-          "evento": "Publicação do Edital",
-          "data_inicio": "2026-02-06",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para solicitação de atendimento especializado",
-          "data_inicio": null,
-          "data_fim": "2026-02-27",
-          "observacao": "até 10 dias antes do prazo final de submissão da 1ª Chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo para impugnação do edital",
-          "data_inicio": null,
-          "data_fim": "2026-03-02",
-          "observacao": "até 5 dias úteis antes do prazo final de submissão da 1ª Chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Período de submissão (1ª Chamada)",
-          "data_inicio": "2026-02-06",
-          "data_fim": "2026-03-09",
-          "observacao": "eventos com início entre 01/05/2026 a 31/07/2026, até as 17h59",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo para envio de dúvidas (1ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-03-07",
-          "observacao": "até 2 dias antes do prazo final de submissão da 1ª Chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar (1ª Chamada)",
-          "data_inicio": "2026-03-19",
-          "data_fim": null,
-          "observacao": "A partir de 19/03/2026",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos (1ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-03-26",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar da 1ª Chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final (1ª Chamada)",
-          "data_inicio": "2026-03-31",
-          "data_fim": null,
-          "observacao": "A partir de 31/03/2026",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de submissão (2ª Chamada)",
-          "data_inicio": "2026-03-17",
-          "data_fim": "2026-04-24",
-          "observacao": "eventos com início entre 01/08/2026 a 31/12/2026",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo para envio de dúvidas (2ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-04-22",
-          "observacao": "até 2 dias antes do prazo final de submissão da 2ª Chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar (2ª Chamada)",
-          "data_inicio": "2026-05-22",
-          "data_fim": null,
-          "observacao": "A partir de 22/05/2026",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos (2ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-05-29",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar da 2ª Chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final (2ª Chamada)",
-          "data_inicio": "2026-06-19",
-          "data_fim": null,
-          "observacao": "A partir de 19/06/2026",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de submissão (3ª Chamada)",
-          "data_inicio": "2026-07-01",
-          "data_fim": "2026-08-20",
-          "observacao": "eventos com início entre 04/01/2027 a 30/04/2027",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo para envio de dúvidas (3ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-08-18",
-          "observacao": "até 2 dias antes do prazo final de submissão da 3ª Chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar (3ª Chamada)",
-          "data_inicio": "2026-10-02",
-          "data_fim": null,
-          "observacao": "A partir de 02/10/2026",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos (3ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-10-09",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar da 3ª Chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final (3ª Chamada)",
-          "data_inicio": "2026-10-26",
-          "data_fim": null,
-          "observacao": "A partir de 26/10/2026",
-          "acao_do_proponente": false
-        }
-      ],
-      "observacoes_gerais": "O valor total do edital será distribuído em três chamadas. O valor por proposta é fixo e varia conforme o local do evento: R$ 1.800,00 para eventos no Brasil (exceto Espírito Santo), US$ 1.400,00 para América Central ou América do Sul, US$ 2.300,00 para América do Norte e US$ 2.700,00 para outros continentes. A Fapes pode alterar as datas e prazos do cronograma. Cada proponente pode apresentar apenas uma proposta por chamada. O prazo para informar dados bancários é de até 30 dias corridos após o início da vigência do Termo de Outorga. O prazo para envio da prestação de contas é de até 30 dias após o término da vigência do Termo de Outorga. A contratação das propostas aprovadas ocorrerá em até 30 dias após a publicação do resultado final homologado. O envio do comprovante de aceite do trabalho é condicional para o repasse do recurso e deve ser feito até 15 dias antes do evento.",
-      "_pdf_sha256": "5646b5790314d5a9240b1eea1576c8f82e99c09b41ef76781e5caebf322b74d3"
-    }
-  },
-  {
-    "categoria": "difusao_do_conhecimento",
-    "titulo": "EDITAL FAPES Nº 03/2026 - ORGANIZAÇÃO DE EVENTOS TÉCNICO-CIENTÍFICOS",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_03_2026_Organização_Eventos_Técnico-Científicos.pdf",
-    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_03_2026_-_ORGANIZAÇÃO_DE_EVENTOS_TÉCNICO-CIENTÍFICOS.pdf",
-    "pdf_sha256": "49b26219d13ebe50d1a841636568ae3491c4163f64f5ce1cb1d5139da06bbec6",
-    "alteracoes": [],
-    "extracao": {
-      "objetivo": "Este edital visa selecionar propostas para conceder apoio financeiro a pesquisadores de nível superior. O objetivo é fomentar a organização de eventos técnico-científicos de curta duração, como congressos, simpósios e seminários, a serem realizados no Espírito Santo.",
-      "publico_alvo": "Pesquisadores de nível superior vinculados a Instituição de Ensino Superior e/ou Pesquisa (IES/P), pública ou privada sem fins lucrativos, localizada no estado do Espírito Santo.",
-      "valor_total": "R$ 2.500.000,00",
-      "valor_por_proposta": "Varia de R$ 10.000,00 a R$ 35.000,00",
-      "contato": "editais.duvidas@fapes.es.gov.br",
-      "cronograma": [
-        {
-          "evento": "Publicação do Edital",
-          "data_inicio": "2026-02-06",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para impugnação do edital",
-          "data_inicio": null,
-          "data_fim": "2026-03-02",
-          "observacao": "Até 5 dias úteis antes do prazo final de submissão da 1ª chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "1ª Chamada - Período de submissão de propostas",
-          "data_inicio": "2026-02-06",
-          "data_fim": "2026-03-09",
-          "observacao": "Eventos com início entre 01/05/2026 a 31/07/2026, até 17h59",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "1ª Chamada - Prazo para envio de dúvidas",
-          "data_inicio": null,
-          "data_fim": "2026-03-07",
-          "observacao": "Até 2 dias antes do prazo final de submissão da 1ª chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "1ª Chamada - Divulgação do resultado preliminar",
-          "data_inicio": "2026-03-19",
-          "data_fim": null,
-          "observacao": "A partir de",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "1ª Chamada - Prazo para interposição de recursos",
-          "data_inicio": "2026-03-20",
-          "data_fim": "2026-03-26",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "1ª Chamada - Divulgação do resultado final",
-          "data_inicio": "2026-03-31",
-          "data_fim": null,
-          "observacao": "A partir de",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "2ª Chamada - Período de submissão de propostas",
-          "data_inicio": "2026-03-17",
-          "data_fim": "2026-04-24",
-          "observacao": "Eventos com início entre 01/08/2026 a 31/12/2026",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "2ª Chamada - Prazo para envio de dúvidas",
-          "data_inicio": null,
-          "data_fim": "2026-04-22",
-          "observacao": "Até 2 dias antes do prazo final de submissão da 2ª chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "2ª Chamada - Divulgação do resultado preliminar",
-          "data_inicio": "2026-05-22",
-          "data_fim": null,
-          "observacao": "A partir de",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "2ª Chamada - Prazo para interposição de recursos",
-          "data_inicio": "2026-05-23",
-          "data_fim": "2026-05-29",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "2ª Chamada - Divulgação do resultado final",
-          "data_inicio": "2026-06-19",
-          "data_fim": null,
-          "observacao": "A partir de",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "3ª Chamada - Período de submissão de propostas",
-          "data_inicio": "2026-07-01",
-          "data_fim": "2026-08-20",
-          "observacao": "Eventos com início entre 04/01/2027 a 30/04/2027",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "3ª Chamada - Prazo para envio de dúvidas",
-          "data_inicio": null,
-          "data_fim": "2026-08-18",
-          "observacao": "Até 2 dias antes do prazo final de submissão da 3ª chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "3ª Chamada - Divulgação do resultado preliminar",
-          "data_inicio": "2026-10-02",
-          "data_fim": null,
-          "observacao": "A partir de",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "3ª Chamada - Prazo para interposição de recursos",
-          "data_inicio": "2026-10-03",
-          "data_fim": "2026-10-09",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "3ª Chamada - Divulgação do resultado final",
-          "data_inicio": "2026-10-26",
-          "data_fim": null,
-          "observacao": "A partir de",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Contratação das propostas aprovadas",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 30 dias após a publicação do resultado final homologado para cada chamada. As datas exatas serão publicadas posteriormente.",
-          "acao_do_proponente": true
-        }
-      ],
-      "observacoes_gerais": "O valor do auxílio financeiro é fixo e varia de acordo com o nível do evento: R$ 10.000,00 para Estadual/Regional, R$ 20.000,00 para Nacional e R$ 35.000,00 para Internacional. A Fapes pode alterar as datas e os prazos do cronograma por necessidade ou decisão institucional. Cada proponente pode apresentar apenas uma proposta por chamada. Caso envie mais de uma, será considerada apenas a última enviada. O proponente que já tiver sido contratado neste edital não poderá submeter nova proposta. O evento deve ter duração máxima de 15 dias, consecutivos ou não, e ser chancelado por entidade/sociedade conforme o nível do evento (nacional ou internacional). Os recursos financeiros estão distribuídos por chamada e nível de evento, com possibilidade de remanejamento de saldos não utilizados entre níveis e chamadas subsequentes. É obrigatório mencionar o apoio da Fapes em todas as publicações e divulgações relacionadas ao projeto. A data de início do apoio poderá ser adiada, após a contratação, em até 12 meses, mediante justificativa.",
-      "_pdf_sha256": "49b26219d13ebe50d1a841636568ae3491c4163f64f5ce1cb1d5139da06bbec6"
-    }
-  },
-  {
-    "categoria": "difusao_do_conhecimento",
-    "titulo": "EDITAL FAPES Nº 04/2026 - ESTÁGIO TÉCNICO CIENTÍFICO",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_04_2026_-_Estágio_Técnico_Cientifico.pdf",
-    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_04_2026_-_ESTÁGIO_TÉCNICO_CIENTÍFICO.pdf",
-    "pdf_sha256": "7052905cad3fe12be74f8fb0a6ace861247edb7313ce8c9c2ed5621f00ffb207",
-    "alteracoes": [],
-    "extracao": {
-      "objetivo": "Selecionar propostas para concessão de auxílio financeiro para a realização de estágio técnico-científico. O estágio pode ser em laboratório ou centro de pesquisa, desenvolvimento ou inovação (PD&I), no país ou no exterior. O objetivo é aprimorar/desenvolver técnicas e processos, além de adquirir conhecimentos específicos vinculados a projetos de PD&I desenvolvidos em Instituições de Ensino e/ou Pesquisa (IES/P), públicas ou privadas, localizadas no estado do Espírito Santo.",
-      "publico_alvo": "Pesquisadores com título de doutor ou mestre, com vínculo ativo celetista ou estatutário em IES/P pública ou privada, localizada no estado do Espírito Santo. Alunos regularmente matriculados em curso de Mestrado ou Doutorado de IES/P localizada no Espírito Santo e recomendado pela CAPES.",
-      "valor_total": "R$ 2.000.000,00",
-      "valor_por_proposta": "R$ 10.000,00",
-      "contato": "editais.duvidas@fapes.es.gov.br",
-      "cronograma": [
-        {
-          "evento": "Publicação do Edital",
-          "data_inicio": "2026-02-06",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de submissão de propostas (1ª Chamada)",
-          "data_inicio": "2026-02-09",
-          "data_fim": "2026-03-12",
-          "observacao": "Para estágios com início entre 01/05/2026 a 31/07/2026, até as 17h59.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo final para envio de dúvidas (1ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-03-10",
-          "observacao": "Até 2 dias antes do prazo final de submissão. Para estágios com início entre 01/05/2026 a 31/07/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Período de submissão de propostas (2ª Chamada)",
-          "data_inicio": "2026-03-17",
-          "data_fim": "2026-04-24",
-          "observacao": "Para estágios com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar (1ª Chamada)",
-          "data_inicio": "2026-03-19",
-          "data_fim": null,
-          "observacao": "A partir de. Para estágios com início entre 01/05/2026 a 31/07/2026.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos (1ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-03-26",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar. Para estágios com início entre 01/05/2026 a 31/07/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final (1ª Chamada)",
-          "data_inicio": "2026-03-31",
-          "data_fim": null,
-          "observacao": "A partir de. Para estágios com início entre 01/05/2026 a 31/07/2026.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de Contratação (1ª Chamada)",
-          "data_inicio": "2026-03-31",
-          "data_fim": "2026-04-30",
-          "observacao": "Até 30 dias após a publicação do resultado final homologado. Para estágios com início entre 01/05/2026 a 31/07/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo final para envio de dúvidas (2ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-04-22",
-          "observacao": "Até 2 dias antes do prazo final de submissão. Para estágios com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar (2ª Chamada)",
-          "data_inicio": "2026-05-22",
-          "data_fim": null,
-          "observacao": "A partir de. Para estágios com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos (2ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-05-29",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar. Para estágios com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final (2ª Chamada)",
-          "data_inicio": "2026-06-19",
-          "data_fim": null,
-          "observacao": "A partir de. Para estágios com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de Contratação (2ª Chamada)",
-          "data_inicio": "2026-06-19",
-          "data_fim": "2026-07-19",
-          "observacao": "Até 30 dias após a publicação do resultado final homologado. Para estágios com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Período de submissão de propostas (3ª Chamada)",
-          "data_inicio": "2026-07-01",
-          "data_fim": "2026-08-20",
-          "observacao": "Para estágios com início entre 04/01/2027 a 30/04/2027.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo para impugnação do edital",
-          "data_inicio": null,
-          "data_fim": "2026-08-13",
-          "observacao": "Até 5 dias úteis anteriores ao encerramento do prazo de envio das propostas da última chamada.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo final para envio de dúvidas (3ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-08-18",
-          "observacao": "Até 2 dias antes do prazo final de submissão. Para estágios com início entre 04/01/2027 a 30/04/2027.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar (3ª Chamada)",
-          "data_inicio": "2026-10-02",
-          "data_fim": null,
-          "observacao": "A partir de. Para estágios com início entre 04/01/2027 a 30/04/2027.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos (3ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-10-09",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar. Para estágios com início entre 04/01/2027 a 30/04/2027.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final (3ª Chamada)",
-          "data_inicio": "2026-10-26",
-          "data_fim": null,
-          "observacao": "A partir de. Para estágios com início entre 04/01/2027 a 30/04/2027.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de Contratação (3ª Chamada)",
-          "data_inicio": "2026-10-26",
-          "data_fim": "2026-11-25",
-          "observacao": "Até 30 dias após a publicação do resultado final homologado. Para estágios com início entre 04/01/2027 a 30/04/2027.",
-          "acao_do_proponente": true
-        }
-      ],
-      "observacoes_gerais": "A Fapes pode alterar as datas e os prazos do cronograma por necessidade ou decisão institucional, podendo reabrir o prazo para recebimento de propostas em casos de força maior ou falhas comprovadas nas plataformas. Cada proponente pode apresentar apenas uma proposta por chamada. Não é permitida a contratação concomitante de projeto de estágio técnico-científico e visita técnico-científica para o mesmo período/chamada. O coordenador pode solicitar o adiamento da data de início do estágio por até 30 dias após a contratação, mediante justificativa. É obrigatório mencionar o apoio da Fapes em todas as publicações ou divulgações relacionadas ao projeto.",
-      "_pdf_sha256": "7052905cad3fe12be74f8fb0a6ace861247edb7313ce8c9c2ed5621f00ffb207"
-    }
-  },
-  {
-    "categoria": "difusao_do_conhecimento",
-    "titulo": "EDITAL FAPES Nº 05/2026 - VISITA TÉCNICO-CIENTÍFICA",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Fapes%2005_2026%20-%20Visita%20Técnico%20Cientifica%20(1).pdf",
-    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_05_2026_-_VISITA_TÉCNICO-CIENTÍFICA.pdf",
-    "pdf_sha256": "236df851842c70a51ee6b834d7c2757d97fac6cdd203b1791864ed96e68e341b",
-    "alteracoes": [],
-    "extracao": {
-      "objetivo": "Selecionar propostas para concessão de auxílio financeiro para a realização de visitas técnico-científicas em laboratórios ou centros de pesquisa, desenvolvimento ou inovação (PD&I), no Brasil ou no exterior. O objetivo é aprimorar técnicas, processos e adquirir conhecimentos específicos para projetos de PD&I desenvolvidos em Instituições de Ensino e/ou Pesquisa (IES/P) públicas ou privadas no Espírito Santo.",
-      "publico_alvo": "Pesquisadores com título de doutor ou mestre, com vínculo ativo celetista ou estatutário em IES/P públicas ou privadas no Espírito Santo; e alunos regularmente matriculados em cursos de Mestrado ou Doutorado de IES/P no Espírito Santo, reconhecidos pela CAPES, CNE e/ou MEC.",
-      "valor_total": "R$ 2.000.000,00",
-      "valor_por_proposta": "US$ 2.600,00",
-      "contato": "editais.duvidas@fapes.es.gov.br",
-      "cronograma": [
-        {
-          "evento": "Publicação do Edital",
-          "data_inicio": "2026-02-06",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Submissão de propostas (1ª Chamada)",
-          "data_inicio": "2026-02-09",
-          "data_fim": "2026-03-12",
-          "observacao": "Até as 17h59. Para visitas com início entre 01/05/2026 a 31/07/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo final para impugnação do edital",
-          "data_inicio": null,
-          "data_fim": "2026-03-05",
-          "observacao": "Até o quinto dia útil que anteceder o prazo final de submissão da 1ª Chamada.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo para envio de dúvidas sobre o edital (1ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-03-10",
-          "observacao": "Até 2 dias antes do prazo final de submissão.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Submissão de propostas (2ª Chamada)",
-          "data_inicio": "2026-03-17",
-          "data_fim": "2026-04-24",
-          "observacao": "Para visitas com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar (1ª Chamada)",
-          "data_inicio": "2026-03-19",
-          "data_fim": null,
-          "observacao": "A partir desta data.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos (1ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-03-26",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final (1ª Chamada)",
-          "data_inicio": "2026-03-31",
-          "data_fim": null,
-          "observacao": "A partir desta data.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para envio de dúvidas sobre o edital (2ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-04-22",
-          "observacao": "Até 2 dias antes do prazo final de submissão.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar (2ª Chamada)",
-          "data_inicio": "2026-05-22",
-          "data_fim": null,
-          "observacao": "A partir desta data.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos (2ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-05-29",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final (2ª Chamada)",
-          "data_inicio": "2026-06-19",
-          "data_fim": null,
-          "observacao": "A partir desta data.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Submissão de propostas (3ª Chamada)",
-          "data_inicio": "2026-07-01",
-          "data_fim": "2026-08-20",
-          "observacao": "Para visitas com início entre 04/01/2027 a 30/04/2027.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo para envio de dúvidas sobre o edital (3ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-08-18",
-          "observacao": "Até 2 dias antes do prazo final de submissão.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar (3ª Chamada)",
-          "data_inicio": "2026-10-02",
-          "data_fim": null,
-          "observacao": "A partir desta data.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos (3ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-10-09",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final (3ª Chamada)",
-          "data_inicio": "2026-10-26",
-          "data_fim": null,
-          "observacao": "A partir desta data.",
-          "acao_do_proponente": false
-        }
-      ],
-      "observacoes_gerais": "A Fapes pode alterar as datas e os prazos do cronograma por necessidade institucional, podendo reabrir prazos em casos de força maior ou falhas de sistema, com publicidade das alterações. Cada proponente pode submeter apenas uma proposta por chamada; em caso de múltiplas submissões, apenas a última será considerada. Proponentes já contratados neste edital não poderão submeter nova proposta. Após a contratação, o beneficiário pode solicitar adiamento da data de início da visita por até 30 dias, mediante justificativa e autorização. Não será permitida a alteração da instituição de destino da visita técnico-científica após a contratação.",
-      "_pdf_sha256": "236df851842c70a51ee6b834d7c2757d97fac6cdd203b1791864ed96e68e341b"
-    }
-  },
-  {
-    "categoria": "difusao_do_conhecimento",
-    "titulo": "EDITAL FAPES N° 25/2025 - PARTICIPAÇÃO DE EQUIPES DE ESTUDANTES EM MOSTRAS E COMPETIÇÕES TÉCNICO-CIENTÍFICAS",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_N_25_2025_Participação_Equipe_em_Mostras_e_Competições.pdf",
-    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_N°_25_2025_-_PARTICIPAÇÃO_DE_EQUIPES_DE_ESTUDANTES_EM_MOSTRAS_E_COMPETIÇÕES_TÉCNICO-CIENTÍFICAS.pdf",
-    "pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c",
-    "alteracoes": [],
-    "extracao": {
-      "objetivo": "Conceder apoio financeiro a equipes formadas por estudantes de nível médio, de graduação e pós-graduação, coordenadas por um professor orientador. O objetivo é permitir a participação dessas equipes em mostras e competições técnico-científicas de âmbito regional, nacional ou internacional, visando a divulgação e difusão de resultados obtidos por instituições de ensino do Espírito Santo.",
-      "publico_alvo": "Professores(as) coordenadores(as) de equipes de 3 a 5 estudantes, vinculados(as) a instituições de ensino médio públicas ou instituições de ensino superior públicas ou privadas localizadas no estado do Espírito Santo. O proponente deve ter formação mínima de nível superior, vínculo ativo com a instituição, atuar em sala de aula na mesma instituição dos estudantes, ter Lattes atualizado há menos de 6 meses, estar regularizado junto à Fapes e morar no Espírito Santo ou municípios limítrofes. Estudantes de instituições privadas devem ser bolsistas integrais financiados por programas governamentais estaduais ou federais.",
-      "valor_total": "R$ 500.000,00",
+      "objetivo": "O objetivo geral deste edital é incentivar a publicação científica e tecnológica no Espírito Santo por meio da concessão de auxílio financeiro para publicação de artigos técnico-científicos. O edital visa apoiar artigos que apresentem resultados de pesquisa desenvolvidas em Instituições de Ensino e/ou Pesquisa no estado, valorizando a produção técnico-científica e ampliando sua visibilidade.",
+      "publico_alvo": "Pesquisador ou aluno em atividade de pesquisa ou desenvolvimento inovador em Instituição de Ensino e/ou Pesquisa (IES/P) localizada no estado do Espírito Santo.",
+      "valor_total": "R$ 800.000,00",
       "valor_por_proposta": "US$ 1.500,00",
-      "contato": "editais.duvidas@fapes.es.gov.br, sucon@fapes.es.gov.br",
+      "contato": "editais.duvidas@fapes.es.gov.br",
       "cronograma": [
         {
-          "evento": "Publicação do edital",
-          "data_inicio": "2025-11-10",
-          "data_fim": "2025-11-10",
-          "observacao": "Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+          "evento": "Publicação do Edital",
+          "data_inicio": "2025-12-22",
+          "data_fim": null,
+          "observacao": null,
           "acao_do_proponente": false
         },
         {
-          "evento": "Prazo para impugnação do edital",
+          "evento": "Prazo para impugnação do Edital",
           "data_inicio": null,
-          "data_fim": null,
-          "observacao": "5 dias úteis antes do encerramento do prazo de submissão da 1ª Chamada",
+          "data_fim": "2026-02-18",
+          "observacao": "Até 5 dias úteis antes do encerramento do prazo de submissão da primeira chamada.",
           "acao_do_proponente": true
         },
         {
-          "evento": "Submissão de propostas",
-          "data_inicio": "2025-11-10",
-          "data_fim": "2025-12-16",
-          "observacao": "Até as 17h:59. Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+          "evento": "Submissão de propostas - 1ª Chamada",
+          "data_inicio": "2025-12-22",
+          "data_fim": "2026-02-25",
+          "observacao": "Até as 17h59",
           "acao_do_proponente": true
         },
         {
-          "evento": "Divulgação do resultado preliminar",
-          "data_inicio": "2026-01-09",
+          "evento": "Divulgação do resultado preliminar - 1ª Chamada",
+          "data_inicio": "2026-03-06",
           "data_fim": null,
-          "observacao": "Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+          "observacao": "A partir desta data",
           "acao_do_proponente": false
         },
         {
-          "evento": "Interposição de recursos administrativos",
+          "evento": "Interposição de recursos - 1ª Chamada",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "5 dias úteis a partir da publicação do resultado preliminar. Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+          "observacao": "5 dias úteis após a publicação do resultado preliminar",
           "acao_do_proponente": true
         },
         {
-          "evento": "Divulgação do resultado homologado",
-          "data_inicio": "2026-01-30",
-          "data_fim": null,
-          "observacao": "Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+          "evento": "Divulgação do resultado final - 1ª Chamada",
+          "data_inicio": null,
+          "data_fim": "2026-03-31",
+          "observacao": null,
           "acao_do_proponente": false
         },
         {
-          "evento": "Submissão de propostas",
-          "data_inicio": "2026-03-04",
-          "data_fim": "2026-04-09",
-          "observacao": "Até as 17:59h. Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
+          "evento": "Contratação / Assinatura do TO e envio de documentos - 1ª Chamada",
+          "data_inicio": null,
+          "data_fim": "2026-04-30",
+          "observacao": "Até 30 dias após a publicação do resultado final homologado.",
           "acao_do_proponente": true
         },
         {
-          "evento": "Divulgação do resultado preliminar",
-          "data_inicio": "2026-04-30",
+          "evento": "Submissão de propostas - 2ª Chamada",
+          "data_inicio": "2026-03-19",
+          "data_fim": "2026-05-25",
+          "observacao": "Até as 17h59",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar - 2ª Chamada",
+          "data_inicio": "2026-06-05",
           "data_fim": null,
-          "observacao": "Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
+          "observacao": "A partir desta data",
           "acao_do_proponente": false
         },
         {
-          "evento": "Interposição de recursos administrativos",
+          "evento": "Interposição de recursos - 2ª Chamada",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "5 dias úteis a partir da publicação do resultado preliminar. Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
+          "observacao": "5 dias úteis após a publicação do resultado preliminar",
           "acao_do_proponente": true
         },
         {
-          "evento": "Divulgação do resultado homologado",
-          "data_inicio": "2026-05-29",
-          "data_fim": null,
-          "observacao": "Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
+          "evento": "Divulgação do resultado final - 2ª Chamada",
+          "data_inicio": null,
+          "data_fim": "2026-06-30",
+          "observacao": null,
           "acao_do_proponente": false
         },
         {
-          "evento": "Submissão de propostas",
-          "data_inicio": "2026-08-04",
-          "data_fim": "2026-09-11",
-          "observacao": "Até as 17h:59. Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
+          "evento": "Contratação / Assinatura do TO e envio de documentos - 2ª Chamada",
+          "data_inicio": null,
+          "data_fim": "2026-07-30",
+          "observacao": "Até 30 dias após a publicação do resultado final homologado.",
           "acao_do_proponente": true
         },
         {
-          "evento": "Divulgação do resultado preliminar",
-          "data_inicio": "2026-09-30",
+          "evento": "Submissão de propostas - 3ª Chamada",
+          "data_inicio": "2026-06-19",
+          "data_fim": "2026-08-25",
+          "observacao": "Até as 17h59",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar - 3ª Chamada",
+          "data_inicio": "2026-09-04",
           "data_fim": null,
-          "observacao": "Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
+          "observacao": "A partir desta data",
           "acao_do_proponente": false
         },
         {
-          "evento": "Interposição de recursos administrativos",
+          "evento": "Interposição de recursos - 3ª Chamada",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "5 dias úteis a partir da publicação do resultado preliminar. Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
+          "observacao": "5 dias úteis após a publicação do resultado preliminar",
           "acao_do_proponente": true
         },
         {
-          "evento": "Divulgação do resultado homologado",
-          "data_inicio": "2026-10-30",
-          "data_fim": null,
-          "observacao": "Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
+          "evento": "Divulgação do resultado final - 3ª Chamada",
+          "data_inicio": null,
+          "data_fim": "2026-09-30",
+          "observacao": null,
           "acao_do_proponente": false
         },
         {
-          "evento": "Contratação e assinatura do Termo de Outorga",
+          "evento": "Contratação / Assinatura do TO e envio de documentos - 3ª Chamada",
           "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 30 dias após a publicação do resultado final homologado. Período específico de assinatura será definido após a homologação.",
+          "data_fim": "2026-10-30",
+          "observacao": "Até 30 dias após a publicação do resultado final homologado.",
           "acao_do_proponente": true
         },
         {
-          "evento": "Prazo para informar dados bancários",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 30 dias após a assinatura e publicação do Termo de Outorga",
+          "evento": "Submissão de propostas - 4ª Chamada",
+          "data_inicio": "2026-09-06",
+          "data_fim": "2026-10-26",
+          "observacao": "Até as 17h59",
           "acao_do_proponente": true
         },
         {
-          "evento": "Prazo para prestação de contas",
+          "evento": "Divulgação do resultado preliminar - 4ª Chamada",
+          "data_inicio": "2026-11-05",
+          "data_fim": null,
+          "observacao": "A partir desta data",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Interposição de recursos - 4ª Chamada",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "Até 30 dias após o término da vigência do Termo de Outorga",
+          "observacao": "5 dias úteis após a publicação do resultado preliminar",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final - 4ª Chamada",
+          "data_inicio": null,
+          "data_fim": "2026-11-30",
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Contratação / Assinatura do TO e envio de documentos - 4ª Chamada",
+          "data_inicio": null,
+          "data_fim": "2026-12-30",
+          "observacao": "Até 30 dias após a publicação do resultado final homologado.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Início da execução do projeto",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Primeiro dia do mês subsequente à data de assinatura do Termo de Outorga. Prazo máximo de execução de 12 meses.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Informar dados da conta bancária",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Até 30 dias a partir do início da vigência do TO (publicação no DIO-ES).",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Prestação de contas",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Até 30 dias após o término de vigência do Termo de Outorga.",
           "acao_do_proponente": true
         }
       ],
-      "observacoes_gerais": "O valor por proposta varia conforme a categoria do evento: R$ 500,00 para eventos regionais, R$ 1.200,00 para eventos nacionais e US$ 1.500,00 para eventos internacionais. O edital prevê três chamadas com períodos de submissão e eventos distintos. O início do evento proposto deve corresponder ao período da chamada selecionada. A Fapes pode alterar as datas e prazos definidos no cronograma. Cada coordenador pode apresentar apenas uma proposta. Não são contempladas propostas para participação em concursos ou premiações sem natureza acadêmica, técnico-científica ou tecnológica, ou competições esportivas.",
-      "_pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c"
+      "observacoes_gerais": "O proponente poderá ser contratado para no máximo 2 propostas, desde que submetidas em chamadas distintas. Cada coordenador pode apresentar apenas uma proposta a este edital, sendo considerada a última enviada em caso de múltiplas submissões. O apoio financeiro é exclusivo para pagamento de taxa de publicação de artigos técnico-científicos. Se houver saldo de recursos financeiros não utilizados em uma chamada, o valor poderá ser aplicado na chamada subsequente. É obrigatório mencionar o apoio da Fapes de forma clara e visível em todas as publicações ou divulgações relacionadas ao projeto.",
+      "_pdf_sha256": "bf155ce0a6535e23bb786aa0a190d5e5b7054e242249cfed4ac408b3ef78f450",
+      "_alteracoes_sha256": []
     }
   },
   {

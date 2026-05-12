@@ -1,0 +1,187 @@
+{
+  "objetivo": "O objetivo geral deste edital é incentivar a publicação científica e tecnológica no Espírito Santo por meio da concessão de auxílio financeiro para publicação de artigos técnico-científicos. O edital visa apoiar artigos que apresentem resultados de pesquisa desenvolvidas em Instituições de Ensino e/ou Pesquisa no estado, valorizando a produção técnico-científica e ampliando sua visibilidade.",
+  "publico_alvo": "Pesquisador ou aluno em atividade de pesquisa ou desenvolvimento inovador em Instituição de Ensino e/ou Pesquisa (IES/P) localizada no estado do Espírito Santo.",
+  "valor_total": "R$ 800.000,00",
+  "valor_por_proposta": "US$ 1.500,00",
+  "contato": "editais.duvidas@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do Edital",
+      "data_inicio": "2025-12-22",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para impugnação do Edital",
+      "data_inicio": null,
+      "data_fim": "2026-02-18",
+      "observacao": "Até 5 dias úteis antes do encerramento do prazo de submissão da primeira chamada.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas - 1ª Chamada",
+      "data_inicio": "2025-12-22",
+      "data_fim": "2026-02-25",
+      "observacao": "Até as 17h59",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar - 1ª Chamada",
+      "data_inicio": "2026-03-06",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos - 1ª Chamada",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis após a publicação do resultado preliminar",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final - 1ª Chamada",
+      "data_inicio": null,
+      "data_fim": "2026-03-31",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Contratação / Assinatura do TO e envio de documentos - 1ª Chamada",
+      "data_inicio": null,
+      "data_fim": "2026-04-30",
+      "observacao": "Até 30 dias após a publicação do resultado final homologado.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas - 2ª Chamada",
+      "data_inicio": "2026-03-19",
+      "data_fim": "2026-05-25",
+      "observacao": "Até as 17h59",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar - 2ª Chamada",
+      "data_inicio": "2026-06-05",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos - 2ª Chamada",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis após a publicação do resultado preliminar",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final - 2ª Chamada",
+      "data_inicio": null,
+      "data_fim": "2026-06-30",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Contratação / Assinatura do TO e envio de documentos - 2ª Chamada",
+      "data_inicio": null,
+      "data_fim": "2026-07-30",
+      "observacao": "Até 30 dias após a publicação do resultado final homologado.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas - 3ª Chamada",
+      "data_inicio": "2026-06-19",
+      "data_fim": "2026-08-25",
+      "observacao": "Até as 17h59",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar - 3ª Chamada",
+      "data_inicio": "2026-09-04",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos - 3ª Chamada",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis após a publicação do resultado preliminar",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final - 3ª Chamada",
+      "data_inicio": null,
+      "data_fim": "2026-09-30",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Contratação / Assinatura do TO e envio de documentos - 3ª Chamada",
+      "data_inicio": null,
+      "data_fim": "2026-10-30",
+      "observacao": "Até 30 dias após a publicação do resultado final homologado.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas - 4ª Chamada",
+      "data_inicio": "2026-09-06",
+      "data_fim": "2026-10-26",
+      "observacao": "Até as 17h59",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar - 4ª Chamada",
+      "data_inicio": "2026-11-05",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos - 4ª Chamada",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis após a publicação do resultado preliminar",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final - 4ª Chamada",
+      "data_inicio": null,
+      "data_fim": "2026-11-30",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Contratação / Assinatura do TO e envio de documentos - 4ª Chamada",
+      "data_inicio": null,
+      "data_fim": "2026-12-30",
+      "observacao": "Até 30 dias após a publicação do resultado final homologado.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Início da execução do projeto",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Primeiro dia do mês subsequente à data de assinatura do Termo de Outorga. Prazo máximo de execução de 12 meses.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Informar dados da conta bancária",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 30 dias a partir do início da vigência do TO (publicação no DIO-ES).",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Prestação de contas",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 30 dias após o término de vigência do Termo de Outorga.",
+      "acao_do_proponente": true
+    }
+  ],
+  "observacoes_gerais": "O proponente poderá ser contratado para no máximo 2 propostas, desde que submetidas em chamadas distintas. Cada coordenador pode apresentar apenas uma proposta a este edital, sendo considerada a última enviada em caso de múltiplas submissões. O apoio financeiro é exclusivo para pagamento de taxa de publicação de artigos técnico-científicos. Se houver saldo de recursos financeiros não utilizados em uma chamada, o valor poderá ser aplicado na chamada subsequente. É obrigatório mencionar o apoio da Fapes de forma clara e visível em todas as publicações ou divulgações relacionadas ao projeto.",
+  "_pdf_sha256": "bf155ce0a6535e23bb786aa0a190d5e5b7054e242249cfed4ac408b3ef78f450",
+  "_alteracoes_sha256": []
+}
