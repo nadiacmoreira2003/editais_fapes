@@ -1111,6 +1111,54 @@
   },
   {
     "categoria": "chamadas_internacionais",
+    "titulo": "CHAMADA ERC-CONFAP 2026",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada-ERC-CONFAP-2026.pdf",
+    "arquivo_local": "chamadas_internacionais/CHAMADA_ERC-CONFAP_2026.pdf",
+    "pdf_sha256": "2faa8c55e76fedc9fe43b740034b8ce8144d11e145dc3dcdfb45641a76eee84b",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "O edital convida pesquisadores do Brasil a buscar colaborações de pesquisa com Pesquisadores Principais já apoiados por bolsas do Conselho Europeu de Pesquisa (ERC) financiadas pela UE. O objetivo é proporcionar oportunidades de pesquisa na Europa para pesquisadores brasileiros ativos, promovendo intercâmbios científicos e o desenvolvimento de projetos colaborativos.",
+      "publico_alvo": "Pesquisadores ativos do Brasil, com título de PhD, que estejam desenvolvendo atividades de pesquisa em universidades, institutos ou centros de pesquisa brasileiros.",
+      "valor_total": null,
+      "valor_por_proposta": null,
+      "contato": "internacional.confap@gmail.com",
+      "cronograma": [
+        {
+          "evento": "Lancamento do edital",
+          "data_inicio": null,
+          "data_fim": "2026-05-06",
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Submissao de propostas",
+          "data_inicio": null,
+          "data_fim": "2026-07-10",
+          "observacao": "Propostas completas, incluindo todos os documentos solicitados no Item nº 6.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgacao do resultado final",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Os resultados serão publicados na página do CONFAP: http://www.confap.org.br/",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Inicio da execucao",
+          "data_inicio": "2026-10-01",
+          "data_fim": null,
+          "observacao": "Os intercâmbios científicos podem durar de 6 a 12 meses ou ser divididos em visitas múltiplas e mais curtas.",
+          "acao_do_proponente": false
+        }
+      ],
+      "observacoes_gerais": "Os pesquisadores elegíveis devem registrar sua expressão de interesse no portal online https://sistema.confap.org.br/ e preencher os itens listados. Após o registro e verificação de elegibilidade, terão acesso à lista de projetos ERC-financiados que podem hospedar pesquisadores brasileiros. Os pesquisadores devem contatar o Pesquisador Principal do ERC para acordar a colaboração e definir um Plano de Trabalho. As FAPs participantes fornecerão apoio para despesas de viagem e outros apoios complementares, cujas modalidades devem ser consultadas junto às agências. Os pesquisadores continuarão a receber seus salários/bolsas de acordo com os termos institucionais. Mais informações sobre 'ERC teams open to the world' estão disponíveis em https://erc.europa.eu/managing-your-project/set-and-develop-your-team. O edital é apoiado pelas seguintes FAPs: Fundação Araucária - Paraná, FACEPE - Pernambuco, FAPDF - Distrito Federal, FAPEAL - Alagoas, FAPEAM - Amazonas, FAPEAP - Amapá, FAPEG - Goiás, FAPERGS - Rio Grande do Sul, FAPES - Espírito Santo, FAPESB - Bahia, FAPESC - Santa Catarina, FAPESP - São Paulo, FAPESPA - Pará, FAPERR - Roraima.",
+      "_pdf_sha256": "2faa8c55e76fedc9fe43b740034b8ce8144d11e145dc3dcdfb45641a76eee84b",
+      "_alteracoes_sha256": []
+    }
+  },
+  {
+    "categoria": "chamadas_internacionais",
     "titulo": "CHAMADA HORIZON EUROPE",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20Fapes%20Horizon%20Europe%202021-2027-1.pdf",
     "arquivo_local": "chamadas_internacionais/CHAMADA_HORIZON_EUROPE.pdf",

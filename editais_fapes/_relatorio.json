@@ -157,8 +157,26 @@
   {
     "categoria": "chamadas_internacionais",
     "url": "https://fapes.es.gov.br/chamadas-internacionais",
-    "total": 4,
+    "total": 5,
     "editais": [
+      {
+        "titulo": "CHAMADA ERC-CONFAP 2026",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada-ERC-CONFAP-2026.pdf",
+        "alteracoes": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada%20ERC-Site_CONFAP.pdf",
+            "titulo": "PUBLICAÇÃO CONFAP - Chamada ERC-CONFAP 2026"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20FAPES_Chamada_ERC_2026.pdf",
+            "titulo": "DIRETRIZES FAPES PARA CHAMADA ERC-CONFAP 2026"
+          }
+        ],
+        "arquivo_local": "chamadas_internacionais/CHAMADA_ERC-CONFAP_2026.pdf",
+        "pdf_sha256": "2faa8c55e76fedc9fe43b740034b8ce8144d11e145dc3dcdfb45641a76eee84b",
+        "status": "novo"
+      },
       {
         "titulo": "CHAMADA HORIZON EUROPE",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20Fapes%20Horizon%20Europe%202021-2027-1.pdf",
