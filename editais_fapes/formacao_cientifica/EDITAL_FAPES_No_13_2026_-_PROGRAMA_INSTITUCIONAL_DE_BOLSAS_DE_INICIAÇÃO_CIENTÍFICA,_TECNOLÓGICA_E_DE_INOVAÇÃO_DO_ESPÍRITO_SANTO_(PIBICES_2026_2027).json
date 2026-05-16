@@ -1,0 +1,82 @@
+{
+  "objetivo": "O Programa Institucional de Bolsas de Iniciação Científica, Tecnológica e de Inovação do Estado do Espírito Santo (PIBICES) visa fomentar a participação de estudantes de graduação em atividades sistemáticas de pesquisa científica, desenvolvimento tecnológico e inovação. O edital busca fortalecer o sistema capixaba de pesquisa e a formação de recursos humanos qualificados, contribuindo para a ampliação da cultura científica e a produção de conhecimento alinhada às demandas da sociedade. Serão concedidas cotas institucionais de bolsas para Programas Institucionais de Bolsas de Iniciação Científica, Tecnológica e de Inovação (PIBICTI) em Instituições de Ensino Superior e/ou Pesquisa.",
+  "publico_alvo": "Coordenadores Institucionais de Programas de Bolsas de Iniciação Científica, Tecnológica e de Inovação (PIBICTI) vinculados a Instituições de Ensino Superior e/ou Pesquisa (IES/P), públicas ou privadas, localizadas no estado do Espírito Santo, que sejam pesquisadores/docentes com título de mestre ou doutor e vínculo empregatício indeterminado com a IES/P.",
+  "valor_total": "R$ 8.640.000,00",
+  "valor_por_proposta": null,
+  "contato": "bolsas.duvidas@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do edital",
+      "data_inicio": "2026-05-15",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Impugnação do edital",
+      "data_inicio": null,
+      "data_fim": "2026-06-16",
+      "observacao": "até 5 dias úteis anteriores ao encerramento do prazo de envio das propostas",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão das propostas",
+      "data_inicio": null,
+      "data_fim": "2026-06-23",
+      "observacao": "até as 17h59 (horário de Brasília)",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar de habilitação e distribuição das bolsas",
+      "data_inicio": "2026-07-07",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos (habilitação)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "até 5 dias úteis após a divulgação do resultado preliminar",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado homologado de habilitação e distribuição das bolsas",
+      "data_inicio": "2026-07-24",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Contratação dos projetos",
+      "data_inicio": "2026-08-03",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Início da vigência dos projetos",
+      "data_inicio": "2026-09-01",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Indicação dos bolsistas",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "a partir do início de vigência do Termo de Outorga",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Duração das bolsas",
+      "data_inicio": "2026-09-01",
+      "data_fim": "2027-08-31",
+      "observacao": null,
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "Serão disponibilizadas 800 bolsas de Iniciação Científica e Tecnológica (ICT). Cada bolsa terá duração mínima de 4 e máxima de 12 meses, com valor mensal atual de R$ 900,00. A modalidade de concessão da bolsa é por cooperação financeira não reembolsável. É obrigatório mencionar o apoio da Fapes em todas as publicações ou divulgações de atividades, utilizando a citação padrão fornecida no edital. A Fapes pode alterar datas e prazos do cronograma ou reabrir prazos em casos de força maior ou falhas comprovadas nos sistemas.",
+  "_pdf_sha256": "244461f35f9951a187bfd07cc6956593a21a44dd6e088f844a8336a42d1eea7d",
+  "_alteracoes_sha256": []
+}
