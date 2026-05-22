@@ -54,13 +54,61 @@
   {
     "categoria": "extensao",
     "url": "https://fapes.es.gov.br/editais-abertos-extensao-2",
-    "erro": "HTTPSConnectionPool(host='fapes.es.gov.br', port=443): Read timed out.",
-    "editais": []
+    "total": 2,
+    "editais": [
+      {
+        "titulo": "EDITAL FAPES Nº 01/2026 - TCC EMPREENDEDOR INOVADOR",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_01.2026_TCC_EMPREENDEDOR_INOVADOR.pdf",
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/1ª_retificação_-_Edital_01-2026_-_TCC_Empreendedor_Inovador.pdf",
+            "titulo": "EDITAL FAPES Nº 01/2026 - TCC EMPREENDEDOR INOVADOR (1ª ALTERAÇÃO)",
+            "arquivo_local": "extensao/_alteracoes/EDITAL_FAPES_No_01_2026_-_TCC_EMPREENDEDOR_INOVADOR_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "c5861bb9c4c75ee7c69b553f755532c53617b5b83d71f2f8944f4d1fbb466dde"
+          }
+        ],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20I%20-%20Formulário%20de%20Submissão%20TCC.docx",
+            "titulo": "ANEXO I - Formulário de Submissão TCC"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20II%20-%20Declaração%20de%20Matrícula.docx",
+            "titulo": "ANEXO II - Declaração de Matrícula"
+          }
+        ],
+        "arquivo_local": "extensao/EDITAL_FAPES_No_01_2026_-_TCC_EMPREENDEDOR_INOVADOR.pdf",
+        "pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34",
+        "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%20Assinado.pdf",
+        "alteracoes": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20II%20-%20Formulário%20de%20Submissão%20-%20Edital%20Extensão%20Tecnológica%20-%2012-2026.docx",
+            "titulo": "ANEXO II - FORMULÁRIO DE SUBMISSÃO"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20III%20-%20TERMO%20DE%20CONCORDÂNCIA%20E%20COMPROMISSO%20DA%20ORGANIZAÇÃO%20PARCEIRA%20-%20Edital%2012-2026.docx",
+            "titulo": "ANEXO III - TERMO DE CONCORDÂNCIA E COMPROMISSO DA ORGANIZAÇÃO PARCEIRA"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20IV%20-%20Declaração%20de%20Ciência%20do%20NIT-%20Edital%2012-2026.docx",
+            "titulo": "ANEXO IV - DECLARAÇÃO DE CIÊNCIA DO NIT"
+          }
+        ],
+        "arquivo_local": "extensao/EDITAL_FAPES_No_12_2026_-_EXTENSÃO_TECNOLÓGICA.pdf",
+        "pdf_sha256": "55194574f15f2190c6d6dec46df141029d3a300a09889c4bfc92903bc26cceff",
+        "status": "novo"
+      }
+    ]
   },
   {
     "categoria": "inovacao",
     "url": "https://fapes.es.gov.br/inovacao",
-    "total": 3,
+    "total": 4,
     "editais": [
       {
         "titulo": "EDITAL FAPES Nº 06/2026 - APOIO AOS CLUSTERS DE INOVAÇÃO CAPIXABA",
@@ -111,6 +159,36 @@
         "anexos": [],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_10_2026_-_DR._EMPREENDEDOR_CAPIXABA.pdf",
         "pdf_sha256": "b6980dd84b31824b29d134dcea655da752c87e9d6d84595bdfa9312d25904237",
+        "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES N° 11/2026 – PROGRAMA GÊNESIS",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Programa%20Gênesis%202026%20-%20Assinado.pdf",
+        "alteracoes": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20I%20-%20FORMULÁRIO%20DE%20SUBMISSÃO%20DA%20PROPOSTA%20–%20FASE%201%20-%20GÊNESIS%202026.docx",
+            "titulo": "ANEXO I - FORMULÁRIO DE SUBMISSÃO DA PROPOSTA – FASE 1 - GÊNESIS 2026"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20II%20-%20FORMULÁRIO%20DE%20SUBMISSÃO%20DA%20PROPOSTA%20–%20FASE%202%20-%20GÊNESIS%202026.docx",
+            "titulo": "ANEXO II - FORMULÁRIO DE SUBMISSÃO DA PROPOSTA – FASE 2 - GÊNESIS 2026"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20IV%20-%20DECLARAÇÃO%20DE%20PARTICIPAÇÃO%20NO%20PROGRAMA%20GÊNESIS%20-%20GÊNESIS%202026.docx",
+            "titulo": "ANEXO IV - DECLARAÇÃO DE PARTICIPAÇÃO NO PROGRAMA GÊNESIS - GÊNESIS 2026"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20V%20-%20DECLARAÇÃO%20DE%20CONFORMIDADE%20DA%20EQUIPE%20DO%20PROJETO%20-%20GÊNESIS%202026.docx",
+            "titulo": "ANEXO V - DECLARAÇÃO DE CONFORMIDADE DA EQUIPE DO PROJETO - GÊNESIS 2026"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20VI%20-%20DECLARAÇÃO%20DE%20CIÊNCIA%20DE%20CONTEÚDO%20DO%20PROJETO%20E%20AUTORIZAÇÃO%20DE%20EXECUÇÃO%20-%20GÊNESIS%202026.docx",
+            "titulo": "ANEXO VI - DECLARAÇÃO DE CIÊNCIA DE CONTEÚDO DO PROJETO E AUTORIZAÇÃO DE EXECUÇÃO - GÊNESIS 2026"
+          }
+        ],
+        "arquivo_local": "inovacao/EDITAL_FAPES_N°_11_2026_–_PROGRAMA_GÊNESIS.pdf",
+        "pdf_sha256": "91f37ac6ac440170364e589b9f01d452d77cab755a3f3b81f758f569c38e8749",
         "status": "novo"
       }
     ]
