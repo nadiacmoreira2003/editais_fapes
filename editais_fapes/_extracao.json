@@ -194,6 +194,137 @@
     }
   },
   {
+    "categoria": "formacao_cientifica",
+    "titulo": "EDITAL FAPES/SEGER Nº 14/2026 - PROGRAMA TALENTOS GLOBAIS ESPÍRITO SANTO - MESTRADO INTERNACIONAL SERVIDORES PÚBLICOS 2026",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_SERVIDORES_ES_22.05.2026.pdf",
+    "arquivo_local": "formacao_cientifica/EDITAL_FAPES_SEGER_No_14_2026_-_PROGRAMA_TALENTOS_GLOBAIS_ESPÍRITO_SANTO_-_MESTRADO_INTERNACIONAL_SERVIDORES_PÚBLICOS_2026.pdf",
+    "pdf_sha256": "5c2df43518c0092035558297ec3531ddc23000d77c37218b3c76f70c6868dc0a",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "Este edital visa selecionar até 10 servidores públicos efetivos, estáveis e ativos do Poder Executivo do Estado do Espírito Santo para realizar cursos presenciais de mestrado em universidades estrangeiras de excelência. O programa busca fortalecer a capacidade institucional do Estado, apoiar projetos de pesquisa e desenvolver lideranças transformadoras no setor público, contribuindo para a geração de conhecimento, inovação e desenvolvimento.",
+      "publico_alvo": "Servidores públicos estaduais efetivos, estáveis e ativos do Poder Executivo do Estado do Espírito Santo integrantes da administração pública direta, autárquica ou fundacional.",
+      "valor_total": "US$ 500.000,00",
+      "valor_por_proposta": "Bolsa de estudo de mestrado internacional (BMI-TG) de US$ 5.000,00 por parcela trimestral (vigência de 12 a 24 meses) e Auxílio-Instalação (AI-TG) de US$ 10.000,00 em parcela única.",
+      "contato": "bolsas.duvidas@fapes.es.gov.br, sucon@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Lançamento do Edital",
+          "data_inicio": "2026-05-25",
+          "data_fim": "2026-05-25",
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Impugnação ao Edital",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Até 5 (cinco) dias úteis anteriores ao encerramento do prazo de submissão das propostas.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Submissão de candidaturas",
+          "data_inicio": "2026-05-25",
+          "data_fim": "2026-06-23",
+          "observacao": "O prazo de submissão vence às 17h59min do dia 23/06/2026. O Governo do Estado do Espírito Santo e o Instituto Trajetórias fornecem suporte e informações aos candidatos de 08h até às 18h. É considerado o horário oficial de Brasília/DF.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar de habilitação e de avaliação de mérito",
+          "data_inicio": "2026-06-30",
+          "data_fim": null,
+          "observacao": "A partir de 30/06/2026.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Interposição de recurso administrativo do resultado preliminar de habilitação e de avaliação de mérito",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Prazo de 05 (cinco) dias úteis após a divulgação do resultado preliminar.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final",
+          "data_inicio": "2026-07-08",
+          "data_fim": null,
+          "observacao": "A partir de 08/07/2026.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Atualização documental para contratação",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "O cronograma do procedimento será informado oportunamente, após a publicação do resultado final. O candidato deve acessar o sistema Sigfapes e inserir os documentos pessoais listados no Anexo VII.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Assinatura do Termo de Concessão de Bolsa",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "O cronograma do procedimento será informado oportunamente, após a publicação do resultado final. A assinatura é eletrônica via E-Docs/Acesso Cidadão.",
+          "acao_do_proponente": true
+        }
+      ],
+      "observacoes_gerais": "As bolsas e o auxílio-instalação serão pagas em reais (BRL) conforme conversão a ser realizada através do Conversor de Moedas do Banco Central do Brasil. Todo o custeio do curso, incluindo anuidades e taxas de matrícula, moradia, passagens, visto, transporte, acomodação, realização da pesquisa e outras despesas, é de responsabilidade exclusiva do beneficiário. Os aprovados podem ser elegíveis a se candidatar a descontos de 15% a 100% nas anuidades e taxas de matrícula de universidades conveniadas, e financiamento para custeio do curso no exterior, oferecidos pelo Instituto Trajetórias. A aprovação no processo seletivo não garante autorização automática de afastamento remunerado, que é um ato discricionário e condicionado a processo próprio e autorização do Governador. O curso de mestrado deve se enquadrar em áreas como transformação digital, políticas de inovação, sustentabilidade, desenvolvimento econômico regional, saúde pública, educação pública ou planejamento governamental. As universidades de excelência são aquelas entre os 100 primeiros colocados nos rankings QS World University Rankings ou Times Higher Education World University Rankings (edições de 2026). Há vedações específicas para participação, incluindo servidores em cargo em comissão, com licenças sem vencimentos nos últimos 2 anos, ou que não concluíram cursos anteriores. O beneficiário deve retornar ao Brasil e permanecer a serviço do Estado do Espírito Santo pelo prazo correspondente ao período de licenciamento, aplicando o conhecimento adquirido. O reconhecimento (revalidação) do título de mestrado obtido no exterior é de competência exclusiva do beneficiário e deve ocorrer em até 1 (um) ano após a conclusão do curso.",
+      "_pdf_sha256": "5c2df43518c0092035558297ec3531ddc23000d77c37218b3c76f70c6868dc0a",
+      "_alteracoes_sha256": []
+    }
+  },
+  {
+    "categoria": "formacao_cientifica",
+    "titulo": "EDITAL FAPES/SECTI Nº 15/2026 - PROGRAMA TALENTOS GLOBAIS ESPÍRITO SANTO - MESTRADO INTERNACIONAL PÚBLICO GERAL 2026",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Talentos_Globais_Secti_22.05.2026.pdf",
+    "arquivo_local": "formacao_cientifica/EDITAL_FAPES_SECTI_No_15_2026_-_PROGRAMA_TALENTOS_GLOBAIS_ESPÍRITO_SANTO_-_MESTRADO_INTERNACIONAL_PÚBLICO_GERAL_2026.pdf",
+    "pdf_sha256": "209a90e8635bc0b42fe664de8916d93d24e45b7ced66fb43aae8a845be0907cc",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "O edital visa selecionar até 10 candidatos para cursos presenciais de mestrado stricto sensu em instituições estrangeiras de excelência, no âmbito do Programa Talentos Globais Espírito Santo – Mestrado Internacional. O programa busca estimular a mobilidade acadêmica internacional, apoiar a formação de recursos humanos altamente qualificados para o desenvolvimento do Estado e promover o retorno e aplicação do conhecimento adquirido no Brasil.",
+      "publico_alvo": "Candidatos brasileiros, com graduação completa e diploma reconhecido no Brasil, residentes no Estado do Espírito Santo, que tenham iniciado processo de candidatura ou possuam carta de aceite/admissão em programa presencial de mestrado em universidade estrangeira de excelência nas áreas do conhecimento destacadas no edital.",
+      "valor_total": "US$ 500.000,00",
+      "valor_por_proposta": "US$ 30.000,00 a US$ 50.000,00",
+      "contato": "bolsas.duvidas@fapes.es.gov.br, sucon@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Lançamento do Edital",
+          "data_inicio": "2026-05-25",
+          "data_fim": "2026-05-25",
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Submissão de candidatura",
+          "data_inicio": "2026-05-25",
+          "data_fim": "2026-06-23",
+          "observacao": "Prazo de submissão vence às 17h59min do dia 23/06/2026. Suporte e informações aos candidatos de 08h até às 18h (horário oficial de Brasília/DF).",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar de habilitação e de avaliação de mérito",
+          "data_inicio": "2026-06-30",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Interposição de recurso administrativo",
+          "data_inicio": "2026-07-01",
+          "data_fim": "2026-07-07",
+          "observacao": "Prazo de 05 (cinco) dias úteis após a divulgação do resultado preliminar. Interposto via formulário específico no Sistema E-Flow.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final",
+          "data_inicio": "2026-07-08",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        }
+      ],
+      "observacoes_gerais": "O edital prevê duas etapas de seleção: Habilitação e Análise de Mérito, conduzidas por um Comitê de Avaliação. As universidades estrangeiras de excelência são aquelas entre as 100 primeiras colocadas nos rankings QS World University Rankings ou Times Higher Education World University Rankings (edições de 2026). O custeio total do curso, incluindo anuidades, taxas, moradia, passagens e visto, é de responsabilidade exclusiva do beneficiário. Os aprovados podem ser elegíveis a descontos de 15% a 100% nas anuidades/taxas de universidades conveniadas e financiamento para custeio do curso, oferecidos pelo Instituto Trajetórias. O cronograma para a assinatura do Termo de Concessão de Bolsa será informado após a publicação do resultado final. O beneficiário se compromete a residir e atuar no Brasil pelo mesmo período de vigência da bolsa, aplicando o conhecimento adquirido em atividades de ensino, pesquisa, inovação, extensão, gestão pública ou iniciativas de impacto social e econômico no Estado do Espírito Santo.",
+      "_pdf_sha256": "209a90e8635bc0b42fe664de8916d93d24e45b7ced66fb43aae8a845be0907cc",
+      "_alteracoes_sha256": []
+    }
+  },
+  {
     "categoria": "difusao_do_conhecimento",
     "titulo": "EDITAL FAPES Nº 28/2025 - PUBLICAÇÃO DE ARTIGOS TÉCNICO-CIENTÍFICOS",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_28_2025_Publicação_de_Artigos_Técnico-Científicos.pdf",
@@ -390,172 +521,6 @@
   },
   {
     "categoria": "extensao",
-    "titulo": "EDITAL FAPES Nº 01/2026 - TCC EMPREENDEDOR INOVADOR",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_01.2026_TCC_EMPREENDEDOR_INOVADOR.pdf",
-    "arquivo_local": "extensao/EDITAL_FAPES_No_01_2026_-_TCC_EMPREENDEDOR_INOVADOR.pdf",
-    "pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34",
-    "alteracoes": [
-      {
-        "url": "https://fapes.es.gov.br/Media/fapes/Editais/1ª_retificação_-_Edital_01-2026_-_TCC_Empreendedor_Inovador.pdf",
-        "titulo": "EDITAL FAPES Nº 01/2026 - TCC EMPREENDEDOR INOVADOR (1ª ALTERAÇÃO)",
-        "arquivo_local": "extensao/_alteracoes/EDITAL_FAPES_No_01_2026_-_TCC_EMPREENDEDOR_INOVADOR_(1a_ALTERAÇÃO).pdf",
-        "pdf_sha256": "c5861bb9c4c75ee7c69b553f755532c53617b5b83d71f2f8944f4d1fbb466dde"
-      }
-    ],
-    "extracao": {
-      "objetivo": "Chamada pública para seleção de Trabalhos de Conclusão de Curso (TCCs) previstos nos Projetos Pedagógicos dos cursos de graduação, com ênfase em inovação, aplicação prática, geração de valor e/ou impacto socioambiental. O edital visa incentivar o desenvolvimento de TCCs com foco em inovação, empreendedorismo e aplicabilidade prática, por meio da concessão de Bolsas de Apoio a Trabalho de Conclusão de Curso (BTCC).",
-      "publico_alvo": "Estudantes de graduação em fase de conclusão de curso, regularmente matriculados em Instituições de Ensino Superior (IES) públicas ou privadas, sediadas no Estado do Espírito Santo, e seus orientadores. O proponente (professor orientador) deve ter vínculo estatutário ou celetista por tempo indeterminado com IES reconhecida pelo MEC no Espírito Santo, não estar afastado da IES, estar adimplente junto à FAPES, residir no Espírito Santo ou municípios limítrofes, ter currículo Lattes atualizado (menos de 6 meses), e comprovar matrícula dos alunos aprovados. Se o proponente indicar alunos de outra IES, deve apresentar declaração de autorização de ambas as IES. O aluno orientado deve ser estudante regular de graduação na IES de vínculo do proponente localizada no Espírito Santo, ter coeficiente de rendimento igual ou superior a 7,0, estar adimplente com a FAPES, ter professor orientador durante todo o período da bolsa, residir no Espírito Santo ou municípios limítrofes, e ser cadastrado no Sigfapes.",
-      "valor_total": "R$ 1.600.000,00",
-      "valor_por_proposta": "R$ 11.000,00",
-      "contato": "editais.extensao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br",
-      "cronograma": [
-        {
-          "evento": "Publicação do Edital",
-          "data_inicio": "2026-01-26",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Impugnação do Edital (Primeira Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-03-21",
-          "observacao": "Até 5 dias úteis antes do encerramento do prazo de submissão da primeira chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Submissão de propostas (Primeira Chamada)",
-          "data_inicio": "2026-02-02",
-          "data_fim": "2026-03-30",
-          "observacao": "Até 17h59",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar da habilitação e mérito (Primeira Chamada)",
-          "data_inicio": "2026-05-26",
-          "data_fim": null,
-          "observacao": "A partir de",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos administrativos (Primeira Chamada)",
-          "data_inicio": "2026-05-27",
-          "data_fim": "2026-06-02",
-          "observacao": "5 dias úteis a partir da publicação do resultado de seleção",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação da homologação da seleção (Primeira Chamada)",
-          "data_inicio": "2026-06-22",
-          "data_fim": null,
-          "observacao": "A partir de",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo de contratação (Primeira Chamada)",
-          "data_inicio": "2026-06-23",
-          "data_fim": "2026-06-27",
-          "observacao": "Até 5 dias úteis da publicação do resultado homologado",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Impugnação do Edital (Segunda Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-10-20",
-          "observacao": "Até 5 dias úteis antes do encerramento do prazo de submissão da segunda chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Submissão de propostas (Segunda Chamada)",
-          "data_inicio": "2026-09-02",
-          "data_fim": "2026-10-27",
-          "observacao": "Até 17h59",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar da habilitação e mérito (Segunda Chamada)",
-          "data_inicio": "2026-12-22",
-          "data_fim": null,
-          "observacao": "A partir de",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos administrativos (Segunda Chamada)",
-          "data_inicio": "2026-12-23",
-          "data_fim": "2026-12-29",
-          "observacao": "5 dias úteis a partir da publicação do resultado de seleção",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação da homologação da seleção (Segunda Chamada)",
-          "data_inicio": "2027-01-27",
-          "data_fim": null,
-          "observacao": "A partir de",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo de contratação (Segunda Chamada)",
-          "data_inicio": "2027-01-28",
-          "data_fim": "2027-02-03",
-          "observacao": "Até 5 dias úteis da publicação do resultado homologado",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Impugnação do Edital (Terceira Chamada)",
-          "data_inicio": null,
-          "data_fim": "2027-03-23",
-          "observacao": "Até 5 dias úteis antes do encerramento do prazo de submissão da terceira chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Submissão de propostas (Terceira Chamada)",
-          "data_inicio": "2027-02-02",
-          "data_fim": "2027-03-30",
-          "observacao": "Até 17h59",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar da habilitação e mérito (Terceira Chamada)",
-          "data_inicio": "2027-05-24",
-          "data_fim": null,
-          "observacao": "A partir de",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos administrativos (Terceira Chamada)",
-          "data_inicio": "2027-05-25",
-          "data_fim": "2027-05-31",
-          "observacao": "5 dias úteis a partir da publicação do resultado de seleção",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação da homologação da seleção (Terceira Chamada)",
-          "data_inicio": "2027-06-22",
-          "data_fim": null,
-          "observacao": "A partir de",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo de contratação (Terceira Chamada)",
-          "data_inicio": "2027-06-23",
-          "data_fim": "2027-06-29",
-          "observacao": "Até 5 dias úteis da publicação do resultado homologado",
-          "acao_do_proponente": true
-        }
-      ],
-      "observacoes_gerais": "O prazo de execução dos projetos será de um semestre letivo, acrescido de até 3 meses para apresentação da Declaração ou Ata de Defesa do TCC. As propostas concorrerão com as demais de suas respectivas microrregiões, sendo apoiados, na primeira chamada, no máximo 20 projetos de TCC por microrregião e, na segunda e terceira chamadas, até 10 projetos de TCC por microrregião. Recursos financeiros remanescentes serão destinados aos demais projetos em ampla concorrência por ordem decrescente de nota. Propostas submetidas a mais de uma microrregião serão desclassificadas. O proponente pode indicar no mínimo 3 e no máximo 5 alunos orientados por proposta. O valor da bolsa BTCC e do Auxílio para orientação de TCC são fixados na Tabela de Valores de Bolsas e Auxílios da Fapes. A modalidade de concessão da bolsa é por cooperação financeira não reembolsável. Cada proposta de TCC aprovada será contemplada com bolsa BTCC com duração mínima de 2 meses e máxima de 4 meses, não prorrogáveis. Além das bolsas BTCC para os alunos, o orientador receberá até dois auxílios para orientação de TCC. Propostas com Nota Final inferior a 70 pontos serão desclassificadas. Não será permitido o acúmulo de bolsas Fapes pelo aluno orientado, exceto com bolsas do Programa Nossa Bolsa, do Programa Universidade para Todos (Prouni) e com Bolsas de Extensão (Ext-E e Ext-F) da Fapes.",
-      "_pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34",
-      "_alteracoes_sha256": [
-        {
-          "url": "https://fapes.es.gov.br/Media/fapes/Editais/1ª_retificação_-_Edital_01-2026_-_TCC_Empreendedor_Inovador.pdf",
-          "titulo": "EDITAL FAPES Nº 01/2026 - TCC EMPREENDEDOR INOVADOR (1ª ALTERAÇÃO)",
-          "sha256": "c5861bb9c4c75ee7c69b553f755532c53617b5b83d71f2f8944f4d1fbb466dde"
-        }
-      ]
-    }
-  },
-  {
-    "categoria": "extensao",
     "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%20Assinado.pdf",
     "arquivo_local": "extensao/EDITAL_FAPES_No_12_2026_-_EXTENSÃO_TECNOLÓGICA.pdf",
@@ -645,113 +610,100 @@
     }
   },
   {
-    "categoria": "inovacao",
-    "titulo": "EDITAL FAPES Nº 06/2026 - APOIO AOS CLUSTERS DE INOVAÇÃO CAPIXABA",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Clusters_Inovadores_-_2ª_Edição_-_Lançamento.pdf",
-    "arquivo_local": "inovacao/EDITAL_FAPES_No_06_2026_-_APOIO_AOS_CLUSTERS_DE_INOVAÇÃO_CAPIXABA.pdf",
-    "pdf_sha256": "3175e0d0ef1f171e84d68e03a396b0412cfbf8ac00414f88de72e9378151e7d5",
-    "alteracoes": [
-      {
-        "url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL%20FAPES%20N%2006%20-%202026.pdf",
-        "titulo": "EDITAL FAPES Nº 06/2026 - APOIO AOS CLUSTERS DE INOVAÇÃO CAPIXABA (1ª alteração)",
-        "arquivo_local": "inovacao/_alteracoes/EDITAL_FAPES_No_06_2026_-_APOIO_AOS_CLUSTERS_DE_INOVAÇÃO_CAPIXABA_(1a_alteração).pdf",
-        "pdf_sha256": "4f09e1f347cd8017e1e7e0120c38ea4da2bf98871c5c6af83b0faaa63e5541ce"
-      }
-    ],
+    "categoria": "extensao",
+    "titulo": "EDITAL FAPES Nº 16/2026 - UNIVERSAL DE EXTENSÃO",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Universal%20Extensão%20-%20Assinado.pdf",
+    "arquivo_local": "extensao/EDITAL_FAPES_No_16_2026_-_UNIVERSAL_DE_EXTENSÃO.pdf",
+    "pdf_sha256": "447a04be0340cdf1ba055fe3539a908847320d817fb01d87eb3047edfbe80261",
+    "alteracoes": [],
     "extracao": {
-      "objetivo": "O edital tem como objetivo fomentar projetos inovadores que visam fortalecer, modernizar e aumentar a competitividade dos setores de Comércio e da Indústria de Alimentos e Bebidas no Espírito Santo. A iniciativa busca incentivar a transformação digital, a melhoria da eficiência operacional e a adoção de práticas sustentáveis pelas empresas, contribuindo para o desenvolvimento econômico, social e ambiental do Estado.",
-      "publico_alvo": "Empresas com sede administrativa ou filial no território do Espírito Santo, que comprovem faturamento local, tenham no mínimo 3 empregados CLT na unidade capixaba e infraestrutura instalada, e que estejam regularizadas junto às Fazendas Públicas e adimplentes com a Fapes. Podem contar com apoio de ICTs ou IES/P reconhecidas pela Fapes.",
-      "valor_total": "R$ 12.000.000,00",
-      "valor_por_proposta": "R$ 600.000,00",
-      "contato": "duvidas.inovacao@fapes.es.gov.br",
+      "objetivo": "Apoiar financeiramente projetos de extensão em diversas áreas temáticas, coordenados por profissionais vinculados a Instituições de Ensino Superior e/ou Pesquisa (IES/P) no Espírito Santo. O objetivo é contribuir para a redução de desigualdades ou vulnerabilidades sociais, promovendo o desenvolvimento socioambiental e/ou econômico nas microrregiões do estado.",
+      "publico_alvo": "Pesquisadores com titulação mínima de mestre, experiência comprovada em projetos de extensão nos últimos 3 anos, e vínculo empregatício, estatutário, temporário ou voluntário com Instituições de Ensino Superior ou Pesquisa (IES/P) públicas ou privadas localizadas no Espírito Santo. O proponente não deve ter sido contratado no Edital Fapes nº 04/2025 nem solicitado prorrogação de projeto do Edital FAPES nº 02/2024.",
+      "valor_total": "R$ 5.000.000,00",
+      "valor_por_proposta": "R$ 80.000,00",
+      "contato": "editais.extensao@fapes.es.gov.br",
       "cronograma": [
         {
           "evento": "Publicação do Edital",
-          "data_inicio": "2026-02-20",
+          "data_inicio": null,
+          "data_fim": "2026-05-25",
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para impugnação do edital",
+          "data_inicio": null,
+          "data_fim": "2026-06-23",
+          "observacao": "Até 5 dias úteis antes da data limite de submissão das propostas",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Submissão de propostas",
+          "data_inicio": null,
+          "data_fim": "2026-06-30",
+          "observacao": "Até as 17h59 via SigFapes",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Publicação do resultado preliminar (Habilitação)",
+          "data_inicio": "2026-07-31",
           "data_fim": null,
           "observacao": null,
           "acao_do_proponente": false
         },
         {
-          "evento": "Período de submissão das propostas",
-          "data_inicio": "2026-02-20",
-          "data_fim": "2026-05-06",
-          "observacao": "Até às 17h59",
+          "evento": "Prazo para submissão de recursos administrativos (Habilitação)",
+          "data_inicio": "2026-08-01",
+          "data_fim": "2026-08-07",
+          "observacao": "05 dias úteis a partir da publicação do resultado preliminar da habilitação",
           "acao_do_proponente": true
         },
         {
-          "evento": "Divulgação do resultado preliminar da habilitação e mérito (seleção)",
-          "data_inicio": "2026-05-29",
+          "evento": "Publicação do resultado homologado (Habilitação)",
+          "data_inicio": "2026-08-26",
           "data_fim": null,
-          "observacao": "A partir desta data",
+          "observacao": null,
           "acao_do_proponente": false
         },
         {
-          "evento": "Prazo para submissão de recursos administrativos (habilitação)",
-          "data_inicio": "2026-05-30",
-          "data_fim": "2026-06-05",
-          "observacao": "5 (cinco) dias úteis a partir da publicação do resultado de habilitação das propostas",
+          "evento": "Publicação do resultado preliminar (Análise de Mérito)",
+          "data_inicio": "2026-10-02",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para submissão de recursos administrativos (Análise de Mérito)",
+          "data_inicio": "2026-10-05",
+          "data_fim": "2026-10-09",
+          "observacao": "05 dias úteis a partir da publicação do resultado preliminar do mérito",
           "acao_do_proponente": true
         },
         {
-          "evento": "Previsão de publicação final do resultado homologado (habilitação)",
-          "data_inicio": "2026-06-19",
+          "evento": "Publicação do resultado homologado (Análise de Mérito)",
+          "data_inicio": "2026-10-28",
           "data_fim": null,
-          "observacao": "A partir desta data",
+          "observacao": null,
           "acao_do_proponente": false
         },
         {
-          "evento": "Previsão para publicação do resultado preliminar da análise das propostas",
-          "data_inicio": "2026-07-24",
-          "data_fim": null,
-          "observacao": "A partir desta data",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para submissão de recursos administrativos (mérito)",
-          "data_inicio": "2026-07-25",
-          "data_fim": "2026-07-31",
-          "observacao": "5 (cinco) dias úteis a partir da publicação do resultado preliminar de avaliação de mérito",
+          "evento": "Início da contratação e envio de documentos",
+          "data_inicio": "2026-10-29",
+          "data_fim": "2026-11-05",
+          "observacao": "Até 5 dias úteis da publicação do resultado homologado para o início do processo de contratação. Inclui assinatura do Termo de Outorga e envio do Registro da Lista de Checagem de Documentação (e-Flow) até as 17h00.",
           "acao_do_proponente": true
-        },
-        {
-          "evento": "Previsão para publicação final do resultado homologado (mérito)",
-          "data_inicio": "2026-08-21",
-          "data_fim": null,
-          "observacao": "A partir desta data",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Início da contratação",
-          "data_inicio": "2026-08-24",
-          "data_fim": "2026-10-23",
-          "observacao": "Período de até 60 dias após a publicação do resultado final homologado para submissão de documentos e assinatura do Termo de Outorga e Projeto Aprovado, via SIGFAPES e E-Docs, até às 17h00min.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Convocação de suplentes",
-          "data_inicio": "2026-08-24",
-          "data_fim": null,
-          "observacao": "A partir desta data, se aplicável, via SIGFAPES.",
-          "acao_do_proponente": false
         },
         {
           "evento": "Início da vigência dos projetos contratados",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "No 1º dia útil do mês subsequente à data de assinatura do Termo de Outorga.",
+          "observacao": "No 1º dia útil do mês subsequente à data de assinatura do Termo de Outorga",
           "acao_do_proponente": false
         }
       ],
-      "observacoes_gerais": "Cada proponente ou empresa poderá submeter apenas uma única proposta. As propostas contratadas terão prazo de 24 meses para execução, prorrogáveis por até 12 meses. As atividades do projeto devem ser realizadas no Espírito Santo, exceto certificação, homologação e testes. As empresas selecionadas devem depositar 5% do valor da subvenção como contrapartida financeira. Pelo menos um membro da equipe deve realizar o curso 'uso da propriedade intelectual em negócios de base tecnológica' do INPI.",
-      "_pdf_sha256": "3175e0d0ef1f171e84d68e03a396b0412cfbf8ac00414f88de72e9378151e7d5",
-      "_alteracoes_sha256": [
-        {
-          "url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL%20FAPES%20N%2006%20-%202026.pdf",
-          "titulo": "EDITAL FAPES Nº 06/2026 - APOIO AOS CLUSTERS DE INOVAÇÃO CAPIXABA (1ª alteração)",
-          "sha256": "4f09e1f347cd8017e1e7e0120c38ea4da2bf98871c5c6af83b0faaa63e5541ce"
-        }
-      ]
+      "observacoes_gerais": "O prazo de execução dos projetos é de 24 meses. É obrigatória a previsão de pelo menos um bolsista EXT-E ou EXT-F por um período mínimo de 22 meses. As propostas devem ser submetidas para apenas uma das 10 microrregiões listadas no edital. Proponentes que declararem pertencimento a grupos de ações afirmativas (PcD, negra, quilombola, indígena, trans ou travesti) podem receber pontuação adicional. Propostas com nota final inferior a 70 pontos serão desclassificadas. É exigida a elaboração de um vídeo apresentando os resultados do projeto. É indispensável a menção explícita e destacada ao apoio da Fapes em todas as divulgações do trabalho.",
+      "_pdf_sha256": "447a04be0340cdf1ba055fe3539a908847320d817fb01d87eb3047edfbe80261",
+      "_alteracoes_sha256": []
     }
   },
   {

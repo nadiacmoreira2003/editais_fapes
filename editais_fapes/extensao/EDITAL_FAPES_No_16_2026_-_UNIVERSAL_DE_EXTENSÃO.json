@@ -1,0 +1,89 @@
+{
+  "objetivo": "Apoiar financeiramente projetos de extensão em diversas áreas temáticas, coordenados por profissionais vinculados a Instituições de Ensino Superior e/ou Pesquisa (IES/P) no Espírito Santo. O objetivo é contribuir para a redução de desigualdades ou vulnerabilidades sociais, promovendo o desenvolvimento socioambiental e/ou econômico nas microrregiões do estado.",
+  "publico_alvo": "Pesquisadores com titulação mínima de mestre, experiência comprovada em projetos de extensão nos últimos 3 anos, e vínculo empregatício, estatutário, temporário ou voluntário com Instituições de Ensino Superior ou Pesquisa (IES/P) públicas ou privadas localizadas no Espírito Santo. O proponente não deve ter sido contratado no Edital Fapes nº 04/2025 nem solicitado prorrogação de projeto do Edital FAPES nº 02/2024.",
+  "valor_total": "R$ 5.000.000,00",
+  "valor_por_proposta": "R$ 80.000,00",
+  "contato": "editais.extensao@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do Edital",
+      "data_inicio": null,
+      "data_fim": "2026-05-25",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para impugnação do edital",
+      "data_inicio": null,
+      "data_fim": "2026-06-23",
+      "observacao": "Até 5 dias úteis antes da data limite de submissão das propostas",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas",
+      "data_inicio": null,
+      "data_fim": "2026-06-30",
+      "observacao": "Até as 17h59 via SigFapes",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Publicação do resultado preliminar (Habilitação)",
+      "data_inicio": "2026-07-31",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para submissão de recursos administrativos (Habilitação)",
+      "data_inicio": "2026-08-01",
+      "data_fim": "2026-08-07",
+      "observacao": "05 dias úteis a partir da publicação do resultado preliminar da habilitação",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Publicação do resultado homologado (Habilitação)",
+      "data_inicio": "2026-08-26",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Publicação do resultado preliminar (Análise de Mérito)",
+      "data_inicio": "2026-10-02",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para submissão de recursos administrativos (Análise de Mérito)",
+      "data_inicio": "2026-10-05",
+      "data_fim": "2026-10-09",
+      "observacao": "05 dias úteis a partir da publicação do resultado preliminar do mérito",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Publicação do resultado homologado (Análise de Mérito)",
+      "data_inicio": "2026-10-28",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Início da contratação e envio de documentos",
+      "data_inicio": "2026-10-29",
+      "data_fim": "2026-11-05",
+      "observacao": "Até 5 dias úteis da publicação do resultado homologado para o início do processo de contratação. Inclui assinatura do Termo de Outorga e envio do Registro da Lista de Checagem de Documentação (e-Flow) até as 17h00.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Início da vigência dos projetos contratados",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "No 1º dia útil do mês subsequente à data de assinatura do Termo de Outorga",
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "O prazo de execução dos projetos é de 24 meses. É obrigatória a previsão de pelo menos um bolsista EXT-E ou EXT-F por um período mínimo de 22 meses. As propostas devem ser submetidas para apenas uma das 10 microrregiões listadas no edital. Proponentes que declararem pertencimento a grupos de ações afirmativas (PcD, negra, quilombola, indígena, trans ou travesti) podem receber pontuação adicional. Propostas com nota final inferior a 70 pontos serão desclassificadas. É exigida a elaboração de um vídeo apresentando os resultados do projeto. É indispensável a menção explícita e destacada ao apoio da Fapes em todas as divulgações do trabalho.",
+  "_pdf_sha256": "447a04be0340cdf1ba055fe3539a908847320d817fb01d87eb3047edfbe80261",
+  "_alteracoes_sha256": []
+}

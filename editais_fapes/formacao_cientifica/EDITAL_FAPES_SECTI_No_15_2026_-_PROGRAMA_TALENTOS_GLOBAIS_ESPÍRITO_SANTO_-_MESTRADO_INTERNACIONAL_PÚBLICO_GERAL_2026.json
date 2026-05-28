@@ -1,0 +1,47 @@
+{
+  "objetivo": "O edital visa selecionar até 10 candidatos para cursos presenciais de mestrado stricto sensu em instituições estrangeiras de excelência, no âmbito do Programa Talentos Globais Espírito Santo – Mestrado Internacional. O programa busca estimular a mobilidade acadêmica internacional, apoiar a formação de recursos humanos altamente qualificados para o desenvolvimento do Estado e promover o retorno e aplicação do conhecimento adquirido no Brasil.",
+  "publico_alvo": "Candidatos brasileiros, com graduação completa e diploma reconhecido no Brasil, residentes no Estado do Espírito Santo, que tenham iniciado processo de candidatura ou possuam carta de aceite/admissão em programa presencial de mestrado em universidade estrangeira de excelência nas áreas do conhecimento destacadas no edital.",
+  "valor_total": "US$ 500.000,00",
+  "valor_por_proposta": "US$ 30.000,00 a US$ 50.000,00",
+  "contato": "bolsas.duvidas@fapes.es.gov.br, sucon@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Lançamento do Edital",
+      "data_inicio": "2026-05-25",
+      "data_fim": "2026-05-25",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Submissão de candidatura",
+      "data_inicio": "2026-05-25",
+      "data_fim": "2026-06-23",
+      "observacao": "Prazo de submissão vence às 17h59min do dia 23/06/2026. Suporte e informações aos candidatos de 08h até às 18h (horário oficial de Brasília/DF).",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar de habilitação e de avaliação de mérito",
+      "data_inicio": "2026-06-30",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recurso administrativo",
+      "data_inicio": "2026-07-01",
+      "data_fim": "2026-07-07",
+      "observacao": "Prazo de 05 (cinco) dias úteis após a divulgação do resultado preliminar. Interposto via formulário específico no Sistema E-Flow.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final",
+      "data_inicio": "2026-07-08",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "O edital prevê duas etapas de seleção: Habilitação e Análise de Mérito, conduzidas por um Comitê de Avaliação. As universidades estrangeiras de excelência são aquelas entre as 100 primeiras colocadas nos rankings QS World University Rankings ou Times Higher Education World University Rankings (edições de 2026). O custeio total do curso, incluindo anuidades, taxas, moradia, passagens e visto, é de responsabilidade exclusiva do beneficiário. Os aprovados podem ser elegíveis a descontos de 15% a 100% nas anuidades/taxas de universidades conveniadas e financiamento para custeio do curso, oferecidos pelo Instituto Trajetórias. O cronograma para a assinatura do Termo de Concessão de Bolsa será informado após a publicação do resultado final. O beneficiário se compromete a residir e atuar no Brasil pelo mesmo período de vigência da bolsa, aplicando o conhecimento adquirido em atividades de ensino, pesquisa, inovação, extensão, gestão pública ou iniciativas de impacto social e econômico no Estado do Espírito Santo.",
+  "_pdf_sha256": "209a90e8635bc0b42fe664de8916d93d24e45b7ced66fb43aae8a845be0907cc",
+  "_alteracoes_sha256": []
+}

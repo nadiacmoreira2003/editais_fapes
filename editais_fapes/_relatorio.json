@@ -2,7 +2,7 @@
   {
     "categoria": "formacao_cientifica",
     "url": "https://fapes.es.gov.br/edital-aberto-forma%C3%A7%C3%A3o-cient%C3%ADfica",
-    "total": 2,
+    "total": 4,
     "editais": [
       {
         "titulo": "EDITAL FAPES Nº 09/2026 - BOLSAS DE ESTÁGIO DOUTORADO SANDUÍCHE",
@@ -20,6 +20,24 @@
         "anexos": [],
         "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_13_2026_-_PROGRAMA_INSTITUCIONAL_DE_BOLSAS_DE_INICIAÇÃO_CIENTÍFICA,_TECNOLÓGICA_E_DE_INOVAÇÃO_DO_ESPÍRITO_SANTO_(PIBICES_2026_2027).pdf",
         "pdf_sha256": "244461f35f9951a187bfd07cc6956593a21a44dd6e088f844a8336a42d1eea7d",
+        "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES/SEGER Nº 14/2026 - PROGRAMA TALENTOS GLOBAIS ESPÍRITO SANTO - MESTRADO INTERNACIONAL SERVIDORES PÚBLICOS 2026",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_SERVIDORES_ES_22.05.2026.pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "formacao_cientifica/EDITAL_FAPES_SEGER_No_14_2026_-_PROGRAMA_TALENTOS_GLOBAIS_ESPÍRITO_SANTO_-_MESTRADO_INTERNACIONAL_SERVIDORES_PÚBLICOS_2026.pdf",
+        "pdf_sha256": "5c2df43518c0092035558297ec3531ddc23000d77c37218b3c76f70c6868dc0a",
+        "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES/SECTI Nº 15/2026 - PROGRAMA TALENTOS GLOBAIS ESPÍRITO SANTO - MESTRADO INTERNACIONAL PÚBLICO GERAL 2026",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Talentos_Globais_Secti_22.05.2026.pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "formacao_cientifica/EDITAL_FAPES_SECTI_No_15_2026_-_PROGRAMA_TALENTOS_GLOBAIS_ESPÍRITO_SANTO_-_MESTRADO_INTERNACIONAL_PÚBLICO_GERAL_2026.pdf",
+        "pdf_sha256": "209a90e8635bc0b42fe664de8916d93d24e45b7ced66fb43aae8a845be0907cc",
         "status": "novo"
       }
     ]
@@ -57,31 +75,6 @@
     "total": 2,
     "editais": [
       {
-        "titulo": "EDITAL FAPES Nº 01/2026 - TCC EMPREENDEDOR INOVADOR",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_01.2026_TCC_EMPREENDEDOR_INOVADOR.pdf",
-        "alteracoes": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/1ª_retificação_-_Edital_01-2026_-_TCC_Empreendedor_Inovador.pdf",
-            "titulo": "EDITAL FAPES Nº 01/2026 - TCC EMPREENDEDOR INOVADOR (1ª ALTERAÇÃO)",
-            "arquivo_local": "extensao/_alteracoes/EDITAL_FAPES_No_01_2026_-_TCC_EMPREENDEDOR_INOVADOR_(1a_ALTERAÇÃO).pdf",
-            "pdf_sha256": "c5861bb9c4c75ee7c69b553f755532c53617b5b83d71f2f8944f4d1fbb466dde"
-          }
-        ],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20I%20-%20Formulário%20de%20Submissão%20TCC.docx",
-            "titulo": "ANEXO I - Formulário de Submissão TCC"
-          },
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20II%20-%20Declaração%20de%20Matrícula.docx",
-            "titulo": "ANEXO II - Declaração de Matrícula"
-          }
-        ],
-        "arquivo_local": "extensao/EDITAL_FAPES_No_01_2026_-_TCC_EMPREENDEDOR_INOVADOR.pdf",
-        "pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34",
-        "status": "novo"
-      },
-      {
         "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%20Assinado.pdf",
         "alteracoes": [],
@@ -102,47 +95,32 @@
         "arquivo_local": "extensao/EDITAL_FAPES_No_12_2026_-_EXTENSÃO_TECNOLÓGICA.pdf",
         "pdf_sha256": "55194574f15f2190c6d6dec46df141029d3a300a09889c4bfc92903bc26cceff",
         "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES Nº 16/2026 - UNIVERSAL DE EXTENSÃO",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Universal%20Extensão%20-%20Assinado.pdf",
+        "alteracoes": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20II-1.docx",
+            "titulo": "Anexo II - Formulário de Submissão de Projetos"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20III%20-%20Autodeclaração%20Açoes%20Afirmativas.docx",
+            "titulo": "Anexo III - Autodeclaração Ações Afirmativas"
+          }
+        ],
+        "arquivo_local": "extensao/EDITAL_FAPES_No_16_2026_-_UNIVERSAL_DE_EXTENSÃO.pdf",
+        "pdf_sha256": "447a04be0340cdf1ba055fe3539a908847320d817fb01d87eb3047edfbe80261",
+        "status": "novo"
       }
     ]
   },
   {
     "categoria": "inovacao",
     "url": "https://fapes.es.gov.br/inovacao",
-    "total": 4,
+    "total": 3,
     "editais": [
-      {
-        "titulo": "EDITAL FAPES Nº 06/2026 - APOIO AOS CLUSTERS DE INOVAÇÃO CAPIXABA",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Clusters_Inovadores_-_2ª_Edição_-_Lançamento.pdf",
-        "alteracoes": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL%20FAPES%20N%2006%20-%202026.pdf",
-            "titulo": "EDITAL FAPES Nº 06/2026 - APOIO AOS CLUSTERS DE INOVAÇÃO CAPIXABA (1ª alteração)",
-            "arquivo_local": "inovacao/_alteracoes/EDITAL_FAPES_No_06_2026_-_APOIO_AOS_CLUSTERS_DE_INOVAÇÃO_CAPIXABA_(1a_alteração).pdf",
-            "pdf_sha256": "4f09e1f347cd8017e1e7e0120c38ea4da2bf98871c5c6af83b0faaa63e5541ce"
-          }
-        ],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20I%20-%20Formulário%20de%20Submissão%20-%20Cluster%2006-2026.docx",
-            "titulo": "ANEXO I - FORMULÁRIO DE SUBMISSÃO"
-          },
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20III%20-%20Declaração%20Ambiental%20-%20Cluster%2006-2026.docx",
-            "titulo": "ANEXO III - DECLARAÇÃO AMBIENTAL"
-          },
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Declaração%20de%20ciência%20do%20NIT%20-%20Inovação%20(2).docx",
-            "titulo": "DECLARAÇÃO DE CIÊNCIA DO NIT"
-          },
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Termo%20de%20Compromisso%20entre%20a%20Empresa%20e%20a%20ICT-IES-P.docx",
-            "titulo": "TERMO DE COMPROMISSO ENTRE EMPRESA E ICT/IES/P"
-          }
-        ],
-        "arquivo_local": "inovacao/EDITAL_FAPES_No_06_2026_-_APOIO_AOS_CLUSTERS_DE_INOVAÇÃO_CAPIXABA.pdf",
-        "pdf_sha256": "3175e0d0ef1f171e84d68e03a396b0412cfbf8ac00414f88de72e9378151e7d5",
-        "status": "novo"
-      },
       {
         "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_-_2_Edição_-_Lançamento.pdf",
