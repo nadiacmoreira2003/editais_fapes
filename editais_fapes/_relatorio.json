@@ -26,7 +26,12 @@
         "titulo": "EDITAL FAPES/SEGER Nº 14/2026 - PROGRAMA TALENTOS GLOBAIS ESPÍRITO SANTO - MESTRADO INTERNACIONAL SERVIDORES PÚBLICOS 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_SERVIDORES_ES_22.05.2026.pdf",
         "alteracoes": [],
-        "anexos": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Manual%20-%20Candidatura%20Talentos%20Globais%20-%20Sigfapes.pdf",
+            "titulo": "MANUAL - CANDIDATURA NO SIGFAPES"
+          }
+        ],
         "arquivo_local": "formacao_cientifica/EDITAL_FAPES_SEGER_No_14_2026_-_PROGRAMA_TALENTOS_GLOBAIS_ESPÍRITO_SANTO_-_MESTRADO_INTERNACIONAL_SERVIDORES_PÚBLICOS_2026.pdf",
         "pdf_sha256": "5c2df43518c0092035558297ec3531ddc23000d77c37218b3c76f70c6868dc0a",
         "status": "novo"
@@ -35,7 +40,12 @@
         "titulo": "EDITAL FAPES/SECTI Nº 15/2026 - PROGRAMA TALENTOS GLOBAIS ESPÍRITO SANTO - MESTRADO INTERNACIONAL PÚBLICO GERAL 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Talentos_Globais_Secti_22.05.2026.pdf",
         "alteracoes": [],
-        "anexos": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Manual%20-%20Candidatura%20Talentos%20Globais%20-%20Sigfapes.pdf",
+            "titulo": "MANUAL - CANDIDATURA NO SIGFAPES"
+          }
+        ],
         "arquivo_local": "formacao_cientifica/EDITAL_FAPES_SECTI_No_15_2026_-_PROGRAMA_TALENTOS_GLOBAIS_ESPÍRITO_SANTO_-_MESTRADO_INTERNACIONAL_PÚBLICO_GERAL_2026.pdf",
         "pdf_sha256": "209a90e8635bc0b42fe664de8916d93d24e45b7ced66fb43aae8a845be0907cc",
         "status": "novo"
@@ -77,7 +87,14 @@
       {
         "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%20Assinado.pdf",
-        "alteracoes": [],
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%201ª%20Retificação.pdf",
+            "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA (1ª ALTERAÇÃO)",
+            "arquivo_local": "extensao/_alteracoes/EDITAL_FAPES_No_12_2026_-_EXTENSÃO_TECNOLÓGICA_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "7289893213d4c2c2c723df5fe94903ee86f7b460398f4c806483d476fecb7085"
+          }
+        ],
         "anexos": [
           {
             "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20II%20-%20Formulário%20de%20Submissão%20-%20Edital%20Extensão%20Tecnológica%20-%2012-2026.docx",
@@ -125,7 +142,12 @@
         "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_-_2_Edição_-_Lançamento.pdf",
         "alteracoes": [],
-        "anexos": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Nota_Técnica_Prorrogação_Prazo_NEC_I.pdf",
+            "titulo": "NOTA TÉCNICA – EDITAL FAPES nº 10/2025 – NOVA ECONOMIA CAPIXABA"
+          }
+        ],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_08_2026_-_NOVA_ECONOMIA_CAPIXABA_2026.pdf",
         "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
         "status": "novo"
