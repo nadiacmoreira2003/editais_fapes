@@ -142,12 +142,7 @@
         "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_-_2_Edição_-_Lançamento.pdf",
         "alteracoes": [],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Nota_Técnica_Prorrogação_Prazo_NEC_I.pdf",
-            "titulo": "NOTA TÉCNICA – EDITAL FAPES nº 10/2025 – NOVA ECONOMIA CAPIXABA"
-          }
-        ],
+        "anexos": [],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_08_2026_-_NOVA_ECONOMIA_CAPIXABA_2026.pdf",
         "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
         "status": "novo"

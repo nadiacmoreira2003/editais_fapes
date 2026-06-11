@@ -1,9 +1,9 @@
 {
-  "objetivo": "Apoiar financeiramente projetos de extensão tecnológica em diversas áreas temáticas, coordenados por profissionais de Instituições de Ensino Superior, de Pesquisa ou de Tecnologia (IES/P/T) localizadas no Espírito Santo. O objetivo é promover o envolvimento e a formação de estudantes para o desenvolvimento econômico e social, visando a inclusão social e produtiva nas microrregiões do estado.",
-  "publico_alvo": "Profissionais vinculados a Instituições de Ensino Superior, de Pesquisa ou de Tecnologia (IES/P/T), públicas e privadas, com atividades de extensão regulamentadas, localizadas no estado do Espírito Santo. O proponente deve ser coordenador do projeto, possuir vínculo empregatício (ou termo de adesão a trabalho voluntário se aposentado), ter graduação concluída com 3 anos de experiência em projetos de extensão ou titulação mínima de mestre, currículo Lattes atualizado há menos de 6 meses, não integrar outra equipe executora neste edital, estar adimplente com a Fapes, ser brasileiro ou estrangeiro com visto permanente e residir no Espírito Santo ou municípios limítrofes.",
+  "objetivo": "Apoiar financeiramente projetos de extensão tecnológica em diversas áreas temáticas, coordenados por profissionais de Instituições de Ensino Superior, Pesquisa ou Tecnologia (IES/P/T) no Espírito Santo. O objetivo é promover o envolvimento e a formação de estudantes para o desenvolvimento econômico e social, visando a inclusão social e produtiva nas diferentes microrregiões do estado.",
+  "publico_alvo": "Coordenadores de projetos vinculados a Instituições de Ensino Superior, de Pesquisa ou de Tecnologia (IES/P/T) no Espírito Santo, com graduação e experiência em projetos de extensão (mínimo 3 anos) ou titulação mínima de mestre, currículo Lattes atualizado, adimplentes com a Fapes, brasileiros/estrangeiros com visto permanente e residentes no ES ou municípios limítrofes.",
   "valor_total": "R$ 3.000.000,00",
   "valor_por_proposta": "R$ 60.000,00",
-  "contato": "editais.extensao@fapes.es.gov.br",
+  "contato": "editais.extensao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br, nupex@fapes.es.gov.br",
   "cronograma": [
     {
       "evento": "Publicação do Edital",
@@ -13,70 +13,118 @@
       "acao_do_proponente": false
     },
     {
-      "evento": "Data limite para submissão das propostas",
+      "evento": "Prazo para impugnação do edital",
       "data_inicio": null,
-      "data_fim": "2026-06-09",
-      "observacao": "até 17h59, via Sigfapes",
+      "data_fim": "2026-06-23",
+      "observacao": "Até o quinto dia útil que anteceder a data final de submissão das propostas (2026-06-30)",
       "acao_do_proponente": true
     },
     {
-      "evento": "Publicação do resultado preliminar da habilitação",
+      "evento": "Publicação do resultado preliminar (Habilitação)",
       "data_inicio": "2026-06-26",
       "data_fim": null,
       "observacao": null,
       "acao_do_proponente": false
     },
     {
-      "evento": "Prazo para submissão de recursos administrativos (habilitação)",
+      "evento": "Data limite para submissão das propostas",
       "data_inicio": null,
-      "data_fim": null,
-      "observacao": "05 (cinco) dias úteis a partir da publicação do resultado preliminar da habilitação",
+      "data_fim": "2026-06-30",
+      "observacao": "até as 17h59, via Sigfapes",
       "acao_do_proponente": true
     },
     {
-      "evento": "Previsão de publicação do resultado homologado da habilitação",
-      "data_inicio": "2026-07-20",
+      "evento": "Prazo para submissão de recursos administrativos (Habilitação)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "05 dias úteis a partir da publicação do resultado preliminar da habilitação",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Previsão de publicação do resultado homologado (Habilitação)",
+      "data_inicio": "2026-07-24",
       "data_fim": null,
       "observacao": null,
       "acao_do_proponente": false
     },
     {
-      "evento": "Previsão para publicação do resultado preliminar da análise das propostas",
-      "data_inicio": "2026-08-03",
+      "evento": "Previsão para publicação do resultado preliminar da análise das propostas (Avaliação de Mérito)",
+      "data_inicio": "2026-09-25",
       "data_fim": null,
       "observacao": null,
       "acao_do_proponente": false
     },
     {
-      "evento": "Prazo para submissão de recursos administrativos (mérito)",
+      "evento": "Prazo para submissão de recursos administrativos (Avaliação de Mérito)",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "05 (cinco) dias úteis a partir da publicação do resultado preliminar do mérito",
+      "observacao": "05 dias úteis a partir da publicação do resultado preliminar do mérito",
       "acao_do_proponente": true
     },
     {
-      "evento": "Previsão para publicação final do resultado homologado",
-      "data_inicio": "2026-08-25",
+      "evento": "Previsão para publicação final do resultado homologado (Avaliação de Mérito)",
+      "data_inicio": "2026-10-27",
       "data_fim": null,
       "observacao": null,
       "acao_do_proponente": false
     },
     {
-      "evento": "Início da contratação / Assinatura do Termo de Outorga",
+      "evento": "Início da contratação",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "Até 5 (cinco) dias úteis da publicação do resultado homologado",
+      "observacao": "Até 5 dias úteis da publicação do resultado homologado",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Assinatura do Termo de Outorga e do Projeto Aprovado",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Os prazos de contratação serão divulgados junto com o resultado final homologado pelo CCAF. Até as 17h00.",
       "acao_do_proponente": true
     },
     {
-      "evento": "Início da vigência e execução dos projetos",
+      "evento": "Início da vigência dos projetos contratados",
+      "data_inicio": "2026-10-01",
+      "data_fim": null,
+      "observacao": "No 1º dia útil do mês subsequente à data de assinatura do Termo de Outorga",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Vigência do Termo de Outorga",
       "data_inicio": "2026-10-01",
       "data_fim": "2028-09-30",
-      "observacao": "Duração de 24 meses",
+      "observacao": "24 meses",
       "acao_do_proponente": false
+    },
+    {
+      "evento": "Convocação de suplentes (se aplicável)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "A partir da data a ser divulgada",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Contratação de suplentes (se aplicável)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Os prazos de contratação serão divulgados junto com o resultado final homologado pelo CCAF. Até as 17h00.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Envio do Registro da Lista de Checagem de Documentação de Contratação em CT&I (Suplentes)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Os prazos de contratação serão divulgados junto com o resultado final homologado pelo CCAF. Até as 17h00.",
+      "acao_do_proponente": true
     }
   ],
-  "observacoes_gerais": "Serão apoiados 4 projetos oriundos das IES/P/T para cada microrregião e 10 projetos na ampla concorrência. Recursos remanescentes da não contratação de projetos em uma microrregião serão redistribuídos para os projetos mais bem classificados da ampla concorrência. O orçamento do projeto poderá ser aprovado na íntegra ou parcialmente. Cada proponente poderá ser coordenador(a) de somente uma proposta; em caso de mais de uma submissão, a última será considerada para análise. Não será permitida a participação de Empresário Individual, Microempreendedor individual (MEI) ou Empresa Júnior como empresa parceira do projeto.",
+  "observacoes_gerais": null,
   "_pdf_sha256": "55194574f15f2190c6d6dec46df141029d3a300a09889c4bfc92903bc26cceff",
-  "_alteracoes_sha256": []
+  "_alteracoes_sha256": [
+    {
+      "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%201ª%20Retificação.pdf",
+      "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA (1ª ALTERAÇÃO)",
+      "sha256": "7289893213d4c2c2c723df5fe94903ee86f7b460398f4c806483d476fecb7085"
+    }
+  ]
 }

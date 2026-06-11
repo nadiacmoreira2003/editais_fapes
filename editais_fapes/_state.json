@@ -1047,7 +1047,7 @@
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_-_2_Edição_-_Lançamento.pdf",
       "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
       "primeira_visualizacao": "2026-04-25T19:25:39-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-25T21:01:55-03:00",
       "ultima_alteracao_em": "2026-04-25T19:25:39-03:00",
@@ -1240,7 +1240,7 @@
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20Fapes%20Horizon%20Europe%202021-2027-1.pdf",
       "pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080",
       "primeira_visualizacao": "2026-04-25T19:25:39-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-25T21:01:43-03:00",
       "ultima_alteracao_em": "2026-04-25T19:25:39-03:00",
@@ -1313,7 +1313,7 @@
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_Water4All_2025%20-%20Water4ALL.pdf",
       "pdf_sha256": "308e24a152f3bd689ac1e540a1d00a2ecbdfe7015db1c1fb01992a2614ba2315",
       "primeira_visualizacao": "2026-04-25T19:25:39-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-25T21:01:45-03:00",
       "ultima_alteracao_em": "2026-04-25T19:25:39-03:00",
@@ -1359,7 +1359,7 @@
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/SBEP%20Call%20text%202025.pdf",
       "pdf_sha256": "aeb3f5bd29effedd2752b7f54544f9165e6e3231d1643adf527c28cb5a4e7f3d",
       "primeira_visualizacao": "2026-04-25T19:25:39-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-25T21:01:40-03:00",
       "ultima_alteracao_em": "2026-04-25T19:25:39-03:00",
@@ -1588,7 +1588,7 @@
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Cooperative%20Program%20-U%20of%20I%20and%20Confap%20v%205%2024-03.docx.pdf",
       "pdf_sha256": "dca97bcd47c4ff388842a427fdcd196d9c1eff873ff906a8e84084ba6aad9175",
       "primeira_visualizacao": "2026-04-25T19:25:39-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-25T21:01:48-03:00",
       "ultima_alteracao_em": "2026-04-25T19:25:39-03:00",
@@ -1663,7 +1663,7 @@
       "pdf_sha256": "b49c1446c5a3cbe6868512b7e452a2ecdc537b0f84ba00e67234e26146a362bd",
       "alteracoes": [],
       "primeira_visualizacao": "2026-04-29T08:38:00-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-29T08:38:01-03:00",
       "ultima_alteracao_em": "2026-04-29T08:38:00-03:00",
@@ -1771,20 +1771,37 @@
       "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA",
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%20Assinado.pdf",
       "pdf_sha256": "55194574f15f2190c6d6dec46df141029d3a300a09889c4bfc92903bc26cceff",
-      "alteracoes": [],
+      "alteracoes": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%201ª%20Retificação.pdf",
+          "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA (1ª ALTERAÇÃO)",
+          "primeira_visualizacao": "2026-06-11T09:25:23-03:00"
+        }
+      ],
       "primeira_visualizacao": "2026-04-30T08:37:21-03:00",
-      "ultima_visualizacao": "2026-06-09T09:04:49-03:00",
-      "status_atual": "removido",
-      "email_enviado_em": "2026-04-30T08:37:22-03:00",
-      "ultima_alteracao_em": "2026-04-30T08:37:21-03:00",
-      "alteracoes_recentes": [],
-      "novas_alteracoes_doc": [],
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
+      "status_atual": "atualizado",
+      "email_enviado_em": "2026-06-11T09:25:24-03:00",
+      "ultima_alteracao_em": "2026-06-11T09:25:23-03:00",
+      "alteracoes_recentes": [
+        "Objetivo: \"Apoiar financeiramente projetos de extensão tecnológica em diversas áreas temáticas, coordenados por profissionais de Instituições de Ensino Superior, de Pesquisa ou de Tecnologia (IES/P/T) localizadas no Espírito Santo. O objetivo é promover o envolvimento e a formação de estudantes para o desenvolvimento econômico e social, visando a inclusão social e produtiva nas microrregiões do estado.\" → \"Apoiar financeiramente projetos de extensão tecnológica em diversas áreas temáticas, coordenados por profissionais de Instituições de Ensino Superior, Pesquisa ou Tecnologia (IES/P/T) no Espírito Santo. O objetivo é promover o envolvimento e a formação de estudantes para o desenvolvimento econômico e social, visando a inclusão social e produtiva nas diferentes microrregiões do estado.\"",
+        "Público-alvo: \"Profissionais vinculados a Instituições de Ensino Superior, de Pesquisa ou de Tecnologia (IES/P/T), públicas e privadas, com atividades de extensão regulamentadas, localizadas no estado do Espírito Santo. O proponente deve ser coordenador do projeto, possuir vínculo empregatício (ou termo de adesão a trabalho voluntário se aposentado), ter graduação concluída com 3 anos de experiência em projetos de extensão ou titulação mínima de mestre, currículo Lattes atualizado há menos de 6 meses, não integrar outra equipe executora neste edital, estar adimplente com a Fapes, ser brasileiro ou estrangeiro com visto permanente e residir no Espírito Santo ou municípios limítrofes.\" → \"Coordenadores de projetos vinculados a Instituições de Ensino Superior, de Pesquisa ou de Tecnologia (IES/P/T) no Espírito Santo, com graduação e experiência em projetos de extensão (mínimo 3 anos) ou titulação mínima de mestre, currículo Lattes atualizado, adimplentes com a Fapes, brasileiros/estrangeiros com visto permanente e residentes no ES ou municípios limítrofes.\"",
+        "Contato: \"editais.extensao@fapes.es.gov.br\" → \"editais.extensao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br, nupex@fapes.es.gov.br\"",
+        "Submissão (nova): Data limite para submissão das propostas — ? a 2026-06-30",
+        "Submissão (removida): Data limite para submissão das propostas — ? a 2026-06-09"
+      ],
+      "novas_alteracoes_doc": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%201ª%20Retificação.pdf",
+          "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA (1ª ALTERAÇÃO)"
+        }
+      ],
       "extracao": {
-        "objetivo": "Apoiar financeiramente projetos de extensão tecnológica em diversas áreas temáticas, coordenados por profissionais de Instituições de Ensino Superior, de Pesquisa ou de Tecnologia (IES/P/T) localizadas no Espírito Santo. O objetivo é promover o envolvimento e a formação de estudantes para o desenvolvimento econômico e social, visando a inclusão social e produtiva nas microrregiões do estado.",
-        "publico_alvo": "Profissionais vinculados a Instituições de Ensino Superior, de Pesquisa ou de Tecnologia (IES/P/T), públicas e privadas, com atividades de extensão regulamentadas, localizadas no estado do Espírito Santo. O proponente deve ser coordenador do projeto, possuir vínculo empregatício (ou termo de adesão a trabalho voluntário se aposentado), ter graduação concluída com 3 anos de experiência em projetos de extensão ou titulação mínima de mestre, currículo Lattes atualizado há menos de 6 meses, não integrar outra equipe executora neste edital, estar adimplente com a Fapes, ser brasileiro ou estrangeiro com visto permanente e residir no Espírito Santo ou municípios limítrofes.",
+        "objetivo": "Apoiar financeiramente projetos de extensão tecnológica em diversas áreas temáticas, coordenados por profissionais de Instituições de Ensino Superior, Pesquisa ou Tecnologia (IES/P/T) no Espírito Santo. O objetivo é promover o envolvimento e a formação de estudantes para o desenvolvimento econômico e social, visando a inclusão social e produtiva nas diferentes microrregiões do estado.",
+        "publico_alvo": "Coordenadores de projetos vinculados a Instituições de Ensino Superior, de Pesquisa ou de Tecnologia (IES/P/T) no Espírito Santo, com graduação e experiência em projetos de extensão (mínimo 3 anos) ou titulação mínima de mestre, currículo Lattes atualizado, adimplentes com a Fapes, brasileiros/estrangeiros com visto permanente e residentes no ES ou municípios limítrofes.",
         "valor_total": "R$ 3.000.000,00",
         "valor_por_proposta": "R$ 60.000,00",
-        "contato": "editais.extensao@fapes.es.gov.br",
+        "contato": "editais.extensao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br, nupex@fapes.es.gov.br",
         "cronograma": [
           {
             "evento": "Publicação do Edital",
@@ -1794,72 +1811,120 @@
             "acao_do_proponente": false
           },
           {
-            "evento": "Data limite para submissão das propostas",
+            "evento": "Prazo para impugnação do edital",
             "data_inicio": null,
-            "data_fim": "2026-06-09",
-            "observacao": "até 17h59, via Sigfapes",
+            "data_fim": "2026-06-23",
+            "observacao": "Até o quinto dia útil que anteceder a data final de submissão das propostas (2026-06-30)",
             "acao_do_proponente": true
           },
           {
-            "evento": "Publicação do resultado preliminar da habilitação",
+            "evento": "Publicação do resultado preliminar (Habilitação)",
             "data_inicio": "2026-06-26",
             "data_fim": null,
             "observacao": null,
             "acao_do_proponente": false
           },
           {
-            "evento": "Prazo para submissão de recursos administrativos (habilitação)",
+            "evento": "Data limite para submissão das propostas",
             "data_inicio": null,
-            "data_fim": null,
-            "observacao": "05 (cinco) dias úteis a partir da publicação do resultado preliminar da habilitação",
+            "data_fim": "2026-06-30",
+            "observacao": "até as 17h59, via Sigfapes",
             "acao_do_proponente": true
           },
           {
-            "evento": "Previsão de publicação do resultado homologado da habilitação",
-            "data_inicio": "2026-07-20",
+            "evento": "Prazo para submissão de recursos administrativos (Habilitação)",
+            "data_inicio": null,
+            "data_fim": null,
+            "observacao": "05 dias úteis a partir da publicação do resultado preliminar da habilitação",
+            "acao_do_proponente": true
+          },
+          {
+            "evento": "Previsão de publicação do resultado homologado (Habilitação)",
+            "data_inicio": "2026-07-24",
             "data_fim": null,
             "observacao": null,
             "acao_do_proponente": false
           },
           {
-            "evento": "Previsão para publicação do resultado preliminar da análise das propostas",
-            "data_inicio": "2026-08-03",
+            "evento": "Previsão para publicação do resultado preliminar da análise das propostas (Avaliação de Mérito)",
+            "data_inicio": "2026-09-25",
             "data_fim": null,
             "observacao": null,
             "acao_do_proponente": false
           },
           {
-            "evento": "Prazo para submissão de recursos administrativos (mérito)",
+            "evento": "Prazo para submissão de recursos administrativos (Avaliação de Mérito)",
             "data_inicio": null,
             "data_fim": null,
-            "observacao": "05 (cinco) dias úteis a partir da publicação do resultado preliminar do mérito",
+            "observacao": "05 dias úteis a partir da publicação do resultado preliminar do mérito",
             "acao_do_proponente": true
           },
           {
-            "evento": "Previsão para publicação final do resultado homologado",
-            "data_inicio": "2026-08-25",
+            "evento": "Previsão para publicação final do resultado homologado (Avaliação de Mérito)",
+            "data_inicio": "2026-10-27",
             "data_fim": null,
             "observacao": null,
             "acao_do_proponente": false
           },
           {
-            "evento": "Início da contratação / Assinatura do Termo de Outorga",
+            "evento": "Início da contratação",
             "data_inicio": null,
             "data_fim": null,
-            "observacao": "Até 5 (cinco) dias úteis da publicação do resultado homologado",
+            "observacao": "Até 5 dias úteis da publicação do resultado homologado",
+            "acao_do_proponente": false
+          },
+          {
+            "evento": "Assinatura do Termo de Outorga e do Projeto Aprovado",
+            "data_inicio": null,
+            "data_fim": null,
+            "observacao": "Os prazos de contratação serão divulgados junto com o resultado final homologado pelo CCAF. Até as 17h00.",
             "acao_do_proponente": true
           },
           {
-            "evento": "Início da vigência e execução dos projetos",
+            "evento": "Início da vigência dos projetos contratados",
+            "data_inicio": "2026-10-01",
+            "data_fim": null,
+            "observacao": "No 1º dia útil do mês subsequente à data de assinatura do Termo de Outorga",
+            "acao_do_proponente": true
+          },
+          {
+            "evento": "Vigência do Termo de Outorga",
             "data_inicio": "2026-10-01",
             "data_fim": "2028-09-30",
-            "observacao": "Duração de 24 meses",
+            "observacao": "24 meses",
             "acao_do_proponente": false
+          },
+          {
+            "evento": "Convocação de suplentes (se aplicável)",
+            "data_inicio": null,
+            "data_fim": null,
+            "observacao": "A partir da data a ser divulgada",
+            "acao_do_proponente": false
+          },
+          {
+            "evento": "Contratação de suplentes (se aplicável)",
+            "data_inicio": null,
+            "data_fim": null,
+            "observacao": "Os prazos de contratação serão divulgados junto com o resultado final homologado pelo CCAF. Até as 17h00.",
+            "acao_do_proponente": true
+          },
+          {
+            "evento": "Envio do Registro da Lista de Checagem de Documentação de Contratação em CT&I (Suplentes)",
+            "data_inicio": null,
+            "data_fim": null,
+            "observacao": "Os prazos de contratação serão divulgados junto com o resultado final homologado pelo CCAF. Até as 17h00.",
+            "acao_do_proponente": true
           }
         ],
-        "observacoes_gerais": "Serão apoiados 4 projetos oriundos das IES/P/T para cada microrregião e 10 projetos na ampla concorrência. Recursos remanescentes da não contratação de projetos em uma microrregião serão redistribuídos para os projetos mais bem classificados da ampla concorrência. O orçamento do projeto poderá ser aprovado na íntegra ou parcialmente. Cada proponente poderá ser coordenador(a) de somente uma proposta; em caso de mais de uma submissão, a última será considerada para análise. Não será permitida a participação de Empresário Individual, Microempreendedor individual (MEI) ou Empresa Júnior como empresa parceira do projeto.",
+        "observacoes_gerais": null,
         "_pdf_sha256": "55194574f15f2190c6d6dec46df141029d3a300a09889c4bfc92903bc26cceff",
-        "_alteracoes_sha256": []
+        "_alteracoes_sha256": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%201ª%20Retificação.pdf",
+            "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA (1ª ALTERAÇÃO)",
+            "sha256": "7289893213d4c2c2c723df5fe94903ee86f7b460398f4c806483d476fecb7085"
+          }
+        ]
       }
     },
     "inovacao||EDITAL FAPES Nº 10/2026 - DR. EMPREENDEDOR CAPIXABA": {
@@ -1869,7 +1934,7 @@
       "pdf_sha256": "b6980dd84b31824b29d134dcea655da752c87e9d6d84595bdfa9312d25904237",
       "alteracoes": [],
       "primeira_visualizacao": "2026-05-01T08:30:26-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-05-11T09:07:37-03:00",
       "ultima_alteracao_em": "2026-05-08T09:11:24-03:00",
@@ -2133,7 +2198,7 @@
       "pdf_sha256": "bf155ce0a6535e23bb786aa0a190d5e5b7054e242249cfed4ac408b3ef78f450",
       "alteracoes": [],
       "primeira_visualizacao": "2026-05-12T08:43:01-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-05-12T08:43:02-03:00",
       "ultima_alteracao_em": "2026-05-12T08:43:01-03:00",
@@ -2334,7 +2399,7 @@
       "pdf_sha256": "2faa8c55e76fedc9fe43b740034b8ce8144d11e145dc3dcdfb45641a76eee84b",
       "alteracoes": [],
       "primeira_visualizacao": "2026-05-14T08:39:29-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-05-14T08:39:29-03:00",
       "ultima_alteracao_em": "2026-05-14T08:39:29-03:00",
@@ -2388,7 +2453,7 @@
       "pdf_sha256": "244461f35f9951a187bfd07cc6956593a21a44dd6e088f844a8336a42d1eea7d",
       "alteracoes": [],
       "primeira_visualizacao": "2026-05-16T08:26:31-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-05-16T08:26:32-03:00",
       "ultima_alteracao_em": "2026-05-16T08:26:31-03:00",
@@ -2484,7 +2549,7 @@
       "pdf_sha256": "91f37ac6ac440170364e589b9f01d452d77cab755a3f3b81f758f569c38e8749",
       "alteracoes": [],
       "primeira_visualizacao": "2026-05-22T08:59:30-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-05-22T08:59:32-03:00",
       "ultima_alteracao_em": "2026-05-22T08:59:30-03:00",
@@ -2608,7 +2673,7 @@
       "pdf_sha256": "5c2df43518c0092035558297ec3531ddc23000d77c37218b3c76f70c6868dc0a",
       "alteracoes": [],
       "primeira_visualizacao": "2026-05-28T09:14:57-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-05-28T09:15:00-03:00",
       "ultima_alteracao_em": "2026-05-28T09:14:57-03:00",
@@ -2690,7 +2755,7 @@
       "pdf_sha256": "209a90e8635bc0b42fe664de8916d93d24e45b7ced66fb43aae8a845be0907cc",
       "alteracoes": [],
       "primeira_visualizacao": "2026-05-28T09:14:57-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-05-28T09:14:59-03:00",
       "ultima_alteracao_em": "2026-05-28T09:14:57-03:00",
@@ -2751,7 +2816,7 @@
       "pdf_sha256": "447a04be0340cdf1ba055fe3539a908847320d817fb01d87eb3047edfbe80261",
       "alteracoes": [],
       "primeira_visualizacao": "2026-05-28T09:14:57-03:00",
-      "ultima_visualizacao": "2026-06-10T09:11:23-03:00",
+      "ultima_visualizacao": "2026-06-11T09:25:23-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-05-28T09:14:59-03:00",
       "ultima_alteracao_em": "2026-05-28T09:14:57-03:00",
@@ -2848,5 +2913,5 @@
       }
     }
   },
-  "ultima_execucao": "2026-06-10T09:11:23-03:00"
+  "ultima_execucao": "2026-06-11T09:25:24-03:00"
 }
