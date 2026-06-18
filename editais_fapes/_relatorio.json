@@ -191,8 +191,34 @@
   {
     "categoria": "chamadas_internacionais",
     "url": "https://fapes.es.gov.br/chamadas-internacionais",
-    "total": 5,
+    "total": 6,
     "editais": [
+      {
+        "titulo": "CHAMADA MOBILITY CONFAP ITALY 2026",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada-MCI-–-MOBILITY-CONFAP-ITALY-2026.pdf",
+        "alteracoes": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20Fapes%20Mobility%20Italy%20-2026.pdf",
+            "titulo": "DIRETRIZES FAPES MOBILITY ITALY 2026"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Editais%20-%20CONFAP%20—%20Conselho%20Nacional%20das%20Fundações%20Estaduais%20de%20Amparo%20à%20Pesquisa-1.pdf",
+            "titulo": "PUBLICAÇÃO CONFAP - CHAMADA MOBILITY CONFAP ITALY 2026"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20I%20-%20Fapes%20Mobility%20Italy%20-2026.docx",
+            "titulo": "ANEXO I - FORMULÁRIO FAPES DE SUBMISSÃO"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20II%20-Fapes%20Mobility%20Italy%20-2026.docx",
+            "titulo": "ANEXO II – CATEGORIA ALUNO - DECLARAÇÃO DE VÍNCULO ACADÊMICO E AUTORIZAÇÃO PARA ESTÁGIO"
+          }
+        ],
+        "arquivo_local": "chamadas_internacionais/CHAMADA_MOBILITY_CONFAP_ITALY_2026.pdf",
+        "pdf_sha256": "224b334fd2df5443db423be4fac90686ae52b9d80a86ff107691fd96a9a5c7c7",
+        "status": "novo"
+      },
       {
         "titulo": "CHAMADA ERC-CONFAP 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada-ERC-CONFAP-2026.pdf",

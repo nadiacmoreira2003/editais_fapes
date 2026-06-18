@@ -1,0 +1,33 @@
+{
+  "objetivo": "As Fundações Estaduais de Amparo à Pesquisa (FAPs) brasileiras, articuladas através do CONFAP, lançam uma chamada para apoiar pesquisadores do Brasil, vinculados a instituições de ensino superior e pesquisa, que desejam desenvolver atividades de pesquisa na Itália em colaboração com colegas locais. O objetivo é facilitar e apoiar a colaboração científica, tecnológica e de inovação, promovendo a mobilidade de estudantes de doutorado, mestrado e pós-doutores, através da concessão de bolsas de estudo para fortalecer grupos de pesquisa.",
+  "publico_alvo": "Pesquisadores de doutorado, mestrado e pós-doutorado vinculados a universidades e instituições de pesquisa dos Estados brasileiros participantes desta chamada (incluindo Espírito Santo - FAPES). Todos os candidatos devem ter um supervisor associado a uma universidade na Itália, parte da rede MCI. Critérios de elegibilidade adicionais podem ser definidos pelas FAPs individuais.",
+  "valor_total": null,
+  "valor_por_proposta": null,
+  "contato": "internacional.confap@gmail.com",
+  "cronograma": [
+    {
+      "evento": "Lançamento do edital",
+      "data_inicio": null,
+      "data_fim": "2026-06-10",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo final para submissão de propostas",
+      "data_inicio": null,
+      "data_fim": "2026-09-04",
+      "observacao": "até 23:59 (horário de Brasília) via https://sistema.confap.org.br",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Publicação dos resultados finais",
+      "data_inicio": "2026-10-01",
+      "data_fim": "2026-10-31",
+      "observacao": null,
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "Não serão cobradas taxas de matrícula por nenhuma das partes para a mobilidade de intercâmbio. Em caso de mobilidade no âmbito de projetos com potencial valor comercial e direitos de propriedade intelectual, as instituições anfitriãs e de envio devem assinar um acordo de colaboração específico. Os candidatos devem consultar suas respectivas FAPs para critérios de elegibilidade adicionais, diretrizes específicas e possíveis requisitos para submissão em suas próprias plataformas. Os documentos exigidos para as propostas de projeto incluem: proposta de projeto, Curriculum Vitae do candidato (Brasil), Curriculum Vitae do Supervisor (Itália) e carta de apoio assinada pelo supervisor (Itália).",
+  "_pdf_sha256": "224b334fd2df5443db423be4fac90686ae52b9d80a86ff107691fd96a9a5c7c7",
+  "_alteracoes_sha256": []
+}
