@@ -326,6 +326,89 @@
   },
   {
     "categoria": "difusao_do_conhecimento",
+    "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_17.2026_Prêmio_Fapes_Edição_2026_Professora_Jurema_José_de_Oliveira.pdf",
+    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_17_2026_-_PRÊMIO_FAPES_DE_CIÊNCIA,_TECNOLOGIA,_INOVAÇÃO_E_JORNALISMO_–_EDIÇÃO_2026.pdf",
+    "pdf_sha256": "0643c9142d2bca25c41fb128b31795f0a46a62031b2f0717ada035b460f7ed7f",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "O Prêmio Fapes tem como objetivo reconhecer e premiar projetos de destaque e trajetórias profissionais nas áreas de pesquisa, extensão e inovação, bem como premiar matérias jornalísticas sobre a Fapes ou programas e projetos fomentados pela Fundação. A iniciativa visa valorizar a relevância, o impacto e a aplicabilidade da pesquisa, extensão e inovação para o desenvolvimento do Espírito Santo, reconhecer a excelência de profissionais apoiados pela Fapes e ampliar a divulgação e popularização da ciência no estado.",
+      "publico_alvo": "Pesquisadores, extensionistas e empreendedores vinculados a projetos contratados pela Fapes, executados a partir de 01/01/2019 e concluídos até 31/12/2025. Também podem participar profissionais de jornalismo residentes no Espírito Santo, autores de matérias relacionadas à Fapes ou aos programas e projetos fomentados pela Fundação. Servidores da Fapes, membros do CCAF (ativos ou que atuaram na Fundação no ano de publicação do edital e nos 3 anos anteriores), e seus cônjuges, companheiros e parentes até o segundo grau não podem participar.",
+      "valor_total": "R$ 308.000,00",
+      "valor_por_proposta": "R$ 12.000,00",
+      "contato": "editais.duvidas@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Publicação do edital",
+          "data_inicio": "2026-06-22",
+          "data_fim": "2026-06-22",
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Envio das inscrições – Categorias Projetos e Destaque",
+          "data_inicio": "2026-06-22",
+          "data_fim": "2026-07-24",
+          "observacao": "até as 17h59",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Envio das inscrições – Categoria Jornalismo",
+          "data_inicio": "2026-06-22",
+          "data_fim": "2026-09-15",
+          "observacao": "até as 17h59",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Resultado preliminar das etapas Habilitação e Análise por Avaliadores Ad Hoc",
+          "data_inicio": "2026-10-08",
+          "data_fim": null,
+          "observacao": "a partir de",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para recurso administrativo",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "5 (cinco) dias úteis após a divulgação do resultado preliminar",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Resultado final das etapas Habilitação e Análise por Avaliadores Ad Hoc",
+          "data_inicio": "2026-10-26",
+          "data_fim": null,
+          "observacao": "a partir de",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Votação pelo Comitê de Especialistas – Categorias Projetos e Destaque",
+          "data_inicio": "2026-11-03",
+          "data_fim": "2026-11-09",
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Votação popular – Categoria Jornalismo",
+          "data_inicio": "2026-11-03",
+          "data_fim": "2026-11-09",
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Resultado final da seleção",
+          "data_inicio": "2026-12-07",
+          "data_fim": null,
+          "observacao": "a partir de",
+          "acao_do_proponente": false
+        }
+      ],
+      "observacoes_gerais": "É permitida apenas uma inscrição por pessoa neste edital, sendo considerada válida a última enviada dentro do prazo. Os contemplados deverão protocolar solicitação de pagamento no prazo máximo de até 90 (noventa) dias, contados da data de publicação do resultado final no DIO-ES. O comparecimento do premiado à cerimônia de premiação é obrigatório, ou deve ser indicado formalmente um representante. A matéria jornalística da Categoria Jornalismo deve ter sido veiculada entre 01/09/2025 e 15/09/2026.",
+      "_pdf_sha256": "0643c9142d2bca25c41fb128b31795f0a46a62031b2f0717ada035b460f7ed7f",
+      "_alteracoes_sha256": []
+    }
+  },
+  {
+    "categoria": "difusao_do_conhecimento",
     "titulo": "EDITAL FAPES Nº 28/2025 - PUBLICAÇÃO DE ARTIGOS TÉCNICO-CIENTÍFICOS",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_28_2025_Publicação_de_Artigos_Técnico-Científicos.pdf",
     "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_28_2025_-_PUBLICAÇÃO_DE_ARTIGOS_TÉCNICO-CIENTÍFICOS.pdf",
@@ -1325,6 +1408,124 @@
     }
   },
   {
+    "categoria": "inovacao",
+    "titulo": "EDITAL FAPES Nº 18/2026 PARCERIAS ENTRE STARTUPS",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_18-2026_-_PARCERIAS_ENTRE_STARTUPS%20(1).pdf",
+    "arquivo_local": "inovacao/EDITAL_FAPES_No_18_2026_PARCERIAS_ENTRE_STARTUPS.pdf",
+    "pdf_sha256": "01e91d9549311ea16eab19fef46308ef23e9c165616286740e992e28dbf3d51a",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "Selecionar e apoiar startups capixabas, através de subvenção econômica (recursos não reembolsáveis), para celebrar parcerias estratégicas com outras startups (locais, nacionais ou internacionais) visando a expansão de mercado, inovação, aprimoramento de produtos/serviços, acesso a novos canais de distribuição, atração de talentos, posicionamento de marca, acesso a financiamento e impacto socioambiental sustentável.",
+      "publico_alvo": "Startups (pessoas jurídicas) sediadas no Espírito Santo, com faturamento bruto anual de até R$ 16.000.000,00 e que atendam aos requisitos do edital.",
+      "valor_total": "R$ 9.800.000,00",
+      "valor_por_proposta": "R$ 250.000,00",
+      "contato": "duvidas.inovacao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br, geinov@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Publicação da Chamada Pública",
+          "data_inicio": "2026-06-22",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo final para solicitar atendimento especializado",
+          "data_inicio": null,
+          "data_fim": "2026-07-21",
+          "observacao": "Até 10 dias úteis antes do prazo final para submissão das propostas.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Prazo final para impugnação do edital",
+          "data_inicio": null,
+          "data_fim": "2026-07-27",
+          "observacao": "Até 5 dias úteis antes da data final para submissão das propostas.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Submissão de propostas",
+          "data_inicio": "2026-06-22",
+          "data_fim": "2026-08-04",
+          "observacao": "Via SIGFAPES.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Avaliação de habilitação e mérito",
+          "data_inicio": "2026-08-05",
+          "data_fim": "2026-10-01",
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Publicação do resultado preliminar da habilitação e mérito",
+          "data_inicio": "2026-10-02",
+          "data_fim": null,
+          "observacao": "A partir desta data.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para submissão de recursos administrativos",
+          "data_inicio": "2026-10-03",
+          "data_fim": "2026-10-09",
+          "observacao": "5 dias úteis a partir da publicação do resultado preliminar da habilitação.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Publicação do resultado homologado da habilitação e mérito",
+          "data_inicio": "2026-10-27",
+          "data_fim": null,
+          "observacao": "A partir desta data.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Avaliação de documentação e contratação das propostas",
+          "data_inicio": "2026-10-28",
+          "data_fim": null,
+          "observacao": "A partir desta data.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Para constituir Empresa e atualização documental no SIGFAPES",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Período a ser definido na fase de contratação.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Assinatura do Termo de Outorga e do Projeto Aprovado",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Período a ser definido na fase de contratação.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Início da vigência das parcerias contratadas",
+          "data_inicio": "2026-12-01",
+          "data_fim": null,
+          "observacao": "A partir desta data.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para informar dados da conta bancária",
+          "data_inicio": "2026-12-01",
+          "data_fim": "2026-12-30",
+          "observacao": "30 dias a partir do início da vigência do Termo de Outorga.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Convocação de suplentes",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Se aplicável, a partir de data a ser definida.",
+          "acao_do_proponente": false
+        }
+      ],
+      "observacoes_gerais": "As datas do cronograma são passíveis de alteração. É responsabilidade do coordenador da parceria acompanhar as atualizações do Edital. Cada proponente pode submeter até 2 propostas em modalidades diferentes e com parceiros distintos. É vedada a submissão de propostas com as mesmas startups alternando funções de proponente e parceira. Propostas com Nota Final inferior a 70 pontos serão desclassificadas. O prazo de execução das propostas contratadas é de 24 meses, prorrogável por até 12 meses. Para critérios de contratação, algumas empresas deverão estar localizadas obrigatoriamente na microrregião do Caparaó do Espírito Santo.",
+      "_pdf_sha256": "01e91d9549311ea16eab19fef46308ef23e9c165616286740e992e28dbf3d51a",
+      "_alteracoes_sha256": []
+    }
+  },
+  {
     "categoria": "chamadas_internacionais",
     "titulo": "CHAMADA MOBILITY CONFAP ITALY 2026",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada-MCI-–-MOBILITY-CONFAP-ITALY-2026.pdf",
@@ -1479,245 +1680,6 @@
           "sha256": "2da78612d777b7acbe4b768c070a1ef0a80dbef567f46dfe4b6283b114f92e32"
         }
       ]
-    }
-  },
-  {
-    "categoria": "chamadas_internacionais",
-    "titulo": "CHAMADA CONFAP & WATER4ALL",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_Water4All_2025%20-%20Water4ALL.pdf",
-    "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_&_WATER4ALL.pdf",
-    "pdf_sha256": "308e24a152f3bd689ac1e540a1d00a2ecbdfe7015db1c1fb01992a2614ba2315",
-    "alteracoes": [],
-    "extracao": {
-      "objetivo": "A FAPES visa apoiar projetos colaborativos de pesquisa e inovação no âmbito da Chamada Confap & Water4All – Water and Health 2025. O edital busca financiar propostas que abordem os principais desafios relacionados à interconexão entre água e saúde humana. Isso inclui temas como qualidade da água, contaminantes e tecnologias de tratamento, visando identificar soluções e estratégias para a área.",
-      "publico_alvo": "Pesquisadores principais ou coordenadores de projeto com titulação mínima de doutor, brasileiros ou estrangeiros com visto permanente, vinculados a Instituições de Ensino Superior, Pesquisa e/ou Tecnológica e/ou de Inovação (públicas ou privadas) no estado do Espírito Santo, com vínculo empregatício por prazo indeterminado (se ativos) ou termo de adesão ao serviço voluntário (se aposentados), residentes no Espírito Santo e adimplentes junto à FAPES. Devem também atender aos critérios de elegibilidade da Chamada CONFAP-Water4All 2025 e normas da Resolução CCAF № 357/2025 e Instrução de Serviço № 082/2025.",
-      "valor_total": "€ 40.000,00",
-      "valor_por_proposta": "€ 40.000,00",
-      "contato": "internacional.confap@gmail.com, parcerias@fapes.es.gov.br, parcerias1@fapes.es.gov.br",
-      "cronograma": [
-        {
-          "evento": "Prazo para envio de pré-propostas",
-          "data_inicio": null,
-          "data_fim": "2025-11-13",
-          "observacao": null,
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo para envio de propostas completas convidadas",
-          "data_inicio": null,
-          "data_fim": "2026-04-13",
-          "observacao": null,
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Início dos projetos aprovados",
-          "data_inicio": "2026-12-01",
-          "data_fim": "2027-01-31",
-          "observacao": "Estimativa para 'final de 2026 e início de 2027'",
-          "acao_do_proponente": false
-        }
-      ],
-      "observacoes_gerais": "A FAPES apoiará 01 (um) projeto com recursos do Fundo Estadual de Ciência e Tecnologia do Espírito Santo (FUNCITEC). Os temas abordados incluem contaminantes transmitidos pela água e riscos à saúde, ferramentas e tecnologias inovadoras de monitoramento, tratamento de água e redução de exposição, e governança, inovação socioeconômica e integração de políticas. O projeto selecionado terá prazo de vigência de até 36 meses, e o apoio financeiro da FAPES cobrirá despesas de custeio e capital, exceto bolsas. As propostas devem ser submetidas na plataforma internacional da chamada, e a FAPES fará o controle de elegibilidade nas fases de pré-propostas e propostas completas. A contratação seguirá a ordem de classificação da Comissão Europeia.",
-      "_pdf_sha256": "308e24a152f3bd689ac1e540a1d00a2ecbdfe7015db1c1fb01992a2614ba2315"
-    }
-  },
-  {
-    "categoria": "chamadas_internacionais",
-    "titulo": "3ª CHAMADA TRANSACIONAL CONJUNTA - PARCERIA ECONOMIA AZUL SUSTENTÁVEL",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/SBEP%20Call%20text%202025.pdf",
-    "arquivo_local": "chamadas_internacionais/3a_CHAMADA_TRANSACIONAL_CONJUNTA_-_PARCERIA_ECONOMIA_AZUL_SUSTENTÁVEL.pdf",
-    "pdf_sha256": "aeb3f5bd29effedd2752b7f54544f9165e6e3231d1643adf527c28cb5a4e7f3d",
-    "alteracoes": [],
-    "extracao": {
-      "objetivo": "O edital visa impulsionar a digitalização e a inovação para ecossistemas marinhos, negócios e comunidades resilientes, fortalecendo a competitividade da Economia Azul da União Europeia. Serão financiados projetos de pesquisa e inovação que contribuam para a transição para uma economia azul sustentável, resiliente e neutra em carbono, com foco em áreas como Gêmeos Digitais do Oceano, transição de setores da economia azul, planejamento climático inteligente, bio-recursos azuis e comunidades costeiras resilientes. O objetivo é gerar conhecimento acionável e soluções para um oceano saudável e uma economia azul produtiva.",
-      "publico_alvo": "Consórcios compostos por parceiros elegíveis de pelo menos três países diferentes participantes da chamada, solicitando apoio financeiro de pelo menos três Organizações Financiadoras Participantes (PFOs) distintas. Adicionalmente, os projetos devem envolver pelo menos duas entidades legais independentes de dois Estados Membros da UE ou Países Associados ao Horizon Europe elegíveis para financiamento da UE. O Investigador Principal (PI) do coordenador do consórcio deve ser empregado por uma organização elegível em um dos países participantes da chamada.",
-      "valor_total": "32.045.000 Euro",
-      "valor_por_proposta": null,
-      "contato": "sbep.call-secretariat@uefiscdi.ro, epss.sbep@g.etag.ee",
-      "cronograma": [
-        {
-          "evento": "Pré-anúncio da chamada",
-          "data_inicio": "2025-07-21",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Lançamento oficial da chamada, publicação e abertura da ferramenta EPSS e de busca de parceiros",
-          "data_inicio": "2025-09-15",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Webinar internacional para os proponentes",
-          "data_inicio": "2025-09-29",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo final para submissão de pré-propostas",
-          "data_inicio": null,
-          "data_fim": "2025-11-17",
-          "observacao": "Até as 15:00 CET",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Etapa 1: Verificações de elegibilidade (JCS e NCPs), avaliação pelo IEC, seleção pelo CSC",
-          "data_inicio": "2025-11-18",
-          "data_fim": "2026-03-15",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Comunicação dos resultados da verificação de elegibilidade e avaliação das pré-propostas aos Coordenadores de projeto. Convite para submeter propostas completas.",
-          "data_inicio": "2026-03-15",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período para procedimento de recurso (Etapa 1)",
-          "data_inicio": "2026-03-15",
-          "data_fim": "2026-04-01",
-          "observacao": null,
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Avaliação dos pedidos de recurso e comunicação das decisões aos proponentes (Etapa 1)",
-          "data_inicio": "2026-04-01",
-          "data_fim": "2026-04-15",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo final para submissão de propostas completas",
-          "data_inicio": null,
-          "data_fim": "2026-06-17",
-          "observacao": "Até as 15:00 CET",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Etapa 2: Verificações de elegibilidade (JCS e NCPs), avaliação pelo IEC, seleção pelo CSC",
-          "data_inicio": "2026-06-18",
-          "data_fim": "2026-10-31",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Comunicação dos resultados da verificação de elegibilidade e avaliação das propostas completas aos Coordenadores de projeto",
-          "data_inicio": "2026-10-31",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período para procedimento de recurso (Etapa 2)",
-          "data_inicio": "2026-11-01",
-          "data_fim": "2026-11-15",
-          "observacao": null,
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Avaliação dos pedidos de recurso e comunicação das decisões aos proponentes (Etapa 2)",
-          "data_inicio": "2026-11-15",
-          "data_fim": "2026-11-30",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Negociações de subvenções nacionais/regionais para os projetos recomendados para financiamento",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Início dos projetos",
-          "data_inicio": "2026-12-01",
-          "data_fim": "2027-06-30",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Fim dos projetos (aos 36 meses)",
-          "data_inicio": "2029-12-01",
-          "data_fim": "2030-06-30",
-          "observacao": null,
-          "acao_do_proponente": false
-        }
-      ],
-      "observacoes_gerais": "A chamada é co-patrocinada pela Década das Nações Unidas da Ciência Oceânica para o Desenvolvimento Sustentável. Os projetos devem ser orientados para o impacto, seguindo uma abordagem de via de impacto. É exigido o envolvimento de múltiplos stakeholders (quádrupla hélice), incluindo pelo menos um parceiro da indústria, governo, institutos de pesquisa ou público. Atividades de participação cidadã e literacia oceânica são encorajadas. As propostas são fortemente recomendadas a cobrir um mínimo de duas bacias marítimas da UE (Oceano Atlântico, Mar Báltico, Mar Negro, Mar Mediterrâneo, Mar do Norte). Todas as propostas devem estar alinhadas com a Taxonomia da UE e cumprir os princípios éticos. Um processo de submissão em duas etapas é obrigatório (pré-proposta e, em seguida, proposta completa mediante convite). As informações fornecidas nas pré-propostas são vinculativas para as propostas completas; nenhuma alteração importante no conteúdo é permitida. O coordenador do consórcio pode ser Investigador Principal (PI) em apenas uma proposta. Parceiros do mesmo país não podem solicitar mais de 60% do financiamento total. A duração do projeto é de 36 meses. Os beneficiários do financiamento devem reconhecer o financiamento da SBEP e do Horizon Europe e aderir à Política de Ciência Aberta da CE para publicações.",
-      "_pdf_sha256": "aeb3f5bd29effedd2752b7f54544f9165e6e3231d1643adf527c28cb5a4e7f3d"
-    }
-  },
-  {
-    "categoria": "chamadas_internacionais",
-    "titulo": "CHAMADA CONFAP BRASIL–ILLINOIS 2026",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Cooperative%20Program%20-U%20of%20I%20and%20Confap%20v%205%2024-03.docx.pdf",
-    "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_BRASIL–ILLINOIS_2026.pdf",
-    "pdf_sha256": "dca97bcd47c4ff388842a427fdcd196d9c1eff873ff906a8e84084ba6aad9175",
-    "alteracoes": [],
-    "extracao": {
-      "objetivo": "O programa visa promover e fortalecer a colaboração científica por meio de projetos de pesquisa conjuntos entre pesquisadores e instituições afiliadas às Fundações Estaduais de Amparo à Pesquisa (FAPs) brasileiras e à University of Illinois System. O objetivo é fomentar a cooperação internacional e abordar áreas de pesquisa prioritárias.",
-      "publico_alvo": "Pesquisadores/coordenadores que desenvolvam atividades de pesquisa em universidades, institutos ou centros de pesquisa brasileiros, sediados em estados cujas FAPs confirmaram participação na chamada.",
-      "valor_total": null,
-      "valor_por_proposta": "USD 20.000,00",
-      "contato": "internacional.confap@gmail.com",
-      "cronograma": [
-        {
-          "evento": "Lançamento do edital",
-          "data_inicio": "2026-03-25",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Submissão de propostas",
-          "data_inicio": null,
-          "data_fim": "2026-05-26",
-          "observacao": "Até 23:59 (BRT) para PIs do lado brasileiro e 23:59 (GMT-5) para PIs do lado da University of Illinois System. Submissão via https://sistema.confap.org.br, podendo ser exigida submissão adicional nas plataformas das FAPs participantes.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Análise e avaliação das propostas",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Realizada por cada FAP envolvida para as propostas do lado brasileiro, antes do segundo semestre de 2026.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Troca de listas de propostas priorizadas",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "No segundo semestre de 2026, entre CONFAP e University of Illinois System.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Divulgação dos resultados",
-          "data_inicio": null,
-          "data_fim": "2026-08-31",
-          "observacao": "Até o final de agosto de 2026.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Início dos projetos",
-          "data_inicio": "2027-01-01",
-          "data_fim": null,
-          "observacao": "No primeiro trimestre de 2027.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Duração dos projetos",
-          "data_inicio": "2027-01-01",
-          "data_fim": "2028-12-31",
-          "observacao": "Os projetos terão duração de 2 anos a partir do início.",
-          "acao_do_proponente": false
-        }
-      ],
-      "observacoes_gerais": "Serão apoiados até 20 projetos de pesquisa conjuntos. As propostas devem ser elaboradas em inglês (máximo 10 páginas) e incluir uma descrição clara da colaboração planejada, valor agregado e complementaridade das equipes. As áreas de pesquisa prioritárias são: Clima, Sustentabilidade, Agricultura; Saúde Pública e Medicina; e Democracia e Inclusão. Cada PI pode submeter apenas uma proposta. O apoio financeiro para o lado brasileiro (FAPs) destina-se a cobrir custos gerais, viagens internacionais, diárias, fundos semente para custos diretos de pesquisa e workshops. É exigido seguro médico para visitantes.",
-      "_pdf_sha256": "dca97bcd47c4ff388842a427fdcd196d9c1eff873ff906a8e84084ba6aad9175"
     }
   }
 ]

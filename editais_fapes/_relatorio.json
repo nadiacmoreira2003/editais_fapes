@@ -61,8 +61,17 @@
   {
     "categoria": "difusao_do_conhecimento",
     "url": "https://fapes.es.gov.br/difusao-do-conhecimento",
-    "total": 1,
+    "total": 2,
     "editais": [
+      {
+        "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_17.2026_Prêmio_Fapes_Edição_2026_Professora_Jurema_José_de_Oliveira.pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_17_2026_-_PRÊMIO_FAPES_DE_CIÊNCIA,_TECNOLOGIA,_INOVAÇÃO_E_JORNALISMO_–_EDIÇÃO_2026.pdf",
+        "pdf_sha256": "0643c9142d2bca25c41fb128b31795f0a46a62031b2f0717ada035b460f7ed7f",
+        "status": "novo"
+      },
       {
         "titulo": "EDITAL FAPES Nº 28/2025 - PUBLICAÇÃO DE ARTIGOS TÉCNICO-CIENTÍFICOS",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_28_2025_Publicação_de_Artigos_Técnico-Científicos.pdf",
@@ -136,7 +145,7 @@
   {
     "categoria": "inovacao",
     "url": "https://fapes.es.gov.br/inovacao",
-    "total": 3,
+    "total": 4,
     "editais": [
       {
         "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026",
@@ -185,13 +194,22 @@
         "arquivo_local": "inovacao/EDITAL_FAPES_N°_11_2026_–_PROGRAMA_GÊNESIS.pdf",
         "pdf_sha256": "91f37ac6ac440170364e589b9f01d452d77cab755a3f3b81f758f569c38e8749",
         "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES Nº 18/2026 PARCERIAS ENTRE STARTUPS",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_18-2026_-_PARCERIAS_ENTRE_STARTUPS%20(1).pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "inovacao/EDITAL_FAPES_No_18_2026_PARCERIAS_ENTRE_STARTUPS.pdf",
+        "pdf_sha256": "01e91d9549311ea16eab19fef46308ef23e9c165616286740e992e28dbf3d51a",
+        "status": "novo"
       }
     ]
   },
   {
     "categoria": "chamadas_internacionais",
     "url": "https://fapes.es.gov.br/chamadas-internacionais",
-    "total": 6,
+    "total": 3,
     "editais": [
       {
         "titulo": "CHAMADA MOBILITY CONFAP ITALY 2026",
@@ -264,52 +282,6 @@
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_HORIZON_EUROPE.pdf",
         "pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080",
-        "status": "novo"
-      },
-      {
-        "titulo": "CHAMADA CONFAP & WATER4ALL",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_Water4All_2025%20-%20Water4ALL.pdf",
-        "alteracoes": [],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Water4All_2025JTC_Call_Announcement_draft-0062025%20Third%20version.pdf",
-            "titulo": "CHAMADA WATER4ALL 2025"
-          }
-        ],
-        "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_&_WATER4ALL.pdf",
-        "pdf_sha256": "308e24a152f3bd689ac1e540a1d00a2ecbdfe7015db1c1fb01992a2614ba2315",
-        "status": "novo"
-      },
-      {
-        "titulo": "3ª CHAMADA TRANSACIONAL CONJUNTA - PARCERIA ECONOMIA AZUL SUSTENTÁVEL",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/SBEP%20Call%20text%202025.pdf",
-        "alteracoes": [],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_EAS_2025.pdf",
-            "titulo": "DIRETRIZES DA FAPES"
-          }
-        ],
-        "arquivo_local": "chamadas_internacionais/3a_CHAMADA_TRANSACIONAL_CONJUNTA_-_PARCERIA_ECONOMIA_AZUL_SUSTENTÁVEL.pdf",
-        "pdf_sha256": "aeb3f5bd29effedd2752b7f54544f9165e6e3231d1643adf527c28cb5a4e7f3d",
-        "status": "novo"
-      },
-      {
-        "titulo": "CHAMADA CONFAP BRASIL–ILLINOIS 2026",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Cooperative%20Program%20-U%20of%20I%20and%20Confap%20v%205%2024-03.docx.pdf",
-        "alteracoes": [],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada%20Internacional_CONFAP-Brasillinois%202026.pdf",
-            "titulo": "DIRETRIZES DA FAPES"
-          },
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Termo_de_Adesão_CONFAP-Brasillinois%202026-ASSINADO.pdf",
-            "titulo": "TERMO DE ADESÃO"
-          }
-        ],
-        "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_BRASIL–ILLINOIS_2026.pdf",
-        "pdf_sha256": "dca97bcd47c4ff388842a427fdcd196d9c1eff873ff906a8e84084ba6aad9175",
         "status": "novo"
       }
     ]
