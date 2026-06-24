@@ -1,0 +1,117 @@
+{
+  "objetivo": "Selecionar e apoiar, através de subvenção econômica (recursos não reembolsáveis), startups capixabas que busquem celebrar parcerias estratégicas com outras startups (do Espírito Santo, nacionais ou internacionais). O objetivo é impulsionar a expansão de mercado, inovação tecnológica, aprimoramento de produtos/serviços, acesso a novos canais de distribuição, atração de talentos, posicionamento de marca e mercado, acesso a financiamento e impacto socioambiental sustentável.",
+  "publico_alvo": "Startups (pessoas jurídicas) com faturamento bruto anual de até R$ 16.000.000,00, sediadas no Espírito Santo, com CNPJ constituído há no mínimo 1 ano e no máximo 10 anos.",
+  "valor_total": "R$ 9.800.000,00",
+  "valor_por_proposta": "R$ 250.000,00",
+  "contato": "duvidas.inovacao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br, geinov@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação da Chamada Pública",
+      "data_inicio": "2026-06-22",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Submissão das propostas",
+      "data_inicio": "2026-06-22",
+      "data_fim": "2026-08-04",
+      "observacao": "Até às 17h59, via SIGFAPES",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Prazo para impugnação do edital",
+      "data_inicio": null,
+      "data_fim": "2026-07-28",
+      "observacao": "Até 5 (cinco) dias úteis antes da data final de submissão das propostas.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Avaliação de habilitação e avaliação de mérito",
+      "data_inicio": "2026-08-05",
+      "data_fim": "2026-10-01",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Publicação do resultado preliminar da habilitação e análise de mérito",
+      "data_inicio": "2026-10-02",
+      "data_fim": null,
+      "observacao": "A partir desta data. A Fapes poderá antecipar a publicação caso a fase de habilitação e análise de mérito seja finalizada antes.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo de submissão dos recursos administrativos",
+      "data_inicio": "2026-10-02",
+      "data_fim": "2026-10-09",
+      "observacao": "05 (cinco) dias úteis a partir da publicação do resultado preliminar da habilitação.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Publicação do resultado homologado da habilitação e mérito",
+      "data_inicio": "2026-10-27",
+      "data_fim": null,
+      "observacao": "A partir desta data.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Avaliação das documentações submetidas e contratação das propostas",
+      "data_inicio": "2026-10-28",
+      "data_fim": null,
+      "observacao": "A partir desta data.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Constituição de empresa e atualização documental no SIGFAPES (Proponentes aprovados)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Para proponentes aprovados sem empresa constituída. Período a ser definido pela FAPES após homologação do resultado.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Assinatura do Termo de Outorga e Projeto Aprovado (Proponentes aprovados)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até às 17h. Período a ser definido pela FAPES após homologação do resultado.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Registro da Lista de Checagem de Documentação de Contratação em CT&I",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até às 17h. Período a ser definido pela FAPES após homologação do resultado. Envio via e-Flow Formulário nº 26.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Início da vigência das parcerias contratadas",
+      "data_inicio": "2026-12-01",
+      "data_fim": null,
+      "observacao": "A partir desta data.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Informar dados da conta bancária aberta",
+      "data_inicio": "2026-12-01",
+      "data_fim": "2026-12-31",
+      "observacao": "Prazo de 30 dias a partir do início da vigência do Termo de Outorga.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Convocação de suplentes",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "A partir de data a ser definida pela FAPES, se aplicável.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Período de contratação das propostas suplentes",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até às 17h. Período a ser definido pela FAPES, se aplicável.",
+      "acao_do_proponente": true
+    }
+  ],
+  "observacoes_gerais": "As datas do cronograma são passíveis de alteração. É responsabilidade do coordenador da parceria acompanhar as atualizações do Edital. O valor máximo por proposta é R$ 250.000,00, mas varia por modalidade (R$ 120.000,00 para Modalidade I, R$ 150.000,00 para Modalidade II, R$ 250.000,00 para Modalidade III). Se o número de propostas previstas não for alcançado, os recursos remanescentes serão redirecionados para propostas suplentes. A startup classificada deverá depositar 5% do valor contratado como contrapartida financeira. A startup proponente e a parceira não podem ser caracterizadas como holding. Cada proponente pode submeter até 2 propostas, desde que em modalidades e com parceiros diferentes. Em caso de múltiplas submissões para a mesma faixa, apenas a última será considerada. É vedada a submissão de propostas com as mesmas startups alternando papéis de proponente e parceira. Propostas com Nota Final inferior a 70 pontos serão desclassificadas. A contratação está condicionada à comprovação de adimplência fiscal e previdenciária do coordenador e da empresa. Para critérios de contratação, as empresas deverão estar localizadas obrigatoriamente na microrregião do Caparaó do Espírito Santo, sendo este endereço verificado pelo cartão de CNPJ, na etapa de Assinatura do Termo de Outorga.",
+  "_pdf_sha256": "01e91d9549311ea16eab19fef46308ef23e9c165616286740e992e28dbf3d51a",
+  "_alteracoes_sha256": []
+}
