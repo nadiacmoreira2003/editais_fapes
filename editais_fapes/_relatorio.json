@@ -2,7 +2,7 @@
   {
     "categoria": "formacao_cientifica",
     "url": "https://fapes.es.gov.br/edital-aberto-forma%C3%A7%C3%A3o-cient%C3%ADfica",
-    "total": 4,
+    "total": 1,
     "editais": [
       {
         "titulo": "EDITAL FAPES Nº 09/2026 - BOLSAS DE ESTÁGIO DOUTORADO SANDUÍCHE",
@@ -11,43 +11,6 @@
         "anexos": [],
         "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_09_2026_-_BOLSAS_DE_ESTÁGIO_DOUTORADO_SANDUÍCHE.pdf",
         "pdf_sha256": "b49c1446c5a3cbe6868512b7e452a2ecdc537b0f84ba00e67234e26146a362bd",
-        "status": "novo"
-      },
-      {
-        "titulo": "EDITAL FAPES Nº 13/2026  - PROGRAMA INSTITUCIONAL DE BOLSAS DE INICIAÇÃO CIENTÍFICA, TECNOLÓGICA E DE INOVAÇÃO DO ESPÍRITO SANTO (PIBICES 2026/2027)",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20-%20PIBICES%20-%20Assinado.pdf",
-        "alteracoes": [],
-        "anexos": [],
-        "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_13_2026_-_PROGRAMA_INSTITUCIONAL_DE_BOLSAS_DE_INICIAÇÃO_CIENTÍFICA,_TECNOLÓGICA_E_DE_INOVAÇÃO_DO_ESPÍRITO_SANTO_(PIBICES_2026_2027).pdf",
-        "pdf_sha256": "244461f35f9951a187bfd07cc6956593a21a44dd6e088f844a8336a42d1eea7d",
-        "status": "novo"
-      },
-      {
-        "titulo": "EDITAL FAPES/SEGER Nº 14/2026 - PROGRAMA TALENTOS GLOBAIS ESPÍRITO SANTO - MESTRADO INTERNACIONAL SERVIDORES PÚBLICOS 2026",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_SERVIDORES_ES_22.05.2026.pdf",
-        "alteracoes": [],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Manual%20-%20Candidatura%20Talentos%20Globais%20-%20Sigfapes.pdf",
-            "titulo": "MANUAL - CANDIDATURA NO SIGFAPES"
-          }
-        ],
-        "arquivo_local": "formacao_cientifica/EDITAL_FAPES_SEGER_No_14_2026_-_PROGRAMA_TALENTOS_GLOBAIS_ESPÍRITO_SANTO_-_MESTRADO_INTERNACIONAL_SERVIDORES_PÚBLICOS_2026.pdf",
-        "pdf_sha256": "5c2df43518c0092035558297ec3531ddc23000d77c37218b3c76f70c6868dc0a",
-        "status": "novo"
-      },
-      {
-        "titulo": "EDITAL FAPES/SECTI Nº 15/2026 - PROGRAMA TALENTOS GLOBAIS ESPÍRITO SANTO - MESTRADO INTERNACIONAL PÚBLICO GERAL 2026",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Talentos_Globais_Secti_22.05.2026.pdf",
-        "alteracoes": [],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Manual%20-%20Candidatura%20Talentos%20Globais%20-%20Sigfapes.pdf",
-            "titulo": "MANUAL - CANDIDATURA NO SIGFAPES"
-          }
-        ],
-        "arquivo_local": "formacao_cientifica/EDITAL_FAPES_SECTI_No_15_2026_-_PROGRAMA_TALENTOS_GLOBAIS_ESPÍRITO_SANTO_-_MESTRADO_INTERNACIONAL_PÚBLICO_GERAL_2026.pdf",
-        "pdf_sha256": "209a90e8635bc0b42fe664de8916d93d24e45b7ced66fb43aae8a845be0907cc",
         "status": "novo"
       }
     ]
