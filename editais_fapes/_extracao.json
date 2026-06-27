@@ -816,10 +816,17 @@
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_102026_DR._EMPREENDEDOR_CAPIXABA_-_CORRIGIDO.pdf",
     "arquivo_local": "inovacao/EDITAL_FAPES_No_10_2026_-_DR._EMPREENDEDOR_CAPIXABA.pdf",
     "pdf_sha256": "b6980dd84b31824b29d134dcea655da752c87e9d6d84595bdfa9312d25904237",
-    "alteracoes": [],
+    "alteracoes": [
+      {
+        "url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_10-2026_-_Dr._Empreendedor_Capixaba_-_1ª_Alteração_-.pdf",
+        "titulo": "EDITAL FAPES Nº 10/2026 - DR. EMPREENDEDOR CAPIXABA (1ª ALTERAÇÃO)",
+        "arquivo_local": "inovacao/_alteracoes/EDITAL_FAPES_No_10_2026_-_DR._EMPREENDEDOR_CAPIXABA_(1a_ALTERAÇÃO).pdf",
+        "pdf_sha256": "f50a60d221239719a0d06ba0d5acad88a2efca9f375a7bc9232f07c7d3862d89"
+      }
+    ],
     "extracao": {
-      "objetivo": "Este edital da FAPES visa fomentar o empreendedorismo inovador no Espírito Santo, apoiando projetos de pesquisa e desenvolvimento de produtos (bens e serviços) ou processos inovadores. Destina-se a doutores que buscam transformar ideias inovadoras em empreendimentos sustentáveis, promovendo a transferência de conhecimento e tecnologia para o mercado e impulsionando a criação ou fortalecimento de micro e pequenas empresas de base tecnológica.",
-      "publico_alvo": "Doutores empreendedores, sem vínculo empregatício, que atuem no Estado do Espírito Santo, com ou sem empresa previamente constituída, interessados em transformar conhecimento científico em soluções inovadoras, criar novos negócios e fortalecer o ecossistema de inovação capixaba.",
+      "objetivo": "Fomentar projetos de pesquisa e desenvolvimento de produtos (bens e serviços) ou processos inovadores, conduzidos por doutores apoiados por Instituições de Ensino Superior ou Pesquisa (IES/P) ou Instituições Científicas, Tecnológicas e de Inovação (ICTs), públicas ou privadas, sediadas no Espírito Santo. O objetivo é transformar ideias inovadoras em empreendimentos potencialmente sustentáveis, promovendo a transferência de conhecimento e tecnologias para o mercado, impulsionando a criação ou o fortalecimento de micro e pequenas empresas (MPEs) de base tecnológica.",
+      "publico_alvo": "Doutores empreendedores, sem vínculo empregatício, que atuem no Estado do Espírito Santo, com ou sem empresa previamente constituída, de qualquer área de conhecimento, interessados em transformar conhecimento científico em soluções inovadoras, promover a criação de novos negócios e fortalecer o ecossistema de inovação capixaba.",
       "valor_total": "R$ 10.662.000,00",
       "valor_por_proposta": "R$ 355.400,00",
       "contato": "duvidas.inovacao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br",
@@ -834,7 +841,7 @@
         {
           "evento": "Prazo para impugnação do edital",
           "data_inicio": null,
-          "data_fim": "2026-06-30",
+          "data_fim": null,
           "observacao": "Até 5 dias úteis antes do encerramento do prazo de submissão da 1ª chamada",
           "acao_do_proponente": true
         },
@@ -842,11 +849,11 @@
           "evento": "Período de submissão de propostas (1ª chamada)",
           "data_inicio": "2026-05-04",
           "data_fim": "2026-07-07",
-          "observacao": "Até as 17:59h (horário de Brasília) via SIGFAPES",
+          "observacao": "Até as 17:59h, via Sigfapes",
           "acao_do_proponente": true
         },
         {
-          "evento": "Avaliação da documentação (habilitação) - 1ª chamada",
+          "evento": "Avaliação da documentação (Etapa I - Habilitação - 1ª chamada)",
           "data_inicio": "2026-07-08",
           "data_fim": null,
           "observacao": null,
@@ -860,9 +867,9 @@
           "acao_do_proponente": false
         },
         {
-          "evento": "Prazo para recursos administrativos da habilitação (1ª chamada)",
-          "data_inicio": "2026-07-31",
-          "data_fim": "2026-08-06",
+          "evento": "Prazo para submissão de recursos administrativos (habilitação - 1ª chamada)",
+          "data_inicio": null,
+          "data_fim": null,
           "observacao": "5 dias úteis a partir da publicação do resultado preliminar",
           "acao_do_proponente": true
         },
@@ -874,7 +881,7 @@
           "acao_do_proponente": false
         },
         {
-          "evento": "Avaliação de mérito e apresentação oral (1ª chamada)",
+          "evento": "Período de avaliação de mérito e apresentação oral (Etapa II - 1ª chamada)",
           "data_inicio": "2026-08-27",
           "data_fim": "2026-10-01",
           "observacao": null,
@@ -888,9 +895,9 @@
           "acao_do_proponente": false
         },
         {
-          "evento": "Prazo para recursos administrativos da avaliação de mérito (1ª chamada)",
-          "data_inicio": "2026-10-02",
-          "data_fim": "2026-10-08",
+          "evento": "Prazo para submissão de recursos administrativos (mérito - 1ª chamada)",
+          "data_inicio": null,
+          "data_fim": null,
           "observacao": "5 dias úteis a partir da publicação do resultado preliminar",
           "acao_do_proponente": true
         },
@@ -898,7 +905,7 @@
           "evento": "Período de submissão de propostas (2ª chamada)",
           "data_inicio": "2026-10-14",
           "data_fim": "2026-12-15",
-          "observacao": "Até as 17:59h (horário de Brasília) via SIGFAPES",
+          "observacao": "Até as 17:59h, via Sigfapes",
           "acao_do_proponente": true
         },
         {
@@ -909,56 +916,14 @@
           "acao_do_proponente": false
         },
         {
-          "evento": "Período de contratação (1ª chamada)",
-          "data_inicio": "2026-10-27",
-          "data_fim": "2026-11-03",
+          "evento": "Processo de contratação (1ª chamada)",
+          "data_inicio": null,
+          "data_fim": null,
           "observacao": "Até 5 dias úteis da publicação do resultado homologado",
           "acao_do_proponente": true
         },
         {
-          "evento": "Abertura de empresa e atualização documental (1ª chamada)",
-          "data_inicio": "2026-10-27",
-          "data_fim": "2026-11-03",
-          "observacao": "Para propostas aprovadas sem empresas constituídas, até as 17h00min",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Atualização documental no SIGFAPES (1ª chamada)",
-          "data_inicio": "2026-10-27",
-          "data_fim": "2026-11-03",
-          "observacao": "Envio de documentos pessoais, até as 17h00min",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Assinatura do Termo de Outorga e Projeto Aprovado (1ª chamada)",
-          "data_inicio": "2026-10-27",
-          "data_fim": "2026-11-03",
-          "observacao": "Eletronicamente via E-docs, até as 17h00min",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Envio do e-Flow (Formulário nº 25) e disponibilização de documentos no SIGFAPES (1ª chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-11-03",
-          "observacao": "Até as 17h00min",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Convocação de suplentes (1ª chamada)",
-          "data_inicio": "2026-11-04",
-          "data_fim": null,
-          "observacao": "Se aplicável, a partir do dia seguinte ao fim do período de contratação principal",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de contratação de suplentes (1ª chamada)",
-          "data_inicio": "2026-11-04",
-          "data_fim": null,
-          "observacao": "Se aplicável, até as 17h00min",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Avaliação da documentação (habilitação) - 2ª chamada",
+          "evento": "Avaliação da documentação (Etapa I - Habilitação - 2ª chamada)",
           "data_inicio": "2026-12-16",
           "data_fim": null,
           "observacao": null,
@@ -972,9 +937,9 @@
           "acao_do_proponente": false
         },
         {
-          "evento": "Prazo para recursos administrativos da habilitação (2ª chamada)",
-          "data_inicio": "2027-01-08",
-          "data_fim": "2027-01-14",
+          "evento": "Prazo para submissão de recursos administrativos (habilitação - 2ª chamada)",
+          "data_inicio": null,
+          "data_fim": null,
           "observacao": "5 dias úteis a partir da publicação do resultado preliminar",
           "acao_do_proponente": true
         },
@@ -986,7 +951,7 @@
           "acao_do_proponente": false
         },
         {
-          "evento": "Avaliação de mérito e apresentação oral (2ª chamada)",
+          "evento": "Período de avaliação de mérito e apresentação oral (Etapa II - 2ª chamada)",
           "data_inicio": "2027-02-03",
           "data_fim": "2027-03-18",
           "observacao": null,
@@ -1000,9 +965,9 @@
           "acao_do_proponente": false
         },
         {
-          "evento": "Prazo para recursos administrativos da avaliação de mérito (2ª chamada)",
-          "data_inicio": "2027-03-19",
-          "data_fim": "2027-03-25",
+          "evento": "Prazo para submissão de recursos administrativos (mérito - 2ª chamada)",
+          "data_inicio": null,
+          "data_fim": null,
           "observacao": "5 dias úteis a partir da publicação do resultado preliminar",
           "acao_do_proponente": true
         },
@@ -1014,58 +979,22 @@
           "acao_do_proponente": false
         },
         {
-          "evento": "Período de contratação (2ª chamada)",
-          "data_inicio": "2027-04-27",
-          "data_fim": "2027-05-03",
-          "observacao": "Até 5 dias úteis da publicação do resultado homologado",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Abertura de empresa e atualização documental (2ª chamada)",
-          "data_inicio": "2027-04-27",
-          "data_fim": "2027-05-03",
-          "observacao": "Para propostas aprovadas sem empresas constituídas, até as 17h00min",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Atualização documental no SIGFAPES (2ª chamada)",
-          "data_inicio": "2027-04-27",
-          "data_fim": "2027-05-03",
-          "observacao": "Envio de documentos pessoais, até as 17h00min",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Assinatura do Termo de Outorga e Projeto Aprovado (2ª chamada)",
-          "data_inicio": "2027-04-27",
-          "data_fim": "2027-05-03",
-          "observacao": "Eletronicamente via E-docs, até as 17h00min",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Envio do e-Flow (Formulário nº 25) e disponibilização de documentos no SIGFAPES (2ª chamada)",
+          "evento": "Processo de contratação (2ª chamada)",
           "data_inicio": null,
-          "data_fim": "2027-05-03",
-          "observacao": "Até as 17h00min",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Convocação de suplentes (2ª chamada)",
-          "data_inicio": "2027-05-04",
           "data_fim": null,
-          "observacao": "Se aplicável, a partir do dia seguinte ao fim do período de contratação principal",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de contratação de suplentes (2ª chamada)",
-          "data_inicio": "2027-05-04",
-          "data_fim": null,
-          "observacao": "Se aplicável, até as 17h00min",
+          "observacao": "Até 5 dias úteis da publicação do resultado homologado",
           "acao_do_proponente": true
         }
       ],
-      "observacoes_gerais": "As datas do cronograma podem ser alteradas de acordo com o andamento do Edital, sendo responsabilidade do proponente acompanhar as atualizações no site da FAPES. O edital poderá ser suspenso, revogado ou anulado por interesse público ou exigência legal, sem direito a indenização. O proponente deve manter seus dados cadastrais atualizados no SIGFAPES. A FAPES não exigirá direitos de participação e propriedade intelectual sobre as pesquisas e projetos, mas deverá ser notificada em caso de registro de propriedade intelectual. Os participantes concordam em ceder direitos de imagem para divulgação das ações da FAPES.",
+      "observacoes_gerais": "As datas do cronograma podem ser alteradas de acordo com o andamento do Edital. É de responsabilidade do proponente acompanhar as atualizações do Edital publicadas no site da FAPES (https://fapes.es.gov.br/) e consequentes alterações no cronograma. Inclusão de item referente à ciência do Núcleo de Inovação Tecnológica (NIT), quando for aplicável. Alteração do item 7.3 C) para que a verificação de vínculo empregatício seja realizada na fase de contratação do projeto. Inclusão da exigência de apresentação da Declaração de Ciência do NIT no ato da contratação, quando aplicável (item 12.6). Inclusão de item referente à definição de responsabilidades quanto ao registro ou depósito de pedido de proteção intelectual (item 19.2). O Anexo III (Declaração de Apoio da Instituição Copartícipe) agora permite que o documento seja assinado por autoridade com competência formalmente delegada. Inclusão do Anexo IX (Modelo de Declaração de Ciência do Núcleo de Inovação Tecnológica - NIT).",
       "_pdf_sha256": "b6980dd84b31824b29d134dcea655da752c87e9d6d84595bdfa9312d25904237",
-      "_alteracoes_sha256": []
+      "_alteracoes_sha256": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_10-2026_-_Dr._Empreendedor_Capixaba_-_1ª_Alteração_-.pdf",
+          "titulo": "EDITAL FAPES Nº 10/2026 - DR. EMPREENDEDOR CAPIXABA (1ª ALTERAÇÃO)",
+          "sha256": "f50a60d221239719a0d06ba0d5acad88a2efca9f375a7bc9232f07c7d3862d89"
+        }
+      ]
     }
   },
   {

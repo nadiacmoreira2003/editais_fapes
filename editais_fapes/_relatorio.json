@@ -122,7 +122,14 @@
       {
         "titulo": "EDITAL FAPES Nº 10/2026 - DR. EMPREENDEDOR CAPIXABA",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_102026_DR._EMPREENDEDOR_CAPIXABA_-_CORRIGIDO.pdf",
-        "alteracoes": [],
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_10-2026_-_Dr._Empreendedor_Capixaba_-_1ª_Alteração_-.pdf",
+            "titulo": "EDITAL FAPES Nº 10/2026 - DR. EMPREENDEDOR CAPIXABA (1ª ALTERAÇÃO)",
+            "arquivo_local": "inovacao/_alteracoes/EDITAL_FAPES_No_10_2026_-_DR._EMPREENDEDOR_CAPIXABA_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "f50a60d221239719a0d06ba0d5acad88a2efca9f375a7bc9232f07c7d3862d89"
+          }
+        ],
         "anexos": [],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_10_2026_-_DR._EMPREENDEDOR_CAPIXABA.pdf",
         "pdf_sha256": "b6980dd84b31824b29d134dcea655da752c87e9d6d84595bdfa9312d25904237",
