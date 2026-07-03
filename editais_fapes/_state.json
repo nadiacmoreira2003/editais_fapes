@@ -1047,7 +1047,7 @@
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_-_2_Edição_-_Lançamento.pdf",
       "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
       "primeira_visualizacao": "2026-04-25T19:25:39-03:00",
-      "ultima_visualizacao": "2026-07-02T08:51:36-03:00",
+      "ultima_visualizacao": "2026-07-03T09:58:38-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-25T21:01:55-03:00",
       "ultima_alteracao_em": "2026-04-25T19:25:39-03:00",
@@ -1240,7 +1240,7 @@
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20Fapes%20Horizon%20Europe%202021-2027-1.pdf",
       "pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080",
       "primeira_visualizacao": "2026-04-25T19:25:39-03:00",
-      "ultima_visualizacao": "2026-07-02T08:51:36-03:00",
+      "ultima_visualizacao": "2026-07-03T09:58:38-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-25T21:01:43-03:00",
       "ultima_alteracao_em": "2026-04-25T19:25:39-03:00",
@@ -1663,7 +1663,7 @@
       "pdf_sha256": "b49c1446c5a3cbe6868512b7e452a2ecdc537b0f84ba00e67234e26146a362bd",
       "alteracoes": [],
       "primeira_visualizacao": "2026-04-29T08:38:00-03:00",
-      "ultima_visualizacao": "2026-07-02T08:51:36-03:00",
+      "ultima_visualizacao": "2026-07-03T09:58:38-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-29T08:38:01-03:00",
       "ultima_alteracao_em": "2026-04-29T08:38:00-03:00",
@@ -1780,7 +1780,7 @@
       ],
       "primeira_visualizacao": "2026-04-30T08:37:21-03:00",
       "ultima_visualizacao": "2026-07-02T08:51:36-03:00",
-      "status_atual": "sem_alteracoes",
+      "status_atual": "removido",
       "email_enviado_em": "2026-06-11T09:25:24-03:00",
       "ultima_alteracao_em": "2026-06-11T09:25:23-03:00",
       "alteracoes_recentes": [],
@@ -1929,7 +1929,7 @@
         }
       ],
       "primeira_visualizacao": "2026-05-01T08:30:26-03:00",
-      "ultima_visualizacao": "2026-07-02T08:51:36-03:00",
+      "ultima_visualizacao": "2026-07-03T09:58:38-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-06-27T08:35:02-03:00",
       "ultima_alteracao_em": "2026-06-27T08:35:00-03:00",
@@ -2115,7 +2115,7 @@
       "pdf_sha256": "bf155ce0a6535e23bb786aa0a190d5e5b7054e242249cfed4ac408b3ef78f450",
       "alteracoes": [],
       "primeira_visualizacao": "2026-05-12T08:43:01-03:00",
-      "ultima_visualizacao": "2026-07-02T08:51:36-03:00",
+      "ultima_visualizacao": "2026-07-03T09:58:38-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-05-12T08:43:02-03:00",
       "ultima_alteracao_em": "2026-05-12T08:43:01-03:00",
@@ -2316,7 +2316,7 @@
       "pdf_sha256": "2faa8c55e76fedc9fe43b740034b8ce8144d11e145dc3dcdfb45641a76eee84b",
       "alteracoes": [],
       "primeira_visualizacao": "2026-05-14T08:39:29-03:00",
-      "ultima_visualizacao": "2026-07-02T08:51:36-03:00",
+      "ultima_visualizacao": "2026-07-03T09:58:38-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-05-14T08:39:29-03:00",
       "ultima_alteracao_em": "2026-05-14T08:39:29-03:00",
@@ -2464,20 +2464,36 @@
       "titulo": "EDITAL FAPES N° 11/2026 – PROGRAMA GÊNESIS",
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Programa%20Gênesis%202026%20-%20Assinado.pdf",
       "pdf_sha256": "91f37ac6ac440170364e589b9f01d452d77cab755a3f3b81f758f569c38e8749",
-      "alteracoes": [],
+      "alteracoes": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Gênesis%20-%20Assinado.pdf",
+          "titulo": "EDITAL FAPES N° 11/2026 – PROGRAMA GÊNESIS (1ª ALTERAÇÃO)",
+          "primeira_visualizacao": "2026-07-03T09:58:38-03:00"
+        }
+      ],
       "primeira_visualizacao": "2026-05-22T08:59:30-03:00",
-      "ultima_visualizacao": "2026-07-02T08:51:36-03:00",
-      "status_atual": "sem_alteracoes",
-      "email_enviado_em": "2026-05-22T08:59:32-03:00",
-      "ultima_alteracao_em": "2026-05-22T08:59:30-03:00",
-      "alteracoes_recentes": [],
-      "novas_alteracoes_doc": [],
+      "ultima_visualizacao": "2026-07-03T09:58:38-03:00",
+      "status_atual": "atualizado",
+      "email_enviado_em": "2026-07-03T09:58:40-03:00",
+      "ultima_alteracao_em": "2026-07-03T09:58:38-03:00",
+      "alteracoes_recentes": [
+        "Objetivo: \"Este edital visa estimular o empreendedorismo e a inovação nas microrregiões Caparaó, Centro-Oeste, Central Sul, Noroeste, Rio Doce e Sudoeste Serrana, no Espírito Santo. Ele oferece apoio técnico e financeiro para soluções inovadoras com potencial de se tornarem negócios ou startups, incentivando a criação de novos negócios de base tecnológica e fortalecendo os ecossistemas locais de inovação para o desenvolvimento sustentável.\" → \"Este edital visa estimular o empreendedorismo e a inovação nas microrregiões Caparaó, Centro-Oeste, Central Sul, Noroeste, Rio Doce e Sudoeste Serrana. O objetivo é oferecer apoio técnico e financeiro a soluções inovadoras com alto potencial de mercado, que possam se transformar em novos negócios ou startups, contribuindo para o desenvolvimento sustentável das regiões.\"",
+        "Contato: \"duvidas.inovacao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br\" → \"duvidas.inovacao@fapes.es.gov.br\"",
+        "Submissão (nova): Envio da primeira proposta — 2026-05-21 a 2026-07-03",
+        "Submissão (removida): Envio da primeira proposta (Fase 1) — 2026-05-21 a 2026-06-30"
+      ],
+      "novas_alteracoes_doc": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Gênesis%20-%20Assinado.pdf",
+          "titulo": "EDITAL FAPES N° 11/2026 – PROGRAMA GÊNESIS (1ª ALTERAÇÃO)"
+        }
+      ],
       "extracao": {
-        "objetivo": "Este edital visa estimular o empreendedorismo e a inovação nas microrregiões Caparaó, Centro-Oeste, Central Sul, Noroeste, Rio Doce e Sudoeste Serrana, no Espírito Santo. Ele oferece apoio técnico e financeiro para soluções inovadoras com potencial de se tornarem negócios ou startups, incentivando a criação de novos negócios de base tecnológica e fortalecendo os ecossistemas locais de inovação para o desenvolvimento sustentável.",
+        "objetivo": "Este edital visa estimular o empreendedorismo e a inovação nas microrregiões Caparaó, Centro-Oeste, Central Sul, Noroeste, Rio Doce e Sudoeste Serrana. O objetivo é oferecer apoio técnico e financeiro a soluções inovadoras com alto potencial de mercado, que possam se transformar em novos negócios ou startups, contribuindo para o desenvolvimento sustentável das regiões.",
         "publico_alvo": "Pessoas físicas com 18 anos ou mais que morem, estudem ou trabalhem em uma das seis microrregiões contempladas pelo edital (Caparaó, Centro-Oeste, Central-Sul, Noroeste, Rio Doce e Sudoeste Serrana) e que necessitem de apoio técnico e financeiro para desenvolver suas ideias.",
         "valor_total": "R$ 4.500.000,00",
         "valor_por_proposta": "R$ 30.000,00",
-        "contato": "duvidas.inovacao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br",
+        "contato": "duvidas.inovacao@fapes.es.gov.br",
         "cronograma": [
           {
             "evento": "Publicação do edital",
@@ -2487,9 +2503,9 @@
             "acao_do_proponente": false
           },
           {
-            "evento": "Envio da primeira proposta (Fase 1)",
+            "evento": "Envio da primeira proposta",
             "data_inicio": "2026-05-21",
-            "data_fim": "2026-06-30",
+            "data_fim": "2026-07-03",
             "observacao": "até as 17h59",
             "acao_do_proponente": true
           },
@@ -2497,7 +2513,7 @@
             "evento": "Divulgação do resultado preliminar de habilitação e análise de mérito (Fase 1)",
             "data_inicio": "2026-07-31",
             "data_fim": null,
-            "observacao": "A partir de 31/07/2026",
+            "observacao": null,
             "acao_do_proponente": false
           },
           {
@@ -2511,7 +2527,7 @@
             "evento": "Divulgação do resultado final homologado (Fase 1)",
             "data_inicio": "2026-08-25",
             "data_fim": null,
-            "observacao": "A partir de 25/08/2026",
+            "observacao": null,
             "acao_do_proponente": false
           },
           {
@@ -2522,7 +2538,7 @@
             "acao_do_proponente": false
           },
           {
-            "evento": "Envio da segunda proposta (Fase 2)",
+            "evento": "Envio da segunda proposta após a 1ª oficina e capacitação",
             "data_inicio": "2026-09-14",
             "data_fim": "2026-09-22",
             "observacao": "até as 17h59",
@@ -2532,14 +2548,14 @@
             "evento": "Apresentação do pitch",
             "data_inicio": "2026-09-21",
             "data_fim": "2026-09-30",
-            "observacao": "A partir de 21/09/2026",
+            "observacao": null,
             "acao_do_proponente": true
           },
           {
             "evento": "Divulgação do resultado preliminar de habilitação e análise de mérito (Fase 2)",
             "data_inicio": "2026-10-23",
             "data_fim": null,
-            "observacao": "A partir de 23/10/2026",
+            "observacao": null,
             "acao_do_proponente": false
           },
           {
@@ -2553,7 +2569,7 @@
             "evento": "Divulgação do resultado final homologado (Fase 2)",
             "data_inicio": "2026-11-24",
             "data_fim": null,
-            "observacao": "A partir de 24/11/2026",
+            "observacao": null,
             "acao_do_proponente": false
           },
           {
@@ -2578,9 +2594,15 @@
             "acao_do_proponente": false
           }
         ],
-        "observacoes_gerais": "O edital será executado em duas fases. Na Fase 1, serão selecionadas 80 propostas de cada microrregião. Na Fase 2, serão selecionadas 25 propostas ou mais por microrregião. O valor total do edital de R$ 4.500.000,00 será distribuído entre as 6 microrregiões, com até R$ 750.000,00 para cada, visando financiar 25 projetos ou mais por microrregião. A participação em no mínimo 80% das oficinas e mentorias é obrigatória para o proponente ou membros da equipe, sob pena de desclassificação. Proponentes podem submeter mais de uma proposta na Fase 1, mas apenas a de maior nota avançará para a Fase 2. Propostas com nota final inferior a 70,0 serão desclassificadas. A Fapes pode alterar as datas e prazos do cronograma.",
+        "observacoes_gerais": "A Fapes pode alterar as datas e os prazos definidos no cronograma por necessidade ou decisão institucional, podendo reabrir o prazo para recebimento de propostas em casos de força maior ou falhas comprovadas. O proponente ou membros da equipe deverão participar de, no mínimo, 80% das oficinas e mentorias em cada fase, sob pena de desclassificação. Propostas com nota final inferior a 70,0 pontos serão desclassificadas em ambas as fases. A Fapes somente considerará despesas/gastos realizados a partir do início da vigência do Termo de Outorga. O não atendimento ao prazo de entrega da documentação completa ou o descumprimento dos requisitos para contratação resultará na perda do direito à contratação.",
         "_pdf_sha256": "91f37ac6ac440170364e589b9f01d452d77cab755a3f3b81f758f569c38e8749",
-        "_alteracoes_sha256": []
+        "_alteracoes_sha256": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Gênesis%20-%20Assinado.pdf",
+            "titulo": "EDITAL FAPES N° 11/2026 – PROGRAMA GÊNESIS (1ª ALTERAÇÃO)",
+            "sha256": "e57a7e0dbda077c5636ef3deccb0397a5e3aeea4ac9ec9968ae88824fe265ae3"
+          }
+        ]
       }
     },
     "formacao_cientifica||EDITAL FAPES/SEGER Nº 14/2026 - PROGRAMA TALENTOS GLOBAIS ESPÍRITO SANTO - MESTRADO INTERNACIONAL SERVIDORES PÚBLICOS 2026": {
@@ -2731,102 +2753,118 @@
       "titulo": "EDITAL FAPES Nº 16/2026 - UNIVERSAL DE EXTENSÃO",
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Universal%20Extensão%20-%20Assinado.pdf",
       "pdf_sha256": "447a04be0340cdf1ba055fe3539a908847320d817fb01d87eb3047edfbe80261",
-      "alteracoes": [],
+      "alteracoes": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Universal%20e%20Extensão%20-%20Assinado.pdf",
+          "titulo": "EDITAL FAPES Nº 16/2026 - UNIVERSAL DE EXTENSÃO (1ª ALTERAÇÃO)",
+          "primeira_visualizacao": "2026-07-03T09:58:38-03:00"
+        }
+      ],
       "primeira_visualizacao": "2026-05-28T09:14:57-03:00",
-      "ultima_visualizacao": "2026-07-02T08:51:36-03:00",
-      "status_atual": "sem_alteracoes",
-      "email_enviado_em": "2026-05-28T09:14:59-03:00",
-      "ultima_alteracao_em": "2026-05-28T09:14:57-03:00",
-      "alteracoes_recentes": [],
-      "novas_alteracoes_doc": [],
+      "ultima_visualizacao": "2026-07-03T09:58:38-03:00",
+      "status_atual": "atualizado",
+      "email_enviado_em": "2026-07-03T09:58:41-03:00",
+      "ultima_alteracao_em": "2026-07-03T09:58:38-03:00",
+      "alteracoes_recentes": [
+        "Objetivo: \"Apoiar financeiramente projetos de extensão em diversas áreas temáticas, coordenados por profissionais vinculados a Instituições de Ensino Superior e/ou Pesquisa (IES/P) no Espírito Santo. O objetivo é contribuir para a redução de desigualdades ou vulnerabilidades sociais, promovendo o desenvolvimento socioambiental e/ou econômico nas microrregiões do estado.\" → \"Apoiar financeiramente projetos de extensão em diversas áreas temáticas, coordenados por profissionais vinculados a Instituições de Ensino Superior e/ou Pesquisa (IES/P) no Espírito Santo. O objetivo é contribuir para a redução de desigualdades ou vulnerabilidades sociais, promovendo o desenvolvimento socioambiental e/ou econômico nas microrregiões do Estado.\"",
+        "Público-alvo: \"Pesquisadores com titulação mínima de mestre, experiência comprovada em projetos de extensão nos últimos 3 anos, e vínculo empregatício, estatutário, temporário ou voluntário com Instituições de Ensino Superior ou Pesquisa (IES/P) públicas ou privadas localizadas no Espírito Santo. O proponente não deve ter sido contratado no Edital Fapes nº 04/2025 nem solicitado prorrogação de projeto do Edital FAPES nº 02/2024.\" → \"Pesquisadores com titulação mínima de mestre, experiência em projetos de extensão nos últimos 3 anos, vínculo empregatício ou termo de adesão a trabalho voluntário com Instituições de Ensino Superior e/ou Pesquisa (IES/P) públicas ou privadas localizadas no Espírito Santo, e que atendam aos demais critérios de elegibilidade do edital.\"",
+        "Contato: \"editais.extensao@fapes.es.gov.br\" → \"editais.extensao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br, nupex@fapes.es.gov.br\"",
+        "Submissão (nova): Submissão de propostas — ? a 2026-07-02",
+        "Submissão (removida): Submissão de propostas — ? a 2026-06-30"
+      ],
+      "novas_alteracoes_doc": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Universal%20e%20Extensão%20-%20Assinado.pdf",
+          "titulo": "EDITAL FAPES Nº 16/2026 - UNIVERSAL DE EXTENSÃO (1ª ALTERAÇÃO)"
+        }
+      ],
       "extracao": {
-        "objetivo": "Apoiar financeiramente projetos de extensão em diversas áreas temáticas, coordenados por profissionais vinculados a Instituições de Ensino Superior e/ou Pesquisa (IES/P) no Espírito Santo. O objetivo é contribuir para a redução de desigualdades ou vulnerabilidades sociais, promovendo o desenvolvimento socioambiental e/ou econômico nas microrregiões do estado.",
-        "publico_alvo": "Pesquisadores com titulação mínima de mestre, experiência comprovada em projetos de extensão nos últimos 3 anos, e vínculo empregatício, estatutário, temporário ou voluntário com Instituições de Ensino Superior ou Pesquisa (IES/P) públicas ou privadas localizadas no Espírito Santo. O proponente não deve ter sido contratado no Edital Fapes nº 04/2025 nem solicitado prorrogação de projeto do Edital FAPES nº 02/2024.",
+        "objetivo": "Apoiar financeiramente projetos de extensão em diversas áreas temáticas, coordenados por profissionais vinculados a Instituições de Ensino Superior e/ou Pesquisa (IES/P) no Espírito Santo. O objetivo é contribuir para a redução de desigualdades ou vulnerabilidades sociais, promovendo o desenvolvimento socioambiental e/ou econômico nas microrregiões do Estado.",
+        "publico_alvo": "Pesquisadores com titulação mínima de mestre, experiência em projetos de extensão nos últimos 3 anos, vínculo empregatício ou termo de adesão a trabalho voluntário com Instituições de Ensino Superior e/ou Pesquisa (IES/P) públicas ou privadas localizadas no Espírito Santo, e que atendam aos demais critérios de elegibilidade do edital.",
         "valor_total": "R$ 5.000.000,00",
         "valor_por_proposta": "R$ 80.000,00",
-        "contato": "editais.extensao@fapes.es.gov.br",
+        "contato": "editais.extensao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br, nupex@fapes.es.gov.br",
         "cronograma": [
           {
             "evento": "Publicação do Edital",
-            "data_inicio": null,
+            "data_inicio": "2026-05-25",
             "data_fim": "2026-05-25",
             "observacao": null,
             "acao_do_proponente": false
           },
           {
-            "evento": "Prazo para impugnação do edital",
-            "data_inicio": null,
-            "data_fim": "2026-06-23",
-            "observacao": "Até 5 dias úteis antes da data limite de submissão das propostas",
-            "acao_do_proponente": true
-          },
-          {
             "evento": "Submissão de propostas",
             "data_inicio": null,
-            "data_fim": "2026-06-30",
-            "observacao": "Até as 17h59 via SigFapes",
+            "data_fim": "2026-07-02",
+            "observacao": "até as 17h59 via Sigfapes",
             "acao_do_proponente": true
           },
           {
-            "evento": "Publicação do resultado preliminar (Habilitação)",
+            "evento": "Divulgação do resultado preliminar da habilitação",
             "data_inicio": "2026-07-31",
             "data_fim": null,
-            "observacao": null,
+            "observacao": "A partir desta data",
             "acao_do_proponente": false
           },
           {
-            "evento": "Prazo para submissão de recursos administrativos (Habilitação)",
-            "data_inicio": "2026-08-01",
-            "data_fim": "2026-08-07",
+            "evento": "Interposição de recursos (habilitação)",
+            "data_inicio": null,
+            "data_fim": null,
             "observacao": "05 dias úteis a partir da publicação do resultado preliminar da habilitação",
             "acao_do_proponente": true
           },
           {
-            "evento": "Publicação do resultado homologado (Habilitação)",
+            "evento": "Divulgação do resultado homologado da habilitação",
             "data_inicio": "2026-08-26",
             "data_fim": null,
-            "observacao": null,
+            "observacao": "A partir desta data",
             "acao_do_proponente": false
           },
           {
-            "evento": "Publicação do resultado preliminar (Análise de Mérito)",
+            "evento": "Divulgação do resultado preliminar da análise de mérito",
             "data_inicio": "2026-10-02",
             "data_fim": null,
-            "observacao": null,
+            "observacao": "A partir desta data",
             "acao_do_proponente": false
           },
           {
-            "evento": "Prazo para submissão de recursos administrativos (Análise de Mérito)",
-            "data_inicio": "2026-10-05",
-            "data_fim": "2026-10-09",
+            "evento": "Interposição de recursos (análise de mérito)",
+            "data_inicio": null,
+            "data_fim": null,
             "observacao": "05 dias úteis a partir da publicação do resultado preliminar do mérito",
             "acao_do_proponente": true
           },
           {
-            "evento": "Publicação do resultado homologado (Análise de Mérito)",
+            "evento": "Divulgação do resultado final homologado",
             "data_inicio": "2026-10-28",
             "data_fim": null,
-            "observacao": null,
+            "observacao": "A partir desta data",
             "acao_do_proponente": false
           },
           {
-            "evento": "Início da contratação e envio de documentos",
-            "data_inicio": "2026-10-29",
-            "data_fim": "2026-11-05",
-            "observacao": "Até 5 dias úteis da publicação do resultado homologado para o início do processo de contratação. Inclui assinatura do Termo de Outorga e envio do Registro da Lista de Checagem de Documentação (e-Flow) até as 17h00.",
+            "evento": "Início do processo de contratação",
+            "data_inicio": null,
+            "data_fim": null,
+            "observacao": "Até 5 dias úteis da publicação do resultado homologado",
             "acao_do_proponente": true
           },
           {
-            "evento": "Início da vigência dos projetos contratados",
+            "evento": "Início da vigência dos projetos",
             "data_inicio": null,
             "data_fim": null,
             "observacao": "No 1º dia útil do mês subsequente à data de assinatura do Termo de Outorga",
             "acao_do_proponente": false
           }
         ],
-        "observacoes_gerais": "O prazo de execução dos projetos é de 24 meses. É obrigatória a previsão de pelo menos um bolsista EXT-E ou EXT-F por um período mínimo de 22 meses. As propostas devem ser submetidas para apenas uma das 10 microrregiões listadas no edital. Proponentes que declararem pertencimento a grupos de ações afirmativas (PcD, negra, quilombola, indígena, trans ou travesti) podem receber pontuação adicional. Propostas com nota final inferior a 70 pontos serão desclassificadas. É exigida a elaboração de um vídeo apresentando os resultados do projeto. É indispensável a menção explícita e destacada ao apoio da Fapes em todas as divulgações do trabalho.",
+        "observacoes_gerais": "O edital oferece pontuação adicional para propostas apresentadas por pessoas com deficiência (PcD), negras, quilombolas, indígenas, trans ou travestis. O prazo de execução dos projetos é de 24 meses. É obrigatória a permanência de no mínimo 1 bolsista EXT-E ou EXT-F por pelo menos 22 meses. As propostas devem ser submetidas para desenvolvimento em apenas uma das 10 microrregiões listadas no Quadro 2 do edital. Serão apoiados 6 projetos por microrregião, com recursos remanescentes distribuídos entre os projetos mais bem classificados, independentemente da microrregião. Propostas que indicarem microrregião coincidente com a instituição de vínculo do proponente concorrerão nos blocos das respectivas microrregiões, enquanto propostas para microrregião distinta concorrerão na ampla concorrência.",
         "_pdf_sha256": "447a04be0340cdf1ba055fe3539a908847320d817fb01d87eb3047edfbe80261",
-        "_alteracoes_sha256": []
+        "_alteracoes_sha256": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Universal%20e%20Extensão%20-%20Assinado.pdf",
+            "titulo": "EDITAL FAPES Nº 16/2026 - UNIVERSAL DE EXTENSÃO (1ª ALTERAÇÃO)",
+            "sha256": "bb7d79b80dc043083a28258252fb8a983de0728360886696cda1827ce1b89511"
+          }
+        ]
       }
     },
     "chamadas_internacionais||CHAMADA MOBILITY CONFAP ITALY 2026": {
@@ -2836,7 +2874,7 @@
       "pdf_sha256": "224b334fd2df5443db423be4fac90686ae52b9d80a86ff107691fd96a9a5c7c7",
       "alteracoes": [],
       "primeira_visualizacao": "2026-06-18T09:12:47-03:00",
-      "ultima_visualizacao": "2026-07-02T08:51:36-03:00",
+      "ultima_visualizacao": "2026-07-03T09:58:38-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-06-18T09:12:49-03:00",
       "ultima_alteracao_em": "2026-06-18T09:12:47-03:00",
@@ -2883,7 +2921,7 @@
       "pdf_sha256": "0643c9142d2bca25c41fb128b31795f0a46a62031b2f0717ada035b460f7ed7f",
       "alteracoes": [],
       "primeira_visualizacao": "2026-06-23T09:05:47-03:00",
-      "ultima_visualizacao": "2026-07-02T08:51:36-03:00",
+      "ultima_visualizacao": "2026-07-03T09:58:38-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-06-23T09:05:50-03:00",
       "ultima_alteracao_em": "2026-06-23T09:05:47-03:00",
@@ -3096,7 +3134,7 @@
       "pdf_sha256": "01e91d9549311ea16eab19fef46308ef23e9c165616286740e992e28dbf3d51a",
       "alteracoes": [],
       "primeira_visualizacao": "2026-06-24T08:59:11-03:00",
-      "ultima_visualizacao": "2026-07-02T08:51:36-03:00",
+      "ultima_visualizacao": "2026-07-03T09:58:38-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-06-24T08:59:12-03:00",
       "ultima_alteracao_em": "2026-06-24T08:59:11-03:00",
@@ -3221,5 +3259,5 @@
       }
     }
   },
-  "ultima_execucao": "2026-07-02T08:51:36-03:00"
+  "ultima_execucao": "2026-07-03T09:58:41-03:00"
 }

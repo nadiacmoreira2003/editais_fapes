@@ -54,41 +54,19 @@
   {
     "categoria": "extensao",
     "url": "https://fapes.es.gov.br/editais-abertos-extensao-2",
-    "total": 2,
+    "total": 1,
     "editais": [
-      {
-        "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%20Assinado.pdf",
-        "alteracoes": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Extensão%20Tecnológica%20-%2012-2026%20-%201ª%20Retificação.pdf",
-            "titulo": "EDITAL FAPES Nº 12/2026 - EXTENSÃO TECNOLÓGICA (1ª ALTERAÇÃO)",
-            "arquivo_local": "extensao/_alteracoes/EDITAL_FAPES_No_12_2026_-_EXTENSÃO_TECNOLÓGICA_(1a_ALTERAÇÃO).pdf",
-            "pdf_sha256": "7289893213d4c2c2c723df5fe94903ee86f7b460398f4c806483d476fecb7085"
-          }
-        ],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20II%20-%20Formulário%20de%20Submissão%20-%20Edital%20Extensão%20Tecnológica%20-%2012-2026.docx",
-            "titulo": "ANEXO II - FORMULÁRIO DE SUBMISSÃO"
-          },
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20III%20-%20TERMO%20DE%20CONCORDÂNCIA%20E%20COMPROMISSO%20DA%20ORGANIZAÇÃO%20PARCEIRA%20-%20Edital%2012-2026.docx",
-            "titulo": "ANEXO III - TERMO DE CONCORDÂNCIA E COMPROMISSO DA ORGANIZAÇÃO PARCEIRA"
-          },
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20IV%20-%20Declaração%20de%20Ciência%20do%20NIT-%20Edital%2012-2026.docx",
-            "titulo": "ANEXO IV - DECLARAÇÃO DE CIÊNCIA DO NIT"
-          }
-        ],
-        "arquivo_local": "extensao/EDITAL_FAPES_No_12_2026_-_EXTENSÃO_TECNOLÓGICA.pdf",
-        "pdf_sha256": "55194574f15f2190c6d6dec46df141029d3a300a09889c4bfc92903bc26cceff",
-        "status": "novo"
-      },
       {
         "titulo": "EDITAL FAPES Nº 16/2026 - UNIVERSAL DE EXTENSÃO",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Universal%20Extensão%20-%20Assinado.pdf",
-        "alteracoes": [],
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Universal%20e%20Extensão%20-%20Assinado.pdf",
+            "titulo": "EDITAL FAPES Nº 16/2026 - UNIVERSAL DE EXTENSÃO (1ª ALTERAÇÃO)",
+            "arquivo_local": "extensao/_alteracoes/EDITAL_FAPES_No_16_2026_-_UNIVERSAL_DE_EXTENSÃO_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "bb7d79b80dc043083a28258252fb8a983de0728360886696cda1827ce1b89511"
+          }
+        ],
         "anexos": [
           {
             "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20II-1.docx",
@@ -138,7 +116,14 @@
       {
         "titulo": "EDITAL FAPES N° 11/2026 – PROGRAMA GÊNESIS",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Programa%20Gênesis%202026%20-%20Assinado.pdf",
-        "alteracoes": [],
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Gênesis%20-%20Assinado.pdf",
+            "titulo": "EDITAL FAPES N° 11/2026 – PROGRAMA GÊNESIS (1ª ALTERAÇÃO)",
+            "arquivo_local": "inovacao/_alteracoes/EDITAL_FAPES_N°_11_2026_–_PROGRAMA_GÊNESIS_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "e57a7e0dbda077c5636ef3deccb0397a5e3aeea4ac9ec9968ae88824fe265ae3"
+          }
+        ],
         "anexos": [
           {
             "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20I%20-%20FORMULÁRIO%20DE%20SUBMISSÃO%20DA%20PROPOSTA%20–%20FASE%201%20-%20GÊNESIS%202026.docx",
