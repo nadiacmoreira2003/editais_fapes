@@ -1,0 +1,26 @@
+{
+  "objetivo": "Este edital visa apoiar a manutenção de bolsas de doutorado da FAPES para bolsistas que forem aprovados na seleção do Serviço Alemão de Intercâmbio Acadêmico (DAAD). O apoio será concedido durante o período em que o bolsista realizar suas pesquisas em uma instituição na Alemanha, complementando o programa de auxílio para doutorandos brasileiros com bolsa nacional.",
+  "publico_alvo": "Doutorandos que forem selecionados pelo DAAD, estejam adimplentes junto à FAPES e não estejam no primeiro nem no último ano do doutorado.",
+  "valor_total": null,
+  "valor_por_proposta": null,
+  "contato": "internacional.confap@gmail.com, global4@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Submissão de propostas na Plataforma do DAAD",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Para a Chamada DAAD 2026. O conteúdo completo da chamada está disponível no site do CONFAP.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Controle de elegibilidade pela FAPES",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Realizado pela FAPES para as propostas selecionadas pelo DAAD, conforme critérios do item 2.",
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "Este documento apresenta as diretrizes específicas da FAPES para a Chamada CONFAP & DAAD 2026. Para informações completas sobre a chamada, consulte o link fornecido no site do CONFAP.",
+  "_pdf_sha256": "922f0a8cfe70b78afdba4eca3d45f0558234a1181364b5a9594ffa5510b9a31b",
+  "_alteracoes_sha256": []
+}

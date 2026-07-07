@@ -164,8 +164,52 @@
   {
     "categoria": "chamadas_internacionais",
     "url": "https://fapes.es.gov.br/chamadas-internacionais",
-    "total": 3,
+    "total": 5,
     "editais": [
+      {
+        "titulo": "CHAMADA CONFAP & WBI - BÉLGICA 2026",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20Fapes%20WBI%20-2026.pdf",
+        "alteracoes": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada%20CONFAP%20-%20WBI%202026.pdf",
+            "titulo": "Chamada CONFAP - WBI 2026"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/CONFAP%20—%20Conselho%20Nacional%20das%20Fundações%20Estaduais%20de%20Amparo%20à%20PesquisaLançada%20a%20Chamada%20CONFAP%20%20WBI%202026%20para%20apoio%20a%20projetos%20conjuntos%20de%20pesquisa%20e%20inovação%20entre%20Brasil%20e%20Bélgica.pdf",
+            "titulo": "PUBLICAÇÃO CONFAP - CHAMADA CONFAP WBI - BÉLGICA 2026"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/CONFAP-WBI%202026%20Anexo%20I%20-%20Formulário%20de%20Submissão.doc",
+            "titulo": "CONFAP-WBI 2026 - Anexo I - Formulário de Submissão"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/CONFAP-WBI%202026%20-%20Termo%20de%20Adesão.pdf",
+            "titulo": "CONFAP-WBI 2026 - Termo de Adesão"
+          }
+        ],
+        "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_&_WBI_-_BÉLGICA_2026.pdf",
+        "pdf_sha256": "6d2df8a40e4070802437afc283186b627b6f35a1290d3bfa103d190c3ffcbd9c",
+        "status": "novo"
+      },
+      {
+        "titulo": "CHAMADA CONFAP & DAAD 2026",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20-%20FAPES%202026-1.pdf",
+        "alteracoes": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Divulgação%20CONFAP%20DAAD%202026.pdf",
+            "titulo": "PUBLICAÇÃO CONFAP - CHAMADA DAAD 2026"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/CONFAP-DAAD_1º_Termo_Aditivo_e_Declaração.pdf",
+            "titulo": "CHAMADA CONFAP DAAD - 1º Termo Aditivo e Declaração"
+          }
+        ],
+        "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_&_DAAD_2026.pdf",
+        "pdf_sha256": "922f0a8cfe70b78afdba4eca3d45f0558234a1181364b5a9594ffa5510b9a31b",
+        "status": "novo"
+      },
       {
         "titulo": "CHAMADA MOBILITY CONFAP ITALY 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada-MCI-–-MOBILITY-CONFAP-ITALY-2026.pdf",
@@ -195,7 +239,14 @@
       {
         "titulo": "CHAMADA ERC-CONFAP 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada-ERC-CONFAP-2026.pdf",
-        "alteracoes": [],
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_Internacional_ERC%202026%20(ALTERAÇAO).pdf",
+            "titulo": "DIRETRIZES FAPES PARA CHAMADA ERC-CONFAP 2026 (ALTERAÇÃO)",
+            "arquivo_local": "chamadas_internacionais/_alteracoes/DIRETRIZES_FAPES_PARA_CHAMADA_ERC-CONFAP_2026_(ALTERAÇÃO).pdf",
+            "pdf_sha256": "e8d08569befd1261c3f9368095084554ef7f2565dbefcba45e52dad6e67457e6"
+          }
+        ],
         "anexos": [
           {
             "url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada%20ERC-Site_CONFAP.pdf",

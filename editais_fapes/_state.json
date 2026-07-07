@@ -1047,7 +1047,7 @@
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_-_2_Edição_-_Lançamento.pdf",
       "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
       "primeira_visualizacao": "2026-04-25T19:25:39-03:00",
-      "ultima_visualizacao": "2026-07-06T11:25:23-03:00",
+      "ultima_visualizacao": "2026-07-07T10:23:03-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-25T21:01:55-03:00",
       "ultima_alteracao_em": "2026-04-25T19:25:39-03:00",
@@ -1240,7 +1240,7 @@
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20Fapes%20Horizon%20Europe%202021-2027-1.pdf",
       "pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080",
       "primeira_visualizacao": "2026-04-25T19:25:39-03:00",
-      "ultima_visualizacao": "2026-07-06T11:25:23-03:00",
+      "ultima_visualizacao": "2026-07-07T10:23:03-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-25T21:01:43-03:00",
       "ultima_alteracao_em": "2026-04-25T19:25:39-03:00",
@@ -1663,7 +1663,7 @@
       "pdf_sha256": "b49c1446c5a3cbe6868512b7e452a2ecdc537b0f84ba00e67234e26146a362bd",
       "alteracoes": [],
       "primeira_visualizacao": "2026-04-29T08:38:00-03:00",
-      "ultima_visualizacao": "2026-07-06T11:25:23-03:00",
+      "ultima_visualizacao": "2026-07-07T10:23:03-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-29T08:38:01-03:00",
       "ultima_alteracao_em": "2026-04-29T08:38:00-03:00",
@@ -1929,7 +1929,7 @@
         }
       ],
       "primeira_visualizacao": "2026-05-01T08:30:26-03:00",
-      "ultima_visualizacao": "2026-07-06T11:25:23-03:00",
+      "ultima_visualizacao": "2026-07-07T10:23:03-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-06-27T08:35:02-03:00",
       "ultima_alteracao_em": "2026-06-27T08:35:00-03:00",
@@ -2115,7 +2115,7 @@
       "pdf_sha256": "bf155ce0a6535e23bb786aa0a190d5e5b7054e242249cfed4ac408b3ef78f450",
       "alteracoes": [],
       "primeira_visualizacao": "2026-05-12T08:43:01-03:00",
-      "ultima_visualizacao": "2026-07-06T11:25:23-03:00",
+      "ultima_visualizacao": "2026-07-07T10:23:03-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-05-12T08:43:02-03:00",
       "ultima_alteracao_em": "2026-05-12T08:43:01-03:00",
@@ -2314,53 +2314,78 @@
       "titulo": "CHAMADA ERC-CONFAP 2026",
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada-ERC-CONFAP-2026.pdf",
       "pdf_sha256": "2faa8c55e76fedc9fe43b740034b8ce8144d11e145dc3dcdfb45641a76eee84b",
-      "alteracoes": [],
+      "alteracoes": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_Internacional_ERC%202026%20(ALTERAÇAO).pdf",
+          "titulo": "DIRETRIZES FAPES PARA CHAMADA ERC-CONFAP 2026 (ALTERAÇÃO)",
+          "primeira_visualizacao": "2026-07-07T10:23:03-03:00"
+        }
+      ],
       "primeira_visualizacao": "2026-05-14T08:39:29-03:00",
-      "ultima_visualizacao": "2026-07-06T11:25:23-03:00",
-      "status_atual": "sem_alteracoes",
-      "email_enviado_em": "2026-05-14T08:39:29-03:00",
-      "ultima_alteracao_em": "2026-05-14T08:39:29-03:00",
-      "alteracoes_recentes": [],
-      "novas_alteracoes_doc": [],
+      "ultima_visualizacao": "2026-07-07T10:23:03-03:00",
+      "status_atual": "atualizado",
+      "email_enviado_em": "2026-07-07T10:23:05-03:00",
+      "ultima_alteracao_em": "2026-07-07T10:23:03-03:00",
+      "alteracoes_recentes": [
+        "Objetivo: \"O edital convida pesquisadores do Brasil a buscar colaborações de pesquisa com Pesquisadores Principais já apoiados por bolsas do Conselho Europeu de Pesquisa (ERC) financiadas pela UE. O objetivo é proporcionar oportunidades de pesquisa na Europa para pesquisadores brasileiros ativos, promovendo intercâmbios científicos e o desenvolvimento de projetos colaborativos.\" → \"Apoiar a mobilidade de pesquisadores do estado do Espírito Santo para integrar equipes de pesquisa na Europa, em projetos financiados pelo Conselho Europeu de Pesquisa (ERC). O edital visa promover colaborações de pesquisa e fortalecer a internacionalização da ciência, tecnologia e inovação desenvolvida no Espírito Santo, permitindo missões científicas de 6 a 12 meses ou visitas curtas.\"",
+        "Público-alvo: \"Pesquisadores ativos do Brasil, com título de PhD, que estejam desenvolvendo atividades de pesquisa em universidades, institutos ou centros de pesquisa brasileiros.\" → \"Pesquisadores doutores, principais ou coordenadores de projeto, ativos em pesquisa, vinculados a Instituições de Ensino Superior ou Pesquisa (IES/P) localizadas no estado do Espírito Santo. Devem possuir currículo Lattes atualizado, ser residentes no ES, e ser brasileiros ou estrangeiros com visto permanente, além de estar adimplentes junto à FAPES.\"",
+        "Valor total: \"-\" → \"US$ 18.000,00\"",
+        "Valor por proposta: \"-\" → \"US$ 6.000,00\"",
+        "Contato: \"internacional.confap@gmail.com\" → \"internacional.confap@gmail.com, global@fapes.es.gov.br\"",
+        "Submissão (nova): Submissão de propostas (CONFAP) — ? a 2026-08-10",
+        "Submissão (removida): Submissao de propostas — ? a 2026-07-10"
+      ],
+      "novas_alteracoes_doc": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_Internacional_ERC%202026%20(ALTERAÇAO).pdf",
+          "titulo": "DIRETRIZES FAPES PARA CHAMADA ERC-CONFAP 2026 (ALTERAÇÃO)"
+        }
+      ],
       "extracao": {
-        "objetivo": "O edital convida pesquisadores do Brasil a buscar colaborações de pesquisa com Pesquisadores Principais já apoiados por bolsas do Conselho Europeu de Pesquisa (ERC) financiadas pela UE. O objetivo é proporcionar oportunidades de pesquisa na Europa para pesquisadores brasileiros ativos, promovendo intercâmbios científicos e o desenvolvimento de projetos colaborativos.",
-        "publico_alvo": "Pesquisadores ativos do Brasil, com título de PhD, que estejam desenvolvendo atividades de pesquisa em universidades, institutos ou centros de pesquisa brasileiros.",
-        "valor_total": null,
-        "valor_por_proposta": null,
-        "contato": "internacional.confap@gmail.com",
+        "objetivo": "Apoiar a mobilidade de pesquisadores do estado do Espírito Santo para integrar equipes de pesquisa na Europa, em projetos financiados pelo Conselho Europeu de Pesquisa (ERC). O edital visa promover colaborações de pesquisa e fortalecer a internacionalização da ciência, tecnologia e inovação desenvolvida no Espírito Santo, permitindo missões científicas de 6 a 12 meses ou visitas curtas.",
+        "publico_alvo": "Pesquisadores doutores, principais ou coordenadores de projeto, ativos em pesquisa, vinculados a Instituições de Ensino Superior ou Pesquisa (IES/P) localizadas no estado do Espírito Santo. Devem possuir currículo Lattes atualizado, ser residentes no ES, e ser brasileiros ou estrangeiros com visto permanente, além de estar adimplentes junto à FAPES.",
+        "valor_total": "US$ 18.000,00",
+        "valor_por_proposta": "US$ 6.000,00",
+        "contato": "internacional.confap@gmail.com, global@fapes.es.gov.br",
         "cronograma": [
           {
-            "evento": "Lancamento do edital",
-            "data_inicio": null,
-            "data_fim": "2026-05-06",
+            "evento": "Lançamento da Chamada",
+            "data_inicio": "2026-05-06",
+            "data_fim": null,
             "observacao": null,
             "acao_do_proponente": false
           },
           {
-            "evento": "Submissao de propostas",
+            "evento": "Submissão de propostas (CONFAP)",
             "data_inicio": null,
-            "data_fim": "2026-07-10",
-            "observacao": "Propostas completas, incluindo todos os documentos solicitados no Item nº 6.",
+            "data_fim": "2026-08-10",
+            "observacao": "Via plataforma CONFAP, preenchendo informações de interesse e dados pessoais.",
             "acao_do_proponente": true
           },
           {
-            "evento": "Divulgacao do resultado final",
+            "evento": "Submissão de propostas (FAPES)",
             "data_inicio": null,
-            "data_fim": null,
-            "observacao": "Os resultados serão publicados na página do CONFAP: http://www.confap.org.br/",
-            "acao_do_proponente": false
+            "data_fim": "2026-08-10",
+            "observacao": "Via SigFapes, para verificação de elegibilidade e documentação exigida, conforme Instrução de Serviços nº 082/2025 e Item 4, alínea B.",
+            "acao_do_proponente": true
           },
           {
-            "evento": "Inicio da execucao",
-            "data_inicio": "2026-10-01",
+            "evento": "Início da mobilidade dos pesquisadores com projetos aprovados",
+            "data_inicio": "2026-11-01",
             "data_fim": null,
-            "observacao": "Os intercâmbios científicos podem durar de 6 a 12 meses ou ser divididos em visitas múltiplas e mais curtas.",
+            "observacao": "As missões científicas aprovadas poderão ser realizadas em um período de 6 a 12 meses ou dividido em visitas curtas.",
             "acao_do_proponente": false
           }
         ],
-        "observacoes_gerais": "Os pesquisadores elegíveis devem registrar sua expressão de interesse no portal online https://sistema.confap.org.br/ e preencher os itens listados. Após o registro e verificação de elegibilidade, terão acesso à lista de projetos ERC-financiados que podem hospedar pesquisadores brasileiros. Os pesquisadores devem contatar o Pesquisador Principal do ERC para acordar a colaboração e definir um Plano de Trabalho. As FAPs participantes fornecerão apoio para despesas de viagem e outros apoios complementares, cujas modalidades devem ser consultadas junto às agências. Os pesquisadores continuarão a receber seus salários/bolsas de acordo com os termos institucionais. Mais informações sobre 'ERC teams open to the world' estão disponíveis em https://erc.europa.eu/managing-your-project/set-and-develop-your-team. O edital é apoiado pelas seguintes FAPs: Fundação Araucária - Paraná, FACEPE - Pernambuco, FAPDF - Distrito Federal, FAPEAL - Alagoas, FAPEAM - Amazonas, FAPEAP - Amapá, FAPEG - Goiás, FAPERGS - Rio Grande do Sul, FAPES - Espírito Santo, FAPESB - Bahia, FAPESC - Santa Catarina, FAPESP - São Paulo, FAPESPA - Pará, FAPERR - Roraima.",
+        "observacoes_gerais": "Este edital da FAPES apresenta diretrizes específicas para a Chamada ERC – CONFAP 2026. Os resultados serão publicados na página do CONFAP: http://www.confap.org.br/. Os pesquisadores selecionados continuarão a receber seus salários e/ou bolsas de acordo com os termos e condições institucionais. O apoio da FAPES destina-se a custeio de passagens aéreas, seguro viagem e mobilidade.",
         "_pdf_sha256": "2faa8c55e76fedc9fe43b740034b8ce8144d11e145dc3dcdfb45641a76eee84b",
-        "_alteracoes_sha256": []
+        "_alteracoes_sha256": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_Internacional_ERC%202026%20(ALTERAÇAO).pdf",
+            "titulo": "DIRETRIZES FAPES PARA CHAMADA ERC-CONFAP 2026 (ALTERAÇÃO)",
+            "sha256": "e8d08569befd1261c3f9368095084554ef7f2565dbefcba45e52dad6e67457e6"
+          }
+        ]
       }
     },
     "formacao_cientifica||EDITAL FAPES Nº 13/2026  - PROGRAMA INSTITUCIONAL DE BOLSAS DE INICIAÇÃO CIENTÍFICA, TECNOLÓGICA E DE INOVAÇÃO DO ESPÍRITO SANTO (PIBICES 2026/2027)": {
@@ -2472,7 +2497,7 @@
         }
       ],
       "primeira_visualizacao": "2026-05-22T08:59:30-03:00",
-      "ultima_visualizacao": "2026-07-06T11:25:23-03:00",
+      "ultima_visualizacao": "2026-07-07T10:23:03-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-07-03T09:58:40-03:00",
       "ultima_alteracao_em": "2026-07-03T09:58:38-03:00",
@@ -2751,7 +2776,7 @@
         }
       ],
       "primeira_visualizacao": "2026-05-28T09:14:57-03:00",
-      "ultima_visualizacao": "2026-07-06T11:25:23-03:00",
+      "ultima_visualizacao": "2026-07-07T10:23:03-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-07-03T09:58:41-03:00",
       "ultima_alteracao_em": "2026-07-03T09:58:38-03:00",
@@ -2853,7 +2878,7 @@
       "pdf_sha256": "224b334fd2df5443db423be4fac90686ae52b9d80a86ff107691fd96a9a5c7c7",
       "alteracoes": [],
       "primeira_visualizacao": "2026-06-18T09:12:47-03:00",
-      "ultima_visualizacao": "2026-07-06T11:25:23-03:00",
+      "ultima_visualizacao": "2026-07-07T10:23:03-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-06-18T09:12:49-03:00",
       "ultima_alteracao_em": "2026-06-18T09:12:47-03:00",
@@ -2900,7 +2925,7 @@
       "pdf_sha256": "0643c9142d2bca25c41fb128b31795f0a46a62031b2f0717ada035b460f7ed7f",
       "alteracoes": [],
       "primeira_visualizacao": "2026-06-23T09:05:47-03:00",
-      "ultima_visualizacao": "2026-07-06T11:25:23-03:00",
+      "ultima_visualizacao": "2026-07-07T10:23:03-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-06-23T09:05:50-03:00",
       "ultima_alteracao_em": "2026-06-23T09:05:47-03:00",
@@ -3113,7 +3138,7 @@
       "pdf_sha256": "01e91d9549311ea16eab19fef46308ef23e9c165616286740e992e28dbf3d51a",
       "alteracoes": [],
       "primeira_visualizacao": "2026-06-24T08:59:11-03:00",
-      "ultima_visualizacao": "2026-07-06T11:25:23-03:00",
+      "ultima_visualizacao": "2026-07-07T10:23:03-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-06-24T08:59:12-03:00",
       "ultima_alteracao_em": "2026-06-24T08:59:11-03:00",
@@ -3236,7 +3261,47 @@
         "_pdf_sha256": "01e91d9549311ea16eab19fef46308ef23e9c165616286740e992e28dbf3d51a",
         "_alteracoes_sha256": []
       }
+    },
+    "chamadas_internacionais||CHAMADA CONFAP & DAAD 2026": {
+      "categoria": "chamadas_internacionais",
+      "titulo": "CHAMADA CONFAP & DAAD 2026",
+      "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20-%20FAPES%202026-1.pdf",
+      "pdf_sha256": "922f0a8cfe70b78afdba4eca3d45f0558234a1181364b5a9594ffa5510b9a31b",
+      "alteracoes": [],
+      "primeira_visualizacao": "2026-07-07T10:23:03-03:00",
+      "ultima_visualizacao": "2026-07-07T10:23:03-03:00",
+      "status_atual": "novo",
+      "email_enviado_em": "2026-07-07T10:23:04-03:00",
+      "ultima_alteracao_em": "2026-07-07T10:23:03-03:00",
+      "alteracoes_recentes": [],
+      "novas_alteracoes_doc": [],
+      "extracao": {
+        "objetivo": "Este edital visa apoiar a manutenção de bolsas de doutorado da FAPES para bolsistas que forem aprovados na seleção do Serviço Alemão de Intercâmbio Acadêmico (DAAD). O apoio será concedido durante o período em que o bolsista realizar suas pesquisas em uma instituição na Alemanha, complementando o programa de auxílio para doutorandos brasileiros com bolsa nacional.",
+        "publico_alvo": "Doutorandos que forem selecionados pelo DAAD, estejam adimplentes junto à FAPES e não estejam no primeiro nem no último ano do doutorado.",
+        "valor_total": null,
+        "valor_por_proposta": null,
+        "contato": "internacional.confap@gmail.com, global4@fapes.es.gov.br",
+        "cronograma": [
+          {
+            "evento": "Submissão de propostas na Plataforma do DAAD",
+            "data_inicio": null,
+            "data_fim": null,
+            "observacao": "Para a Chamada DAAD 2026. O conteúdo completo da chamada está disponível no site do CONFAP.",
+            "acao_do_proponente": true
+          },
+          {
+            "evento": "Controle de elegibilidade pela FAPES",
+            "data_inicio": null,
+            "data_fim": null,
+            "observacao": "Realizado pela FAPES para as propostas selecionadas pelo DAAD, conforme critérios do item 2.",
+            "acao_do_proponente": false
+          }
+        ],
+        "observacoes_gerais": "Este documento apresenta as diretrizes específicas da FAPES para a Chamada CONFAP & DAAD 2026. Para informações completas sobre a chamada, consulte o link fornecido no site do CONFAP.",
+        "_pdf_sha256": "922f0a8cfe70b78afdba4eca3d45f0558234a1181364b5a9594ffa5510b9a31b",
+        "_alteracoes_sha256": []
+      }
     }
   },
-  "ultima_execucao": "2026-07-06T11:25:23-03:00"
+  "ultima_execucao": "2026-07-07T10:23:05-03:00"
 }
