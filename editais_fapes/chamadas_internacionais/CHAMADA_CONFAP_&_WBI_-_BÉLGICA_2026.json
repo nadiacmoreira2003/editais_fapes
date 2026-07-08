@@ -1,0 +1,47 @@
+{
+  "objetivo": "Apoiar projetos conjuntos de Pesquisa e Inovação, promovendo o intercâmbio científico entre grupos de pesquisa do Espírito Santo e da região da Valônia-Bruxelas, na Bélgica, em áreas como inovação em saúde, energia sustentável, gestão ambiental e aeronáutica. Os projetos devem ser inovadores, agregar valor e resultar em publicações científicas conjuntas.",
+  "publico_alvo": "Pesquisadores brasileiros com doutorado, vinculados a Instituições de Ensino Superior e/ou Pesquisa (IES/P) localizadas no estado do Espírito Santo, residentes no estado, que atuem como pesquisador principal ou coordenador do projeto, e que participem de propostas conjuntas com pesquisadores da Valônia-Bruxelas, Bélgica.",
+  "valor_total": "R$ 300.000,00",
+  "valor_por_proposta": "R$ 150.000,00",
+  "contato": "internacional.confap@gmail.com, global4@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Lançamento da Chamada",
+      "data_inicio": "2026-06-22",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Submissão de propostas",
+      "data_inicio": null,
+      "data_fim": "2026-09-30",
+      "observacao": "Até as 23h59min (horário de Brasília) via https://sistema.confap.org.br",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Período de Avaliação",
+      "data_inicio": "2026-10-01",
+      "data_fim": "2026-11-30",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Divulgação do resultado",
+      "data_inicio": null,
+      "data_fim": "2026-12-31",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Início das atividades",
+      "data_inicio": "2027-01-01",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "O prazo de vigência máximo para cada projeto é de 24 meses. O apoio financeiro da Fapes destina-se exclusivamente a despesas de mobilidade, como passagens aéreas internacionais e auxílio para missões técnico-científicas na Bélgica, excluindo bolsas. Os valores dos auxílios são definidos na Resolução FAPES/CCAF 361/2026. Cada proponente pode submeter apenas uma proposta; em caso de múltiplas submissões, a última será considerada. As propostas devem usar o modelo do Anexo I e ser submetidas em ambas as plataformas (CONFAP). A execução dos projetos não poderá exceder a vigência dos acordos entre a Fapes e as instituições fomentadoras.",
+  "_pdf_sha256": "6d2df8a40e4070802437afc283186b627b6f35a1290d3bfa103d190c3ffcbd9c",
+  "_alteracoes_sha256": []
+}
