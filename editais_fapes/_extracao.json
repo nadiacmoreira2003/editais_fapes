@@ -395,16 +395,16 @@
   },
   {
     "categoria": "difusao_do_conhecimento",
-    "titulo": "EDITAL FAPES Nº 04/2026 - ESTÁGIO TÉCNICO CIENTÍFICO",
+    "titulo": "EDITAL FAPES Nº 04/2026 - ESTÁGIO TÉCNICO-CIENTÍFICO",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_04_2026_-_Estágio_Técnico_Cientifico.pdf",
-    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_04_2026_-_ESTÁGIO_TÉCNICO_CIENTÍFICO.pdf",
+    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_04_2026_-_ESTÁGIO_TÉCNICO-CIENTÍFICO.pdf",
     "pdf_sha256": "7052905cad3fe12be74f8fb0a6ace861247edb7313ce8c9c2ed5621f00ffb207",
     "alteracoes": [],
     "extracao": {
-      "objetivo": "Selecionar propostas para concessão de auxílio financeiro para a realização de estágio técnico-científico. O estágio pode ser em laboratório ou centro de pesquisa, desenvolvimento ou inovação (PD&I), no país ou no exterior. O objetivo é aprimorar/desenvolver técnicas e processos, além de adquirir conhecimentos específicos vinculados a projetos de PD&I desenvolvidos em Instituições de Ensino e/ou Pesquisa (IES/P), públicas ou privadas, localizadas no estado do Espírito Santo.",
-      "publico_alvo": "Pesquisadores com título de doutor ou mestre, com vínculo ativo celetista ou estatutário em IES/P pública ou privada, localizada no estado do Espírito Santo. Alunos regularmente matriculados em curso de Mestrado ou Doutorado de IES/P localizada no Espírito Santo e recomendado pela CAPES.",
+      "objetivo": "Selecionar propostas para concessão de auxílio financeiro para realização de estágio técnico-científico em laboratórios ou centros de pesquisa, desenvolvimento ou inovação (PD&I), no Brasil ou no exterior. O objetivo é aprimorar técnicas, adquirir conhecimentos específicos para projetos de PD&I no Espírito Santo, estimular o intercâmbio de conhecimentos, a formação de alunos de pós-graduação e apoiar os Programas de Pós-graduação do estado.",
+      "publico_alvo": "Pesquisadores com título de doutor ou mestre, com vínculo ativo celetista ou estatutário em IES/P públicas ou privadas localizadas no Espírito Santo; e alunos regularmente matriculados em cursos de Mestrado ou Doutorado de IES/P localizadas no Espírito Santo, reconhecidos pela CAPES, CNE e/ou MEC.",
       "valor_total": "R$ 2.000.000,00",
-      "valor_por_proposta": "R$ 10.000,00",
+      "valor_por_proposta": null,
       "contato": "editais.duvidas@fapes.es.gov.br",
       "cronograma": [
         {
@@ -415,141 +415,142 @@
           "acao_do_proponente": false
         },
         {
-          "evento": "Período de submissão de propostas (1ª Chamada)",
-          "data_inicio": "2026-02-09",
-          "data_fim": "2026-03-12",
-          "observacao": "Para estágios com início entre 01/05/2026 a 31/07/2026, até as 17h59.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo final para envio de dúvidas (1ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-03-10",
-          "observacao": "Até 2 dias antes do prazo final de submissão. Para estágios com início entre 01/05/2026 a 31/07/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Período de submissão de propostas (2ª Chamada)",
-          "data_inicio": "2026-03-17",
-          "data_fim": "2026-04-24",
-          "observacao": "Para estágios com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar (1ª Chamada)",
-          "data_inicio": "2026-03-19",
-          "data_fim": null,
-          "observacao": "A partir de. Para estágios com início entre 01/05/2026 a 31/07/2026.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos (1ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-03-26",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar. Para estágios com início entre 01/05/2026 a 31/07/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final (1ª Chamada)",
-          "data_inicio": "2026-03-31",
-          "data_fim": null,
-          "observacao": "A partir de. Para estágios com início entre 01/05/2026 a 31/07/2026.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de Contratação (1ª Chamada)",
-          "data_inicio": "2026-03-31",
-          "data_fim": "2026-04-30",
-          "observacao": "Até 30 dias após a publicação do resultado final homologado. Para estágios com início entre 01/05/2026 a 31/07/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo final para envio de dúvidas (2ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-04-22",
-          "observacao": "Até 2 dias antes do prazo final de submissão. Para estágios com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar (2ª Chamada)",
-          "data_inicio": "2026-05-22",
-          "data_fim": null,
-          "observacao": "A partir de. Para estágios com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para interposição de recursos (2ª Chamada)",
-          "data_inicio": null,
-          "data_fim": "2026-05-29",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar. Para estágios com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final (2ª Chamada)",
-          "data_inicio": "2026-06-19",
-          "data_fim": null,
-          "observacao": "A partir de. Para estágios com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de Contratação (2ª Chamada)",
-          "data_inicio": "2026-06-19",
-          "data_fim": "2026-07-19",
-          "observacao": "Até 30 dias após a publicação do resultado final homologado. Para estágios com início entre 01/08/2026 a 31/12/2026.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Período de submissão de propostas (3ª Chamada)",
-          "data_inicio": "2026-07-01",
-          "data_fim": "2026-08-20",
-          "observacao": "Para estágios com início entre 04/01/2027 a 30/04/2027.",
-          "acao_do_proponente": true
-        },
-        {
           "evento": "Prazo para impugnação do edital",
           "data_inicio": null,
-          "data_fim": "2026-08-13",
-          "observacao": "Até 5 dias úteis anteriores ao encerramento do prazo de envio das propostas da última chamada.",
+          "data_fim": "2026-03-05",
+          "observacao": "Até 5 dias úteis anteriores ao encerramento do prazo de submissão da 1ª Chamada.",
           "acao_do_proponente": true
         },
         {
-          "evento": "Prazo final para envio de dúvidas (3ª Chamada)",
+          "evento": "Período de submissão de propostas",
+          "data_inicio": "2026-02-09",
+          "data_fim": "2026-03-12",
+          "observacao": "1ª Chamada para estágios com início entre 01/05/2026 a 31/07/2026, até as 17h59.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Prazo para envio de dúvidas sobre o edital",
+          "data_inicio": null,
+          "data_fim": "2026-03-10",
+          "observacao": "1ª Chamada, até 2 dias antes do prazo final de submissão.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar",
+          "data_inicio": "2026-03-19",
+          "data_fim": null,
+          "observacao": "1ª Chamada.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para interposição de recursos",
+          "data_inicio": "2026-03-19",
+          "data_fim": "2026-03-26",
+          "observacao": "1ª Chamada, 5 dias úteis após a publicação do resultado preliminar.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final",
+          "data_inicio": "2026-03-31",
+          "data_fim": null,
+          "observacao": "1ª Chamada.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Período de contratação",
+          "data_inicio": "2026-03-31",
+          "data_fim": "2026-04-30",
+          "observacao": "1ª Chamada, até 30 dias após a publicação do resultado final homologado.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Período de submissão de propostas",
+          "data_inicio": "2026-03-17",
+          "data_fim": "2026-04-24",
+          "observacao": "2ª Chamada para estágios com início entre 01/08/2026 a 31/12/2026.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Prazo para envio de dúvidas sobre o edital",
+          "data_inicio": null,
+          "data_fim": "2026-04-22",
+          "observacao": "2ª Chamada, até 2 dias antes do prazo final de submissão.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar",
+          "data_inicio": "2026-05-22",
+          "data_fim": null,
+          "observacao": "2ª Chamada.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para interposição de recursos",
+          "data_inicio": "2026-05-22",
+          "data_fim": "2026-05-29",
+          "observacao": "2ª Chamada, 5 dias úteis após a publicação do resultado preliminar.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final",
+          "data_inicio": "2026-06-19",
+          "data_fim": null,
+          "observacao": "2ª Chamada.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Período de contratação",
+          "data_inicio": "2026-06-19",
+          "data_fim": "2026-07-19",
+          "observacao": "2ª Chamada, até 30 dias após a publicação do resultado final homologado.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Período de submissão de propostas",
+          "data_inicio": "2026-07-01",
+          "data_fim": "2026-08-20",
+          "observacao": "3ª Chamada para estágios com início entre 04/01/2027 a 30/04/2027.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Prazo para envio de dúvidas sobre o edital",
           "data_inicio": null,
           "data_fim": "2026-08-18",
-          "observacao": "Até 2 dias antes do prazo final de submissão. Para estágios com início entre 04/01/2027 a 30/04/2027.",
+          "observacao": "3ª Chamada, até 2 dias antes do prazo final de submissão.",
           "acao_do_proponente": true
         },
         {
-          "evento": "Divulgação do resultado preliminar (3ª Chamada)",
+          "evento": "Divulgação do resultado preliminar",
           "data_inicio": "2026-10-02",
           "data_fim": null,
-          "observacao": "A partir de. Para estágios com início entre 04/01/2027 a 30/04/2027.",
+          "observacao": "3ª Chamada.",
           "acao_do_proponente": false
         },
         {
-          "evento": "Prazo para interposição de recursos (3ª Chamada)",
-          "data_inicio": null,
+          "evento": "Prazo para interposição de recursos",
+          "data_inicio": "2026-10-02",
           "data_fim": "2026-10-09",
-          "observacao": "5 dias úteis após a publicação do resultado preliminar. Para estágios com início entre 04/01/2027 a 30/04/2027.",
+          "observacao": "3ª Chamada, 5 dias úteis após a publicação do resultado preliminar.",
           "acao_do_proponente": true
         },
         {
-          "evento": "Divulgação do resultado final (3ª Chamada)",
+          "evento": "Divulgação do resultado final",
           "data_inicio": "2026-10-26",
           "data_fim": null,
-          "observacao": "A partir de. Para estágios com início entre 04/01/2027 a 30/04/2027.",
+          "observacao": "3ª Chamada.",
           "acao_do_proponente": false
         },
         {
-          "evento": "Período de Contratação (3ª Chamada)",
+          "evento": "Período de contratação",
           "data_inicio": "2026-10-26",
           "data_fim": "2026-11-25",
-          "observacao": "Até 30 dias após a publicação do resultado final homologado. Para estágios com início entre 04/01/2027 a 30/04/2027.",
+          "observacao": "3ª Chamada, até 30 dias após a publicação do resultado final homologado.",
           "acao_do_proponente": true
         }
       ],
-      "observacoes_gerais": "A Fapes pode alterar as datas e os prazos do cronograma por necessidade ou decisão institucional, podendo reabrir o prazo para recebimento de propostas em casos de força maior ou falhas comprovadas nas plataformas. Cada proponente pode apresentar apenas uma proposta por chamada. Não é permitida a contratação concomitante de projeto de estágio técnico-científico e visita técnico-científica para o mesmo período/chamada. O coordenador pode solicitar o adiamento da data de início do estágio por até 30 dias após a contratação, mediante justificativa. É obrigatório mencionar o apoio da Fapes em todas as publicações ou divulgações relacionadas ao projeto.",
-      "_pdf_sha256": "7052905cad3fe12be74f8fb0a6ace861247edb7313ce8c9c2ed5621f00ffb207"
+      "observacoes_gerais": "O edital prevê auxílios financeiros para estágios técnico-científicos com valores que variam de R$ 4.000,00 a R$ 10.000,00 para estágios no Brasil (30 a 90 dias) e de US$ 1.400,00 a US$ 6.500,00 para estágios no exterior (30 a 90 dias), dependendo da duração e da região. Os recursos totais são distribuídos em três chamadas, com R$ 668.000,00 para a 1ª chamada e R$ 666.000,00 para a 2ª e 3ª chamadas, divididos igualmente entre as categorias pesquisador e aluno. A Fapes pode alterar datas e prazos do cronograma. Proponentes só podem submeter uma proposta por chamada e não podem ser contratados concomitantemente para estágio técnico-científico e visita técnico-científica no mesmo período. Saldo de recursos não utilizados em uma chamada pode ser aplicado em chamadas subsequentes.",
+      "_pdf_sha256": "7052905cad3fe12be74f8fb0a6ace861247edb7313ce8c9c2ed5621f00ffb207",
+      "_alteracoes_sha256": []
     }
   },
   {
