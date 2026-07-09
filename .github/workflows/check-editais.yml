@@ -24,7 +24,7 @@ jobs:
       SMTP_PORT: "587"
       SMTP_USER: ${{ secrets.SMTP_USER }}
       SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      EMAIL_TO: ${{ vars.EMAIL_TO }}
 
     steps:
       - name: Checkout
