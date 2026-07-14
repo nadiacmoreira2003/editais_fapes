@@ -2,18 +2,8 @@
   {
     "categoria": "formacao_cientifica",
     "url": "https://fapes.es.gov.br/edital-aberto-forma%C3%A7%C3%A3o-cient%C3%ADfica",
-    "total": 1,
-    "editais": [
-      {
-        "titulo": "EDITAL FAPES Nº 09/2026 - BOLSAS DE ESTÁGIO DOUTORADO SANDUÍCHE",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL%20FAPES%20N°%2009.2026%20-%20BDS.pdf",
-        "alteracoes": [],
-        "anexos": [],
-        "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_09_2026_-_BOLSAS_DE_ESTÁGIO_DOUTORADO_SANDUÍCHE.pdf",
-        "pdf_sha256": "b49c1446c5a3cbe6868512b7e452a2ecdc537b0f84ba00e67234e26146a362bd",
-        "status": "novo"
-      }
-    ]
+    "total": 0,
+    "editais": []
   },
   {
     "categoria": "pesquisa",
@@ -205,7 +195,7 @@
   {
     "categoria": "chamadas_internacionais",
     "url": "https://fapes.es.gov.br/chamadas-internacionais",
-    "total": 5,
+    "total": 6,
     "editais": [
       {
         "titulo": "CHAMADA CONFAP & WBI - BÉLGICA 2026",
@@ -329,6 +319,40 @@
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_HORIZON_EUROPE.pdf",
         "pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080",
+        "status": "novo"
+      },
+      {
+        "titulo": "CHAMADA DA PARCERIA DE MATÉRIAS-PRIMAS PARA A TRANSIÇÃO VERDE E DIGITAL (RAMP)",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20-%20Chamada%20RAMP%202026.pdf",
+        "alteracoes": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_Internacional_RAMP-2026.pdf",
+            "titulo": "DIRETRIZES DA FAPES (RAMP)"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20I%20-%20Modelo%20pre_proposta_Chamada%20RAMP.2026.docx",
+            "titulo": "ANEXO I"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20II%20-%20Modelo%20CV%20-%20Chamada%20RAMP.2026.docx",
+            "titulo": "ANEXO II"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/RAMP%20Joint%20Call%202026.pdf",
+            "titulo": "PUBLICAÇÃO RAMP - 1ª CHAMADA RAMP 2026"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Editais%20-%20CONFAP%20—%20Conselho%20Nacional%20das%20Fundações%20Estaduais%20de%20Amparo%20à%20Pesquisa-2.pdf",
+            "titulo": "PUBLICAÇÃO CONFAP - 1ª CHAMADA RAMP 2026"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/RAMP_Termo_de_Adesão_-_2026.pdf",
+            "titulo": "TERMO DE ADESÃO"
+          }
+        ],
+        "arquivo_local": "chamadas_internacionais/CHAMADA_DA_PARCERIA_DE_MATÉRIAS-PRIMAS_PARA_A_TRANSIÇÃO_VERDE_E_DIGITAL_(RAMP).pdf",
+        "pdf_sha256": "a4c6eeabdb06e23d5b8d920ac882d345df0feea4c3b77665a97f8606e11b823c",
         "status": "novo"
       }
     ]
