@@ -1856,5 +1856,137 @@
         }
       ]
     }
+  },
+  {
+    "categoria": "chamadas_internacionais",
+    "titulo": "CHAMADA DA PARCERIA DE MATÉRIAS-PRIMAS PARA A TRANSIÇÃO VERDE E DIGITAL (RAMP)",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20-%20Chamada%20RAMP%202026.pdf",
+    "arquivo_local": "chamadas_internacionais/CHAMADA_DA_PARCERIA_DE_MATÉRIAS-PRIMAS_PARA_A_TRANSIÇÃO_VERDE_E_DIGITAL_(RAMP).pdf",
+    "pdf_sha256": "a4c6eeabdb06e23d5b8d920ac882d345df0feea4c3b77665a97f8606e11b823c",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "Este edital visa financiar projetos de pesquisa e/ou inovação em toda a cadeia de valor de matérias-primas. Os projetos devem focar em melhorar o acesso a matérias-primas, promover práticas de economia circular, alcançar a sustentabilidade e minimizar custos sociais e ambientais, agregando valor e contribuindo para o desenvolvimento industrial.",
+      "publico_alvo": "Pesquisadores e instituições vinculadas a organizações de ensino superior e centros de pesquisa públicos no Espírito Santo. Outras entidades devem verificar a elegibilidade diretamente com a FAPES.",
+      "valor_total": "EUR 100.000,00",
+      "valor_por_proposta": "EUR 100.000,00",
+      "contato": "internacional.confap@gmail.com, global4@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Lançamento do edital",
+          "data_inicio": "2026-06-23",
+          "data_fim": "2026-06-23",
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Webinar informativo",
+          "data_inicio": "2026-07-02",
+          "data_fim": "2026-07-02",
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo final para submissão de pré-propostas",
+          "data_inicio": "2026-09-22",
+          "data_fim": "2026-09-22",
+          "observacao": "até as 15:00 CEST",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação dos resultados de elegibilidade (Etapa 1)",
+          "data_inicio": "2026-10-05",
+          "data_fim": "2026-10-05",
+          "observacao": "Data aproximada para 'Early October 2026'",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Período para interposição de recursos (Elegibilidade Etapa 1)",
+          "data_inicio": "2026-10-06",
+          "data_fim": "2026-10-15",
+          "observacao": "Janela de 10 dias para recursos",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação dos resultados (avaliação e seleção Etapa 1)",
+          "data_inicio": "2026-12-15",
+          "data_fim": "2026-12-15",
+          "observacao": "Data aproximada para 'Mid-December 2026'",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Período para interposição de recursos (Resultados Etapa 1)",
+          "data_inicio": "2026-12-16",
+          "data_fim": "2026-12-25",
+          "observacao": "Janela de 10 dias para recursos",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Convite para a Etapa 2",
+          "data_inicio": "2026-12-28",
+          "data_fim": "2026-12-28",
+          "observacao": "Data aproximada para 'Late December 2026'",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Solicitações (e aprovação) de mudanças entre as etapas 1 e 2",
+          "data_inicio": "2027-01-31",
+          "data_fim": "2027-01-31",
+          "observacao": null,
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Prazo final para submissão de propostas completas",
+          "data_inicio": "2027-02-15",
+          "data_fim": "2027-02-15",
+          "observacao": "até as 15:00 CET",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação dos resultados de elegibilidade (Etapa 2)",
+          "data_inicio": "2027-03-05",
+          "data_fim": "2027-03-05",
+          "observacao": "Data aproximada para 'Early March 2027'",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Período para interposição de recursos (Elegibilidade Etapa 2)",
+          "data_inicio": "2027-03-06",
+          "data_fim": "2027-03-15",
+          "observacao": "Janela de 10 dias para recursos",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação dos resultados (avaliação e seleção Etapa 2)",
+          "data_inicio": "2027-05-15",
+          "data_fim": "2027-05-15",
+          "observacao": "Data aproximada para 'Mid-May'",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Período para interposição de recursos (Resultados Etapa 2)",
+          "data_inicio": "2027-05-16",
+          "data_fim": "2027-05-25",
+          "observacao": "Janela de 10 dias para recursos",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Comunicação das decisões de financiamento",
+          "data_inicio": "2027-05-30",
+          "data_fim": "2027-05-30",
+          "observacao": "Data aproximada para 'Late May/Early June'",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Negociações de contrato nacional/regional e início dos projetos (previsto)",
+          "data_inicio": "2027-06-01",
+          "data_fim": "2027-09-30",
+          "observacao": null,
+          "acao_do_proponente": true
+        }
+      ],
+      "observacoes_gerais": "O edital se aplica a todas as matérias-primas não combustíveis e não alimentares, com foco em matérias-primas críticas/estratégicas, mas sem ser essencial. Cada proposta multilateral deve envolver no mínimo três parceiros de três países diferentes, solicitando financiamento de um dos financiadores participantes. Financiadores de pelo menos dois desses países devem ser elegíveis para receber cofinanciamento da Comissão Europeia. O escopo temático abrange a cadeia de suprimentos primária e secundária, design e produção, e uso e reutilização de produtos e componentes. Para a FAPES, todas as faixas de TRL (1-9) são elegíveis. Recomenda-se que os candidatos verifiquem se as FAPs em seus respectivos estados definiram um valor mínimo ou máximo de financiamento por projeto e se exigem submissão de proposta através da plataforma da FAP dentro do prazo de chamada.",
+      "_pdf_sha256": "a4c6eeabdb06e23d5b8d920ac882d345df0feea4c3b77665a97f8606e11b823c",
+      "_alteracoes_sha256": []
+    }
   }
 ]
