@@ -60,7 +60,14 @@
       {
         "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_17.2026_Prêmio_Fapes_Edição_2026_Professora_Jurema_José_de_Oliveira.pdf",
-        "alteracoes": [],
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_17.2026_Prêmio_Fapes_Edição_2026_-_Professora_Jurema_José_de_Oliveira_1ª_alteração.pdf",
+            "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA,  TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026  (1ª ALTERAÇÃO)",
+            "arquivo_local": "difusao_do_conhecimento/_alteracoes/EDITAL_FAPES_No_17_2026_-_PRÊMIO_FAPES_DE_CIÊNCIA,_TECNOLOGIA,_INOVAÇÃO_E_JORNALISMO_–_EDIÇÃO_2026_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "7c349540308abc568912b73e78c60fb8a7a76bce5891253f9e79f8d6b14814ca"
+          }
+        ],
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_17_2026_-_PRÊMIO_FAPES_DE_CIÊNCIA,_TECNOLOGIA,_INOVAÇÃO_E_JORNALISMO_–_EDIÇÃO_2026.pdf",
         "pdf_sha256": "0643c9142d2bca25c41fb128b31795f0a46a62031b2f0717ada035b460f7ed7f",
