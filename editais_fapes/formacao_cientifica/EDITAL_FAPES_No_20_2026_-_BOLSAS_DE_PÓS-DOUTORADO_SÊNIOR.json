@@ -1,0 +1,82 @@
+{
+  "objetivo": "Apoiar projetos de pesquisa que visem contribuir para o desenvolvimento científico e tecnológico no Espírito Santo e do Brasil, por meio da concessão de bolsas para estágios de pós-doutorado sênior. O objetivo é aprimorar a qualificação de pesquisadores, fortalecer as atividades de pesquisa científica e tecnológica e ampliar a cooperação acadêmica nacional e internacional, em instituições de excelência no país ou no exterior.",
+  "publico_alvo": "Pesquisadores doutores com vínculo formal (mínimo de 20h semanais) em Instituições de Ensino e/ou Pesquisa (IES/P) públicas ou privadas, sediadas no estado do Espírito Santo, que sejam docentes permanentes de Programa de Pós-Graduação (PPG) stricto sensu e que atendam aos requisitos de tempo de titulação de doutor (Faixas A, B ou C).",
+  "valor_total": "R$ 6.000.000,00",
+  "valor_por_proposta": null,
+  "contato": "bolsas.duvidas@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do edital",
+      "data_inicio": "2026-07-31",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Submissão das propostas",
+      "data_inicio": null,
+      "data_fim": "2026-09-24",
+      "observacao": "Até as 17h59, via Sistema de Informação e Gestão de Projetos da Fapes",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar de habilitação",
+      "data_inicio": "2026-10-09",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos administrativos (habilitação)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis após a publicação do resultado preliminar de habilitação",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado homologado de habilitação",
+      "data_inicio": "2026-10-26",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Divulgação do resultado preliminar de classificação",
+      "data_inicio": "2026-12-21",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos administrativos (classificação)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis após a publicação do resultado preliminar de classificação",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado homologado de classificação",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Após o prazo para recurso administrativo",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Contratação das propostas",
+      "data_inicio": "2027-01-18",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Início da vigência",
+      "data_inicio": "2027-02-01",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "O prazo de execução do projeto é de 16 meses, improrrogáveis, exceto em caso de Advento de Prole. Cada proponente deve apresentar apenas uma proposta, sendo a última enviada considerada. A modalidade de concessão da bolsa é por cooperação financeira não reembolsável. As atividades devem ser realizadas presencialmente na Instituição de Destino, sem pesquisa à distância. Não é permitida a alteração da Instituição de Destino ou do Supervisor após a submissão da proposta. O valor mensal da bolsa de POSDOC varia de acordo com o nível da bolsa e localidade, sendo fixado na Tabela de Valores de Bolsas e Auxílios da Fapes, podendo ser alterado por norma regulamentadora. Os itens financiáveis incluem bolsa mensal (6 a 10 meses), auxílio instalação (equivalente a uma bolsa POSDOC), seguro saúde (limitado a R$ 550,00/mês para exterior) e auxílio deslocamento (limitado a R$ 2.500,00 no país e R$ 12.000,00 no exterior), todos por reembolso, exceto a bolsa mensal e auxílio instalação que podem ser antecipados. A concessão de adaptações, tecnologias assistivas ou outros recursos de acessibilidade é avaliada segundo critérios de viabilidade e razoabilidade, desde que solicitadas em até 10 dias do término de submissão das propostas. O estágio de pós-doutorado deve ter duração mínima de 6 meses e máxima de 10 meses. O proponente deve ser o bolsista POSDOC.",
+  "_pdf_sha256": "d6ae9ff8e46c1b88cb296c0b05113993ed56e5b6e4a27997a1eed95de013d5f3",
+  "_alteracoes_sha256": []
+}

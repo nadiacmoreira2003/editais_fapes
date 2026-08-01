@@ -2,8 +2,27 @@
   {
     "categoria": "formacao_cientifica",
     "url": "https://fapes.es.gov.br/edital-aberto-forma%C3%A7%C3%A3o-cient%C3%ADfica",
-    "total": 0,
-    "editais": []
+    "total": 2,
+    "editais": [
+      {
+        "titulo": "EDITAL FAPES Nº 19/2026 - PIC JR 2027",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/PIC_JR_2027%20-.pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_19_2026_-_PIC_JR_2027.pdf",
+        "pdf_sha256": "3779e2f10c86956aa0cee006a7a3ad7a21e9227c5bb2c5013205a02f210f776b",
+        "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES Nº 20/2026 - BOLSAS DE PÓS-DOUTORADO SÊNIOR",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/POSDOC_Sênior%20-.pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_20_2026_-_BOLSAS_DE_PÓS-DOUTORADO_SÊNIOR.pdf",
+        "pdf_sha256": "d6ae9ff8e46c1b88cb296c0b05113993ed56e5b6e4a27997a1eed95de013d5f3",
+        "status": "novo"
+      }
+    ]
   },
   {
     "categoria": "pesquisa",
@@ -135,7 +154,14 @@
       {
         "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_-_2_Edição_-_Lançamento.pdf",
-        "alteracoes": [],
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_(Versão_2026)_-_1ª_Alteração%20-.pdf",
+            "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026 (1ª ALTERAÇÃO)",
+            "arquivo_local": "inovacao/_alteracoes/EDITAL_FAPES_No_08_2026_-_NOVA_ECONOMIA_CAPIXABA_2026_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "a0f28df3f37ea2a558c2e1db03746351a9075b3e8f25a0b54dead453a2a2e142"
+          }
+        ],
         "anexos": [],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_08_2026_-_NOVA_ECONOMIA_CAPIXABA_2026.pdf",
         "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",

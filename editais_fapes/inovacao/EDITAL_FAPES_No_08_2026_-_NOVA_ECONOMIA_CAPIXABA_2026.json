@@ -1,179 +1,137 @@
 {
-  "objetivo": "Promover um significativo aumento da competitividade dos setores econômicos capixabas no cenário nacional por meio de projetos de inovação. Os projetos devem ser desenvolvidos por empresas do Espírito Santo em colaboração com Instituições de Ciência e Tecnologia (ICT) ou Instituições de Ensino Superior (IES) capixabas, públicas ou privadas, e apresentar aderência aos setores econômicos do Plano de Desenvolvimento de Longo Prazo (ES 500 Anos) ou ao Plano Estadual de Ciência, Tecnologia e Inovação do Espírito Santo (PCTI-ES).",
-  "publico_alvo": "Empresas com sede administrativa ou filial no Espírito Santo, individualmente ou em associação com outras empresas capixabas, em colaboração com Instituições de Ciência e Tecnologia (ICT) ou Instituições de Ensino Superior (IES) capixabas.",
+  "objetivo": "O objetivo principal do Edital 08/2026 (Nova Economia Capixaba) é promover um significativo aumento de competitividade dos setores econômicos capixabas no cenário nacional por meio de projetos de inovação a partir de demandas das empresas, em colaboração com ICT ou IES capixabas, públicas ou privadas. O apoio aos projetos de inovação se dará por meio de um modelo de coinvestimento tripartite entre a FAPES, a empresa proponente e a ICT/IES, com recursos não reembolsáveis da FAPES, contrapartida econômica da ICT/IES e contrapartida financeira da empresa.",
+  "publico_alvo": "Empresas com sede administrativa ou filial no Espírito Santo, individualmente ou em associação com outras empresas capixabas, e Cooperativas de Trabalho (produção e serviço) somente como empresa coexecutora. As empresas proponentes e coexecutoras devem ter receita bruta operacional superior a R$ 360.000,00 nos dois últimos exercícios fiscais.",
   "valor_total": "R$ 40.000.000,00",
-  "valor_por_proposta": "R$ 3.000.000,00",
-  "contato": "duvidas.inovacao@fapes.es.gov.br",
+  "valor_por_proposta": "Entre R$ 500.000,00 e R$ 3.000.000,00",
+  "contato": "duvidas.inovacao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br",
   "cronograma": [
     {
       "evento": "Publicação da Chamada Pública",
-      "data_inicio": "2026-03-30",
-      "data_fim": null,
+      "data_inicio": "2026-08-01",
+      "data_fim": "2026-08-01",
       "observacao": null,
       "acao_do_proponente": false
     },
     {
-      "evento": "Impugnação do edital",
-      "data_inicio": null,
+      "evento": "Submissão das propostas no SIGFAPES",
+      "data_inicio": "2026-08-01",
       "data_fim": null,
-      "observacao": "Até 5 dias úteis antes da data final fixada para submissão das propostas do primeiro Ciclo (se houver ciclo definido)",
+      "observacao": "Fluxo contínuo",
       "acao_do_proponente": true
     },
     {
-      "evento": "Submissão de propostas",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Fluxo contínuo, via SIGFAPES",
+      "evento": "Avaliação dos documentos submetidos no SIGFAPES e conformidade ao edital",
+      "data_inicio": "2026-09-01",
+      "data_fim": "2026-09-26",
+      "observacao": "Após 20 (vinte) dias úteis a partir do 1º dia do mês subsequente à publicação da chamada.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Previsão de publicação do resultado preliminar (Habilitação)",
+      "data_inicio": "2026-09-01",
+      "data_fim": "2026-10-03",
+      "observacao": "Após 25 (vinte e cinco) dias úteis a partir do 1º dia do mês subsequente à publicação da chamada.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo de submissão dos recursos administrativos (Habilitação)",
+      "data_inicio": "2026-10-04",
+      "data_fim": "2026-10-10",
+      "observacao": "05 (cinco) dias úteis a partir da publicação do resultado preliminar.",
       "acao_do_proponente": true
     },
     {
-      "evento": "Análise de conformidade e habilitação",
+      "evento": "Previsão de publicação do resultado homologado (Habilitação)",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "Após 20 dias úteis a partir do 1º dia do mês subsequente à submissão da proposta",
+      "observacao": "A partir do julgamento pelo CCAF dos recursos administrativos.",
       "acao_do_proponente": false
     },
     {
-      "evento": "Divulgação do resultado preliminar da habilitação",
+      "evento": "Avaliação do estágio de maturidade tecnológica (TRL) do projeto e julgamento de mérito da proposta submetida no SIGFAPES",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "Após 25 dias úteis a partir do 1º dia do mês subsequente à submissão da proposta",
+      "observacao": "Até 20 (vinte) dias úteis a partir da publicação do resultado homologado da habilitação e análise de conformidade das propostas.",
       "acao_do_proponente": false
     },
     {
-      "evento": "Interposição de recursos administrativos da habilitação",
+      "evento": "Previsão de publicação do resultado preliminar (TRL e Mérito)",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "05 dias úteis a partir da publicação do resultado preliminar",
+      "observacao": "A partir das avaliações da maturidade e mérito.",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo de submissão dos recursos administrativos (TRL e Mérito)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "05 (cinco) dias úteis a partir da publicação do resultado preliminar.",
       "acao_do_proponente": true
     },
     {
-      "evento": "Divulgação do resultado homologado da habilitação",
+      "evento": "Previsão de publicação do resultado homologado (TRL e Mérito)",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "A partir do julgamento pelo CCAF dos recursos administrativos",
+      "observacao": "A partir do julgamento pelo CCAF dos recursos administrativos.",
       "acao_do_proponente": false
     },
     {
-      "evento": "Avaliação do estágio de maturidade tecnológica (TRL) e julgamento de mérito",
+      "evento": "Visita técnica ou apresentação (opcional)",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "Até 20 dias úteis a partir da publicação do resultado homologado da habilitação e análise de conformidade das propostas",
+      "observacao": "Até 30 (trinta) dias úteis a partir da publicação do resultado preliminar das avaliações da maturidade e mérito. A critério da FAPES.",
       "acao_do_proponente": false
     },
     {
-      "evento": "Divulgação do resultado preliminar da avaliação de TRL e mérito",
+      "evento": "Previsão de publicação do resultado das visitas técnicas",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "A partir das avaliações da maturidade e mérito",
+      "observacao": "A partir da realização da visita técnica.",
       "acao_do_proponente": false
     },
     {
-      "evento": "Interposição de recursos administrativos da avaliação de TRL e mérito",
+      "evento": "Prazo de submissão dos recursos administrativos (Visita Técnica)",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "05 dias úteis a partir da publicação do resultado preliminar",
+      "observacao": "05 (cinco) dias úteis a partir da publicação do resultado preliminar da visita técnica.",
       "acao_do_proponente": true
     },
     {
-      "evento": "Divulgação do resultado homologado da avaliação de TRL e mérito",
+      "evento": "Previsão de publicação do resultado dos recursos administrativos (Visita Técnica)",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "A partir do julgamento pelo CCAF dos recursos administrativos",
+      "observacao": "A partir do julgamento pelo CCAF dos recursos administrativos.",
       "acao_do_proponente": false
     },
     {
-      "evento": "Visita técnica e/ou apresentação",
+      "evento": "Submissão das documentações para contratação",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "Até 30 dias úteis a partir da publicação do resultado preliminar das avaliações da maturidade e mérito (opcional, a critério da FAPES)",
-      "acao_do_proponente": false
-    },
-    {
-      "evento": "Divulgação do resultado das visitas técnicas",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "A partir da realização da visita técnica",
-      "acao_do_proponente": false
-    },
-    {
-      "evento": "Interposição de recursos administrativos das visitas técnicas",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "05 dias úteis a partir da publicação do resultado preliminar da visita técnica",
+      "observacao": "Até 30 (trinta) dias a partir da publicação do resultado homologado do julgamento de mérito.",
       "acao_do_proponente": true
     },
     {
-      "evento": "Divulgação do resultado dos recursos administrativos das visitas técnicas",
+      "evento": "Avaliação das documentações submetidas para contratação",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "A partir do julgamento pelo CCAF dos recursos administrativos",
+      "observacao": "A partir da submissão dos documentos para contratação.",
       "acao_do_proponente": false
     },
     {
-      "evento": "Submissão de documentação para contratação",
+      "evento": "Início da vigência dos Termo de Outorga",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "Até 30 dias a partir da publicação do resultado homologado do julgamento de mérito",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Avaliação da documentação para contratação",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "A partir da submissão dos documentos para contratação",
-      "acao_do_proponente": false
-    },
-    {
-      "evento": "Início da vigência do Termo de Outorga",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "A partir do primeiro dia do mês subsequente à assinatura do Termo de Outorga",
-      "acao_do_proponente": false
-    },
-    {
-      "evento": "Informar dados da conta bancária",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Até 30 dias após a publicação do Termo de Outorga",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Execução do projeto",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "24 meses a partir da publicação do Termo de Outorga, com possibilidade de prorrogação por até 12 meses",
-      "acao_do_proponente": false
-    },
-    {
-      "evento": "Prestação de contas parcial (1ª)",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Até 30 dias após o 8º mês de vigência do Termo de Outorga",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Liberação da segunda parcela",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "30 dias após o 12º mês de execução do projeto, mediante apresentação de documentos e comprovação de gasto de 70% da primeira parcela",
-      "acao_do_proponente": false
-    },
-    {
-      "evento": "Prestação de contas parcial (2ª)",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Até 30 dias após o 16º mês de vigência do Termo de Outorga",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Prestação de contas final",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Até 30 dias após o fim do prazo de vigência do Termo de Outorga",
+      "observacao": "A partir do primeiro dia do mês subsequente à assinatura do Termo de Outorga.",
       "acao_do_proponente": true
     }
   ],
-  "observacoes_gerais": "As resoluções e formulários estão disponíveis no site da FAPES (www.fapes.es.gov.br/resolucoes) e no Sistema SIGFAPES (www.sigfapes.es.gov.br). Empresas proponentes não podem ter sido contratadas nos Editais FAPES nº 07/2024, nº 10/2025 e nº 06/2026. Não é permitido que empresas beneficiadas possuam em seu quadro societário estagiários, funcionários, servidores, colaboradores, dirigentes ou profissionais com vínculo empregatício com a FAPES, incluindo cônjuges, companheiros ou parentes até o segundo grau. As atividades do projeto devem ser realizadas no Espírito Santo, exceto certificação, homologação e testes. É permitida a submissão de apenas uma proposta por empresa. A contratação de bolsistas (DTI, BIPI, AT) é opcional e seus recursos são descontados do valor da subvenção econômica. Não é permitida a contratação de bolsistas com vínculo empregatício com a FAPES ou parentes até o segundo grau.",
-  "_pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af"
+  "observacoes_gerais": "O edital foi alterado em 01/08/2026. Cooperativas de Trabalho (produção e serviço) podem participar como empresas coexecutoras. As regras de elegibilidade para empresas que participaram de editais FAPES anteriores (Tecnova III, Nova Economia Capixaba, Apoio aos Clusters de Inovação Capixaba) foram atualizadas, permitindo a submissão se o projeto, coordenador e equipe forem distintos. Novas regras para ressubmissão de propostas após inabilitação ou reprovação pelo Comitê de Conformidade foram adicionadas. O Termo de Outorga (ANEXO VIII) inclui agora cláusulas específicas sobre material permanente e sigilo.",
+  "_pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
+  "_alteracoes_sha256": [
+    {
+      "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_(Versão_2026)_-_1ª_Alteração%20-.pdf",
+      "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026 (1ª ALTERAÇÃO)",
+      "sha256": "a0f28df3f37ea2a558c2e1db03746351a9075b3e8f25a0b54dead453a2a2e142"
+    }
+  ]
 }

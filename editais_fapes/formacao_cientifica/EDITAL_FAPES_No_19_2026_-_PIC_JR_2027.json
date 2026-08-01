@@ -1,0 +1,89 @@
+{
+  "objetivo": "O Programa de Iniciação Científica Júnior (PICJr) visa apoiar financeiramente projetos de pesquisa desenvolvidos em parceria entre escolas públicas de Educação Básica e Instituições de Ensino Superior e/ou de Pesquisa (IES/P) do Espírito Santo. O objetivo geral é despertar nos estudantes da Rede Pública de Educação Básica o interesse pela ciência, tecnologia e inovação, aproximando-os de práticas científicas sob orientação de pesquisadores e professores tutores.",
+  "publico_alvo": "Pesquisadores (mínimo mestre) vinculados a Instituições de Ensino Superior e/ou de Pesquisa (IES/P) do Espírito Santo.",
+  "valor_total": "R$ 8.887.500,00",
+  "valor_por_proposta": "R$ 10.000,00",
+  "contato": "bolsas.duvidas@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do edital",
+      "data_inicio": "2026-07-31",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para impugnação do edital",
+      "data_inicio": null,
+      "data_fim": "2026-09-02",
+      "observacao": "Até 5 dias úteis anteriores ao encerramento do prazo de envio das propostas",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas",
+      "data_inicio": null,
+      "data_fim": "2026-09-09",
+      "observacao": "Até as 17h59, via Sistema de Gestão da Fapes",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar de habilitação",
+      "data_inicio": "2026-10-02",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para interposição de recursos (habilitação)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar de habilitação",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final de habilitação",
+      "data_inicio": "2026-10-26",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Divulgação do resultado preliminar de análise de mérito",
+      "data_inicio": "2027-01-05",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para interposição de recursos (análise de mérito)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar de análise de mérito",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final de análise de mérito",
+      "data_inicio": "2027-01-25",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Contratação dos projetos selecionados",
+      "data_inicio": "2027-02-09",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Início de execução dos projetos",
+      "data_inicio": "2027-03-01",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "Somente as cinco bolsas de Iniciação Científica Júnior (ICJr) são obrigatórias para implementação; as demais modalidades de bolsas (BCO, BTU e ICT) são opcionais. Cada coordenador deve apresentar apenas uma proposta, sendo considerada a última enviada em caso de múltiplas submissões. A Fapes pode alterar datas e prazos do cronograma por necessidade institucional ou reabrir prazos em caso de falhas comprovadas nos sistemas.",
+  "_pdf_sha256": "3779e2f10c86956aa0cee006a7a3ad7a21e9227c5bb2c5013205a02f210f776b",
+  "_alteracoes_sha256": []
+}

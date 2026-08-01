@@ -1,5 +1,192 @@
 [
   {
+    "categoria": "formacao_cientifica",
+    "titulo": "EDITAL FAPES Nº 19/2026 - PIC JR 2027",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/PIC_JR_2027%20-.pdf",
+    "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_19_2026_-_PIC_JR_2027.pdf",
+    "pdf_sha256": "3779e2f10c86956aa0cee006a7a3ad7a21e9227c5bb2c5013205a02f210f776b",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "O Programa de Iniciação Científica Júnior (PICJr) visa apoiar financeiramente projetos de pesquisa desenvolvidos em parceria entre escolas públicas de Educação Básica e Instituições de Ensino Superior e/ou de Pesquisa (IES/P) do Espírito Santo. O objetivo geral é despertar nos estudantes da Rede Pública de Educação Básica o interesse pela ciência, tecnologia e inovação, aproximando-os de práticas científicas sob orientação de pesquisadores e professores tutores.",
+      "publico_alvo": "Pesquisadores (mínimo mestre) vinculados a Instituições de Ensino Superior e/ou de Pesquisa (IES/P) do Espírito Santo.",
+      "valor_total": "R$ 8.887.500,00",
+      "valor_por_proposta": "R$ 10.000,00",
+      "contato": "bolsas.duvidas@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Publicação do edital",
+          "data_inicio": "2026-07-31",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para impugnação do edital",
+          "data_inicio": null,
+          "data_fim": "2026-09-02",
+          "observacao": "Até 5 dias úteis anteriores ao encerramento do prazo de envio das propostas",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Submissão de propostas",
+          "data_inicio": null,
+          "data_fim": "2026-09-09",
+          "observacao": "Até as 17h59, via Sistema de Gestão da Fapes",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar de habilitação",
+          "data_inicio": "2026-10-02",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para interposição de recursos (habilitação)",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar de habilitação",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final de habilitação",
+          "data_inicio": "2026-10-26",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Divulgação do resultado preliminar de análise de mérito",
+          "data_inicio": "2027-01-05",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para interposição de recursos (análise de mérito)",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar de análise de mérito",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final de análise de mérito",
+          "data_inicio": "2027-01-25",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Contratação dos projetos selecionados",
+          "data_inicio": "2027-02-09",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Início de execução dos projetos",
+          "data_inicio": "2027-03-01",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        }
+      ],
+      "observacoes_gerais": "Somente as cinco bolsas de Iniciação Científica Júnior (ICJr) são obrigatórias para implementação; as demais modalidades de bolsas (BCO, BTU e ICT) são opcionais. Cada coordenador deve apresentar apenas uma proposta, sendo considerada a última enviada em caso de múltiplas submissões. A Fapes pode alterar datas e prazos do cronograma por necessidade institucional ou reabrir prazos em caso de falhas comprovadas nos sistemas.",
+      "_pdf_sha256": "3779e2f10c86956aa0cee006a7a3ad7a21e9227c5bb2c5013205a02f210f776b",
+      "_alteracoes_sha256": []
+    }
+  },
+  {
+    "categoria": "formacao_cientifica",
+    "titulo": "EDITAL FAPES Nº 20/2026 - BOLSAS DE PÓS-DOUTORADO SÊNIOR",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/POSDOC_Sênior%20-.pdf",
+    "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_20_2026_-_BOLSAS_DE_PÓS-DOUTORADO_SÊNIOR.pdf",
+    "pdf_sha256": "d6ae9ff8e46c1b88cb296c0b05113993ed56e5b6e4a27997a1eed95de013d5f3",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "Apoiar projetos de pesquisa que visem contribuir para o desenvolvimento científico e tecnológico no Espírito Santo e do Brasil, por meio da concessão de bolsas para estágios de pós-doutorado sênior. O objetivo é aprimorar a qualificação de pesquisadores, fortalecer as atividades de pesquisa científica e tecnológica e ampliar a cooperação acadêmica nacional e internacional, em instituições de excelência no país ou no exterior.",
+      "publico_alvo": "Pesquisadores doutores com vínculo formal (mínimo de 20h semanais) em Instituições de Ensino e/ou Pesquisa (IES/P) públicas ou privadas, sediadas no estado do Espírito Santo, que sejam docentes permanentes de Programa de Pós-Graduação (PPG) stricto sensu e que atendam aos requisitos de tempo de titulação de doutor (Faixas A, B ou C).",
+      "valor_total": "R$ 6.000.000,00",
+      "valor_por_proposta": null,
+      "contato": "bolsas.duvidas@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Publicação do edital",
+          "data_inicio": "2026-07-31",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Submissão das propostas",
+          "data_inicio": null,
+          "data_fim": "2026-09-24",
+          "observacao": "Até as 17h59, via Sistema de Informação e Gestão de Projetos da Fapes",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar de habilitação",
+          "data_inicio": "2026-10-09",
+          "data_fim": null,
+          "observacao": "A partir de",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Interposição de recursos administrativos (habilitação)",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "5 dias úteis após a publicação do resultado preliminar de habilitação",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado homologado de habilitação",
+          "data_inicio": "2026-10-26",
+          "data_fim": null,
+          "observacao": "A partir de",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Divulgação do resultado preliminar de classificação",
+          "data_inicio": "2026-12-21",
+          "data_fim": null,
+          "observacao": "A partir de",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Interposição de recursos administrativos (classificação)",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "5 dias úteis após a publicação do resultado preliminar de classificação",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado homologado de classificação",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Após o prazo para recurso administrativo",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Contratação das propostas",
+          "data_inicio": "2027-01-18",
+          "data_fim": null,
+          "observacao": "A partir de",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Início da vigência",
+          "data_inicio": "2027-02-01",
+          "data_fim": null,
+          "observacao": "A partir de",
+          "acao_do_proponente": false
+        }
+      ],
+      "observacoes_gerais": "O prazo de execução do projeto é de 16 meses, improrrogáveis, exceto em caso de Advento de Prole. Cada proponente deve apresentar apenas uma proposta, sendo a última enviada considerada. A modalidade de concessão da bolsa é por cooperação financeira não reembolsável. As atividades devem ser realizadas presencialmente na Instituição de Destino, sem pesquisa à distância. Não é permitida a alteração da Instituição de Destino ou do Supervisor após a submissão da proposta. O valor mensal da bolsa de POSDOC varia de acordo com o nível da bolsa e localidade, sendo fixado na Tabela de Valores de Bolsas e Auxílios da Fapes, podendo ser alterado por norma regulamentadora. Os itens financiáveis incluem bolsa mensal (6 a 10 meses), auxílio instalação (equivalente a uma bolsa POSDOC), seguro saúde (limitado a R$ 550,00/mês para exterior) e auxílio deslocamento (limitado a R$ 2.500,00 no país e R$ 12.000,00 no exterior), todos por reembolso, exceto a bolsa mensal e auxílio instalação que podem ser antecipados. A concessão de adaptações, tecnologias assistivas ou outros recursos de acessibilidade é avaliada segundo critérios de viabilidade e razoabilidade, desde que solicitadas em até 10 dias do término de submissão das propostas. O estágio de pós-doutorado deve ter duração mínima de 6 meses e máxima de 10 meses. O proponente deve ser o bolsista POSDOC.",
+      "_pdf_sha256": "d6ae9ff8e46c1b88cb296c0b05113993ed56e5b6e4a27997a1eed95de013d5f3",
+      "_alteracoes_sha256": []
+    }
+  },
+  {
     "categoria": "difusao_do_conhecimento",
     "titulo": "EDITAL FAPES Nº 02/2026 - PARTICIPAÇÃO EM EVENTOS TÉCNICO-CIENTÍFICOS",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_02-2026-Participação_Evento_Técnico_Científico.pdf",
@@ -998,185 +1185,150 @@
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_-_2_Edição_-_Lançamento.pdf",
     "arquivo_local": "inovacao/EDITAL_FAPES_No_08_2026_-_NOVA_ECONOMIA_CAPIXABA_2026.pdf",
     "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
-    "alteracoes": [],
+    "alteracoes": [
+      {
+        "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_(Versão_2026)_-_1ª_Alteração%20-.pdf",
+        "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026 (1ª ALTERAÇÃO)",
+        "arquivo_local": "inovacao/_alteracoes/EDITAL_FAPES_No_08_2026_-_NOVA_ECONOMIA_CAPIXABA_2026_(1a_ALTERAÇÃO).pdf",
+        "pdf_sha256": "a0f28df3f37ea2a558c2e1db03746351a9075b3e8f25a0b54dead453a2a2e142"
+      }
+    ],
     "extracao": {
-      "objetivo": "Promover um significativo aumento da competitividade dos setores econômicos capixabas no cenário nacional por meio de projetos de inovação. Os projetos devem ser desenvolvidos por empresas do Espírito Santo em colaboração com Instituições de Ciência e Tecnologia (ICT) ou Instituições de Ensino Superior (IES) capixabas, públicas ou privadas, e apresentar aderência aos setores econômicos do Plano de Desenvolvimento de Longo Prazo (ES 500 Anos) ou ao Plano Estadual de Ciência, Tecnologia e Inovação do Espírito Santo (PCTI-ES).",
-      "publico_alvo": "Empresas com sede administrativa ou filial no Espírito Santo, individualmente ou em associação com outras empresas capixabas, em colaboração com Instituições de Ciência e Tecnologia (ICT) ou Instituições de Ensino Superior (IES) capixabas.",
+      "objetivo": "O objetivo principal do Edital 08/2026 (Nova Economia Capixaba) é promover um significativo aumento de competitividade dos setores econômicos capixabas no cenário nacional por meio de projetos de inovação a partir de demandas das empresas, em colaboração com ICT ou IES capixabas, públicas ou privadas. O apoio aos projetos de inovação se dará por meio de um modelo de coinvestimento tripartite entre a FAPES, a empresa proponente e a ICT/IES, com recursos não reembolsáveis da FAPES, contrapartida econômica da ICT/IES e contrapartida financeira da empresa.",
+      "publico_alvo": "Empresas com sede administrativa ou filial no Espírito Santo, individualmente ou em associação com outras empresas capixabas, e Cooperativas de Trabalho (produção e serviço) somente como empresa coexecutora. As empresas proponentes e coexecutoras devem ter receita bruta operacional superior a R$ 360.000,00 nos dois últimos exercícios fiscais.",
       "valor_total": "R$ 40.000.000,00",
-      "valor_por_proposta": "R$ 3.000.000,00",
-      "contato": "duvidas.inovacao@fapes.es.gov.br",
+      "valor_por_proposta": "Entre R$ 500.000,00 e R$ 3.000.000,00",
+      "contato": "duvidas.inovacao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br",
       "cronograma": [
         {
           "evento": "Publicação da Chamada Pública",
-          "data_inicio": "2026-03-30",
-          "data_fim": null,
+          "data_inicio": "2026-08-01",
+          "data_fim": "2026-08-01",
           "observacao": null,
           "acao_do_proponente": false
         },
         {
-          "evento": "Impugnação do edital",
-          "data_inicio": null,
+          "evento": "Submissão das propostas no SIGFAPES",
+          "data_inicio": "2026-08-01",
           "data_fim": null,
-          "observacao": "Até 5 dias úteis antes da data final fixada para submissão das propostas do primeiro Ciclo (se houver ciclo definido)",
+          "observacao": "Fluxo contínuo",
           "acao_do_proponente": true
         },
         {
-          "evento": "Submissão de propostas",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Fluxo contínuo, via SIGFAPES",
+          "evento": "Avaliação dos documentos submetidos no SIGFAPES e conformidade ao edital",
+          "data_inicio": "2026-09-01",
+          "data_fim": "2026-09-26",
+          "observacao": "Após 20 (vinte) dias úteis a partir do 1º dia do mês subsequente à publicação da chamada.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Previsão de publicação do resultado preliminar (Habilitação)",
+          "data_inicio": "2026-09-01",
+          "data_fim": "2026-10-03",
+          "observacao": "Após 25 (vinte e cinco) dias úteis a partir do 1º dia do mês subsequente à publicação da chamada.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo de submissão dos recursos administrativos (Habilitação)",
+          "data_inicio": "2026-10-04",
+          "data_fim": "2026-10-10",
+          "observacao": "05 (cinco) dias úteis a partir da publicação do resultado preliminar.",
           "acao_do_proponente": true
         },
         {
-          "evento": "Análise de conformidade e habilitação",
+          "evento": "Previsão de publicação do resultado homologado (Habilitação)",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "Após 20 dias úteis a partir do 1º dia do mês subsequente à submissão da proposta",
+          "observacao": "A partir do julgamento pelo CCAF dos recursos administrativos.",
           "acao_do_proponente": false
         },
         {
-          "evento": "Divulgação do resultado preliminar da habilitação",
+          "evento": "Avaliação do estágio de maturidade tecnológica (TRL) do projeto e julgamento de mérito da proposta submetida no SIGFAPES",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "Após 25 dias úteis a partir do 1º dia do mês subsequente à submissão da proposta",
+          "observacao": "Até 20 (vinte) dias úteis a partir da publicação do resultado homologado da habilitação e análise de conformidade das propostas.",
           "acao_do_proponente": false
         },
         {
-          "evento": "Interposição de recursos administrativos da habilitação",
+          "evento": "Previsão de publicação do resultado preliminar (TRL e Mérito)",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "05 dias úteis a partir da publicação do resultado preliminar",
+          "observacao": "A partir das avaliações da maturidade e mérito.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo de submissão dos recursos administrativos (TRL e Mérito)",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "05 (cinco) dias úteis a partir da publicação do resultado preliminar.",
           "acao_do_proponente": true
         },
         {
-          "evento": "Divulgação do resultado homologado da habilitação",
+          "evento": "Previsão de publicação do resultado homologado (TRL e Mérito)",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "A partir do julgamento pelo CCAF dos recursos administrativos",
+          "observacao": "A partir do julgamento pelo CCAF dos recursos administrativos.",
           "acao_do_proponente": false
         },
         {
-          "evento": "Avaliação do estágio de maturidade tecnológica (TRL) e julgamento de mérito",
+          "evento": "Visita técnica ou apresentação (opcional)",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "Até 20 dias úteis a partir da publicação do resultado homologado da habilitação e análise de conformidade das propostas",
+          "observacao": "Até 30 (trinta) dias úteis a partir da publicação do resultado preliminar das avaliações da maturidade e mérito. A critério da FAPES.",
           "acao_do_proponente": false
         },
         {
-          "evento": "Divulgação do resultado preliminar da avaliação de TRL e mérito",
+          "evento": "Previsão de publicação do resultado das visitas técnicas",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "A partir das avaliações da maturidade e mérito",
+          "observacao": "A partir da realização da visita técnica.",
           "acao_do_proponente": false
         },
         {
-          "evento": "Interposição de recursos administrativos da avaliação de TRL e mérito",
+          "evento": "Prazo de submissão dos recursos administrativos (Visita Técnica)",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "05 dias úteis a partir da publicação do resultado preliminar",
+          "observacao": "05 (cinco) dias úteis a partir da publicação do resultado preliminar da visita técnica.",
           "acao_do_proponente": true
         },
         {
-          "evento": "Divulgação do resultado homologado da avaliação de TRL e mérito",
+          "evento": "Previsão de publicação do resultado dos recursos administrativos (Visita Técnica)",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "A partir do julgamento pelo CCAF dos recursos administrativos",
+          "observacao": "A partir do julgamento pelo CCAF dos recursos administrativos.",
           "acao_do_proponente": false
         },
         {
-          "evento": "Visita técnica e/ou apresentação",
+          "evento": "Submissão das documentações para contratação",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "Até 30 dias úteis a partir da publicação do resultado preliminar das avaliações da maturidade e mérito (opcional, a critério da FAPES)",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Divulgação do resultado das visitas técnicas",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "A partir da realização da visita técnica",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Interposição de recursos administrativos das visitas técnicas",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "05 dias úteis a partir da publicação do resultado preliminar da visita técnica",
+          "observacao": "Até 30 (trinta) dias a partir da publicação do resultado homologado do julgamento de mérito.",
           "acao_do_proponente": true
         },
         {
-          "evento": "Divulgação do resultado dos recursos administrativos das visitas técnicas",
+          "evento": "Avaliação das documentações submetidas para contratação",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "A partir do julgamento pelo CCAF dos recursos administrativos",
+          "observacao": "A partir da submissão dos documentos para contratação.",
           "acao_do_proponente": false
         },
         {
-          "evento": "Submissão de documentação para contratação",
+          "evento": "Início da vigência dos Termo de Outorga",
           "data_inicio": null,
           "data_fim": null,
-          "observacao": "Até 30 dias a partir da publicação do resultado homologado do julgamento de mérito",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Avaliação da documentação para contratação",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "A partir da submissão dos documentos para contratação",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Início da vigência do Termo de Outorga",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "A partir do primeiro dia do mês subsequente à assinatura do Termo de Outorga",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Informar dados da conta bancária",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 30 dias após a publicação do Termo de Outorga",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Execução do projeto",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "24 meses a partir da publicação do Termo de Outorga, com possibilidade de prorrogação por até 12 meses",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prestação de contas parcial (1ª)",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 30 dias após o 8º mês de vigência do Termo de Outorga",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Liberação da segunda parcela",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "30 dias após o 12º mês de execução do projeto, mediante apresentação de documentos e comprovação de gasto de 70% da primeira parcela",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prestação de contas parcial (2ª)",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 30 dias após o 16º mês de vigência do Termo de Outorga",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prestação de contas final",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 30 dias após o fim do prazo de vigência do Termo de Outorga",
+          "observacao": "A partir do primeiro dia do mês subsequente à assinatura do Termo de Outorga.",
           "acao_do_proponente": true
         }
       ],
-      "observacoes_gerais": "As resoluções e formulários estão disponíveis no site da FAPES (www.fapes.es.gov.br/resolucoes) e no Sistema SIGFAPES (www.sigfapes.es.gov.br). Empresas proponentes não podem ter sido contratadas nos Editais FAPES nº 07/2024, nº 10/2025 e nº 06/2026. Não é permitido que empresas beneficiadas possuam em seu quadro societário estagiários, funcionários, servidores, colaboradores, dirigentes ou profissionais com vínculo empregatício com a FAPES, incluindo cônjuges, companheiros ou parentes até o segundo grau. As atividades do projeto devem ser realizadas no Espírito Santo, exceto certificação, homologação e testes. É permitida a submissão de apenas uma proposta por empresa. A contratação de bolsistas (DTI, BIPI, AT) é opcional e seus recursos são descontados do valor da subvenção econômica. Não é permitida a contratação de bolsistas com vínculo empregatício com a FAPES ou parentes até o segundo grau.",
-      "_pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af"
+      "observacoes_gerais": "O edital foi alterado em 01/08/2026. Cooperativas de Trabalho (produção e serviço) podem participar como empresas coexecutoras. As regras de elegibilidade para empresas que participaram de editais FAPES anteriores (Tecnova III, Nova Economia Capixaba, Apoio aos Clusters de Inovação Capixaba) foram atualizadas, permitindo a submissão se o projeto, coordenador e equipe forem distintos. Novas regras para ressubmissão de propostas após inabilitação ou reprovação pelo Comitê de Conformidade foram adicionadas. O Termo de Outorga (ANEXO VIII) inclui agora cláusulas específicas sobre material permanente e sigilo.",
+      "_pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
+      "_alteracoes_sha256": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_(Versão_2026)_-_1ª_Alteração%20-.pdf",
+          "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026 (1ª ALTERAÇÃO)",
+          "sha256": "a0f28df3f37ea2a558c2e1db03746351a9075b3e8f25a0b54dead453a2a2e142"
+        }
+      ]
     }
   },
   {
