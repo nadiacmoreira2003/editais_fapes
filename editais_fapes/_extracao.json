@@ -883,6 +883,144 @@
   },
   {
     "categoria": "difusao_do_conhecimento",
+    "titulo": "EDITAL FAPES N° 25/2025 - PARTICIPAÇÃO DE EQUIPES DE ESTUDANTES EM MOSTRAS E COMPETIÇÕES TÉCNICO-CIENTÍFICAS",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_N_25_2025_Participação_Equipe_em_Mostras_e_Competições-2.pdf",
+    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_N°_25_2025_-_PARTICIPAÇÃO_DE_EQUIPES_DE_ESTUDANTES_EM_MOSTRAS_E_COMPETIÇÕES_TÉCNICO-CIENTÍFICAS.pdf",
+    "pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "Conceder apoio financeiro a equipes formadas por estudantes de nível médio, de graduação e pós-graduação, coordenadas por um professor orientador. O objetivo é permitir a participação dessas equipes em mostras e competições técnico-científicas de âmbito regional, nacional ou internacional, visando a divulgação e difusão de resultados obtidos por instituições de ensino do Espírito Santo.",
+      "publico_alvo": "Professores(as) coordenadores(as) de equipes de 3 a 5 estudantes, vinculados(as) a instituições de ensino médio públicas ou instituições de ensino superior públicas ou privadas localizadas no estado do Espírito Santo. O proponente deve ter formação mínima de nível superior, vínculo ativo com a instituição, atuar em sala de aula na mesma instituição dos estudantes, ter Lattes atualizado há menos de 6 meses, estar regularizado junto à Fapes e morar no Espírito Santo ou municípios limítrofes. Estudantes de instituições privadas devem ser bolsistas integrais financiados por programas governamentais estaduais ou federais.",
+      "valor_total": "R$ 500.000,00",
+      "valor_por_proposta": "US$ 1.500,00",
+      "contato": "editais.duvidas@fapes.es.gov.br, sucon@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Publicação do edital",
+          "data_inicio": "2025-11-10",
+          "data_fim": "2025-11-10",
+          "observacao": "Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para impugnação do edital",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "5 dias úteis antes do encerramento do prazo de submissão da 1ª Chamada",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Submissão de propostas",
+          "data_inicio": "2025-11-10",
+          "data_fim": "2025-12-16",
+          "observacao": "Até as 17h:59. Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar",
+          "data_inicio": "2026-01-09",
+          "data_fim": null,
+          "observacao": "Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Interposição de recursos administrativos",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "5 dias úteis a partir da publicação do resultado preliminar. Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado homologado",
+          "data_inicio": "2026-01-30",
+          "data_fim": null,
+          "observacao": "Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Submissão de propostas",
+          "data_inicio": "2026-03-04",
+          "data_fim": "2026-04-09",
+          "observacao": "Até as 17:59h. Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar",
+          "data_inicio": "2026-04-30",
+          "data_fim": null,
+          "observacao": "Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Interposição de recursos administrativos",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "5 dias úteis a partir da publicação do resultado preliminar. Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado homologado",
+          "data_inicio": "2026-05-29",
+          "data_fim": null,
+          "observacao": "Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Submissão de propostas",
+          "data_inicio": "2026-08-04",
+          "data_fim": "2026-09-11",
+          "observacao": "Até as 17h:59. Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar",
+          "data_inicio": "2026-09-30",
+          "data_fim": null,
+          "observacao": "Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Interposição de recursos administrativos",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "5 dias úteis a partir da publicação do resultado preliminar. Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado homologado",
+          "data_inicio": "2026-10-30",
+          "data_fim": null,
+          "observacao": "Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Contratação e assinatura do Termo de Outorga",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Até 30 dias após a publicação do resultado final homologado. Período específico de assinatura será definido após a homologação.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Prazo para informar dados bancários",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Até 30 dias após a assinatura e publicação do Termo de Outorga",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Prazo para prestação de contas",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Até 30 dias após o término da vigência do Termo de Outorga",
+          "acao_do_proponente": true
+        }
+      ],
+      "observacoes_gerais": "O valor por proposta varia conforme a categoria do evento: R$ 500,00 para eventos regionais, R$ 1.200,00 para eventos nacionais e US$ 1.500,00 para eventos internacionais. O edital prevê três chamadas com períodos de submissão e eventos distintos. O início do evento proposto deve corresponder ao período da chamada selecionada. A Fapes pode alterar as datas e prazos definidos no cronograma. Cada coordenador pode apresentar apenas uma proposta. Não são contempladas propostas para participação em concursos ou premiações sem natureza acadêmica, técnico-científica ou tecnológica, ou competições esportivas.",
+      "_pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c"
+    }
+  },
+  {
+    "categoria": "difusao_do_conhecimento",
     "titulo": "EDITAL FAPES Nº 28/2025 - PUBLICAÇÃO DE ARTIGOS TÉCNICO-CIENTÍFICOS",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_28_2025_Publicação_de_Artigos_Técnico-Científicos.pdf",
     "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_28_2025_-_PUBLICAÇÃO_DE_ARTIGOS_TÉCNICO-CIENTÍFICOS.pdf",
@@ -1230,324 +1368,6 @@
   },
   {
     "categoria": "inovacao",
-    "titulo": "EDITAL FAPES Nº 10/2026 - DR. EMPREENDEDOR CAPIXABA",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_102026_DR._EMPREENDEDOR_CAPIXABA_-_CORRIGIDO.pdf",
-    "arquivo_local": "inovacao/EDITAL_FAPES_No_10_2026_-_DR._EMPREENDEDOR_CAPIXABA.pdf",
-    "pdf_sha256": "b6980dd84b31824b29d134dcea655da752c87e9d6d84595bdfa9312d25904237",
-    "alteracoes": [
-      {
-        "url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_10-2026_-_Dr._Empreendedor_Capixaba_-_1ª_Alteração_-.pdf",
-        "titulo": "EDITAL FAPES Nº 10/2026 - DR. EMPREENDEDOR CAPIXABA (1ª ALTERAÇÃO)",
-        "arquivo_local": "inovacao/_alteracoes/EDITAL_FAPES_No_10_2026_-_DR._EMPREENDEDOR_CAPIXABA_(1a_ALTERAÇÃO).pdf",
-        "pdf_sha256": "f50a60d221239719a0d06ba0d5acad88a2efca9f375a7bc9232f07c7d3862d89"
-      }
-    ],
-    "extracao": {
-      "objetivo": "Fomentar projetos de pesquisa e desenvolvimento de produtos (bens e serviços) ou processos inovadores, conduzidos por doutores apoiados por Instituições de Ensino Superior ou Pesquisa (IES/P) ou Instituições Científicas, Tecnológicas e de Inovação (ICTs), públicas ou privadas, sediadas no Espírito Santo. O objetivo é transformar ideias inovadoras em empreendimentos potencialmente sustentáveis, promovendo a transferência de conhecimento e tecnologias para o mercado, impulsionando a criação ou o fortalecimento de micro e pequenas empresas (MPEs) de base tecnológica.",
-      "publico_alvo": "Doutores empreendedores, sem vínculo empregatício, que atuem no Estado do Espírito Santo, com ou sem empresa previamente constituída, de qualquer área de conhecimento, interessados em transformar conhecimento científico em soluções inovadoras, promover a criação de novos negócios e fortalecer o ecossistema de inovação capixaba.",
-      "valor_total": "R$ 10.662.000,00",
-      "valor_por_proposta": "R$ 355.400,00",
-      "contato": "duvidas.inovacao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br",
-      "cronograma": [
-        {
-          "evento": "Publicação do edital",
-          "data_inicio": "2026-04-30",
-          "data_fim": "2026-04-30",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para impugnação do edital",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 5 dias úteis antes do encerramento do prazo de submissão da 1ª chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Período de submissão de propostas (1ª chamada)",
-          "data_inicio": "2026-05-04",
-          "data_fim": "2026-07-07",
-          "observacao": "Até as 17:59h, via Sigfapes",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Avaliação da documentação (Etapa I - Habilitação - 1ª chamada)",
-          "data_inicio": "2026-07-08",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Publicação do resultado preliminar de habilitação (1ª chamada)",
-          "data_inicio": "2026-07-31",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para submissão de recursos administrativos (habilitação - 1ª chamada)",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "5 dias úteis a partir da publicação do resultado preliminar",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Publicação do resultado homologado da habilitação (1ª chamada)",
-          "data_inicio": "2026-08-25",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de avaliação de mérito e apresentação oral (Etapa II - 1ª chamada)",
-          "data_inicio": "2026-08-27",
-          "data_fim": "2026-10-01",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Publicação do resultado preliminar da avaliação de mérito e apresentação oral (1ª chamada)",
-          "data_inicio": "2026-10-02",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para submissão de recursos administrativos (mérito - 1ª chamada)",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "5 dias úteis a partir da publicação do resultado preliminar",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Período de submissão de propostas (2ª chamada)",
-          "data_inicio": "2026-10-14",
-          "data_fim": "2026-12-15",
-          "observacao": "Até as 17:59h, via Sigfapes",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Publicação do resultado homologado da avaliação de mérito (1ª chamada)",
-          "data_inicio": "2026-10-27",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Processo de contratação (1ª chamada)",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 5 dias úteis da publicação do resultado homologado",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Avaliação da documentação (Etapa I - Habilitação - 2ª chamada)",
-          "data_inicio": "2026-12-16",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Publicação do resultado preliminar de habilitação (2ª chamada)",
-          "data_inicio": "2027-01-08",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para submissão de recursos administrativos (habilitação - 2ª chamada)",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "5 dias úteis a partir da publicação do resultado preliminar",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Publicação do resultado homologado da habilitação (2ª chamada)",
-          "data_inicio": "2027-02-02",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de avaliação de mérito e apresentação oral (Etapa II - 2ª chamada)",
-          "data_inicio": "2027-02-03",
-          "data_fim": "2027-03-18",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Publicação do resultado preliminar da avaliação de mérito e apresentação oral (2ª chamada)",
-          "data_inicio": "2027-03-19",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para submissão de recursos administrativos (mérito - 2ª chamada)",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "5 dias úteis a partir da publicação do resultado preliminar",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Publicação do resultado homologado da avaliação de mérito (2ª chamada)",
-          "data_inicio": "2027-04-27",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Processo de contratação (2ª chamada)",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 5 dias úteis da publicação do resultado homologado",
-          "acao_do_proponente": true
-        }
-      ],
-      "observacoes_gerais": "As datas do cronograma podem ser alteradas de acordo com o andamento do Edital. É de responsabilidade do proponente acompanhar as atualizações do Edital publicadas no site da FAPES (https://fapes.es.gov.br/) e consequentes alterações no cronograma. Inclusão de item referente à ciência do Núcleo de Inovação Tecnológica (NIT), quando for aplicável. Alteração do item 7.3 C) para que a verificação de vínculo empregatício seja realizada na fase de contratação do projeto. Inclusão da exigência de apresentação da Declaração de Ciência do NIT no ato da contratação, quando aplicável (item 12.6). Inclusão de item referente à definição de responsabilidades quanto ao registro ou depósito de pedido de proteção intelectual (item 19.2). O Anexo III (Declaração de Apoio da Instituição Copartícipe) agora permite que o documento seja assinado por autoridade com competência formalmente delegada. Inclusão do Anexo IX (Modelo de Declaração de Ciência do Núcleo de Inovação Tecnológica - NIT).",
-      "_pdf_sha256": "b6980dd84b31824b29d134dcea655da752c87e9d6d84595bdfa9312d25904237",
-      "_alteracoes_sha256": [
-        {
-          "url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_10-2026_-_Dr._Empreendedor_Capixaba_-_1ª_Alteração_-.pdf",
-          "titulo": "EDITAL FAPES Nº 10/2026 - DR. EMPREENDEDOR CAPIXABA (1ª ALTERAÇÃO)",
-          "sha256": "f50a60d221239719a0d06ba0d5acad88a2efca9f375a7bc9232f07c7d3862d89"
-        }
-      ]
-    }
-  },
-  {
-    "categoria": "inovacao",
-    "titulo": "EDITAL FAPES N° 11/2026 – PROGRAMA GÊNESIS",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Programa%20Gênesis%202026%20-%20Assinado.pdf",
-    "arquivo_local": "inovacao/EDITAL_FAPES_N°_11_2026_–_PROGRAMA_GÊNESIS.pdf",
-    "pdf_sha256": "91f37ac6ac440170364e589b9f01d452d77cab755a3f3b81f758f569c38e8749",
-    "alteracoes": [
-      {
-        "url": "https://fapes.es.gov.br/Media/fapes/Editais/Gênesis%20-%20Assinado.pdf",
-        "titulo": "EDITAL FAPES N° 11/2026 – PROGRAMA GÊNESIS (1ª ALTERAÇÃO)",
-        "arquivo_local": "inovacao/_alteracoes/EDITAL_FAPES_N°_11_2026_–_PROGRAMA_GÊNESIS_(1a_ALTERAÇÃO).pdf",
-        "pdf_sha256": "e57a7e0dbda077c5636ef3deccb0397a5e3aeea4ac9ec9968ae88824fe265ae3"
-      }
-    ],
-    "extracao": {
-      "objetivo": "Este edital visa estimular o empreendedorismo e a inovação nas microrregiões Caparaó, Centro-Oeste, Central Sul, Noroeste, Rio Doce e Sudoeste Serrana. O objetivo é oferecer apoio técnico e financeiro a soluções inovadoras com alto potencial de mercado, que possam se transformar em novos negócios ou startups, contribuindo para o desenvolvimento sustentável das regiões.",
-      "publico_alvo": "Pessoas físicas com 18 anos ou mais que morem, estudem ou trabalhem em uma das seis microrregiões contempladas pelo edital (Caparaó, Centro-Oeste, Central-Sul, Noroeste, Rio Doce e Sudoeste Serrana) e que necessitem de apoio técnico e financeiro para desenvolver suas ideias.",
-      "valor_total": "R$ 4.500.000,00",
-      "valor_por_proposta": "R$ 30.000,00",
-      "contato": "duvidas.inovacao@fapes.es.gov.br",
-      "cronograma": [
-        {
-          "evento": "Publicação do edital",
-          "data_inicio": "2026-05-21",
-          "data_fim": "2026-05-21",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Envio da primeira proposta",
-          "data_inicio": "2026-05-21",
-          "data_fim": "2026-07-03",
-          "observacao": "até as 17h59",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar de habilitação e análise de mérito (Fase 1)",
-          "data_inicio": "2026-07-31",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para recurso administrativo (Fase 1)",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 5 dias úteis após divulgação do resultado preliminar",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final homologado (Fase 1)",
-          "data_inicio": "2026-08-25",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "1ª Oficina e Capacitação",
-          "data_inicio": "2026-08-26",
-          "data_fim": "2026-09-11",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Envio da segunda proposta após a 1ª oficina e capacitação",
-          "data_inicio": "2026-09-14",
-          "data_fim": "2026-09-22",
-          "observacao": "até as 17h59",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Apresentação do pitch",
-          "data_inicio": "2026-09-21",
-          "data_fim": "2026-09-30",
-          "observacao": null,
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar de habilitação e análise de mérito (Fase 2)",
-          "data_inicio": "2026-10-23",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para recurso administrativo (Fase 2)",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 5 dias úteis após divulgação do resultado preliminar",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final homologado (Fase 2)",
-          "data_inicio": "2026-11-24",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "2ª Oficina e Capacitação",
-          "data_inicio": "2026-11-25",
-          "data_fim": "2026-12-11",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Período de contratação",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 5 dias úteis da publicação do resultado homologado",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Início da execução dos projetos",
-          "data_inicio": "2027-02-01",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        }
-      ],
-      "observacoes_gerais": "A Fapes pode alterar as datas e os prazos definidos no cronograma por necessidade ou decisão institucional, podendo reabrir o prazo para recebimento de propostas em casos de força maior ou falhas comprovadas. O proponente ou membros da equipe deverão participar de, no mínimo, 80% das oficinas e mentorias em cada fase, sob pena de desclassificação. Propostas com nota final inferior a 70,0 pontos serão desclassificadas em ambas as fases. A Fapes somente considerará despesas/gastos realizados a partir do início da vigência do Termo de Outorga. O não atendimento ao prazo de entrega da documentação completa ou o descumprimento dos requisitos para contratação resultará na perda do direito à contratação.",
-      "_pdf_sha256": "91f37ac6ac440170364e589b9f01d452d77cab755a3f3b81f758f569c38e8749",
-      "_alteracoes_sha256": [
-        {
-          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Gênesis%20-%20Assinado.pdf",
-          "titulo": "EDITAL FAPES N° 11/2026 – PROGRAMA GÊNESIS (1ª ALTERAÇÃO)",
-          "sha256": "e57a7e0dbda077c5636ef3deccb0397a5e3aeea4ac9ec9968ae88824fe265ae3"
-        }
-      ]
-    }
-  },
-  {
-    "categoria": "inovacao",
     "titulo": "EDITAL FAPES Nº 18/2026 - PARCERIAS ENTRE STARTUPS",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_18-2026_-_PARCERIAS_ENTRE_STARTUPS%20(1).pdf",
     "arquivo_local": "inovacao/EDITAL_FAPES_No_18_2026_-_PARCERIAS_ENTRE_STARTUPS.pdf",
@@ -1668,6 +1488,40 @@
       ],
       "observacoes_gerais": "As datas do cronograma são passíveis de alteração. É responsabilidade do coordenador da parceria acompanhar as atualizações do Edital. O valor máximo por proposta é R$ 250.000,00, mas varia por modalidade (R$ 120.000,00 para Modalidade I, R$ 150.000,00 para Modalidade II, R$ 250.000,00 para Modalidade III). Se o número de propostas previstas não for alcançado, os recursos remanescentes serão redirecionados para propostas suplentes. A startup classificada deverá depositar 5% do valor contratado como contrapartida financeira. A startup proponente e a parceira não podem ser caracterizadas como holding. Cada proponente pode submeter até 2 propostas, desde que em modalidades e com parceiros diferentes. Em caso de múltiplas submissões para a mesma faixa, apenas a última será considerada. É vedada a submissão de propostas com as mesmas startups alternando papéis de proponente e parceira. Propostas com Nota Final inferior a 70 pontos serão desclassificadas. A contratação está condicionada à comprovação de adimplência fiscal e previdenciária do coordenador e da empresa. Para critérios de contratação, as empresas deverão estar localizadas obrigatoriamente na microrregião do Caparaó do Espírito Santo, sendo este endereço verificado pelo cartão de CNPJ, na etapa de Assinatura do Termo de Outorga.",
       "_pdf_sha256": "01e91d9549311ea16eab19fef46308ef23e9c165616286740e992e28dbf3d51a",
+      "_alteracoes_sha256": []
+    }
+  },
+  {
+    "categoria": "chamadas_internacionais",
+    "titulo": "CHAMADA CONFAP CDTI 2026",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada%20Internacional_CDTI.2026.pdf",
+    "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_CDTI_2026.pdf",
+    "pdf_sha256": "0165a1c882ad3eb7d0aea1425a813f4ab8a1e316643bbc2b909571489a34da7c",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "Este edital visa apoiar projetos colaborativos em pesquisa e inovação tecnológica entre o Brasil e a Espanha, abrangendo qualquer setor de atividade. O financiamento é destinado a profissionais vinculados a universidades, centros de pesquisa ou empresas capixabas que realizem atividades de pesquisa, desenvolvimento e inovação tecnológica. É necessário que as propostas integrem uma parceria conjunta com uma empresa espanhola.",
+      "publico_alvo": "Pesquisadores principais ou coordenadores de projetos, brasileiros ou estrangeiros com visto permanente, que residam no estado do Espírito Santo e possuam vínculo ativo com universidades, centros de pesquisa ou empresas localizadas no Espírito Santo. Os proponentes devem estar adimplentes com a FAPES na data limite de submissão e não ter projetos anteriores CONFAP CDTI vigentes no momento da contratação. É mandatório que as propostas sejam conjuntas com uma empresa espanhola.",
+      "valor_total": "€ 75.000,00",
+      "valor_por_proposta": "€ 75.000,00",
+      "contato": "internacional.confap@gmail.com, brasil@cdti.es, carlos.quintana@cdti.es, global4@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Lançamento da Chamada",
+          "data_inicio": "2026-07-13",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Submissão de propostas",
+          "data_inicio": null,
+          "data_fim": "2026-10-08",
+          "observacao": "até as 23:59 (horário de Brasília) na plataforma do CONFAP (https://sistema.confap.org.br). Formulários devem ser preenchidos em língua inglesa.",
+          "acao_do_proponente": true
+        }
+      ],
+      "observacoes_gerais": "A Chamada CONFAP & CDTI visa apoiar projetos colaborativos em pesquisa e inovação tecnológica entre o Brasil e a Espanha. As propostas devem ser submetidas na plataforma do CONFAP, preenchidas em inglês, e incluir o Formulário de Projeto de Cooperação Tecnológica Internacional e o Acordo de Consórcio. Cada proponente pode submeter apenas uma proposta. A duração dos projetos varia de 12 a 36 meses. O apoio financeiro da FAPES destina-se a despesas de capital e custeio, excluindo bolsas, conforme Resolução nº 309/2022. A submissão à FAPES ocorre somente após a aprovação da proposta pelo CDTI. O orçamento total mínimo do projeto deve ser de 250.000,00 Euros, com o apoio da FAPES compondo no mínimo 30% da contrapartida.",
+      "_pdf_sha256": "0165a1c882ad3eb7d0aea1425a813f4ab8a1e316643bbc2b909571489a34da7c",
       "_alteracoes_sha256": []
     }
   },

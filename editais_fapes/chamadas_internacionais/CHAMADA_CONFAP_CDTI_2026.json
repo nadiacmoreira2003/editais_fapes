@@ -1,0 +1,26 @@
+{
+  "objetivo": "Este edital visa apoiar projetos colaborativos em pesquisa e inovação tecnológica entre o Brasil e a Espanha, abrangendo qualquer setor de atividade. O financiamento é destinado a profissionais vinculados a universidades, centros de pesquisa ou empresas capixabas que realizem atividades de pesquisa, desenvolvimento e inovação tecnológica. É necessário que as propostas integrem uma parceria conjunta com uma empresa espanhola.",
+  "publico_alvo": "Pesquisadores principais ou coordenadores de projetos, brasileiros ou estrangeiros com visto permanente, que residam no estado do Espírito Santo e possuam vínculo ativo com universidades, centros de pesquisa ou empresas localizadas no Espírito Santo. Os proponentes devem estar adimplentes com a FAPES na data limite de submissão e não ter projetos anteriores CONFAP CDTI vigentes no momento da contratação. É mandatório que as propostas sejam conjuntas com uma empresa espanhola.",
+  "valor_total": "€ 75.000,00",
+  "valor_por_proposta": "€ 75.000,00",
+  "contato": "internacional.confap@gmail.com, brasil@cdti.es, carlos.quintana@cdti.es, global4@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Lançamento da Chamada",
+      "data_inicio": "2026-07-13",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Submissão de propostas",
+      "data_inicio": null,
+      "data_fim": "2026-10-08",
+      "observacao": "até as 23:59 (horário de Brasília) na plataforma do CONFAP (https://sistema.confap.org.br). Formulários devem ser preenchidos em língua inglesa.",
+      "acao_do_proponente": true
+    }
+  ],
+  "observacoes_gerais": "A Chamada CONFAP & CDTI visa apoiar projetos colaborativos em pesquisa e inovação tecnológica entre o Brasil e a Espanha. As propostas devem ser submetidas na plataforma do CONFAP, preenchidas em inglês, e incluir o Formulário de Projeto de Cooperação Tecnológica Internacional e o Acordo de Consórcio. Cada proponente pode submeter apenas uma proposta. A duração dos projetos varia de 12 a 36 meses. O apoio financeiro da FAPES destina-se a despesas de capital e custeio, excluindo bolsas, conforme Resolução nº 309/2022. A submissão à FAPES ocorre somente após a aprovação da proposta pelo CDTI. O orçamento total mínimo do projeto deve ser de 250.000,00 Euros, com o apoio da FAPES compondo no mínimo 30% da contrapartida.",
+  "_pdf_sha256": "0165a1c882ad3eb7d0aea1425a813f4ab8a1e316643bbc2b909571489a34da7c",
+  "_alteracoes_sha256": []
+}
