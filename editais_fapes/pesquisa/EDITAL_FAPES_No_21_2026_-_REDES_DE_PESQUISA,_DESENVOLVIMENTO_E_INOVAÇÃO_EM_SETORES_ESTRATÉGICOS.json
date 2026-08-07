@@ -1,0 +1,89 @@
+{
+  "objetivo": "O edital Redes de Pesquisa, Desenvolvimento e Inovação (PD&I) em Setores Estratégicos visa apoiar financeiramente a criação e o fortalecimento de redes que promovam ações coletivas de PD&I. Seu objetivo geral é selecionar projetos para criar e fortalecer redes estruturantes de PD&I em setores estratégicos e de interesse do Espírito Santo, bem como consolidar grupos de referência em áreas do conhecimento e setores estratégicos do estado.",
+  "publico_alvo": "Pesquisadores doutores vinculados a Instituições de Ensino Superior e/ou de Pesquisa (IES/P) públicas ou privadas, sediadas no Estado do Espírito Santo, que atuem como coordenadores de propostas. A equipe executora deve ser exclusiva e composta por no mínimo 7 pesquisadores doutores, além do coordenador, com representação da Instituição Executora, outras IES/P capixabas, IES/P de fora do estado ou do País, e um pesquisador vinculado a órgão ou instituição pública estadual.",
+  "valor_total": "R$ 12.000.000,00",
+  "valor_por_proposta": "R$ 1.200.000,00",
+  "contato": "editais.duvidas@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do edital",
+      "data_inicio": "2026-08-06",
+      "data_fim": "2026-08-06",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Envio da proposta e documentos",
+      "data_inicio": "2026-08-07",
+      "data_fim": "2026-09-14",
+      "observacao": "via SigFapes, até as 17h59",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Prazo para envio de dúvidas a respeito do edital",
+      "data_inicio": null,
+      "data_fim": "2026-09-10",
+      "observacao": "até as 17h59",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar da habilitação",
+      "data_inicio": "2026-09-24",
+      "data_fim": "2026-09-24",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para recorrer (habilitação)",
+      "data_inicio": "2026-09-25",
+      "data_fim": "2026-10-01",
+      "observacao": "5 dias úteis após o resultado preliminar da habilitação",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final de habilitação",
+      "data_inicio": "2026-10-23",
+      "data_fim": "2026-10-23",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Divulgação do resultado preliminar de análise de mérito",
+      "data_inicio": "2026-11-10",
+      "data_fim": "2026-11-10",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para recorrer (análise de mérito)",
+      "data_inicio": "2026-11-11",
+      "data_fim": "2026-11-17",
+      "observacao": "5 dias úteis após o resultado preliminar de análise de mérito",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final de análise de mérito",
+      "data_inicio": "2026-11-27",
+      "data_fim": "2026-11-27",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Início da contratação dos projetos selecionados",
+      "data_inicio": "2026-12-10",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Início de execução dos projetos",
+      "data_inicio": "2027-01-04",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "A Fapes pode alterar as datas e os prazos do cronograma por necessidade administrativa ou decisão institucional. Cada coordenador pode apresentar apenas uma proposta, sendo a última enviada considerada válida em caso de múltiplas submissões. A etapa de habilitação é eliminatória. Serão classificadas apenas as propostas com nota final igual ou superior a 70,0 pontos. Em caso de empate na nota final, o desempate será pela maior nota nos critérios de avaliação (item 3.2.1) na ordem apresentada, e persistindo o empate, pela proposta submetida primeiro. A proposta aprovada não poderá ser alterada no momento da contratação. O projeto aprovado não será contratado se o coordenador não cumprir as condições, apresentar informações falsas ou não atender aos requisitos, resultando na convocação de suplentes. A Fapes não reivindicará direitos de participação na propriedade intelectual sobre as pesquisas e projetos apoiados. É obrigatória a menção clara e destacada do apoio da Fapes em todas as publicações e divulgações relacionadas ao projeto.",
+  "_pdf_sha256": "14f9e41883ee91f7ec670fb1c667f4a85087b629dda79e1ba5bf51abcee6ca8e",
+  "_alteracoes_sha256": []
+}

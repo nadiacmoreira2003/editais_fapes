@@ -27,8 +27,18 @@
   {
     "categoria": "pesquisa",
     "url": "https://fapes.es.gov.br/editais-abertos-pesquisa-4",
-    "total": 0,
-    "editais": []
+    "total": 1,
+    "editais": [
+      {
+        "titulo": "EDITAL FAPES Nº 21/2026 - REDES DE PESQUISA, DESENVOLVIMENTO E INOVAÇÃO EM SETORES ESTRATÉGICOS",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_21-2026_-_Redes_de_PDI_em_Setores_Estratégicos.pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "pesquisa/EDITAL_FAPES_No_21_2026_-_REDES_DE_PESQUISA,_DESENVOLVIMENTO_E_INOVAÇÃO_EM_SETORES_ESTRATÉGICOS.pdf",
+        "pdf_sha256": "14f9e41883ee91f7ec670fb1c667f4a85087b629dda79e1ba5bf51abcee6ca8e",
+        "status": "novo"
+      }
+    ]
   },
   {
     "categoria": "difusao_do_conhecimento",
