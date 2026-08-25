@@ -2,7 +2,7 @@
   {
     "categoria": "formacao_cientifica",
     "url": "https://fapes.es.gov.br/edital-aberto-forma%C3%A7%C3%A3o-cient%C3%ADfica",
-    "total": 2,
+    "total": 3,
     "editais": [
       {
         "titulo": "EDITAL FAPES Nº 19/2026 - PIC JR 2027",
@@ -20,6 +20,15 @@
         "anexos": [],
         "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_20_2026_-_BOLSAS_DE_PÓS-DOUTORADO_SÊNIOR.pdf",
         "pdf_sha256": "d6ae9ff8e46c1b88cb296c0b05113993ed56e5b6e4a27997a1eed95de013d5f3",
+        "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES/CNPq/CAPES Nº 22/2026 - PROGRAMA DE APOIO À FIXAÇÃO DE DOUTORES NO BRASIL (PROFIX-CB)",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Fapes%2022.2026%20-%20PROFIX-CB.pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "formacao_cientifica/EDITAL_FAPES_CNPq_CAPES_No_22_2026_-_PROGRAMA_DE_APOIO_À_FIXAÇÃO_DE_DOUTORES_NO_BRASIL_(PROFIX-CB).pdf",
+        "pdf_sha256": "5034048febcfcf36bd79e133b5aa8ed14aa9e2751ac02b7b5d29fbf44666c4a6",
         "status": "novo"
       }
     ]
