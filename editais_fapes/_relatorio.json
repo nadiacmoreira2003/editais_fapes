@@ -112,7 +112,7 @@
   {
     "categoria": "inovacao",
     "url": "https://fapes.es.gov.br/inovacao",
-    "total": 1,
+    "total": 2,
     "editais": [
       {
         "titulo": "EDITAL FAPES Nº 08/2026 - NOVA ECONOMIA CAPIXABA 2026",
@@ -128,6 +128,32 @@
         "anexos": [],
         "arquivo_local": "inovacao/EDITAL_FAPES_No_08_2026_-_NOVA_ECONOMIA_CAPIXABA_2026.pdf",
         "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
+        "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES N° 23/2026 - APOIO ÀS INCUBADORAS DO ESPÍRITO SANTO",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_23-2026_Apoio%20a%20Incubadoras_(Versão%20Final).pdf",
+        "alteracoes": [],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20I%20-%20Formulário%20de%20Submissão%20da%20Proposta%20da%20Incubadora%20-%20Incubadoras%202026.docx",
+            "titulo": "ANEXO I"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20II%20-%20Documentos%20Comprobatórios%20da%20Proposta%20%20-%20Incubadoras%202026.docx",
+            "titulo": "ANEXO II"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20III%20-%20Modelo%20de%20Declaração%20das%20Empresas%20Incubadas%20-%20Incubadoras%202026.docx",
+            "titulo": "ANEXO III"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20IV%20-%20Modelo%20de%20Carta%20de%20Compromisso%20da%20Parceria%20-%20Incubadoras%202026.docx",
+            "titulo": "ANEXO IV"
+          }
+        ],
+        "arquivo_local": "inovacao/EDITAL_FAPES_N°_23_2026_-_APOIO_ÀS_INCUBADORAS_DO_ESPÍRITO_SANTO.pdf",
+        "pdf_sha256": "9020b809dd65fcb766b8c53bfc57ece393798961ce522368bcc66f530484f5d7",
         "status": "novo"
       }
     ]
