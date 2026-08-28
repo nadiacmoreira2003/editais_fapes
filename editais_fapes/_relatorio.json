@@ -36,7 +36,7 @@
   {
     "categoria": "pesquisa",
     "url": "https://fapes.es.gov.br/editais-abertos-pesquisa-4",
-    "total": 1,
+    "total": 2,
     "editais": [
       {
         "titulo": "EDITAL FAPES Nº 21/2026 - REDES DE PESQUISA, DESENVOLVIMENTO E INOVAÇÃO EM SETORES ESTRATÉGICOS",
@@ -45,6 +45,15 @@
         "anexos": [],
         "arquivo_local": "pesquisa/EDITAL_FAPES_No_21_2026_-_REDES_DE_PESQUISA,_DESENVOLVIMENTO_E_INOVAÇÃO_EM_SETORES_ESTRATÉGICOS.pdf",
         "pdf_sha256": "14f9e41883ee91f7ec670fb1c667f4a85087b629dda79e1ba5bf51abcee6ca8e",
+        "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES Nº 24/2026 - PRIMEIROS PROJETOS DE PESQUISA - ESPÍRITO SANTO (PPP-ES)",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Fapes%2024-2026%20PPP-ES.pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "pesquisa/EDITAL_FAPES_No_24_2026_-_PRIMEIROS_PROJETOS_DE_PESQUISA_-_ESPÍRITO_SANTO_(PPP-ES).pdf",
+        "pdf_sha256": "ea033954524b80d8d83649a3e948e1a983e12cd9d3e4e163419a7e98aabf7bb7",
         "status": "novo"
       }
     ]

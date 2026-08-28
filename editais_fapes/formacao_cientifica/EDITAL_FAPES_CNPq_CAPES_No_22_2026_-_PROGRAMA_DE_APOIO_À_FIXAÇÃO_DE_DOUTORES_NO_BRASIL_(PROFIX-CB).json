@@ -1,0 +1,61 @@
+{
+  "objetivo": "O Programa de Apoio à Fixação de Doutores no Brasil – Conhecimento Brasil (PROFIX-CB) é uma iniciativa do CNPq, CAPES e FAPs para atrair, inserir e fixar pesquisadores doutores em instituições de pesquisa, universidades e centros de inovação no país, focando em áreas estratégicas para o desenvolvimento científico, tecnológico e de inovação. Seu propósito é criar condições para que o doutor desenvolva uma trajetória científica de médio prazo, contribuindo para a formação de recursos humanos, fortalecimento de programas de pós-graduação, consolidação de grupos de pesquisa e geração de conhecimento e inovação no Espírito Santo.",
+  "publico_alvo": "Pesquisadores doutores que atuem como coordenadores de projetos, sem vínculo empregatício, com título de doutor obtido há no máximo 10 anos, residentes no Espírito Santo, e vinculados a Instituições de Ensino Superior e/ou Pesquisa (IES/P) públicas ou privadas localizadas no Espírito Santo, com registro ativo no Diretório de Instituições do CNPq.",
+  "valor_total": "R$ 31.803.200,00",
+  "valor_por_proposta": "R$ 400.000,00",
+  "contato": "bolsas.duvidas@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do edital",
+      "data_inicio": "2026-08-24",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Submissão das propostas",
+      "data_inicio": null,
+      "data_fim": "2026-10-01",
+      "observacao": "até as 17h59",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Resultado preliminar do edital",
+      "data_inicio": "2026-12-07",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para recurso (seleção)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Resultado final do edital",
+      "data_inicio": "2026-12-21",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Contratação dos projetos",
+      "data_inicio": "2027-01-04",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Início da vigência dos projetos",
+      "data_inicio": "2027-02-01",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "As datas e os períodos estabelecidos no cronograma são passíveis de alteração. Cada coordenador deve apresentar apenas uma proposta, caso contrário, ambas serão indeferidas. A convocação de suplentes pode ocorrer em casos de desistência, não contratação ou ampliação de recursos, com validade de 24 meses após o resultado final. O edital pode ser revogado ou anulado por interesse público ou exigência legal, sem gerar direito a indenização.",
+  "_pdf_sha256": "5034048febcfcf36bd79e133b5aa8ed14aa9e2751ac02b7b5d29fbf44666c4a6",
+  "_alteracoes_sha256": []
+}

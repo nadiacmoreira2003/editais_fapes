@@ -1,0 +1,96 @@
+{
+  "objetivo": "O Edital Fapes n° 24/2026 (PPP-ES) tem como objetivo apoiar o primeiro projeto de pesquisa científica de pesquisadores doutores em início de carreira. Ele visa promover o acesso a recursos para o desenvolvimento de seus primeiros projetos, fortalecer a infraestrutura de pesquisa e apoiar a formação e consolidação de novos grupos de pesquisa no Estado do Espírito Santo. Os projetos devem estar vinculados a Instituições de Ensino Superior e/ou de Pesquisa (IES/P) públicas ou privadas, localizadas no Espírito Santo, e contemplar as 8 grandes áreas do conhecimento do CNPq, com duração de até 24 meses.",
+  "publico_alvo": "Pesquisadores doutores em início de carreira, com título obtido a partir de 28/08/2018, que possuam vínculo estatutário ou celetista por tempo indeterminado com uma Instituição de Ensino Superior e/ou de Pesquisa (IES/P) pública ou privada localizada no Espírito Santo, residam no Espírito Santo ou em município limítrofe, e que não tenham atuado como coordenador de projetos de pesquisa, extensão ou inovação no âmbito da Fapes ou do CNPq (com exceções específicas).",
+  "valor_total": "R$ 4.000.000,00",
+  "valor_por_proposta": "R$ 180.000,00",
+  "contato": "editais.duvidas@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do edital",
+      "data_inicio": "2026-08-28",
+      "data_fim": "2026-08-28",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para envio de dúvidas a respeito do edital",
+      "data_inicio": null,
+      "data_fim": "2026-09-28",
+      "observacao": "até as 17h59",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Envio da proposta e documentos",
+      "data_inicio": "2026-08-29",
+      "data_fim": "2026-09-30",
+      "observacao": "até as 17h59, via SigFapes",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar da habilitação",
+      "data_inicio": "2026-10-09",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para recorrer (habilitação)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis após a divulgação do resultado preliminar da habilitação",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final de habilitação",
+      "data_inicio": "2026-10-23",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Divulgação do resultado preliminar de análise de mérito",
+      "data_inicio": "2026-11-10",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para recorrer (análise de mérito)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "5 dias úteis após a divulgação do resultado preliminar de análise de mérito",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final de análise de mérito",
+      "data_inicio": "2026-11-27",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Início da contratação dos projetos selecionados",
+      "data_inicio": "2026-12-10",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Envio de documentos para contratação",
+      "data_inicio": "2026-12-10",
+      "data_fim": null,
+      "observacao": "O coordenador receberá informações com prazo e documentação necessária via SigFapes.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Início de execução dos projetos",
+      "data_inicio": "2027-01-04",
+      "data_fim": null,
+      "observacao": "A partir desta data",
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "Projetos aprovados terão duração máxima de 24 meses e devem estar enquadrados em uma das 8 grandes áreas do conhecimento do CNPq. A Fapes reserva-se o direito de alterar as datas e prazos do cronograma por necessidade administrativa ou decisão institucional. É fundamental que o coordenador mantenha seus dados cadastrais atualizados no sistema SigFapes para garantir o recebimento das comunicações oficiais. A proposta aprovada não poderá ser alterada no momento da contratação, e a ausência da documentação ética e legal exigida impedirá a contratação do projeto.",
+  "_pdf_sha256": "ea033954524b80d8d83649a3e948e1a983e12cd9d3e4e163419a7e98aabf7bb7",
+  "_alteracoes_sha256": []
+}
