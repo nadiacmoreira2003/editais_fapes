@@ -1104,6 +1104,82 @@
     }
   },
   {
+    "categoria": "inovacao",
+    "titulo": "EDITAL FAPES N° 23/2026 - APOIO ÀS INCUBADORAS DO ESPÍRITO SANTO",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_23-2026_Apoio%20a%20Incubadoras_(Versão%20Final).pdf",
+    "arquivo_local": "inovacao/EDITAL_FAPES_N°_23_2026_-_APOIO_ÀS_INCUBADORAS_DO_ESPÍRITO_SANTO.pdf",
+    "pdf_sha256": "9020b809dd65fcb766b8c53bfc57ece393798961ce522368bcc66f530484f5d7",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "O edital visa apoiar incubadoras públicas ou privadas sem fins lucrativos, localizadas no Espírito Santo, que buscam fomentar o empreendedorismo inovador. O apoio logístico, gerencial e tecnológico destina-se a empreendedores e empresas que desenvolvam produtos, serviços ou modelos de negócio inovadores. O objetivo é ampliar, aperfeiçoar e consolidar as atividades de pré-incubação, incubação e pós-incubação, promovendo a capacitação de novos empreendedores e o desenvolvimento socioeconômico do estado.",
+      "publico_alvo": "Organizações ou instituições incubadoras, sem fins lucrativos, sediadas no Espírito Santo.",
+      "valor_total": "R$ 4.500.000,00",
+      "valor_por_proposta": "R$ 252.000,00",
+      "contato": "duvidas.inovacao@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Publicação da Chamada Pública",
+          "data_inicio": "2026-08-25",
+          "data_fim": "2026-08-25",
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para impugnação do edital",
+          "data_inicio": null,
+          "data_fim": "2026-09-17",
+          "observacao": "Até 5 dias úteis anteriores ao encerramento do prazo de envio das propostas",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Submissão de propostas",
+          "data_inicio": "2026-08-25",
+          "data_fim": "2026-09-24",
+          "observacao": "Até as 17h59, via SigFapes",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar",
+          "data_inicio": "2026-10-09",
+          "data_fim": null,
+          "observacao": "De habilitação e análise de mérito",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Interposição de recursos",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final",
+          "data_inicio": "2026-10-27",
+          "data_fim": null,
+          "observacao": "Homologado",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Contratação dos projetos selecionados",
+          "data_inicio": "2026-11-04",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Início da execução dos projetos",
+          "data_inicio": "2026-12-01",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        }
+      ],
+      "observacoes_gerais": "O valor por proposta varia conforme o nível de maturidade da incubadora: R$ 252.000,00 para Nível Avançado, R$ 192.000,00 para Nível Intermediário e R$ 132.000,00 para Nível Básico. O projeto terá prazo de vigência de 24 meses. É obrigatório destinar no mínimo 20% do valor total dos recursos financeiros solicitados para bolsas. Propostas com nota final inferior a 70 pontos serão desclassificadas. A Fapes pode alterar as datas do cronograma por necessidade institucional.",
+      "_pdf_sha256": "9020b809dd65fcb766b8c53bfc57ece393798961ce522368bcc66f530484f5d7",
+      "_alteracoes_sha256": []
+    }
+  },
+  {
     "categoria": "chamadas_internacionais",
     "titulo": "CHAMADA CONFAP CDTI 2026",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada%20Internacional_CDTI.2026.pdf",
