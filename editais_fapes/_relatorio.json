@@ -61,7 +61,7 @@
   {
     "categoria": "difusao_do_conhecimento",
     "url": "https://fapes.es.gov.br/difusao-do-conhecimento",
-    "total": 3,
+    "total": 2,
     "editais": [
       {
         "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026",
@@ -92,22 +92,6 @@
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_N°_25_2025_-_PARTICIPAÇÃO_DE_EQUIPES_DE_ESTUDANTES_EM_MOSTRAS_E_COMPETIÇÕES_TÉCNICO-CIENTÍFICAS.pdf",
         "pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c",
-        "status": "novo"
-      },
-      {
-        "titulo": "EDITAL FAPES Nº 28/2025 - PUBLICAÇÃO DE ARTIGOS TÉCNICO-CIENTÍFICOS",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_28_2025_Publicação_de_Artigos_Técnico-Científicos.pdf",
-        "alteracoes": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_28_2025_Publicação_de_Artigos_Técnico-Científicos_retificado.pdf",
-            "titulo": "EDITAL FAPES Nº 28/2025 - PUBLICAÇÃO DE ARTIGOS TÉCNICO-CIENTÍFICOS (1ª ALTERAÇÃO)",
-            "arquivo_local": "difusao_do_conhecimento/_alteracoes/EDITAL_FAPES_No_28_2025_-_PUBLICAÇÃO_DE_ARTIGOS_TÉCNICO-CIENTÍFICOS_(1a_ALTERAÇÃO).pdf",
-            "pdf_sha256": "7d83ed1f003ccfc6cd537f830a56e3dafb72ea014fe8b694a44b6a21ac54401b"
-          }
-        ],
-        "anexos": [],
-        "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_28_2025_-_PUBLICAÇÃO_DE_ARTIGOS_TÉCNICO-CIENTÍFICOS.pdf",
-        "pdf_sha256": "bf155ce0a6535e23bb786aa0a190d5e5b7054e242249cfed4ac408b3ef78f450",
         "status": "novo"
       }
     ]
