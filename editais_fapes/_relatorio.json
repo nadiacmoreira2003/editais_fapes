@@ -7,7 +7,14 @@
       {
         "titulo": "EDITAL FAPES Nº 19/2026 - PIC JR 2027",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/PIC_JR_2027%20-.pdf",
-        "alteracoes": [],
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Ed.%2019.2026%20PIC%20JR%202027%20-%201ª%20Alteração%20-%20Publicada.pdf",
+            "titulo": "EDITAL FAPES Nº 19/2026 - PROGRAMA DE INICIAÇÃO CIENTÍFICA JÚNIOR DO ESPÍRITO SANTO - PESQUISADOR DO FUTURO (PIC Jr 2027) - (1ª ALTERAÇÃO)",
+            "arquivo_local": "formacao_cientifica/_alteracoes/EDITAL_FAPES_No_19_2026_-_PROGRAMA_DE_INICIAÇÃO_CIENTÍFICA_JÚNIOR_DO_ESPÍRITO_SANTO_-_PESQUISADOR_DO_FUTURO_(PIC_Jr_2027)_-_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "21790ff8b9e4b44a309423bcae7c811203f846abddf14d7cd6737505bea53c57"
+          }
+        ],
         "anexos": [],
         "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_19_2026_-_PIC_JR_2027.pdf",
         "pdf_sha256": "3779e2f10c86956aa0cee006a7a3ad7a21e9227c5bb2c5013205a02f210f776b",
@@ -16,7 +23,14 @@
       {
         "titulo": "EDITAL FAPES Nº 20/2026 - BOLSAS DE PÓS-DOUTORADO SÊNIOR",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/POSDOC_Sênior%20-.pdf",
-        "alteracoes": [],
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Ed.%2020.2026%20POSDOC%20Sênior%20-%201%20Alteração%20-%20Publicada.pdf",
+            "titulo": "EDITAL FAPES Nº 20/2026 - BOLSAS DE PÓS-DOUTORADO SÊNIOR (1ª ALTERAÇÃO)",
+            "arquivo_local": "formacao_cientifica/_alteracoes/EDITAL_FAPES_No_20_2026_-_BOLSAS_DE_PÓS-DOUTORADO_SÊNIOR_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "06a0355ffc4021a65ee7640965dd5cd4377b64cd9bd73076c22cb9d904fa6fcf"
+          }
+        ],
         "anexos": [],
         "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_20_2026_-_BOLSAS_DE_PÓS-DOUTORADO_SÊNIOR.pdf",
         "pdf_sha256": "d6ae9ff8e46c1b88cb296c0b05113993ed56e5b6e4a27997a1eed95de013d5f3",
@@ -25,7 +39,14 @@
       {
         "titulo": "EDITAL FAPES/CNPq/CAPES Nº 22/2026 - PROGRAMA DE APOIO À FIXAÇÃO DE DOUTORES NO BRASIL (PROFIX-CB)",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Fapes%2022.2026%20-%20PROFIX-CB.pdf",
-        "alteracoes": [],
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Ed.%2022.2026%20PROFIX-CB%20-%201%20Alteração%20-%20Publicada.pdf",
+            "titulo": "EDITAL FAPES/CNPq/CAPES Nº 22/2026 - PROFIX-CB (1ª ALTERAÇÃO)",
+            "arquivo_local": "formacao_cientifica/_alteracoes/EDITAL_FAPES_CNPq_CAPES_No_22_2026_-_PROFIX-CB_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "c3fbbd11a49ca4f2d70e19fa851be21a14f507b584b7780251917cd3e30ec0aa"
+          }
+        ],
         "anexos": [],
         "arquivo_local": "formacao_cientifica/EDITAL_FAPES_CNPq_CAPES_No_22_2026_-_PROGRAMA_DE_APOIO_À_FIXAÇÃO_DE_DOUTORES_NO_BRASIL_(PROFIX-CB).pdf",
         "pdf_sha256": "5034048febcfcf36bd79e133b5aa8ed14aa9e2751ac02b7b5d29fbf44666c4a6",
@@ -99,8 +120,40 @@
   {
     "categoria": "extensao",
     "url": "https://fapes.es.gov.br/editais-abertos-extensao-2",
-    "total": 0,
-    "editais": []
+    "total": 1,
+    "editais": [
+      {
+        "titulo": "EDITAL FAPES Nº 01/2026 – TCC EMPREENDEDOR INOVADOR",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_Nº_01.2026_TCC_EMPREENDEDOR_INOVADOR-2.pdf",
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/2ª_retificação_-_Edital_01-2026_-_TCC_Empreendedor_Inovador.pdf",
+            "titulo": "EDITAL FAPES Nº 01/2026 – TCC EMPREENDEDOR INOVADOR (2ª ALTERAÇÃO)",
+            "arquivo_local": "extensao/_alteracoes/EDITAL_FAPES_No_01_2026_–_TCC_EMPREENDEDOR_INOVADOR_(2a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "f51d4c2f419459288e5fbcfbfb331f7131211049f1ba1299e7bb6a7596dcbd04"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/1ª_retificação_-_Edital_01-2026_-_TCC_Empreendedor_Inovador-1.pdf",
+            "titulo": "EDITAL FAPES Nº 01/2026 – TCC EMPREENDEDOR INOVADOR (1ª ALTERAÇÃO)",
+            "arquivo_local": "extensao/_alteracoes/EDITAL_FAPES_No_01_2026_–_TCC_EMPREENDEDOR_INOVADOR_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "c5861bb9c4c75ee7c69b553f755532c53617b5b83d71f2f8944f4d1fbb466dde"
+          }
+        ],
+        "anexos": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20I%20-%20Formulário%20de%20Submissão%20TCC%20-%202ª%20Chamada.docx",
+            "titulo": "ANEXO I"
+          },
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/ANEXO%20II%20-%20Declaração%20de%20Matrícula%20-%202ª%20Chamada.docx",
+            "titulo": "ANEXO II"
+          }
+        ],
+        "arquivo_local": "extensao/EDITAL_FAPES_No_01_2026_–_TCC_EMPREENDEDOR_INOVADOR.pdf",
+        "pdf_sha256": "4ed717773fc583af295c4444fb0c41b9be0348269c45bbd824c3ddf507b4ca34",
+        "status": "novo"
+      }
+    ]
   },
   {
     "categoria": "inovacao",
@@ -126,7 +179,14 @@
       {
         "titulo": "EDITAL FAPES N° 23/2026 - APOIO ÀS INCUBADORAS DO ESPÍRITO SANTO",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_23-2026_Apoio%20a%20Incubadoras_(Versão%20Final).pdf",
-        "alteracoes": [],
+        "alteracoes": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Apoio%20a%20Incubadoras%20(Versão%2009)%20-%201ª%20Alteração%20-%2003-09-2026.pdf",
+            "titulo": "EDITAL FAPES N° 23/2026 - APOIO ÀS INCUBADORAS DO ESPÍRITO SANTO (1ª ALTERAÇÃO)",
+            "arquivo_local": "inovacao/_alteracoes/EDITAL_FAPES_N°_23_2026_-_APOIO_ÀS_INCUBADORAS_DO_ESPÍRITO_SANTO_(1a_ALTERAÇÃO).pdf",
+            "pdf_sha256": "07d586453e6b60ad99c1a2f7c8f188eeb81eaf6b9b8e298b7c3b0ddfe9a57db2"
+          }
+        ],
         "anexos": [
           {
             "url": "https://fapes.es.gov.br/Media/fapes/Editais/Anexo%20I%20-%20Formulário%20de%20Submissão%20da%20Proposta%20da%20Incubadora%20-%20Incubadoras%202026.docx",
