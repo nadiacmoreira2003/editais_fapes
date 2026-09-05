@@ -6,18 +6,16 @@
     "editais": [
       {
         "titulo": "EDITAL FAPES Nº 19/2026 - PIC JR 2027",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/PIC_JR_2027%20-.pdf",
-        "alteracoes": [
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Ed.%2019.2026%20PIC%20JR%202027%20-%201ª%20Alteração%20-%20Publicada.pdf",
+        "alteracoes": [],
+        "anexos": [
           {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Ed.%2019.2026%20PIC%20JR%202027%20-%201ª%20Alteração%20-%20Publicada.pdf",
-            "titulo": "EDITAL FAPES Nº 19/2026 - PROGRAMA DE INICIAÇÃO CIENTÍFICA JÚNIOR DO ESPÍRITO SANTO - PESQUISADOR DO FUTURO (PIC Jr 2027) - (1ª ALTERAÇÃO)",
-            "arquivo_local": "formacao_cientifica/_alteracoes/EDITAL_FAPES_No_19_2026_-_PROGRAMA_DE_INICIAÇÃO_CIENTÍFICA_JÚNIOR_DO_ESPÍRITO_SANTO_-_PESQUISADOR_DO_FUTURO_(PIC_Jr_2027)_-_(1a_ALTERAÇÃO).pdf",
-            "pdf_sha256": "21790ff8b9e4b44a309423bcae7c811203f846abddf14d7cd6737505bea53c57"
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/PIC_JR_2027%20-.pdf",
+            "titulo": "EDITAL FAPES Nº 19/2026 - PROGRAMA DE INICIAÇÃO CIENTÍFICA JÚNIOR DO ESPÍRITO SANTO - PESQUISADOR DO FUTURO (PIC Jr 2027)"
           }
         ],
-        "anexos": [],
         "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_19_2026_-_PIC_JR_2027.pdf",
-        "pdf_sha256": "3779e2f10c86956aa0cee006a7a3ad7a21e9227c5bb2c5013205a02f210f776b",
+        "pdf_sha256": "21790ff8b9e4b44a309423bcae7c811203f846abddf14d7cd6737505bea53c57",
         "status": "novo"
       },
       {
