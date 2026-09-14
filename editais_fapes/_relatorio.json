@@ -80,7 +80,7 @@
   {
     "categoria": "difusao_do_conhecimento",
     "url": "https://fapes.es.gov.br/difusao-do-conhecimento",
-    "total": 3,
+    "total": 4,
     "editais": [
       {
         "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026",
@@ -111,6 +111,15 @@
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_N°_25_2025_-_PARTICIPAÇÃO_DE_EQUIPES_DE_ESTUDANTES_EM_MOSTRAS_E_COMPETIÇÕES_TÉCNICO-CIENTÍFICAS.pdf",
         "pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c",
+        "status": "novo"
+      },
+      {
+        "titulo": "EDITAL FAPES Nº 25/2026 - CIÊNCIA ABERTA CAPIXABA",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_25-2026_Ciência_Aberta_Capixaba.pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_25_2026_-_CIÊNCIA_ABERTA_CAPIXABA.pdf",
+        "pdf_sha256": "11152bdc972510f1371d68804bbe33d2e38dab8f3bd0f5b1cff000b4e4f74b39",
         "status": "novo"
       },
       {
