@@ -283,103 +283,6 @@
   },
   {
     "categoria": "pesquisa",
-    "titulo": "EDITAL FAPES Nº 21/2026 - REDES DE PESQUISA, DESENVOLVIMENTO E INOVAÇÃO EM SETORES ESTRATÉGICOS",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_21-2026_-_Redes_de_PDI_em_Setores_Estratégicos.pdf",
-    "arquivo_local": "pesquisa/EDITAL_FAPES_No_21_2026_-_REDES_DE_PESQUISA,_DESENVOLVIMENTO_E_INOVAÇÃO_EM_SETORES_ESTRATÉGICOS.pdf",
-    "pdf_sha256": "14f9e41883ee91f7ec670fb1c667f4a85087b629dda79e1ba5bf51abcee6ca8e",
-    "alteracoes": [],
-    "extracao": {
-      "objetivo": "O edital Redes de Pesquisa, Desenvolvimento e Inovação (PD&I) em Setores Estratégicos visa apoiar financeiramente a criação e o fortalecimento de redes que promovam ações coletivas de PD&I. Seu objetivo geral é selecionar projetos para criar e fortalecer redes estruturantes de PD&I em setores estratégicos e de interesse do Espírito Santo, bem como consolidar grupos de referência em áreas do conhecimento e setores estratégicos do estado.",
-      "publico_alvo": "Pesquisadores doutores vinculados a Instituições de Ensino Superior e/ou de Pesquisa (IES/P) públicas ou privadas, sediadas no Estado do Espírito Santo, que atuem como coordenadores de propostas. A equipe executora deve ser exclusiva e composta por no mínimo 7 pesquisadores doutores, além do coordenador, com representação da Instituição Executora, outras IES/P capixabas, IES/P de fora do estado ou do País, e um pesquisador vinculado a órgão ou instituição pública estadual.",
-      "valor_total": "R$ 12.000.000,00",
-      "valor_por_proposta": "R$ 1.200.000,00",
-      "contato": "editais.duvidas@fapes.es.gov.br",
-      "cronograma": [
-        {
-          "evento": "Publicação do edital",
-          "data_inicio": "2026-08-06",
-          "data_fim": "2026-08-06",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Envio da proposta e documentos",
-          "data_inicio": "2026-08-07",
-          "data_fim": "2026-09-14",
-          "observacao": "via SigFapes, até as 17h59",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo para envio de dúvidas a respeito do edital",
-          "data_inicio": null,
-          "data_fim": "2026-09-10",
-          "observacao": "até as 17h59",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar da habilitação",
-          "data_inicio": "2026-09-24",
-          "data_fim": "2026-09-24",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para recorrer (habilitação)",
-          "data_inicio": "2026-09-25",
-          "data_fim": "2026-10-01",
-          "observacao": "5 dias úteis após o resultado preliminar da habilitação",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final de habilitação",
-          "data_inicio": "2026-10-23",
-          "data_fim": "2026-10-23",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Divulgação do resultado preliminar de análise de mérito",
-          "data_inicio": "2026-11-10",
-          "data_fim": "2026-11-10",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para recorrer (análise de mérito)",
-          "data_inicio": "2026-11-11",
-          "data_fim": "2026-11-17",
-          "observacao": "5 dias úteis após o resultado preliminar de análise de mérito",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final de análise de mérito",
-          "data_inicio": "2026-11-27",
-          "data_fim": "2026-11-27",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Início da contratação dos projetos selecionados",
-          "data_inicio": "2026-12-10",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Início de execução dos projetos",
-          "data_inicio": "2027-01-04",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        }
-      ],
-      "observacoes_gerais": "A Fapes pode alterar as datas e os prazos do cronograma por necessidade administrativa ou decisão institucional. Cada coordenador pode apresentar apenas uma proposta, sendo a última enviada considerada válida em caso de múltiplas submissões. A etapa de habilitação é eliminatória. Serão classificadas apenas as propostas com nota final igual ou superior a 70,0 pontos. Em caso de empate na nota final, o desempate será pela maior nota nos critérios de avaliação (item 3.2.1) na ordem apresentada, e persistindo o empate, pela proposta submetida primeiro. A proposta aprovada não poderá ser alterada no momento da contratação. O projeto aprovado não será contratado se o coordenador não cumprir as condições, apresentar informações falsas ou não atender aos requisitos, resultando na convocação de suplentes. A Fapes não reivindicará direitos de participação na propriedade intelectual sobre as pesquisas e projetos apoiados. É obrigatória a menção clara e destacada do apoio da Fapes em todas as publicações e divulgações relacionadas ao projeto.",
-      "_pdf_sha256": "14f9e41883ee91f7ec670fb1c667f4a85087b629dda79e1ba5bf51abcee6ca8e",
-      "_alteracoes_sha256": []
-    }
-  },
-  {
-    "categoria": "pesquisa",
     "titulo": "EDITAL FAPES Nº 24/2026 - PRIMEIROS PROJETOS DE PESQUISA - ESPÍRITO SANTO (PPP-ES)",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Fapes%2024-2026%20PPP-ES.pdf",
     "arquivo_local": "pesquisa/EDITAL_FAPES_No_24_2026_-_PRIMEIROS_PROJETOS_DE_PESQUISA_-_ESPÍRITO_SANTO_(PPP-ES).pdf",
@@ -490,6 +393,12 @@
     "pdf_sha256": "0643c9142d2bca25c41fb128b31795f0a46a62031b2f0717ada035b460f7ed7f",
     "alteracoes": [
       {
+        "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%2017_2026%20Prêmio%20Fapes%20Edição%202026%20%20Professora%20Jurema%20José%20de%20Oliveira%203alteração%20completa%20aprovada%20-%20Assinado-1.pdf",
+        "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026  (3ª ALTERAÇÃO)",
+        "arquivo_local": "difusao_do_conhecimento/_alteracoes/EDITAL_FAPES_No_17_2026_-_PRÊMIO_FAPES_DE_CIÊNCIA,_TECNOLOGIA,_INOVAÇÃO_E_JORNALISMO_–_EDIÇÃO_2026_(3a_ALTERAÇÃO).pdf",
+        "pdf_sha256": "e541512d3c29ef819ecc1e688cc98079a3329c172c725027f08a779f80886576"
+      },
+      {
         "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%2017_2026%20Prêmio%20Fapes%20Edição%202026...José%20de%20Oliveira%202alteração%20anexos.pdf",
         "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026  (2ª ALTERAÇÃO)",
         "arquivo_local": "difusao_do_conhecimento/_alteracoes/EDITAL_FAPES_No_17_2026_-_PRÊMIO_FAPES_DE_CIÊNCIA,_TECNOLOGIA,_INOVAÇÃO_E_JORNALISMO_–_EDIÇÃO_2026_(2a_ALTERAÇÃO).pdf",
@@ -503,10 +412,10 @@
       }
     ],
     "extracao": {
-      "objetivo": "O Prêmio Fapes tem como objetivo reconhecer e premiar projetos de destaque e trajetórias profissionais nas áreas de pesquisa, extensão e inovação, bem como premiar matérias jornalísticas relacionadas à Fapes ou aos programas e projetos fomentados pela Fundação. Ele busca valorizar a relevância e o impacto da pesquisa, extensão e inovação para o desenvolvimento do Espírito Santo, reconhecer a excelência de profissionais apoiados pela Fapes, e ampliar a divulgação e popularização da ciência no estado.",
-      "publico_alvo": "Pesquisadores, extensionistas e empreendedores vinculados a projetos contratados pela Fapes (executados entre 01/01/2019 e 31/12/2025), e profissionais de jornalismo residentes no Espírito Santo, autores de matérias relacionadas à Fapes ou a programas/projetos fomentados.",
+      "objetivo": "O Prêmio Fapes tem como objetivo reconhecer e premiar projetos de destaque e trajetórias profissionais nas áreas de pesquisa, extensão e inovação, bem como premiar matérias jornalísticas sobre a Fapes ou programas e projetos fomentados pela Fundação. Os objetivos específicos incluem valorizar a relevância e o impacto da pesquisa, extensão e inovação para o desenvolvimento do Espírito Santo, reconhecer a excelência de profissionais apoiados pela Fapes, ampliar a divulgação da ciência e fortalecer a visibilidade institucional da Fundação.",
+      "publico_alvo": "Pesquisadores, extensionistas e empreendedores vinculados a projetos contratados pela Fapes, executados a partir de 01/01/2019 e concluídos até 31/12/2025. Também se destina a profissionais de jornalismo residentes no Espírito Santo, autores de matérias relacionadas à Fapes ou aos programas e projetos fomentados pela Fundação.",
       "valor_total": "R$ 308.000,00",
-      "valor_por_proposta": "R$ 12.000,00",
+      "valor_por_proposta": "R$ 12.000,00 (1º lugar); R$ 8.000,00 (menção honrosa)",
       "contato": "editais.duvidas@fapes.es.gov.br",
       "cronograma": [
         {
@@ -520,21 +429,21 @@
           "evento": "Envio das inscrições – Categorias Projetos e Destaque",
           "data_inicio": "2026-06-22",
           "data_fim": "2026-08-06",
-          "observacao": "até 17h59",
+          "observacao": "Até 17h59",
           "acao_do_proponente": true
         },
         {
           "evento": "Envio das inscrições – Categoria Jornalismo",
           "data_inicio": "2026-06-22",
-          "data_fim": "2026-09-15",
-          "observacao": "até 17h59",
+          "data_fim": "2026-09-28",
+          "observacao": "Até 17h59. A matéria deve ter sido veiculada entre 01/09/2025 a 28/09/2026 e disponibilizada no canal oficial do veículo de comunicação.",
           "acao_do_proponente": true
         },
         {
           "evento": "Resultado preliminar das etapas Habilitação e Análise por Avaliadores Ad Hoc",
           "data_inicio": "2026-10-08",
           "data_fim": null,
-          "observacao": "a partir de",
+          "observacao": "A partir desta data",
           "acao_do_proponente": false
         },
         {
@@ -548,34 +457,39 @@
           "evento": "Resultado final das etapas Habilitação e Análise por Avaliadores Ad Hoc",
           "data_inicio": "2026-10-26",
           "data_fim": null,
-          "observacao": "a partir de",
+          "observacao": "A partir desta data",
           "acao_do_proponente": false
         },
         {
           "evento": "Votação pelo Comitê de Especialistas – Categorias Projetos e Destaque",
           "data_inicio": "2026-11-03",
           "data_fim": "2026-11-09",
-          "observacao": null,
+          "observacao": "Votação entre as 3 propostas mais bem classificadas em cada subcategoria.",
           "acao_do_proponente": false
         },
         {
           "evento": "Votação popular – Categoria Jornalismo",
           "data_inicio": "2026-11-03",
           "data_fim": "2026-11-09",
-          "observacao": null,
-          "acao_do_proponente": false
+          "observacao": "Votação entre as 3 matérias mais bem classificadas em cada subcategoria.",
+          "acao_do_proponente": true
         },
         {
           "evento": "Resultado final da seleção",
-          "data_inicio": "2026-12-07",
+          "data_inicio": "2026-12-09",
           "data_fim": null,
-          "observacao": "a partir de",
+          "observacao": "A partir desta data",
           "acao_do_proponente": false
         }
       ],
-      "observacoes_gerais": "Esta edição do edital é em homenagem à Professora Jurema José de Oliveira. Para as categorias Projetos e Destaque, as 3 (três) propostas com as maiores notas seguem para votação pelo Comitê de Especialistas, que votará o 1º lugar e as duas menções honrosas. Para a categoria Jornalismo, as 3 (três) matérias com maiores notas seguem para votação popular, onde a matéria com o maior número de votos será considerada vencedora, e as duas seguintes receberão menção honrosa. Os valores das premiações possuem natureza bruta e estão sujeitos à incidência do Imposto de Renda Retido na Fonte – IRRF. Os contemplados deverão protocolar solicitação de pagamento no prazo máximo de até 90 (noventa) dias, contados da data de publicação do resultado final no DIO-ES. Para a categoria Jornalismo, a matéria deve ter sido veiculada entre 01/09/2025 a 15/09/2026 e disponibilizada no canal oficial do veículo de comunicação.",
+      "observacoes_gerais": "Esta edição do Prêmio Fapes homenageia a Professora Jurema José de Oliveira. Os valores das premiações possuem natureza bruta e estão sujeitos à incidência do Imposto de Renda Retido na Fonte – IRRF. A premiação possui caráter exclusivamente honorífico, meritório e eventual, não configurando contraprestação por serviços prestados, vínculo empregatício, relação de trabalho, bolsa de pesquisa ou remuneração continuada. É permitida apenas uma inscrição por pessoa neste edital, sendo a última enviada considerada válida em caso de múltiplas submissões. A Fapes garante condições de acessibilidade às pessoas com deficiência durante o processo de inscrição. O participante autoriza o uso de seu nome, imagem, voz e demais informações para fins institucionais e de divulgação do prêmio, sem remuneração. O tratamento dos dados pessoais seguirá a Lei Federal nº 13.709/2018 (LGPD).",
       "_pdf_sha256": "0643c9142d2bca25c41fb128b31795f0a46a62031b2f0717ada035b460f7ed7f",
       "_alteracoes_sha256": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%2017_2026%20Prêmio%20Fapes%20Edição%202026%20%20Professora%20Jurema%20José%20de%20Oliveira%203alteração%20completa%20aprovada%20-%20Assinado-1.pdf",
+          "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026  (3ª ALTERAÇÃO)",
+          "sha256": "e541512d3c29ef819ecc1e688cc98079a3329c172c725027f08a779f80886576"
+        },
         {
           "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%2017_2026%20Prêmio%20Fapes%20Edição%202026...José%20de%20Oliveira%202alteração%20anexos.pdf",
           "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026  (2ª ALTERAÇÃO)",
@@ -587,144 +501,6 @@
           "sha256": "7c349540308abc568912b73e78c60fb8a7a76bce5891253f9e79f8d6b14814ca"
         }
       ]
-    }
-  },
-  {
-    "categoria": "difusao_do_conhecimento",
-    "titulo": "EDITAL FAPES N° 25/2025 - PARTICIPAÇÃO DE EQUIPES DE ESTUDANTES EM MOSTRAS E COMPETIÇÕES TÉCNICO-CIENTÍFICAS",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/EDITAL_FAPES_N_25_2025_Participação_Equipe_em_Mostras_e_Competições-2.pdf",
-    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_N°_25_2025_-_PARTICIPAÇÃO_DE_EQUIPES_DE_ESTUDANTES_EM_MOSTRAS_E_COMPETIÇÕES_TÉCNICO-CIENTÍFICAS.pdf",
-    "pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c",
-    "alteracoes": [],
-    "extracao": {
-      "objetivo": "Conceder apoio financeiro a equipes formadas por estudantes de nível médio, de graduação e pós-graduação, coordenadas por um professor orientador. O objetivo é permitir a participação dessas equipes em mostras e competições técnico-científicas de âmbito regional, nacional ou internacional, visando a divulgação e difusão de resultados obtidos por instituições de ensino do Espírito Santo.",
-      "publico_alvo": "Professores(as) coordenadores(as) de equipes de 3 a 5 estudantes, vinculados(as) a instituições de ensino médio públicas ou instituições de ensino superior públicas ou privadas localizadas no estado do Espírito Santo. O proponente deve ter formação mínima de nível superior, vínculo ativo com a instituição, atuar em sala de aula na mesma instituição dos estudantes, ter Lattes atualizado há menos de 6 meses, estar regularizado junto à Fapes e morar no Espírito Santo ou municípios limítrofes. Estudantes de instituições privadas devem ser bolsistas integrais financiados por programas governamentais estaduais ou federais.",
-      "valor_total": "R$ 500.000,00",
-      "valor_por_proposta": "US$ 1.500,00",
-      "contato": "editais.duvidas@fapes.es.gov.br, sucon@fapes.es.gov.br",
-      "cronograma": [
-        {
-          "evento": "Publicação do edital",
-          "data_inicio": "2025-11-10",
-          "data_fim": "2025-11-10",
-          "observacao": "Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para impugnação do edital",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "5 dias úteis antes do encerramento do prazo de submissão da 1ª Chamada",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Submissão de propostas",
-          "data_inicio": "2025-11-10",
-          "data_fim": "2025-12-16",
-          "observacao": "Até as 17h:59. Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar",
-          "data_inicio": "2026-01-09",
-          "data_fim": null,
-          "observacao": "Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Interposição de recursos administrativos",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "5 dias úteis a partir da publicação do resultado preliminar. Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado homologado",
-          "data_inicio": "2026-01-30",
-          "data_fim": null,
-          "observacao": "Para 1ª Chamada (eventos com início entre 01/03/2026 a 30/06/2026)",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Submissão de propostas",
-          "data_inicio": "2026-03-04",
-          "data_fim": "2026-04-09",
-          "observacao": "Até as 17:59h. Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar",
-          "data_inicio": "2026-04-30",
-          "data_fim": null,
-          "observacao": "Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Interposição de recursos administrativos",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "5 dias úteis a partir da publicação do resultado preliminar. Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado homologado",
-          "data_inicio": "2026-05-29",
-          "data_fim": null,
-          "observacao": "Para 2ª Chamada (eventos com início entre 01/07/2026 a 31/12/2026)",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Submissão de propostas",
-          "data_inicio": "2026-08-04",
-          "data_fim": "2026-09-11",
-          "observacao": "Até as 17h:59. Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar",
-          "data_inicio": "2026-09-30",
-          "data_fim": null,
-          "observacao": "Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Interposição de recursos administrativos",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "5 dias úteis a partir da publicação do resultado preliminar. Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado homologado",
-          "data_inicio": "2026-10-30",
-          "data_fim": null,
-          "observacao": "Para 3ª Chamada (eventos com início entre 04/01/2027 a 30/04/2027)",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Contratação e assinatura do Termo de Outorga",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 30 dias após a publicação do resultado final homologado. Período específico de assinatura será definido após a homologação.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo para informar dados bancários",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 30 dias após a assinatura e publicação do Termo de Outorga",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo para prestação de contas",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Até 30 dias após o término da vigência do Termo de Outorga",
-          "acao_do_proponente": true
-        }
-      ],
-      "observacoes_gerais": "O valor por proposta varia conforme a categoria do evento: R$ 500,00 para eventos regionais, R$ 1.200,00 para eventos nacionais e US$ 1.500,00 para eventos internacionais. O edital prevê três chamadas com períodos de submissão e eventos distintos. O início do evento proposto deve corresponder ao período da chamada selecionada. A Fapes pode alterar as datas e prazos definidos no cronograma. Cada coordenador pode apresentar apenas uma proposta. Não são contempladas propostas para participação em concursos ou premiações sem natureza acadêmica, técnico-científica ou tecnológica, ou competições esportivas.",
-      "_pdf_sha256": "ee88166c0a2c7f93d4ef02b9eca1fdd10e6dc254424a7366d8c5187b72a0737c"
     }
   },
   {
@@ -1550,81 +1326,6 @@
       ],
       "observacoes_gerais": "O prazo de vigência máximo para cada projeto é de 24 meses. O apoio financeiro da Fapes destina-se exclusivamente a despesas de mobilidade, como passagens aéreas internacionais e auxílio para missões técnico-científicas na Bélgica, excluindo bolsas. Os valores dos auxílios são definidos na Resolução FAPES/CCAF 361/2026. Cada proponente pode submeter apenas uma proposta; em caso de múltiplas submissões, a última será considerada. As propostas devem usar o modelo do Anexo I e ser submetidas em ambas as plataformas (CONFAP). A execução dos projetos não poderá exceder a vigência dos acordos entre a Fapes e as instituições fomentadoras.",
       "_pdf_sha256": "6d2df8a40e4070802437afc283186b627b6f35a1290d3bfa103d190c3ffcbd9c",
-      "_alteracoes_sha256": []
-    }
-  },
-  {
-    "categoria": "chamadas_internacionais",
-    "titulo": "CHAMADA CONFAP & DAAD 2026",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20-%20FAPES%202026-1.pdf",
-    "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_&_DAAD_2026.pdf",
-    "pdf_sha256": "922f0a8cfe70b78afdba4eca3d45f0558234a1181364b5a9594ffa5510b9a31b",
-    "alteracoes": [],
-    "extracao": {
-      "objetivo": "Este edital visa apoiar a manutenção de bolsas de doutorado da FAPES para bolsistas que forem aprovados na seleção do Serviço Alemão de Intercâmbio Acadêmico (DAAD). O apoio será concedido durante o período em que o bolsista realizar suas pesquisas em uma instituição na Alemanha, complementando o programa de auxílio para doutorandos brasileiros com bolsa nacional.",
-      "publico_alvo": "Doutorandos que forem selecionados pelo DAAD, estejam adimplentes junto à FAPES e não estejam no primeiro nem no último ano do doutorado.",
-      "valor_total": null,
-      "valor_por_proposta": null,
-      "contato": "internacional.confap@gmail.com, global4@fapes.es.gov.br",
-      "cronograma": [
-        {
-          "evento": "Submissão de propostas na Plataforma do DAAD",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Para a Chamada DAAD 2026. O conteúdo completo da chamada está disponível no site do CONFAP.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Controle de elegibilidade pela FAPES",
-          "data_inicio": null,
-          "data_fim": null,
-          "observacao": "Realizado pela FAPES para as propostas selecionadas pelo DAAD, conforme critérios do item 2.",
-          "acao_do_proponente": false
-        }
-      ],
-      "observacoes_gerais": "Este documento apresenta as diretrizes específicas da FAPES para a Chamada CONFAP & DAAD 2026. Para informações completas sobre a chamada, consulte o link fornecido no site do CONFAP.",
-      "_pdf_sha256": "922f0a8cfe70b78afdba4eca3d45f0558234a1181364b5a9594ffa5510b9a31b",
-      "_alteracoes_sha256": []
-    }
-  },
-  {
-    "categoria": "chamadas_internacionais",
-    "titulo": "CHAMADA MOBILITY CONFAP ITALY 2026",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada-MCI-–-MOBILITY-CONFAP-ITALY-2026.pdf",
-    "arquivo_local": "chamadas_internacionais/CHAMADA_MOBILITY_CONFAP_ITALY_2026.pdf",
-    "pdf_sha256": "224b334fd2df5443db423be4fac90686ae52b9d80a86ff107691fd96a9a5c7c7",
-    "alteracoes": [],
-    "extracao": {
-      "objetivo": "As Fundações Estaduais de Amparo à Pesquisa (FAPs) brasileiras, articuladas através do CONFAP, lançam uma chamada para apoiar pesquisadores do Brasil, vinculados a instituições de ensino superior e pesquisa, que desejam desenvolver atividades de pesquisa na Itália em colaboração com colegas locais. O objetivo é facilitar e apoiar a colaboração científica, tecnológica e de inovação, promovendo a mobilidade de estudantes de doutorado, mestrado e pós-doutores, através da concessão de bolsas de estudo para fortalecer grupos de pesquisa.",
-      "publico_alvo": "Pesquisadores de doutorado, mestrado e pós-doutorado vinculados a universidades e instituições de pesquisa dos Estados brasileiros participantes desta chamada (incluindo Espírito Santo - FAPES). Todos os candidatos devem ter um supervisor associado a uma universidade na Itália, parte da rede MCI. Critérios de elegibilidade adicionais podem ser definidos pelas FAPs individuais.",
-      "valor_total": null,
-      "valor_por_proposta": null,
-      "contato": "internacional.confap@gmail.com",
-      "cronograma": [
-        {
-          "evento": "Lançamento do edital",
-          "data_inicio": null,
-          "data_fim": "2026-06-10",
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo final para submissão de propostas",
-          "data_inicio": null,
-          "data_fim": "2026-09-04",
-          "observacao": "até 23:59 (horário de Brasília) via https://sistema.confap.org.br",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Publicação dos resultados finais",
-          "data_inicio": "2026-10-01",
-          "data_fim": "2026-10-31",
-          "observacao": null,
-          "acao_do_proponente": false
-        }
-      ],
-      "observacoes_gerais": "Não serão cobradas taxas de matrícula por nenhuma das partes para a mobilidade de intercâmbio. Em caso de mobilidade no âmbito de projetos com potencial valor comercial e direitos de propriedade intelectual, as instituições anfitriãs e de envio devem assinar um acordo de colaboração específico. Os candidatos devem consultar suas respectivas FAPs para critérios de elegibilidade adicionais, diretrizes específicas e possíveis requisitos para submissão em suas próprias plataformas. Os documentos exigidos para as propostas de projeto incluem: proposta de projeto, Curriculum Vitae do candidato (Brasil), Curriculum Vitae do Supervisor (Itália) e carta de apoio assinada pelo supervisor (Itália).",
-      "_pdf_sha256": "224b334fd2df5443db423be4fac90686ae52b9d80a86ff107691fd96a9a5c7c7",
       "_alteracoes_sha256": []
     }
   },

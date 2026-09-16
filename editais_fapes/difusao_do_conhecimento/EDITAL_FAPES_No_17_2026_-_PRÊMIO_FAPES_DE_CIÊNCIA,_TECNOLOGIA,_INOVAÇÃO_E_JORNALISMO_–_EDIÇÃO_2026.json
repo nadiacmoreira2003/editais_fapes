@@ -1,8 +1,8 @@
 {
-  "objetivo": "O Prêmio Fapes tem como objetivo reconhecer e premiar projetos de destaque e trajetórias profissionais nas áreas de pesquisa, extensão e inovação, bem como premiar matérias jornalísticas relacionadas à Fapes ou aos programas e projetos fomentados pela Fundação. Ele busca valorizar a relevância e o impacto da pesquisa, extensão e inovação para o desenvolvimento do Espírito Santo, reconhecer a excelência de profissionais apoiados pela Fapes, e ampliar a divulgação e popularização da ciência no estado.",
-  "publico_alvo": "Pesquisadores, extensionistas e empreendedores vinculados a projetos contratados pela Fapes (executados entre 01/01/2019 e 31/12/2025), e profissionais de jornalismo residentes no Espírito Santo, autores de matérias relacionadas à Fapes ou a programas/projetos fomentados.",
+  "objetivo": "O Prêmio Fapes tem como objetivo reconhecer e premiar projetos de destaque e trajetórias profissionais nas áreas de pesquisa, extensão e inovação, bem como premiar matérias jornalísticas sobre a Fapes ou programas e projetos fomentados pela Fundação. Os objetivos específicos incluem valorizar a relevância e o impacto da pesquisa, extensão e inovação para o desenvolvimento do Espírito Santo, reconhecer a excelência de profissionais apoiados pela Fapes, ampliar a divulgação da ciência e fortalecer a visibilidade institucional da Fundação.",
+  "publico_alvo": "Pesquisadores, extensionistas e empreendedores vinculados a projetos contratados pela Fapes, executados a partir de 01/01/2019 e concluídos até 31/12/2025. Também se destina a profissionais de jornalismo residentes no Espírito Santo, autores de matérias relacionadas à Fapes ou aos programas e projetos fomentados pela Fundação.",
   "valor_total": "R$ 308.000,00",
-  "valor_por_proposta": "R$ 12.000,00",
+  "valor_por_proposta": "R$ 12.000,00 (1º lugar); R$ 8.000,00 (menção honrosa)",
   "contato": "editais.duvidas@fapes.es.gov.br",
   "cronograma": [
     {
@@ -16,21 +16,21 @@
       "evento": "Envio das inscrições – Categorias Projetos e Destaque",
       "data_inicio": "2026-06-22",
       "data_fim": "2026-08-06",
-      "observacao": "até 17h59",
+      "observacao": "Até 17h59",
       "acao_do_proponente": true
     },
     {
       "evento": "Envio das inscrições – Categoria Jornalismo",
       "data_inicio": "2026-06-22",
-      "data_fim": "2026-09-15",
-      "observacao": "até 17h59",
+      "data_fim": "2026-09-28",
+      "observacao": "Até 17h59. A matéria deve ter sido veiculada entre 01/09/2025 a 28/09/2026 e disponibilizada no canal oficial do veículo de comunicação.",
       "acao_do_proponente": true
     },
     {
       "evento": "Resultado preliminar das etapas Habilitação e Análise por Avaliadores Ad Hoc",
       "data_inicio": "2026-10-08",
       "data_fim": null,
-      "observacao": "a partir de",
+      "observacao": "A partir desta data",
       "acao_do_proponente": false
     },
     {
@@ -44,34 +44,39 @@
       "evento": "Resultado final das etapas Habilitação e Análise por Avaliadores Ad Hoc",
       "data_inicio": "2026-10-26",
       "data_fim": null,
-      "observacao": "a partir de",
+      "observacao": "A partir desta data",
       "acao_do_proponente": false
     },
     {
       "evento": "Votação pelo Comitê de Especialistas – Categorias Projetos e Destaque",
       "data_inicio": "2026-11-03",
       "data_fim": "2026-11-09",
-      "observacao": null,
+      "observacao": "Votação entre as 3 propostas mais bem classificadas em cada subcategoria.",
       "acao_do_proponente": false
     },
     {
       "evento": "Votação popular – Categoria Jornalismo",
       "data_inicio": "2026-11-03",
       "data_fim": "2026-11-09",
-      "observacao": null,
-      "acao_do_proponente": false
+      "observacao": "Votação entre as 3 matérias mais bem classificadas em cada subcategoria.",
+      "acao_do_proponente": true
     },
     {
       "evento": "Resultado final da seleção",
-      "data_inicio": "2026-12-07",
+      "data_inicio": "2026-12-09",
       "data_fim": null,
-      "observacao": "a partir de",
+      "observacao": "A partir desta data",
       "acao_do_proponente": false
     }
   ],
-  "observacoes_gerais": "Esta edição do edital é em homenagem à Professora Jurema José de Oliveira. Para as categorias Projetos e Destaque, as 3 (três) propostas com as maiores notas seguem para votação pelo Comitê de Especialistas, que votará o 1º lugar e as duas menções honrosas. Para a categoria Jornalismo, as 3 (três) matérias com maiores notas seguem para votação popular, onde a matéria com o maior número de votos será considerada vencedora, e as duas seguintes receberão menção honrosa. Os valores das premiações possuem natureza bruta e estão sujeitos à incidência do Imposto de Renda Retido na Fonte – IRRF. Os contemplados deverão protocolar solicitação de pagamento no prazo máximo de até 90 (noventa) dias, contados da data de publicação do resultado final no DIO-ES. Para a categoria Jornalismo, a matéria deve ter sido veiculada entre 01/09/2025 a 15/09/2026 e disponibilizada no canal oficial do veículo de comunicação.",
+  "observacoes_gerais": "Esta edição do Prêmio Fapes homenageia a Professora Jurema José de Oliveira. Os valores das premiações possuem natureza bruta e estão sujeitos à incidência do Imposto de Renda Retido na Fonte – IRRF. A premiação possui caráter exclusivamente honorífico, meritório e eventual, não configurando contraprestação por serviços prestados, vínculo empregatício, relação de trabalho, bolsa de pesquisa ou remuneração continuada. É permitida apenas uma inscrição por pessoa neste edital, sendo a última enviada considerada válida em caso de múltiplas submissões. A Fapes garante condições de acessibilidade às pessoas com deficiência durante o processo de inscrição. O participante autoriza o uso de seu nome, imagem, voz e demais informações para fins institucionais e de divulgação do prêmio, sem remuneração. O tratamento dos dados pessoais seguirá a Lei Federal nº 13.709/2018 (LGPD).",
   "_pdf_sha256": "0643c9142d2bca25c41fb128b31795f0a46a62031b2f0717ada035b460f7ed7f",
   "_alteracoes_sha256": [
+    {
+      "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%2017_2026%20Prêmio%20Fapes%20Edição%202026%20%20Professora%20Jurema%20José%20de%20Oliveira%203alteração%20completa%20aprovada%20-%20Assinado-1.pdf",
+      "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026  (3ª ALTERAÇÃO)",
+      "sha256": "e541512d3c29ef819ecc1e688cc98079a3329c172c725027f08a779f80886576"
+    },
     {
       "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%2017_2026%20Prêmio%20Fapes%20Edição%202026...José%20de%20Oliveira%202alteração%20anexos.pdf",
       "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026  (2ª ALTERAÇÃO)",

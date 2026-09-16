@@ -1047,7 +1047,7 @@
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_08-2026_-_Nova_Economia_Capixaba_-_2_Edição_-_Lançamento.pdf",
       "pdf_sha256": "7350e1252cb56c5cf610a291cdf86d2413710d41aef629e8fd8b875b04a219af",
       "primeira_visualizacao": "2026-04-25T19:25:39-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-08-01T09:05:07-03:00",
       "ultima_alteracao_em": "2026-08-01T09:05:05-03:00",
@@ -1204,7 +1204,7 @@
       "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20Fapes%20Horizon%20Europe%202021-2027-1.pdf",
       "pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080",
       "primeira_visualizacao": "2026-04-25T19:25:39-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-04-25T21:01:43-03:00",
       "ultima_alteracao_em": "2026-04-25T19:25:39-03:00",
@@ -2085,7 +2085,7 @@
         }
       ],
       "primeira_visualizacao": "2026-05-12T08:43:01-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "removido",
       "email_enviado_em": "2026-08-28T18:23:30-03:00",
       "ultima_alteracao_em": "2026-08-28T18:23:26-03:00",
@@ -2340,7 +2340,7 @@
         }
       ],
       "primeira_visualizacao": "2026-05-14T08:39:29-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-07-07T10:23:05-03:00",
       "ultima_alteracao_em": "2026-07-07T10:23:03-03:00",
@@ -2884,7 +2884,7 @@
       "alteracoes": [],
       "primeira_visualizacao": "2026-06-18T09:12:47-03:00",
       "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
-      "status_atual": "sem_alteracoes",
+      "status_atual": "removido",
       "email_enviado_em": "2026-06-18T09:12:49-03:00",
       "ultima_alteracao_em": "2026-06-18T09:12:47-03:00",
       "alteracoes_recentes": [],
@@ -2930,6 +2930,11 @@
       "pdf_sha256": "0643c9142d2bca25c41fb128b31795f0a46a62031b2f0717ada035b460f7ed7f",
       "alteracoes": [
         {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%2017_2026%20Prêmio%20Fapes%20Edição%202026%20%20Professora%20Jurema%20José%20de%20Oliveira%203alteração%20completa%20aprovada%20-%20Assinado-1.pdf",
+          "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026  (3ª ALTERAÇÃO)",
+          "primeira_visualizacao": "2026-09-16T12:22:41-03:00"
+        },
+        {
           "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%2017_2026%20Prêmio%20Fapes%20Edição%202026...José%20de%20Oliveira%202alteração%20anexos.pdf",
           "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026  (2ª ALTERAÇÃO)",
           "primeira_visualizacao": "2026-07-24T09:20:28-03:00"
@@ -2941,17 +2946,26 @@
         }
       ],
       "primeira_visualizacao": "2026-06-23T09:05:47-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
-      "status_atual": "sem_alteracoes",
-      "email_enviado_em": "2026-07-24T09:20:29-03:00",
-      "ultima_alteracao_em": "2026-07-24T09:20:28-03:00",
-      "alteracoes_recentes": [],
-      "novas_alteracoes_doc": [],
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
+      "status_atual": "atualizado",
+      "email_enviado_em": "2026-09-16T12:22:42-03:00",
+      "ultima_alteracao_em": "2026-09-16T12:22:41-03:00",
+      "alteracoes_recentes": [
+        "Objetivo: \"O Prêmio Fapes tem como objetivo reconhecer e premiar projetos de destaque e trajetórias profissionais nas áreas de pesquisa, extensão e inovação, bem como premiar matérias jornalísticas relacionadas à Fapes ou aos programas e projetos fomentados pela Fundação. Ele busca valorizar a relevância e o impacto da pesquisa, extensão e inovação para o desenvolvimento do Espírito Santo, reconhecer a excelência de profissionais apoiados pela Fapes, e ampliar a divulgação e popularização da ciência no estado.\" → \"O Prêmio Fapes tem como objetivo reconhecer e premiar projetos de destaque e trajetórias profissionais nas áreas de pesquisa, extensão e inovação, bem como premiar matérias jornalísticas sobre a Fapes ou programas e projetos fomentados pela Fundação. Os objetivos específicos incluem valorizar a relevância e o impacto da pesquisa, extensão e inovação para o desenvolvimento do Espírito Santo, reconhecer a excelência de profissionais apoiados pela Fapes, ampliar a divulgação da ciência e fortalecer a visibilidade institucional da Fundação.\"",
+        "Público-alvo: \"Pesquisadores, extensionistas e empreendedores vinculados a projetos contratados pela Fapes (executados entre 01/01/2019 e 31/12/2025), e profissionais de jornalismo residentes no Espírito Santo, autores de matérias relacionadas à Fapes ou a programas/projetos fomentados.\" → \"Pesquisadores, extensionistas e empreendedores vinculados a projetos contratados pela Fapes, executados a partir de 01/01/2019 e concluídos até 31/12/2025. Também se destina a profissionais de jornalismo residentes no Espírito Santo, autores de matérias relacionadas à Fapes ou aos programas e projetos fomentados pela Fundação.\"",
+        "Valor por proposta: \"R$ 12.000,00\" → \"R$ 12.000,00 (1º lugar); R$ 8.000,00 (menção honrosa)\""
+      ],
+      "novas_alteracoes_doc": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%2017_2026%20Prêmio%20Fapes%20Edição%202026%20%20Professora%20Jurema%20José%20de%20Oliveira%203alteração%20completa%20aprovada%20-%20Assinado-1.pdf",
+          "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026  (3ª ALTERAÇÃO)"
+        }
+      ],
       "extracao": {
-        "objetivo": "O Prêmio Fapes tem como objetivo reconhecer e premiar projetos de destaque e trajetórias profissionais nas áreas de pesquisa, extensão e inovação, bem como premiar matérias jornalísticas relacionadas à Fapes ou aos programas e projetos fomentados pela Fundação. Ele busca valorizar a relevância e o impacto da pesquisa, extensão e inovação para o desenvolvimento do Espírito Santo, reconhecer a excelência de profissionais apoiados pela Fapes, e ampliar a divulgação e popularização da ciência no estado.",
-        "publico_alvo": "Pesquisadores, extensionistas e empreendedores vinculados a projetos contratados pela Fapes (executados entre 01/01/2019 e 31/12/2025), e profissionais de jornalismo residentes no Espírito Santo, autores de matérias relacionadas à Fapes ou a programas/projetos fomentados.",
+        "objetivo": "O Prêmio Fapes tem como objetivo reconhecer e premiar projetos de destaque e trajetórias profissionais nas áreas de pesquisa, extensão e inovação, bem como premiar matérias jornalísticas sobre a Fapes ou programas e projetos fomentados pela Fundação. Os objetivos específicos incluem valorizar a relevância e o impacto da pesquisa, extensão e inovação para o desenvolvimento do Espírito Santo, reconhecer a excelência de profissionais apoiados pela Fapes, ampliar a divulgação da ciência e fortalecer a visibilidade institucional da Fundação.",
+        "publico_alvo": "Pesquisadores, extensionistas e empreendedores vinculados a projetos contratados pela Fapes, executados a partir de 01/01/2019 e concluídos até 31/12/2025. Também se destina a profissionais de jornalismo residentes no Espírito Santo, autores de matérias relacionadas à Fapes ou aos programas e projetos fomentados pela Fundação.",
         "valor_total": "R$ 308.000,00",
-        "valor_por_proposta": "R$ 12.000,00",
+        "valor_por_proposta": "R$ 12.000,00 (1º lugar); R$ 8.000,00 (menção honrosa)",
         "contato": "editais.duvidas@fapes.es.gov.br",
         "cronograma": [
           {
@@ -2965,21 +2979,21 @@
             "evento": "Envio das inscrições – Categorias Projetos e Destaque",
             "data_inicio": "2026-06-22",
             "data_fim": "2026-08-06",
-            "observacao": "até 17h59",
+            "observacao": "Até 17h59",
             "acao_do_proponente": true
           },
           {
             "evento": "Envio das inscrições – Categoria Jornalismo",
             "data_inicio": "2026-06-22",
-            "data_fim": "2026-09-15",
-            "observacao": "até 17h59",
+            "data_fim": "2026-09-28",
+            "observacao": "Até 17h59. A matéria deve ter sido veiculada entre 01/09/2025 a 28/09/2026 e disponibilizada no canal oficial do veículo de comunicação.",
             "acao_do_proponente": true
           },
           {
             "evento": "Resultado preliminar das etapas Habilitação e Análise por Avaliadores Ad Hoc",
             "data_inicio": "2026-10-08",
             "data_fim": null,
-            "observacao": "a partir de",
+            "observacao": "A partir desta data",
             "acao_do_proponente": false
           },
           {
@@ -2993,34 +3007,39 @@
             "evento": "Resultado final das etapas Habilitação e Análise por Avaliadores Ad Hoc",
             "data_inicio": "2026-10-26",
             "data_fim": null,
-            "observacao": "a partir de",
+            "observacao": "A partir desta data",
             "acao_do_proponente": false
           },
           {
             "evento": "Votação pelo Comitê de Especialistas – Categorias Projetos e Destaque",
             "data_inicio": "2026-11-03",
             "data_fim": "2026-11-09",
-            "observacao": null,
+            "observacao": "Votação entre as 3 propostas mais bem classificadas em cada subcategoria.",
             "acao_do_proponente": false
           },
           {
             "evento": "Votação popular – Categoria Jornalismo",
             "data_inicio": "2026-11-03",
             "data_fim": "2026-11-09",
-            "observacao": null,
-            "acao_do_proponente": false
+            "observacao": "Votação entre as 3 matérias mais bem classificadas em cada subcategoria.",
+            "acao_do_proponente": true
           },
           {
             "evento": "Resultado final da seleção",
-            "data_inicio": "2026-12-07",
+            "data_inicio": "2026-12-09",
             "data_fim": null,
-            "observacao": "a partir de",
+            "observacao": "A partir desta data",
             "acao_do_proponente": false
           }
         ],
-        "observacoes_gerais": "Esta edição do edital é em homenagem à Professora Jurema José de Oliveira. Para as categorias Projetos e Destaque, as 3 (três) propostas com as maiores notas seguem para votação pelo Comitê de Especialistas, que votará o 1º lugar e as duas menções honrosas. Para a categoria Jornalismo, as 3 (três) matérias com maiores notas seguem para votação popular, onde a matéria com o maior número de votos será considerada vencedora, e as duas seguintes receberão menção honrosa. Os valores das premiações possuem natureza bruta e estão sujeitos à incidência do Imposto de Renda Retido na Fonte – IRRF. Os contemplados deverão protocolar solicitação de pagamento no prazo máximo de até 90 (noventa) dias, contados da data de publicação do resultado final no DIO-ES. Para a categoria Jornalismo, a matéria deve ter sido veiculada entre 01/09/2025 a 15/09/2026 e disponibilizada no canal oficial do veículo de comunicação.",
+        "observacoes_gerais": "Esta edição do Prêmio Fapes homenageia a Professora Jurema José de Oliveira. Os valores das premiações possuem natureza bruta e estão sujeitos à incidência do Imposto de Renda Retido na Fonte – IRRF. A premiação possui caráter exclusivamente honorífico, meritório e eventual, não configurando contraprestação por serviços prestados, vínculo empregatício, relação de trabalho, bolsa de pesquisa ou remuneração continuada. É permitida apenas uma inscrição por pessoa neste edital, sendo a última enviada considerada válida em caso de múltiplas submissões. A Fapes garante condições de acessibilidade às pessoas com deficiência durante o processo de inscrição. O participante autoriza o uso de seu nome, imagem, voz e demais informações para fins institucionais e de divulgação do prêmio, sem remuneração. O tratamento dos dados pessoais seguirá a Lei Federal nº 13.709/2018 (LGPD).",
         "_pdf_sha256": "0643c9142d2bca25c41fb128b31795f0a46a62031b2f0717ada035b460f7ed7f",
         "_alteracoes_sha256": [
+          {
+            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%2017_2026%20Prêmio%20Fapes%20Edição%202026%20%20Professora%20Jurema%20José%20de%20Oliveira%203alteração%20completa%20aprovada%20-%20Assinado-1.pdf",
+            "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026  (3ª ALTERAÇÃO)",
+            "sha256": "e541512d3c29ef819ecc1e688cc98079a3329c172c725027f08a779f80886576"
+          },
           {
             "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%2017_2026%20Prêmio%20Fapes%20Edição%202026...José%20de%20Oliveira%202alteração%20anexos.pdf",
             "titulo": "EDITAL FAPES Nº 17/2026 - PRÊMIO FAPES DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E JORNALISMO – EDIÇÃO 2026  (2ª ALTERAÇÃO)",
@@ -3309,7 +3328,7 @@
       "alteracoes": [],
       "primeira_visualizacao": "2026-07-07T10:23:03-03:00",
       "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
-      "status_atual": "sem_alteracoes",
+      "status_atual": "removido",
       "email_enviado_em": "2026-07-07T10:23:04-03:00",
       "ultima_alteracao_em": "2026-07-07T10:23:03-03:00",
       "alteracoes_recentes": [],
@@ -3348,7 +3367,7 @@
       "pdf_sha256": "6d2df8a40e4070802437afc283186b627b6f35a1290d3bfa103d190c3ffcbd9c",
       "alteracoes": [],
       "primeira_visualizacao": "2026-07-08T09:23:48-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-07-08T09:23:49-03:00",
       "ultima_alteracao_em": "2026-07-08T09:23:48-03:00",
@@ -3575,7 +3594,7 @@
       "pdf_sha256": "a4c6eeabdb06e23d5b8d920ac882d345df0feea4c3b77665a97f8606e11b823c",
       "alteracoes": [],
       "primeira_visualizacao": "2026-07-16T09:23:04-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-07-16T09:23:06-03:00",
       "ultima_alteracao_em": "2026-07-16T09:23:04-03:00",
@@ -3713,7 +3732,7 @@
       "pdf_sha256": "21790ff8b9e4b44a309423bcae7c811203f846abddf14d7cd6737505bea53c57",
       "alteracoes": [],
       "primeira_visualizacao": "2026-08-01T09:05:05-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-09-05T10:42:23-03:00",
       "ultima_alteracao_em": "2026-09-05T10:42:23-03:00",
@@ -3815,7 +3834,7 @@
         }
       ],
       "primeira_visualizacao": "2026-08-01T09:05:05-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-09-04T11:53:48-03:00",
       "ultima_alteracao_em": "2026-09-04T11:53:44-03:00",
@@ -3924,7 +3943,7 @@
       "pdf_sha256": "0165a1c882ad3eb7d0aea1425a813f4ab8a1e316643bbc2b909571489a34da7c",
       "alteracoes": [],
       "primeira_visualizacao": "2026-08-05T08:44:41-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-08-05T08:44:41-03:00",
       "ultima_alteracao_em": "2026-08-05T08:44:41-03:00",
@@ -3965,7 +3984,7 @@
       "alteracoes": [],
       "primeira_visualizacao": "2026-08-07T08:45:58-03:00",
       "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
-      "status_atual": "sem_alteracoes",
+      "status_atual": "removido",
       "email_enviado_em": "2026-08-07T08:45:59-03:00",
       "ultima_alteracao_em": "2026-08-07T08:45:58-03:00",
       "alteracoes_recentes": [],
@@ -4073,7 +4092,7 @@
         }
       ],
       "primeira_visualizacao": "2026-08-28T18:23:26-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-09-04T11:53:46-03:00",
       "ultima_alteracao_em": "2026-09-04T11:53:44-03:00",
@@ -4154,7 +4173,7 @@
       "pdf_sha256": "ea033954524b80d8d83649a3e948e1a983e12cd9d3e4e163419a7e98aabf7bb7",
       "alteracoes": [],
       "primeira_visualizacao": "2026-08-28T18:23:26-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-08-28T18:23:29-03:00",
       "ultima_alteracao_em": "2026-08-28T18:23:26-03:00",
@@ -4270,7 +4289,7 @@
         }
       ],
       "primeira_visualizacao": "2026-08-29T12:30:47-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-09-04T11:53:49-03:00",
       "ultima_alteracao_em": "2026-09-04T11:53:44-03:00",
@@ -4362,7 +4381,7 @@
         }
       ],
       "primeira_visualizacao": "2026-09-04T11:53:44-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-09-04T11:53:45-03:00",
       "ultima_alteracao_em": "2026-09-04T11:53:44-03:00",
@@ -4511,7 +4530,7 @@
       "pdf_sha256": "11152bdc972510f1371d68804bbe33d2e38dab8f3bd0f5b1cff000b4e4f74b39",
       "alteracoes": [],
       "primeira_visualizacao": "2026-09-14T13:49:58-03:00",
-      "ultima_visualizacao": "2026-09-15T12:28:33-03:00",
+      "ultima_visualizacao": "2026-09-16T12:22:41-03:00",
       "status_atual": "sem_alteracoes",
       "email_enviado_em": "2026-09-14T13:50:00-03:00",
       "ultima_alteracao_em": "2026-09-14T13:49:58-03:00",
@@ -4608,5 +4627,5 @@
       }
     }
   },
-  "ultima_execucao": "2026-09-15T12:28:33-03:00"
+  "ultima_execucao": "2026-09-16T12:22:42-03:00"
 }
