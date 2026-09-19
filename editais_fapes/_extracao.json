@@ -615,103 +615,6 @@
   },
   {
     "categoria": "difusao_do_conhecimento",
-    "titulo": "EDITAL FAPES Nº 25/2026 - CIÊNCIA ABERTA CAPIXABA",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_25-2026_Ciência_Aberta_Capixaba.pdf",
-    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_25_2026_-_CIÊNCIA_ABERTA_CAPIXABA.pdf",
-    "pdf_sha256": "11152bdc972510f1371d68804bbe33d2e38dab8f3bd0f5b1cff000b4e4f74b39",
-    "alteracoes": [],
-    "extracao": {
-      "objetivo": "Apoiar projetos voltados à organização, disponibilização, disseminação e aplicação de dados, informações e evidências científicas de interesse público. O edital busca ampliar o acesso ao conhecimento científico produzido no Espírito Santo, fortalecer sua integração a redes e sistemas de informação nacionais e internacionais e promover sua comunicação para diferentes segmentos da sociedade, contribuindo para enfrentar o desafio da desinformação. O foco é construir uma infraestrutura pública de dados e conhecimento científico.",
-      "publico_alvo": "Profissionais/pesquisadores doutores e vinculados a Instituições de Ensino Superior/ou de Pesquisa (IES/P) sediadas no Estado do Espírito Santo.",
-      "valor_total": "R$ 3.000.000,00",
-      "valor_por_proposta": "R$ 200.000,00",
-      "contato": "editais.duvidas@fapes.es.gov.br",
-      "cronograma": [
-        {
-          "evento": "Publicação do edital",
-          "data_inicio": "2026-09-14",
-          "data_fim": null,
-          "observacao": null,
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Envio da proposta e documentos",
-          "data_inicio": "2026-09-14",
-          "data_fim": "2026-10-15",
-          "observacao": "Até as 17h59, via SigFapes",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Prazo para envio de dúvidas",
-          "data_inicio": null,
-          "data_fim": "2026-10-08",
-          "observacao": "Até as 17h59",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado preliminar da habilitação",
-          "data_inicio": "2026-10-22",
-          "data_fim": null,
-          "observacao": "A partir desta data",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para recorrer (habilitação)",
-          "data_inicio": "2026-10-23",
-          "data_fim": "2026-10-29",
-          "observacao": "5 dias úteis após a divulgação do resultado preliminar da habilitação",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final de habilitação",
-          "data_inicio": "2026-10-30",
-          "data_fim": null,
-          "observacao": "A partir desta data",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Divulgação do resultado preliminar de análise de mérito",
-          "data_inicio": "2026-11-10",
-          "data_fim": null,
-          "observacao": "A partir desta data",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Prazo para recorrer (análise de mérito)",
-          "data_inicio": "2026-11-11",
-          "data_fim": "2026-11-17",
-          "observacao": "5 dias úteis após a divulgação do resultado preliminar de análise de mérito",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Divulgação do resultado final de análise de mérito",
-          "data_inicio": "2026-11-27",
-          "data_fim": null,
-          "observacao": "A partir desta data",
-          "acao_do_proponente": false
-        },
-        {
-          "evento": "Início da contratação dos projetos selecionados",
-          "data_inicio": "2026-12-10",
-          "data_fim": null,
-          "observacao": "A partir desta data",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Início de execução dos projetos",
-          "data_inicio": "2027-01-04",
-          "data_fim": null,
-          "observacao": "A partir desta data",
-          "acao_do_proponente": false
-        }
-      ],
-      "observacoes_gerais": "O prazo de execução do projeto é de 24 meses. O orçamento deve prever 24 meses de bolsa na modalidade de Iniciação Científica e Tecnológica (ICT) da Fapes. As propostas devem se enquadrar em uma das linhas temáticas: Saúde e Saúde Pública; Sustentabilidade Socioambiental, Descarbonização e Clima; Biodiversidade e Recursos Naturais; Cidades e Territórios Sustentáveis e Resilientes; Agricultura, Produção de Alimentos e Segurança Alimentar. O foco do edital é construir uma infraestrutura pública de dados e conhecimento científico, não financiar pesquisas. Cada coordenador pode apresentar apenas uma proposta. A equipe executora deve ser composta pelo coordenador e, no mínimo, mais 2 (dois) pesquisadores doutores de IES/P de fora do Estado. Documentos de aprovação ética e legal podem estar em análise na submissão, mas devem estar aprovados para a contratação.",
-      "_pdf_sha256": "11152bdc972510f1371d68804bbe33d2e38dab8f3bd0f5b1cff000b4e4f74b39",
-      "_alteracoes_sha256": []
-    }
-  },
-  {
-    "categoria": "difusao_do_conhecimento",
     "titulo": "EDITAL FAPES Nº 28/2025 - PUBLICAÇÃO DE ARTIGOS TÉCNICO-CIENTÍFICOS",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_28_2025_Publicação_de_Artigos_Técnico-Científicos.pdf",
     "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_28_2025_-_PUBLICAÇÃO_DE_ARTIGOS_TÉCNICO-CIENTÍFICOS.pdf",
@@ -958,6 +861,103 @@
           "sha256": "7d83ed1f003ccfc6cd537f830a56e3dafb72ea014fe8b694a44b6a21ac54401b"
         }
       ]
+    }
+  },
+  {
+    "categoria": "difusao_do_conhecimento",
+    "titulo": "EDITAL FAPES Nº 25/2026 - CIÊNCIA ABERTA CAPIXABA",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_25-2026_Ciência_Aberta_Capixaba.pdf",
+    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_25_2026_-_CIÊNCIA_ABERTA_CAPIXABA.pdf",
+    "pdf_sha256": "11152bdc972510f1371d68804bbe33d2e38dab8f3bd0f5b1cff000b4e4f74b39",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "Apoiar projetos voltados à organização, disponibilização, disseminação e aplicação de dados, informações e evidências científicas de interesse público. O edital busca ampliar o acesso ao conhecimento científico produzido no Espírito Santo, fortalecer sua integração a redes e sistemas de informação nacionais e internacionais e promover sua comunicação para diferentes segmentos da sociedade, contribuindo para enfrentar o desafio da desinformação. O foco é construir uma infraestrutura pública de dados e conhecimento científico.",
+      "publico_alvo": "Profissionais/pesquisadores doutores e vinculados a Instituições de Ensino Superior/ou de Pesquisa (IES/P) sediadas no Estado do Espírito Santo.",
+      "valor_total": "R$ 3.000.000,00",
+      "valor_por_proposta": "R$ 200.000,00",
+      "contato": "editais.duvidas@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Publicação do edital",
+          "data_inicio": "2026-09-14",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Envio da proposta e documentos",
+          "data_inicio": "2026-09-14",
+          "data_fim": "2026-10-15",
+          "observacao": "Até as 17h59, via SigFapes",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Prazo para envio de dúvidas",
+          "data_inicio": null,
+          "data_fim": "2026-10-08",
+          "observacao": "Até as 17h59",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar da habilitação",
+          "data_inicio": "2026-10-22",
+          "data_fim": null,
+          "observacao": "A partir desta data",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para recorrer (habilitação)",
+          "data_inicio": "2026-10-23",
+          "data_fim": "2026-10-29",
+          "observacao": "5 dias úteis após a divulgação do resultado preliminar da habilitação",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final de habilitação",
+          "data_inicio": "2026-10-30",
+          "data_fim": null,
+          "observacao": "A partir desta data",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Divulgação do resultado preliminar de análise de mérito",
+          "data_inicio": "2026-11-10",
+          "data_fim": null,
+          "observacao": "A partir desta data",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para recorrer (análise de mérito)",
+          "data_inicio": "2026-11-11",
+          "data_fim": "2026-11-17",
+          "observacao": "5 dias úteis após a divulgação do resultado preliminar de análise de mérito",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final de análise de mérito",
+          "data_inicio": "2026-11-27",
+          "data_fim": null,
+          "observacao": "A partir desta data",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Início da contratação dos projetos selecionados",
+          "data_inicio": "2026-12-10",
+          "data_fim": null,
+          "observacao": "A partir desta data",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Início de execução dos projetos",
+          "data_inicio": "2027-01-04",
+          "data_fim": null,
+          "observacao": "A partir desta data",
+          "acao_do_proponente": false
+        }
+      ],
+      "observacoes_gerais": "O prazo de execução do projeto é de 24 meses. O orçamento deve prever 24 meses de bolsa na modalidade de Iniciação Científica e Tecnológica (ICT) da Fapes. As propostas devem se enquadrar em uma das linhas temáticas: Saúde e Saúde Pública; Sustentabilidade Socioambiental, Descarbonização e Clima; Biodiversidade e Recursos Naturais; Cidades e Territórios Sustentáveis e Resilientes; Agricultura, Produção de Alimentos e Segurança Alimentar. O foco do edital é construir uma infraestrutura pública de dados e conhecimento científico, não financiar pesquisas. Cada coordenador pode apresentar apenas uma proposta. A equipe executora deve ser composta pelo coordenador e, no mínimo, mais 2 (dois) pesquisadores doutores de IES/P de fora do Estado. Documentos de aprovação ética e legal podem estar em análise na submissão, mas devem estar aprovados para a contratação.",
+      "_pdf_sha256": "11152bdc972510f1371d68804bbe33d2e38dab8f3bd0f5b1cff000b4e4f74b39",
+      "_alteracoes_sha256": []
     }
   },
   {
