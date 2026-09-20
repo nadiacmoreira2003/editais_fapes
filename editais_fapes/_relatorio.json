@@ -118,6 +118,15 @@
         "status": "novo"
       },
       {
+        "titulo": "EDITAL FAPES Nº 25/2026 - CIÊNCIA ABERTA CAPIXABA",
+        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_25-2026_Ciência_Aberta_Capixaba.pdf",
+        "alteracoes": [],
+        "anexos": [],
+        "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_25_2026_-_CIÊNCIA_ABERTA_CAPIXABA.pdf",
+        "pdf_sha256": "11152bdc972510f1371d68804bbe33d2e38dab8f3bd0f5b1cff000b4e4f74b39",
+        "status": "novo"
+      },
+      {
         "titulo": "EDITAL FAPES Nº 28/2025 - PUBLICAÇÃO DE ARTIGOS TÉCNICO-CIENTÍFICOS",
         "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_28_2025_Publicação_de_Artigos_Técnico-Científicos.pdf",
         "alteracoes": [
@@ -131,15 +140,6 @@
         "anexos": [],
         "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_28_2025_-_PUBLICAÇÃO_DE_ARTIGOS_TÉCNICO-CIENTÍFICOS.pdf",
         "pdf_sha256": "bf155ce0a6535e23bb786aa0a190d5e5b7054e242249cfed4ac408b3ef78f450",
-        "status": "novo"
-      },
-      {
-        "titulo": "EDITAL FAPES Nº 25/2026 - CIÊNCIA ABERTA CAPIXABA",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_25-2026_Ciência_Aberta_Capixaba.pdf",
-        "alteracoes": [],
-        "anexos": [],
-        "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_25_2026_-_CIÊNCIA_ABERTA_CAPIXABA.pdf",
-        "pdf_sha256": "11152bdc972510f1371d68804bbe33d2e38dab8f3bd0f5b1cff000b4e4f74b39",
         "status": "novo"
       }
     ]
